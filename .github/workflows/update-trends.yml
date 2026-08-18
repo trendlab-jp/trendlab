@@ -3,7 +3,7 @@ name: Update Trends
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */3 * * *"
 
 permissions:
   contents: write
@@ -13,17 +13,48 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update test time
+      - name: Get Google News
         run: |
-          echo "最終自動更新: $(date -u '+%Y-%m-%d %H:%M UTC')" > update.txt
+          python - <<'PY'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+
+          url = "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja"
+
+          data = urllib.request.urlopen(url).read()
+
+          root = ET.fromstring(data)
+
+          articles = []
+
+          for item in root.findall(".//item")[:10]:
+              title = item.findtext("title", "")
+              link = item.findtext("link", "")
+
+              articles.append(
+                  f"- {title}\n  {link}"
+              )
+
+          with open("trends.txt", "w", encoding="utf-8") as f:
+              f.write(
+                  "TRENDLAB 自動取得ニュース\n\n"
+                  + "\n\n".join(articles)
+              )
+
+          print("ニュースを取得しました。")
+          PY
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add update.txt
-          git diff --cached --quiet || git commit -m "Auto update trends"
+
+          git add trends.txt
+
+          git diff --cached --quiet || git commit -m "Update news trends"
+
           git push
