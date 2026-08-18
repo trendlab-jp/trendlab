@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
+
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>トレンド解説ラボ｜Xで話題のニュースを分かりやすく解説</title>
@@ -39,6 +42,7 @@ a {
 img {
     max-width: 100%;
 }
+
 
 /* =========================
    HEADER
@@ -78,6 +82,7 @@ nav {
 nav a:hover {
     color: #60a5fa;
 }
+
 
 /* =========================
    HERO
@@ -138,6 +143,7 @@ nav a:hover {
     font-weight: bold;
 }
 
+
 /* =========================
    COMMON
 ========================= */
@@ -160,6 +166,7 @@ nav a:hover {
     color: #777;
     font-size: 14px;
 }
+
 
 /* =========================
    TREND BOX
@@ -241,6 +248,7 @@ nav a:hover {
     font-size: 12px;
 }
 
+
 /* =========================
    MAIN GRID
 ========================= */
@@ -253,11 +261,14 @@ nav a:hover {
     gap: 30px;
 }
 
+
 /* =========================
    ARTICLES
 ========================= */
 
 .article-card {
+    display: block;
+
     background: white;
 
     border-radius: 12px;
@@ -332,6 +343,7 @@ nav a:hover {
     margin-top: 12px;
 }
 
+
 /* =========================
    SIDEBAR
 ========================= */
@@ -374,6 +386,7 @@ nav a:hover {
     color: #2563eb;
 }
 
+
 /* =========================
    AD
 ========================= */
@@ -393,6 +406,7 @@ nav a:hover {
 
     font-size: 12px;
 }
+
 
 /* =========================
    CTA
@@ -433,6 +447,7 @@ nav a:hover {
 
     font-weight: bold;
 }
+
 
 /* =========================
    FOOTER
@@ -498,6 +513,7 @@ footer {
     font-size: 12px;
 }
 
+
 /* =========================
    MOBILE
 ========================= */
@@ -527,9 +543,11 @@ footer {
     .footer-inner {
         flex-direction: column;
     }
+
 }
 
 </style>
+
 </head>
 
 
@@ -544,15 +562,28 @@ footer {
 
 <div class="header-inner">
 
-    <a href="#" class="logo">
+    <a href="index.html" class="logo">
         TREND<span>LAB</span>
     </a>
 
     <nav>
-        <a href="#">トップ</a>
-        <a href="#trend">今日のトレンド</a>
-        <a href="#articles">解説記事</a>
-        <a href="#ranking">ランキング</a>
+
+        <a href="index.html">
+            トップ
+        </a>
+
+        <a href="#trend">
+            今日のトレンド
+        </a>
+
+        <a href="#articles">
+            解説記事
+        </a>
+
+        <a href="#ranking">
+            ランキング
+        </a>
+
     </nav>
 
 </div>
@@ -619,9 +650,13 @@ footer {
     <div class="trend-list">
 
 
-        <a href="#" class="trend-item">
+        <!-- TREND 01 -->
 
-            <div class="trend-number">01</div>
+        <a href="article.html" class="trend-item">
+
+            <div class="trend-number">
+                01
+            </div>
 
             <div class="trend-word">
                 #話題のニュース
@@ -634,9 +669,13 @@ footer {
         </a>
 
 
+        <!-- TREND 02 -->
+
         <a href="#" class="trend-item">
 
-            <div class="trend-number">02</div>
+            <div class="trend-number">
+                02
+            </div>
 
             <div class="trend-word">
                 ○○という言葉
@@ -649,9 +688,13 @@ footer {
         </a>
 
 
+        <!-- TREND 03 -->
+
         <a href="#" class="trend-item">
 
-            <div class="trend-number">03</div>
+            <div class="trend-number">
+                03
+            </div>
 
             <div class="trend-word">
                 新作ゲーム
@@ -664,9 +707,13 @@ footer {
         </a>
 
 
+        <!-- TREND 04 -->
+
         <a href="#" class="trend-item">
 
-            <div class="trend-number">04</div>
+            <div class="trend-number">
+                04
+            </div>
 
             <div class="trend-word">
                 人気アニメ
@@ -679,9 +726,13 @@ footer {
         </a>
 
 
+        <!-- TREND 05 -->
+
         <a href="#" class="trend-item">
 
-            <div class="trend-number">05</div>
+            <div class="trend-number">
+                05
+            </div>
 
             <div class="trend-word">
                 AIニュース
@@ -694,9 +745,13 @@ footer {
         </a>
 
 
+        <!-- TREND 06 -->
+
         <a href="#" class="trend-item">
 
-            <div class="trend-number">06</div>
+            <div class="trend-number">
+                06
+            </div>
 
             <div class="trend-word">
                 スポーツニュース
@@ -726,7 +781,7 @@ footer {
 <div class="main-grid">
 
 
-<!-- LEFT -->
+<!-- LEFT CONTENT -->
 
 <div>
 
@@ -744,9 +799,11 @@ footer {
 
 
 
-<!-- ARTICLE 1 -->
+<!-- =========================
+     ARTICLE 1
+========================= -->
 
-<a href="#" class="article-card">
+<a href="article.html" class="article-card">
 
     <div class="article-image">
         🔥
@@ -758,11 +815,9 @@ footer {
             NEWS
         </span>
 
-      <h3>
-<a href="article.html">
-「話題のニュース」がXでトレンド入り！一体何があった？
-</a>
-</h3>
+        <h3>
+            「話題のニュース」がXでトレンド入り！一体何があった？
+        </h3>
 
         <p>
             Xで突然話題になった「○○」。
@@ -780,7 +835,9 @@ footer {
 
 
 
-<!-- ARTICLE 2 -->
+<!-- =========================
+     ARTICLE 2
+========================= -->
 
 <a href="#" class="article-card">
 
@@ -814,7 +871,9 @@ footer {
 
 
 
-<!-- ARTICLE 3 -->
+<!-- =========================
+     ARTICLE 3
+========================= -->
 
 <a href="#" class="article-card">
 
@@ -850,7 +909,9 @@ footer {
 
 
 
-<!-- RIGHT SIDEBAR -->
+<!-- =========================
+     SIDEBAR
+========================= -->
 
 <aside>
 
@@ -864,33 +925,43 @@ footer {
     <ul class="sidebar-list">
 
         <li>
-            <a href="#">
+
+            <a href="article.html">
                 1位　今Xで話題の○○とは？
             </a>
+
         </li>
 
         <li>
+
             <a href="#">
                 2位　なぜ○○がトレンド入り？
             </a>
+
         </li>
 
         <li>
+
             <a href="#">
                 3位　話題のニュースを徹底解説
             </a>
+
         </li>
 
         <li>
+
             <a href="#">
                 4位　SNSで話題になった理由
             </a>
+
         </li>
 
         <li>
+
             <a href="#">
                 5位　知らないと恥ずかしい話題
             </a>
+
         </li>
 
     </ul>
@@ -899,9 +970,14 @@ footer {
 
 
 
+<!-- 広告スペース -->
+
 <div class="ad">
+
     広告スペース<br>
+
     Google AdSense等を設置
+
 </div>
 
 
@@ -915,27 +991,39 @@ footer {
     <ul class="sidebar-list">
 
         <li>
-            <a href="#">ニュース</a>
+            <a href="#">
+                ニュース
+            </a>
         </li>
 
         <li>
-            <a href="#">芸能</a>
+            <a href="#">
+                芸能
+            </a>
         </li>
 
         <li>
-            <a href="#">ゲーム</a>
+            <a href="#">
+                ゲーム
+            </a>
         </li>
 
         <li>
-            <a href="#">アニメ・漫画</a>
+            <a href="#">
+                アニメ・漫画
+            </a>
         </li>
 
         <li>
-            <a href="#">スポーツ</a>
+            <a href="#">
+                スポーツ
+            </a>
         </li>
 
         <li>
-            <a href="#">AI・テクノロジー</a>
+            <a href="#">
+                AI・テクノロジー
+            </a>
         </li>
 
     </ul>
@@ -1001,15 +1089,25 @@ footer {
 
     <div class="footer-links">
 
-        <a href="#">トップ</a>
+        <a href="index.html">
+            トップ
+        </a>
 
-        <a href="#">サイトについて</a>
+        <a href="#">
+            サイトについて
+        </a>
 
-        <a href="#">お問い合わせ</a>
+        <a href="#">
+            お問い合わせ
+        </a>
 
-        <a href="#">プライバシーポリシー</a>
+        <a href="#">
+            プライバシーポリシー
+        </a>
 
-        <a href="#">広告掲載について</a>
+        <a href="#">
+            広告掲載について
+        </a>
 
     </div>
 
@@ -1026,4 +1124,5 @@ footer {
 
 
 </body>
+
 </html>
