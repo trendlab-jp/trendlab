@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>トレンド解説ラボ｜Xで話題のニュースを分かりやすく解説</title>
+
+<meta name="description"
+content="Xで今話題になっているトレンドを徹底解説。なぜ話題になったのか、元ネタ、世間の反応まで分かりやすく紹介します。">
+
+<style>
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Hiragino Kaku Gothic ProN",
+        "Yu Gothic",
+        Meiryo,
+        sans-serif;
+
+    background: #f5f6f8;
+    color: #222;
+    line-height: 1.7;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* =========================
+   HEADER
+========================= */
+
+header {
+    background: #111827;
+    color: white;
+}
+
+.header-inner {
+    max-width: 1150px;
+    margin: auto;
+    padding: 16px 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.logo span {
+    color: #60a5fa;
+}
+
+nav {
+    display: flex;
+    gap: 25px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #60a5fa;
+}
+
+/* =========================
+   HERO
+========================= */
+
+.hero {
+    background:
+        linear-gradient(135deg, #111827, #1e3a8a);
+
+    color: white;
+    padding: 65px 20px;
+}
+
+.hero-inner {
+    max-width: 1150px;
+    margin: auto;
+}
+
+.hero-label {
+    display: inline-block;
+
+    background: #2563eb;
+    padding: 6px 12px;
+
+    border-radius: 20px;
+
+    font-size: 12px;
+    font-weight: bold;
+
+    margin-bottom: 15px;
+}
+
+.hero h1 {
+    font-size: clamp(32px, 6vw, 52px);
+    line-height: 1.25;
+
+    margin-bottom: 20px;
+}
+
+.hero p {
+    max-width: 700px;
+
+    color: #dbeafe;
+
+    margin-bottom: 25px;
+}
+
+.hero-button {
+    display: inline-block;
+
+    background: white;
+    color: #1d4ed8;
+
+    padding: 12px 24px;
+
+    border-radius: 8px;
+
+    font-weight: bold;
+}
+
+/* =========================
+   COMMON
+========================= */
+
+.container {
+    max-width: 1150px;
+    margin: auto;
+    padding: 55px 20px;
+}
+
+.section-title {
+    margin-bottom: 25px;
+}
+
+.section-title h2 {
+    font-size: 28px;
+}
+
+.section-title p {
+    color: #777;
+    font-size: 14px;
+}
+
+/* =========================
+   TREND BOX
+========================= */
+
+.trend-area {
+    margin-top: -35px;
+}
+
+.trend-panel {
+    background: white;
+
+    border-radius: 14px;
+
+    box-shadow: 0 10px 35px rgba(0,0,0,.08);
+
+    overflow: hidden;
+}
+
+.trend-header {
+    padding: 20px;
+
+    border-bottom: 1px solid #eee;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.trend-header h2 {
+    font-size: 20px;
+}
+
+.update {
+    color: #888;
+    font-size: 12px;
+}
+
+.trend-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.trend-item {
+    padding: 18px 20px;
+
+    border-bottom: 1px solid #eee;
+
+    display: grid;
+
+    grid-template-columns: 45px 1fr 80px;
+
+    gap: 10px;
+
+    align-items: center;
+
+    transition: .2s;
+}
+
+.trend-item:hover {
+    background: #f8fafc;
+}
+
+.trend-number {
+    font-size: 18px;
+    font-weight: 900;
+    color: #2563eb;
+}
+
+.trend-word {
+    font-weight: bold;
+}
+
+.trend-count {
+    text-align: right;
+
+    color: #ef4444;
+
+    font-size: 12px;
+}
+
+/* =========================
+   MAIN GRID
+========================= */
+
+.main-grid {
+    display: grid;
+
+    grid-template-columns: 2fr 1fr;
+
+    gap: 30px;
+}
+
+/* =========================
+   ARTICLES
+========================= */
+
+.article-card {
+    background: white;
+
+    border-radius: 12px;
+
+    overflow: hidden;
+
+    margin-bottom: 20px;
+
+    border: 1px solid #e5e7eb;
+
+    transition: .2s;
+}
+
+.article-card:hover {
+    transform: translateY(-3px);
+
+    box-shadow: 0 8px 25px rgba(0,0,0,.08);
+}
+
+.article-image {
+    height: 180px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 55px;
+
+    background:
+        linear-gradient(135deg,#dbeafe,#e0e7ff);
+}
+
+.article-content {
+    padding: 22px;
+}
+
+.category {
+    display: inline-block;
+
+    background: #eff6ff;
+    color: #2563eb;
+
+    padding: 3px 9px;
+
+    border-radius: 20px;
+
+    font-size: 11px;
+
+    font-weight: bold;
+
+    margin-bottom: 8px;
+}
+
+.article-content h3 {
+    font-size: 20px;
+
+    margin-bottom: 8px;
+}
+
+.article-content p {
+    color: #666;
+
+    font-size: 14px;
+}
+
+.article-meta {
+    color: #999;
+
+    font-size: 11px;
+
+    margin-top: 12px;
+}
+
+/* =========================
+   SIDEBAR
+========================= */
+
+.sidebar-box {
+    background: white;
+
+    padding: 22px;
+
+    border-radius: 12px;
+
+    margin-bottom: 20px;
+
+    border: 1px solid #e5e7eb;
+}
+
+.sidebar-box h3 {
+    margin-bottom: 15px;
+
+    font-size: 18px;
+}
+
+.sidebar-list {
+    list-style: none;
+}
+
+.sidebar-list li {
+    padding: 12px 0;
+
+    border-bottom: 1px solid #eee;
+
+    font-size: 14px;
+}
+
+.sidebar-list li:last-child {
+    border-bottom: none;
+}
+
+.sidebar-list a:hover {
+    color: #2563eb;
+}
+
+/* =========================
+   AD
+========================= */
+
+.ad {
+    background: #eef0f3;
+
+    border: 1px dashed #cbd5e1;
+
+    color: #64748b;
+
+    text-align: center;
+
+    padding: 25px;
+
+    margin: 25px 0;
+
+    font-size: 12px;
+}
+
+/* =========================
+   CTA
+========================= */
+
+.cta {
+    background: #1d4ed8;
+
+    color: white;
+
+    border-radius: 15px;
+
+    padding: 45px 25px;
+
+    text-align: center;
+}
+
+.cta h2 {
+    margin-bottom: 10px;
+}
+
+.cta p {
+    margin-bottom: 20px;
+
+    color: #dbeafe;
+}
+
+.cta a {
+    display: inline-block;
+
+    background: white;
+
+    color: #1d4ed8;
+
+    padding: 11px 25px;
+
+    border-radius: 7px;
+
+    font-weight: bold;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    background: #111827;
+
+    color: #9ca3af;
+
+    margin-top: 50px;
+
+    padding: 45px 20px;
+}
+
+.footer-inner {
+    max-width: 1150px;
+
+    margin: auto;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 30px;
+}
+
+.footer-logo {
+    color: white;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    margin-bottom: 8px;
+}
+
+.footer-links {
+    display: flex;
+
+    gap: 20px;
+
+    flex-wrap: wrap;
+
+    font-size: 13px;
+}
+
+.footer-links a:hover {
+    color: white;
+}
+
+.copyright {
+    max-width: 1150px;
+
+    margin: 30px auto 0;
+
+    padding-top: 20px;
+
+    border-top: 1px solid #374151;
+
+    text-align: center;
+
+    font-size: 12px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:800px) {
+
+    nav {
+        display: none;
+    }
+
+    .trend-list {
+        grid-template-columns: 1fr;
+    }
+
+    .main-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero {
+        padding: 50px 20px;
+    }
+
+    .hero h1 {
+        font-size: 34px;
+    }
+
+    .footer-inner {
+        flex-direction: column;
+    }
+}
+
+</style>
+</head>
+
+
+<body>
+
+
+<!-- =========================
+     HEADER
+========================= -->
+
+<header>
+
+<div class="header-inner">
+
+    <a href="#" class="logo">
+        TREND<span>LAB</span>
+    </a>
+
+    <nav>
+        <a href="#">トップ</a>
+        <a href="#trend">今日のトレンド</a>
+        <a href="#articles">解説記事</a>
+        <a href="#ranking">ランキング</a>
+    </nav>
+
+</div>
+
+</header>
+
+
+
+<!-- =========================
+     HERO
+========================= -->
+
+<section class="hero">
+
+<div class="hero-inner">
+
+    <span class="hero-label">
+        X TREND NEWS
+    </span>
+
+    <h1>
+        Xで話題の<br>
+        「なぜ？」を解説。
+    </h1>
+
+    <p>
+        X（旧Twitter）で今話題になっている
+        キーワードをピックアップ。
+        「なぜトレンド入りしたのか？」
+        「何があったのか？」を分かりやすく解説します。
+    </p>
+
+    <a href="#trend" class="hero-button">
+        今日のトレンドを見る
+    </a>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     TREND
+========================= -->
+
+<section id="trend" class="trend-area container">
+
+<div class="trend-panel">
+
+    <div class="trend-header">
+
+        <h2>
+            🔥 今日のXトレンド
+        </h2>
+
+        <span class="update">
+            最終更新：2026/08/18 12:00
+        </span>
+
+    </div>
+
+
+    <div class="trend-list">
+
+
+        <a href="#" class="trend-item">
+
+            <div class="trend-number">01</div>
+
+            <div class="trend-word">
+                #話題のニュース
+            </div>
+
+            <div class="trend-count">
+                急上昇
+            </div>
+
+        </a>
+
+
+        <a href="#" class="trend-item">
+
+            <div class="trend-number">02</div>
+
+            <div class="trend-word">
+                ○○という言葉
+            </div>
+
+            <div class="trend-count">
+                52,400件
+            </div>
+
+        </a>
+
+
+        <a href="#" class="trend-item">
+
+            <div class="trend-number">03</div>
+
+            <div class="trend-word">
+                新作ゲーム
+            </div>
+
+            <div class="trend-count">
+                38,200件
+            </div>
+
+        </a>
+
+
+        <a href="#" class="trend-item">
+
+            <div class="trend-number">04</div>
+
+            <div class="trend-word">
+                人気アニメ
+            </div>
+
+            <div class="trend-count">
+                31,800件
+            </div>
+
+        </a>
+
+
+        <a href="#" class="trend-item">
+
+            <div class="trend-number">05</div>
+
+            <div class="trend-word">
+                AIニュース
+            </div>
+
+            <div class="trend-count">
+                25,600件
+            </div>
+
+        </a>
+
+
+        <a href="#" class="trend-item">
+
+            <div class="trend-number">06</div>
+
+            <div class="trend-word">
+                スポーツニュース
+            </div>
+
+            <div class="trend-count">
+                21,400件
+            </div>
+
+        </a>
+
+
+    </div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     CONTENT
+========================= -->
+
+<section class="container">
+
+<div class="main-grid">
+
+
+<!-- LEFT -->
+
+<div>
+
+<div class="section-title" id="articles">
+
+    <h2>
+        📰 トレンド解説
+    </h2>
+
+    <p>
+        なぜ話題になったのかを詳しく解説
+    </p>
+
+</div>
+
+
+
+<!-- ARTICLE 1 -->
+
+<a href="#" class="article-card">
+
+    <div class="article-image">
+        🔥
+    </div>
+
+    <div class="article-content">
+
+        <span class="category">
+            NEWS
+        </span>
+
+        <h3>
+            「○○」がXでトレンド入り！一体何があった？
+        </h3>
+
+        <p>
+            Xで突然話題になった「○○」。
+            なぜトレンド入りしたのか、
+            元ネタや現在の反応を詳しく解説します。
+        </p>
+
+        <div class="article-meta">
+            2026.08.18　｜　3分で読めます
+        </div>
+
+    </div>
+
+</a>
+
+
+
+<!-- ARTICLE 2 -->
+
+<a href="#" class="article-card">
+
+    <div class="article-image">
+        🎮
+    </div>
+
+    <div class="article-content">
+
+        <span class="category">
+            GAME
+        </span>
+
+        <h3>
+            新作ゲームがトレンド入り！発売日や注目ポイントを解説
+        </h3>
+
+        <p>
+            Xで大きな話題となっている新作ゲーム。
+            何が注目されているのか、
+            最新情報を分かりやすくまとめました。
+        </p>
+
+        <div class="article-meta">
+            2026.08.18　｜　4分で読めます
+        </div>
+
+    </div>
+
+</a>
+
+
+
+<!-- ARTICLE 3 -->
+
+<a href="#" class="article-card">
+
+    <div class="article-image">
+        🤖
+    </div>
+
+    <div class="article-content">
+
+        <span class="category">
+            AI
+        </span>
+
+        <h3>
+            話題のAIサービスとは？Xで注目されている理由
+        </h3>
+
+        <p>
+            最近Xで話題になっているAIサービスについて、
+            できることや料金、実際の評判を紹介します。
+        </p>
+
+        <div class="article-meta">
+            2026.08.18　｜　5分で読めます
+        </div>
+
+    </div>
+
+</a>
+
+
+</div>
+
+
+
+<!-- RIGHT SIDEBAR -->
+
+<aside>
+
+
+<div class="sidebar-box">
+
+    <h3>
+        📈 人気記事
+    </h3>
+
+    <ul class="sidebar-list">
+
+        <li>
+            <a href="#">
+                1位　今Xで話題の○○とは？
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                2位　なぜ○○がトレンド入り？
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                3位　話題のニュースを徹底解説
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                4位　SNSで話題になった理由
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                5位　知らないと恥ずかしい話題
+            </a>
+        </li>
+
+    </ul>
+
+</div>
+
+
+
+<div class="ad">
+    広告スペース<br>
+    Google AdSense等を設置
+</div>
+
+
+
+<div class="sidebar-box" id="ranking">
+
+    <h3>
+        🔥 注目カテゴリー
+    </h3>
+
+    <ul class="sidebar-list">
+
+        <li>
+            <a href="#">ニュース</a>
+        </li>
+
+        <li>
+            <a href="#">芸能</a>
+        </li>
+
+        <li>
+            <a href="#">ゲーム</a>
+        </li>
+
+        <li>
+            <a href="#">アニメ・漫画</a>
+        </li>
+
+        <li>
+            <a href="#">スポーツ</a>
+        </li>
+
+        <li>
+            <a href="#">AI・テクノロジー</a>
+        </li>
+
+    </ul>
+
+</div>
+
+
+</aside>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     CTA
+========================= -->
+
+<section class="container">
+
+<div class="cta">
+
+    <h2>
+        話題になった理由を知りたい？
+    </h2>
+
+    <p>
+        Xで急上昇しているキーワードを
+        毎日分かりやすく解説します。
+    </p>
+
+    <a href="#trend">
+        今日のトレンドを見る
+    </a>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     FOOTER
+========================= -->
+
+<footer>
+
+<div class="footer-inner">
+
+    <div>
+
+        <div class="footer-logo">
+            TRENDLAB
+        </div>
+
+        <p>
+            Xで話題のニュース・トレンド解説サイト
+        </p>
+
+    </div>
+
+
+    <div class="footer-links">
+
+        <a href="#">トップ</a>
+
+        <a href="#">サイトについて</a>
+
+        <a href="#">お問い合わせ</a>
+
+        <a href="#">プライバシーポリシー</a>
+
+        <a href="#">広告掲載について</a>
+
+    </div>
+
+</div>
+
+
+<div class="copyright">
+
+    © 2026 TRENDLAB All Rights Reserved.
+
+</div>
+
+</footer>
+
+
+</body>
+</html>
