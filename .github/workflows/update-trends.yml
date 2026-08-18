@@ -1,0 +1,29 @@
+name: Update Trends
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update test time
+        run: |
+          echo "最終自動更新: $(date -u '+%Y-%m-%d %H:%M UTC')" > update.txt
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add update.txt
+          git diff --cached --quiet || git commit -m "Auto update trends"
+          git push
