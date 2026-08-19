@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米ＩＣＣ制裁に衝撃 日本政府、対応に苦慮：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xUEIyc2RBQ3RWbWJkVkdtZXFJbnpaX2Q5RU8wbUR2REdUcG02SU9lUUF2N1MzVTZLYjVsRVhpWlQ4TzdnenFPWXhCdllLWkE5U25WNEU4YVpkakVuaFQtOTI2TQ?oc=5
+- ＥＵ、ＩＣＣ所長を「断固支持」 米制裁に「外圧なく活動を」：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RUnV1VlBoUFBXdXFmV3lKMmVlSzk5RE5WRlVCSk9iUTQ2OGFiWFJvLUZSMWVXYWNDSHJkSGVneHpPOTA2T2tHTEtjeXlWT0FjMjJnYmRybzNLRTRlRmFacVJjRQ?oc=5
 
-- 千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mRU1PeEE2UXdwdUJROUF5ZWpJVGV4RldBTUkxMjF5VlU3Z1FwNmdoa1VVc2V1SW14MTNOVTgtLXRsaUprNlY2dy00bktqMTJ1LThaNDlDZUcyVm43OVBJ?oc=5
+- 車水没 ドラレコに記録 「このまま行けると思ったが…」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aNUJzQTloLXhVV1g1a0ZWRHBrOTQ2cGlTUWJRMkZhX0lYejVVRVk5U3ZVbi1TUDdWOXhoZ1lxVk9meGdUcUxMeG05bWQ2R0QtTF9aeDZJZHRweEZVTWRj?oc=5
 
 - 6千万円以上の「見返り」か、万博工事で水増し請求 背任容疑の竹中工務店元会場責任者 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5yRlZXRzhlOV9zQU5FWExRWDZvX1ZFRDA2aFVvWm9FaDZLTm5KRGpFWjFwaUN1LVpjaERLaHpodEluQTVHTkd2MlIwUTV1eWVJWkRmbW0wV2RINzVrY2VROFN0MHc5b21BSF95NkdkdC1JNDdkMEE?oc=5
 
-- 踏切内で後続車の進路ふさぎ電車に衝突させたＪＡＦ職員、殺人未遂容疑で逮捕…容疑否認 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUS3NzZUp1VWoxNEgwbzk4SVI4T19WckR1UjBpN2xfQ1hMQ2ZYb0M0M09waGFtWG1jMEJjQjFlanJQdUtLTGU3SVhPRjFSdmdEdmQ1ZzVhOFItNzZDTHl5dXJyemVzUQ?oc=5
-
-- トランプ氏、イラン戦争で新たな試み 時間をかけて「締め上げる」（CNN.co.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZzdoN1NrVVd3THVrRkFWbm5HdUgxMVZUSmR6UFJscjJtTW1aaURKMmNxZzdWbk9Bd2hYTEFNYVAyczl4aFJPSHZoSGdZOUlKbllaOHhyQk83NFhaaXNsWFQxSGRHVnhWZHFUczk0T1FibHJVOXloeGRBbGxSQ00?oc=5
-
-- 明日は前線南下で北日本は雨 関東なども天気の急変に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QWZBQVB3aUprMWJheW4wZFd2UmtRbFp2VUFYa0NBdVV2SkFqcG5CWHFDdmRFMzc1ZEZoT19yaGkzQS1vUWhnb0FNdDZYaE83dnRtSA?oc=5
+- 逮捕の容疑者はJAF職員 踏切で後続車の道ふさぎ殺人未遂容疑 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hbTRUOXBQbmIxMWtrYnF5UXVCNkdVeWc0aFJ1Yk1Qcl9DbzJhMmdxb3ZfNzdiTmtJUGRWaUNydDhVTTd0ZS1KaVVOdnBOQTUtVkFrOVpTa1BlcTVoT3J1RkdSdmwxa3JU?oc=5
 
 - 福岡県議会の蔵内勇夫議長が議長職を辞任意向…「しかるべき時期に自ら判断し、辞職したい」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lOThaWTdtNzV6V1dFTVRZdXNEM3E1VjY2NHp6YnRuRkkyRVIxUmtBTm1hc3JYUDhnb2hlb2htZmhqWXpOLUMwZ01rMlhuY01zcXNWR2wyVVNsZGMyUk9NSGE5ZUtIUQ?oc=5
 
-- 【速報】両陛下、被災者見舞うため熊本訪問の意向 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1d2VVSklHLXZJalYxdU1xeHdRZTRuVmhVV1Q4S1pZczNBSkRJaUY5TzZqS0lVd0F2R2t2S1kzMGEtQXVodW1BNlNZVQ?oc=5
+- 解任されたウクライナ前国防相、大統領選挙の実施を要求 - BBC
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HYzJQZ1JuMk0yekRHR1lxemtuZWQwbURWQ3FnQ3paUUVnQkNwTW1EUFRZQUNQVW1hblJwX1FkSXR3TTB5WkdObm1FODBhRWhoWHZueUlCakw4TVlVRFVV0gFkQVVfeXFMUHcyRDhiNG4tZzZqdDNYMVp1X01jSnZ6WVVQQjgwTFRILW5NbGdOUDhydXNGdHAwSUhXZl9odk53bHRqOHJDRnR6cGgtbjY4eXU2MmNKRHdMcVNGZkljWk56SC1IZw?oc=5
 
-- 【速報】中学生運転の車が覆面パトカーと衝突、三重 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPbzUxaUpUeGpGQWVrWnp0am42SXNVclNIUFRnNFhkQ3RIZEFzQTFrMk1DclFYS3JRV1BWT21lOHBLdEpwbDZTdndFVQ?oc=5
+- 明日は前線南下で北日本は雨 関東なども天気の急変に注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95QWZBQVB3aUprMWJheW4wZFd2UmtRbFp2VUFYa0NBdVV2SkFqcG5CWHFDdmRFMzc1ZEZoT19yaGkzQS1vUWhnb0FNdDZYaE83dnRtSA?oc=5
 
-- 患者の列に車が突っ込み、74歳の看護師女性が死亡 宮崎の眼科医院駐車場 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5WWHhESlNzbFZIZXNEQzZBUDFkZ2pxSzk1b0t1SUhCRXNzX3BNMU1laGVMSmwyS0VTWkFPQ2dYQ1hrVXFzQzdpVXJrd2k5bDhVVFJSYkQySG1xOU9VV21ULVFGbVVaazZDRzdMTTdvTVdfTEV2OUE?oc=5
+- 【写真まとめ】秋篠宮ご夫妻パラグアイへ 皇室と南米の歩み振り返る - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1meGVIQnRvdEVURW81d0NuRVBzSGpqWklqTUhCc1V1TzdTbHNxSmhseUFBWlN4WWFobmxhWXdsQXc4NC1mdFJ0QVV5YnhURHRpV3VsazlyUjZnRC1sUTdMMnRvXzVfMkU?oc=5
+
+- 【台風情報】台風18号発生 23日暴風域ともない小笠原近海へ進み、24日に強い勢力で日本の南へ - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzbHdCNTlWNTR3UWNISW9PdGxyckNIZmpJRVVLZl9ES0ZfdDRTdnRDNzFYTHdXaFd4RDVyZEFEWTBJQm9DaGZtbEg2dGIxZw?oc=5
+
+- 猛暑で渇水、ダムの水位低下し“幻の橋”や“旧庁舎の屋根”が出現 「こんな姿と想像つかない」 早明浦ダムでは取水制限開始 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9SM1RLWFYzcUduVVBVWWo5V3ZWZzhVdVpYb2xMU3gtZ2o2VGtjRk5oYWN2VEh1TEVfeURnZFBESlZLY2IxeGk3cVVaQkhnY3AtelluMDRZcUh0Z3lxOFkzUktvN2YwbUVkS200eDFrRkZYRnpad19ncWd0Sk1pNFk?oc=5
