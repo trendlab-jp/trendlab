@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ米政権、ICCの赤根所長に制裁 米国内の保有資産を凍結 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE10S2lzNVFpbFlvdGpjTkFtdDBCdDRKTjFDeW9XcVN5NG04Ti0zZ2tYUEw1RDFWX25oY1pYNkVjX0xmQmZZQlVDeTRPTXVWRnFaSU85VkxUN0JTUzFhSDl0dnZCVFRZd0MwQ0dCYw?oc=5
+- ＩＣＣ赤根所長への米制裁、日本外務省幹部が不快感示す - ロイター
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3pzMTJhVzdxTlV2b0hlMHBQbmRueGpiZWJmT0JhWGNwYVBEN3czejZ2bjN1NEwweXJOUURpYXgzS3dMcHhJZEd6QzZxaHljNnlKMHYwQnRnT0NJTWEyRE8xT0VZcjNiUU82V0ZRbTg4LVVhc3BmQVhuMjNRWm44dw?oc=5
 
-- ロシア外務省、プーチン氏の択捉島訪問への批判に強く抗議…日本の駐露大使呼び出し「主権と管轄権は揺るぎないものだ」 - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kRWNjdEFwQWI2SGZKSzlndnp6S01WZnItNHNleHVKNjM4WlFEZVZXMy1jLTlqMUxRVXBFamJjS2FPRFF4MnNJM0pZaTdob0VyTVBVX2EzcVM3ZmJqYnBOamZ3?oc=5
+- 茂木外相がイエメン暫定政権幹部と会談、フーシが船舶攻撃続ける海峡巡り支援表明 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IaFZVWEFYd2hsQUw0UEJWX0dwZ29JVFg4d25pXzBMX3FVR3p2ZUpVMzYxWVNFaVJKWV85LVZiUWkzVkM4REJDYTNZdWU1TmpEcUFvTkdCYWZpZVRtNWNkV1plc3R3Zw?oc=5
 
-- 「西高東低」で不満のメキシコを説得か 太平洋クロマグロ漁獲枠25％拡大の〝舞台裏〟 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1zME1EUVVKWDAwXzN1MzRvRnV5Z0JiRXdTUERoUkVwVENJZ29uUXRwRE1Idkpkb2xDTGhCWUpWMW5CUXhob2NGcE5KM1M4TTctcGZ6eDdjZkRiQWpKX001SEZEemxUcW4tUjVWSU1jOThJcUgxWVE?oc=5
+- 日本に「断固たる抗議」 武藤大使は「適切に説明」―ロシア外務次官：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tR0ZDSUhaYXhJRGtVOXZGZS1MY0ZVSWxRd1VrTV9ZbjAzMEJJaE5jNFNab3l5REFJTHJ2RjFId0Z4OVF6LU5BN0N1aENpaXFtTXdwdWlQRVpWVDNtTHhNQXRLUQ?oc=5
 
-- 【速報】日豪、中国の動向念頭に深刻な懸念を表明 - 47news.jp
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rdEs0cHlJTFR0cFhISGh2Z2FTYzRmbnlaaF8wUVZLSHJNVmMwNnFHTnlKNmtEdG5oVFN3eC1IZW5kc09IaV9zUXJyWQ?oc=5
+- 千葉市 豪雨による路上の約2500台の車 19日にも移動完了見通し - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE56V01xbGlKRGpUaUllQlZXd1ZaRzE1Qk5jT1A2Rzd0Tm1nXzhwM0NLbVN5cy0zY1FHNl8tUi1aY015WDdobkhGTzJ6QWxtWFFUUTRabU1TY2ZIZURvOVlz?oc=5
 
-- 千葉豪雨 死者13人 浸水2300棟超 路上の車両きょう移動完了へ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XWGJOUk5jN1NjcmJOaU5RbmNiWHpEMmw5ZXdEY1NWUU1zTTNTSnpWZnNKSnJlVjNRM25jVHdla0h3d3ZYSjlXRkFyaWdXcWtTem5VQzdyUGl2akw1S3hr?oc=5
+- 中学生が自宅に放火、就寝中の両親を殺害しようとした疑いで逮捕…交番に自首「日頃から父が暴力を振るってくるのが嫌いでストレス」 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZUxvekU4Mjl2Q1JYbGpEdW9LZDdQeFM4YWFCY09ZcUJTSXlhLVprWmtaWUZNZ2FPV1RMRU5RNkwweTU1cXFpaFhtRXBDU3RuSEJGWlVDeXZwZExTMjg1aHAtbDFSUQ?oc=5
 
-- 秋篠宮ご夫妻、パラグアイへ 日本人移住90周年 滞在中には記念式典などに臨まれ - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE55U2NUU2tObEYwVTA0eW9UMElhaUs0UkwxNFpoTTVzMVUyMm1WRkFqMmVsY0JBT1ZhVkJ5YzJvSFEwdU9lcmFUb0JWSTdQZVVfcVNCbU1WclVhc2tyLWU4QmRjcWpFc0lmQzA1bkhVaFBkcmJGU1E?oc=5
+- 移民と社会：外国人採用急停止「よくやった」の声も 高市印「厳格化」の行方 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNzZ0dVp3T3NPX3AtVF9pT2NvTENSZXVCRXFxYUFUaEJGeldMeWJRQzlCVmxhTFc0NG9ZcnB4TjZSTk5nRFJfbGFlWmdIMmlZNFBuV2YzMlNzemFxTUl1UnBjcDNuczZ3?oc=5
 
-- 交際相手の２歳長男の顔殴るなど暴行疑い 横浜の男逮捕 男児はその後死亡 - カナロコ
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5RZGVsX3BEWmszME1xbVFrajZYVUFPNV8tYnNEekY0ZUtGV2J1eDhzVlVlS19ET2VfMFd5eUVOdThlVlhBQ29RdzhxUkxhMUwwc3NYTV9Dbm5sVTUyTFVyZkRHYkZvblNVcXpuV3Z3?oc=5
+- 万博工事費として自宅改装費請求か 背任容疑で竹中工務店元所長逮捕 - asahi.com
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oSUdRVnlEWkw4XzY5ZWJ4M2Vlb0NXMWhfTEZ1QXNjd29UZmRxYzU2QThjcGpWekEzZUFkbXZldDFxX01GX2FlLXBzZTBBQ3JIVWtWTC1vUFBWdS12QVZPSmFrSENGdVk?oc=5
 
-- 福岡県議がHP一時閉鎖 議長辞職勧告決議案の採決中止動議提出 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE91c0x3WFk0ZkJjR08wVTBtRjdDeWhjc2lzRlF6eUxTV2U2WldlTlN2Rm8xWGhQdEpfRFpYdllRVjd0OWF2elg2UjFfQ1NVU2owSV81c0hwNW1wWmFlLTE2bUhzUFMyV0NG?oc=5
+- 台風発生予想 この時期らしい進路 来週は台風の影響注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tY3pHYWJkdk9tei1mX1dQLVY0X1EtYTlIZGU1UWFiLXRmaGI4YWVfdnhWVXd0NFk2T1VyRzhZOER1SlVkbXYxQVlpZWRsdlVPZGNDTg?oc=5
 
-- トラック諸島近海で台風発生予想 次に発生すると「台風18号」 進路に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oSEVDMTdGd3hEeEo1NVhhSkVFOVI3RTZBUDllc1dVbk1fWlhQTnhKWHFzeTM3Wm9UaFRBNGxaYjJnNjhWSWpyLUVjekc3NkN4UXR1OQ?oc=5
+- 今日19日は大阪や名古屋で35℃以上の猛暑日か　九州では38℃を超える所も(気象予報士 中川　裕美子 2026年08月19日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE55WTQyamFwZWgyd1RYeEZER1B1anNoVHJxRUJlTk5QY2podjdHem1pUHpiWC1LS0FuMnA5VDY0cWRlSGRGVXRScEl2bUR3QS1sWFVzR0VraGx0ZjdfTXQzNjVFMmNGdmlScjRKetIBckFVX3lxTE5Zei1CcUhScTg3WFA2WEFNaFFSQ1BvQ200SkxGdUFKMGdkZWRCbEgyQlBsb21ranZVeEgzQmtrN21BRFRqZGdqc1dFeHZUc3FZMEVCMFFDNmdQNHpPT2V1RTR2Uzh0Z1VpeVhYYUxpS0c0dw?oc=5
 
-- 逮捕の慶応大学4年の22歳女は数年前まで海外生活 スポーツ施設の“受付担当”でマスターキー持ち出し客のクレカ盗んだか - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE02dUp3eHNWVTBfQ19QRDlsWVU3UDRaU1NDS3BEUVRGR3dKYk1QM0VlSjdJYzhOampPejUtb085YThVbnhuaDk2QnZaVHVBZw?oc=5
+- 【地震情報】熊本で震度3 津波の心配なし - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzVlBqdm12b043ZTBWbkRwSEhZbGpjRE1XaGNMMG8xWkNId2VZUm11SXZmUEplQk1yZXZ1OThPZ3RYaEVnZS1PMkhmSE1MWnVqUndfNHpmdGtUVzVMMU1v?oc=5
