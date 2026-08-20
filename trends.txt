@@ -1,8 +1,5 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ氏、「合意を結ぶ機会逃した」イランへの制裁強化を表明…「前例のない規模での経済戦争だ」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE85a0pQMllMQW5TaFl6MlJzV0tVcXlfZEt5NDdic0hqekVFS0Z2R3UwQXR1cFQzU0RDN3B1aDRINmlxU053bHR2MWMyQlM3aGJGYTZtb1BJQW5QbFk1QVEta3ZB?oc=5
-
 - 千葉豪雨 夜の消防通報2200件超 緊迫の音声記録も - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRQy1kTXZjYUUwT3N5MUlxOHNjaXQ1bFR5cE8weEphSTJQR180SG53UFdlcTZ5aEFFUXNXSU1RT20xNm1OS3pEbThydFNYNkpsQ1Fybm9lY2ZpS1U2azlz?oc=5
 
@@ -15,17 +12,20 @@ TRENDLAB 自動取得ニュース
 - 【情報まとめ】北朝鮮「約10発」の短距離弾道ミサイル発射 韓国軍が発表 日本のEEZ外に落下と推定 小泉防衛大臣「厳重に抗議し強く非難」 - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTE96Y29uQU00WXVZUGd0d2pydDk5VUZQNUVmVDI3NDRJOVFzYjZnTXRwNUpCZ0FMd3lrT3RzLW1vRk1OZWgyYUUxTE1hR1Q3R3Q1QnVkMUU3NGVEZktqMVl5aXA0czVHb2UydVlUb0lvT19jUQ?oc=5
 
+- 札幌市内では道路の冠水も 前線通過の影響で大気不安定 道央を中心に大雨に…20日夜にかけ警戒を 北海道 ｜ ニュース - ＳＴＶ札幌テレビ 放送
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxORFp3RHRqU3MzRVFMbWVNb2ZsVnpBbUtnYXhYT0hTQ1lPbHhQRUtFbTU4eGhpcy0yb3RmWjJUcFU1S1hQNmxKV2hETWJzNUJUUGRYRExHdjlmLXk0QmJFaDVjalZ4TzgxS0FUU0IyQlEwTGdiYThiT1paTU9heTNvMWZR?oc=5
+
+- 中国外相が韓国大統領と会談、経済テコに引き寄せ 「日本の軍国主義再燃許すな」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWHhMYkdvU3ZCOUU5c0RPbE4wTVZROEJsMVNZVjhma0RGeVVleFlFY1ZfakdmV2tlbWZhcExaWjV2MnRnZlJYa0t5Z19Rb21XZ3ZkUU9MT3VUNW5xOW92NUpoeDctQ1FOZ1RhX1o4QXVWSEhFU1E?oc=5
+
+- 広島土砂災害で2人の息子を亡くした母のいま（広島テレビ ニュース） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE85Mm9EYVFkOHZOcTZNSDk0cC1fOUNVX2tZbUR3MjR1VG9PS3FncEh0NGEyaEhZZ3g0YnRpWndCdmZ6alN3UVlKSjFlUEUzM2J3NUhLRERnTF96clMtQWMwVnVuQmZBNUw3RldJZTd6cUhyTkcxZ0tfeTM0WnI1ZFE?oc=5
+
 - 北海道～九州は残暑が厳しい　9月に猛暑日予想も　危険な暑さはいつまで?1か月予報(気象予報士 田中　正史 2026年08月20日) - tenki.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE5VV3hsX3U0LXZCcEw2Y0dTTXFsdU8wUXJ4MXd2T1hPeEFEblk0QWk3eDUxclNSTGktUWdZRmo4dEI4bUE5ZVdCYldnR0NPRXFmdDlLQV91M0hHOVUwMmJEQVp4ZUxZQlJrSUVQdVVjdllwQdIBd0FVX3lxTE12S3JHR2JPN0VsS3U4cFM4VHVPX3M0UzQzQ3JBdzB6UWlwYUdQcFhkcGVybENWWnhIQ0Q1OFp0NmEwajZkSTBBYkNfa3NMZ0RCT0pwSVhaZXRVcW1VNTByZUtOa2VFM3FIVFZqN1JRUkU0THo2M1o4?oc=5
 
-- 明日8月21日(金)の天気予報 前線の影響で東北や関東は雨 西日本は厳しい残暑 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMmFrbWZPTVA4UWtnc0RockN0UXBMOF84d0Y0QmFSZXlYQ01qcFMzSkVubjNkc24xaDJiaTZTaWVILWQ2Y2ZaMDZleWtXQzNtZ0tTNQ?oc=5
-
-- 踏切内に後続車閉じ込め殺人未遂 容疑者はJAF職員 「車間距離が近く注意するために車止めた」 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1LUw3VE9ZUHU3dDg3ek9zUVZ5bHRQb1ZTT1BfMHlOZXBHUGI3N3p5TG0tYXVPeUJJYjdtVmtYdV9XRWpKVUhja2hhcGRDUQ?oc=5
+- 逮捕の容疑者はJAF職員 踏切で後続車の道ふさぎ殺人未遂容疑 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hbTRUOXBQbmIxMWtrYnF5UXVCNkdVeWc0aFJ1Yk1Qcl9DbzJhMmdxb3ZfNzdiTmtJUGRWaUNydDhVTTd0ZS1KaVVOdnBOQTUtVkFrOVpTa1BlcTVoT3J1RkdSdmwxa3JU?oc=5
 
 - 「特定技能」外国人への暴力常態化か 入管、北海道の農場を調査 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sek50aVl2Rk1paEpxUWF2QlUzZ25QMEhWWWhmQzBBVjVrakYtM0VYc2hHeHc5N3F1OGo0alIxWjlzQTdUSFc1c2JBOTduSTQ5WG9vcVQzbUotVVp4T0xwenlwQ2FtZ3U5?oc=5
-
-- 広島土砂災害12年 安佐南区で追悼行事 遺族も出席し犠牲者悼む - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DOFItWFVfY2ZVRXVXSzdySnZfQTJnd3FnZmNocXRKTTNUUUZ5ajRSeHVKTTdhQmtDYVpyYUFwS2RIWDB6bkI3bmVJc3ctQVFuRGE1R2loLUlVc0o5aVVj?oc=5
