@@ -3,8 +3,14 @@ TRENDLAB 自動取得ニュース
 - 千葉豪雨 夜の消防通報2200件超 緊迫の音声記録も - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRQy1kTXZjYUUwT3N5MUlxOHNjaXQ1bFR5cE8weEphSTJQR180SG53UFdlcTZ5aEFFUXNXSU1RT20xNm1OS3pEbThydFNYNkpsQ1Fybm9lY2ZpS1U2azlz?oc=5
 
-- 台風18号(ソウデル) 非常に強い勢力まで発達 週明け以降の進路に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE96czlNMmgxVjJlaGFjNlNpWXh0UW9ESFNXelZ0bkt6aFA0V3Mzemw2c3VIdmU2a3VCcXJIZk1MZ3FzeEVFLTN6bjRiY0VNck1mQW9pSQ?oc=5
+- ウクライナ郵便配達員を執拗に追うロシア軍無人機が爆発、左半身血だらけに…「いつも死と隣り合わせ」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YR2lVN3BBMW4wVFZmQVNuZDFDUTAzeS1NRTg2b2tkZ3Jsa2gxLXlLRGFrdWhJc3kxNTAxWTFfdEJtN0JrSzgya0M1Vm5Rci0tZU1QZy1ub3ZrQUt4cXotbnln?oc=5
+
+- 台風18号(ソウデル) 沖縄や奄美に接近予想 その後の進路は不確実 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VVVUzUkstblA5TmRrQTUwTkUwa3oyV3pRd0pWUk12d0dudXBGVExYRFZpa0J3cWtiR1ZtbFppbF9kVmdCNnczUjJYeTNZVzZqbHRvNQ?oc=5
+
+- 千葉豪雨から1週間 八千代市「罹災証明書」の申請多数 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1yeUwtSjNBYVNQNmwySHZoSk1ZSWcyUFR5UlVzSGFKU1ROSktFaVFnUmR0MEdOVW9xTDF5OXlTX1U5VEl6cTdZeDloM0lmb2lyQXVXcklZRV9fNmM1MlBvSTg4cFg3aDd3M2E4Sl9PLXhzdw?oc=5
 
 - 北方領土訪問とサハリン2は「別の話」 政府関係者、事業撤退には否定的 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5QMDNhZEV2bC1RSzdBWDRqRW1QLVhqU2ZPdjhOM1BRZnE3bTdLRjZCS19CUm9zbkszamJNUWZFdFdZR21NX2hISXhJSjFQdlFjQ1AzQjZfZnlxN2hJOUdheEtlcXZnVVpZT0hITy1UWVRGTVh0U0E?oc=5
@@ -12,20 +18,14 @@ TRENDLAB 自動取得ニュース
 - 【情報まとめ】北朝鮮「約10発」の短距離弾道ミサイル発射 韓国軍が発表 日本のEEZ外に落下と推定 小泉防衛大臣「厳重に抗議し強く非難」 - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTE96Y29uQU00WXVZUGd0d2pydDk5VUZQNUVmVDI3NDRJOVFzYjZnTXRwNUpCZ0FMd3lrT3RzLW1vRk1OZWgyYUUxTE1hR1Q3R3Q1QnVkMUU3NGVEZktqMVl5aXA0czVHb2UydVlUb0lvT19jUQ?oc=5
 
-- 札幌市内では道路の冠水も 前線通過の影響で大気不安定 道央を中心に大雨に…20日夜にかけ警戒を 北海道 ｜ ニュース - ＳＴＶ札幌テレビ 放送
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxORFp3RHRqU3MzRVFMbWVNb2ZsVnpBbUtnYXhYT0hTQ1lPbHhQRUtFbTU4eGhpcy0yb3RmWjJUcFU1S1hQNmxKV2hETWJzNUJUUGRYRExHdjlmLXk0QmJFaDVjalZ4TzgxS0FUU0IyQlEwTGdiYThiT1paTU9heTNvMWZR?oc=5
+- 日オマーン外相 “ホルムズ海峡 国際社会で議論が不可欠” - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iZDlfS3hjUVdaNlI3ektJTU9pQ1ZOd21FYzd6X1BjVXhnSzd1bjZuOXVWd1J1TzMtTnh0OTV3QkxmTi04LVFBV29yaENGdVFuZ2xHUjBpLUs4Q1R0c0lB?oc=5
 
-- 中国外相が韓国大統領と会談、経済テコに引き寄せ 「日本の軍国主義再燃許すな」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWHhMYkdvU3ZCOUU5c0RPbE4wTVZROEJsMVNZVjhma0RGeVVleFlFY1ZfakdmV2tlbWZhcExaWjV2MnRnZlJYa0t5Z19Rb21XZ3ZkUU9MT3VUNW5xOW92NUpoeDctQ1FOZ1RhX1o4QXVWSEhFU1E?oc=5
+- 自民 「役職希望アンケート」配付 内閣改造の見方広がる - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XQ0VSVTJqd1d6NnJCQ3VaLV9ickJzdndoa3kzTmtRNnhlNVFjOTRFUXBYZVBhclZzTnZUWHVFdVNtMVhUR1VHZElZQzJkMEgzb2ZMQjc5SUR1OFVNWlJ3?oc=5
 
-- 広島土砂災害で2人の息子を亡くした母のいま（広島テレビ ニュース） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE85Mm9EYVFkOHZOcTZNSDk0cC1fOUNVX2tZbUR3MjR1VG9PS3FncEh0NGEyaEhZZ3g0YnRpWndCdmZ6alN3UVlKSjFlUEUzM2J3NUhLRERnTF96clMtQWMwVnVuQmZBNUw3RldJZTd6cUhyTkcxZ0tfeTM0WnI1ZFE?oc=5
+- 「あおり運転されて…」“踏切閉じ込め”殺人未遂容疑 JAF職員の男逮捕 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5Wc05OU3NiMGZFQVlrMWl0WFI3ZXBEejhuampLa3pEV2tncmhQTmd0VHlYRGdTR3FmZjJPNmRJaTFnd3YzeFE0WTFVM2U4bE1Fck9adjVQZVp4cUhaTmhHNDl1bXptSExkVU0zOUgxazJ4Zw?oc=5
 
-- 北海道～九州は残暑が厳しい　9月に猛暑日予想も　危険な暑さはいつまで?1か月予報(気象予報士 田中　正史 2026年08月20日) - tenki.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5VV3hsX3U0LXZCcEw2Y0dTTXFsdU8wUXJ4MXd2T1hPeEFEblk0QWk3eDUxclNSTGktUWdZRmo4dEI4bUE5ZVdCYldnR0NPRXFmdDlLQV91M0hHOVUwMmJEQVp4ZUxZQlJrSUVQdVVjdllwQdIBd0FVX3lxTE12S3JHR2JPN0VsS3U4cFM4VHVPX3M0UzQzQ3JBdzB6UWlwYUdQcFhkcGVybENWWnhIQ0Q1OFp0NmEwajZkSTBBYkNfa3NMZ0RCT0pwSVhaZXRVcW1VNTByZUtOa2VFM3FIVFZqN1JRUkU0THo2M1o4?oc=5
-
-- 逮捕の容疑者はJAF職員 踏切で後続車の道ふさぎ殺人未遂容疑 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hbTRUOXBQbmIxMWtrYnF5UXVCNkdVeWc0aFJ1Yk1Qcl9DbzJhMmdxb3ZfNzdiTmtJUGRWaUNydDhVTTd0ZS1KaVVOdnBOQTUtVkFrOVpTa1BlcTVoT3J1RkdSdmwxa3JU?oc=5
-
-- 「特定技能」外国人への暴力常態化か 入管、北海道の農場を調査 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sek50aVl2Rk1paEpxUWF2QlUzZ25QMEhWWWhmQzBBVjVrakYtM0VYc2hHeHc5N3F1OGo0alIxWjlzQTdUSFc1c2JBOTduSTQ5WG9vcVQzbUotVVp4T0xwenlwQ2FtZ3U5?oc=5
+- 高校部活遠征で法令違反の疑い15件、私立12件は全て北越高 磐越道事故受け県が調査 - 新潟日報
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDTjJ0bnFQWXF6LUx6S2EtNmZpV2lRT2RkbndnNzltOG9NcG1OUmtIV2VpblVEbGM4cEw5LWgteHdaei05YklBT3dyMmE5TkpFb2w0UVhmTy1kZ1NtV2c?oc=5
