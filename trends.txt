@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 1人の死刑を執行、1年2カ月ぶり 大阪市のパチンコ店放火5人殺害 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1SkVhMWc2LS1pRnpQQ1gyVTVHa1hpZ1BkX1AzcG1jTDE4TEwzWXJ2VE80NDV1NXFEMmxFcVhhTTFQSFY0SDZXMm9idk1VWmo0ajNvbDdNb3dwR3JzMEJLdTRDTzg4U0E?oc=5
-
-- トランプ政権のICC制裁、「日本は抗議し、撤回を求めるべき」…同志社大・三牧聖子教授が対米追従に警鐘 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQWTE1dlVac0I4ZXdGajlzRVdKTmVGWnlzUDFTWnpPdXI4bG1VVkc3VVRGakFYYjNGSE8wRF9QVmIzcG1xRndNR1U3a0g3aEwwakxr?oc=5
-
-- 台風18号 今後の情報に注意を - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNHdHU0wwZUd3dXZSWmEzVWJfeGdLUm5tM3V6cW5EOExBcnExU2JlUDlLdlVSMENJNURRVkFTcmd4dV92YlR6UXVtd05oenp1T2czSVd2ZWNlcUhVc3BR?oc=5
-
-- 「前例のない規模の経済戦争に」トランプ大統領がイランへ経済的な圧力を表明 「甚大な経済的代償」イランの支援国にも警告 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5a0VGazhSZThwMkVmNjJaVEM4OHNMZ25uZFBYejlfUEV6WDAzeHo5OGhPS3JraTU2Wk1McXc1eXA5cTk5a0QtS0c2QlhXWFg3LUtoaDRybw?oc=5
+- 大阪パチンコ店放火殺人で死刑執行、公判では絞首刑の是非も争点に…高見死刑囚の元同僚「悲しさあるが罪の大きさ考えると仕方ない」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QdjFJcVpkMkJvTDNiZkFXb082R1huTE1UVEpqdS1uTXFhVkhiTkVaRFZkSVVoeXRqQ1ZOeHdiMnBnTGtKZW5xQ2I2b1JKWTdrUDBrTVlsSDJ6N2ZFTGxHTV9md0l1UQ?oc=5
 
 - 北方領土訪問とサハリン2は「別の話」 政府関係者、事業撤退には否定的 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5QMDNhZEV2bC1RSzdBWDRqRW1QLVhqU2ZPdjhOM1BRZnE3bTdLRjZCS19CUm9zbkszamJNUWZFdFdZR21NX2hISXhJSjFQdlFjQ1AzQjZfZnlxN2hJOUdheEtlcXZnVVpZT0hITy1UWVRGTVh0U0E?oc=5
 
-- トランプ氏「北朝鮮は核兵器５７発保有」「私なら許さなかった」…核保有を前提に米朝協議進めること示唆か - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GN1ZlS0JFWnJzX1R4WmdRU3lJdHo4VDc4dkhWUHg5SmsxaXo1elRzLVZEVW40LU9Cd3lWeE0xR3A2d3BoZGNtYTlYZ3dUN2NaM00zc1Z6RE8tV3A1LU45MWhB?oc=5
+- 米空母リンカーンが中東から帰途に、長期配備で乗組員のメンタル悪化か - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiT0lldjlxdi1OS1FoMlBNSlI3djUtUjRQc3ZjTlpmR2xDN1dmYmlxNTdYQzdLdHJOazJIOTh6V0JtVU1nQWJKclBaamJrUXVJ?oc=5
 
-- 千葉豪雨、浸水想定区域内での死者９人…内水氾濫で住宅街にもリスク - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RcFRfMFlDRkthemFhQXJNRmVXc0p0aDRkUXhYaHlUVl8zcjFRQUR3RTVPcVE3WkQxMzV4d0VxY1JtUDNQSEl2VHBzWVk5VHFaNG5zX0FDeVNGZGtMNTlVVzdhN21xdw?oc=5
+- 台風18号　26日ごろ沖縄に接近のおそれ　東海から九州は28日ごろまで猛暑が続く(気象予報士 日直主任 2026年08月21日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRVpLV2ROMnlJaFRQV1k1aW1YT1NPZGhXbEp6OWxRSjM1d1FDYS1RZVNYYjRleXptTHpULWFyZlRjbzh6SHhRVWpoZlhzM0htNklOOC02RjYyTEw1VDVidTQzTHE3SUNWTlHSAW9BVV95cUxOTkNaWkFic0NXS3dJcXZKOHJ6eXNUd0k1LTJ3MHJ2cE5ScU5jVENVU1VTWnk1d0FodkdkYVdBamhVSzZjNUw5V0ZjRVhBd0V0RWhLR3J5ekg0VHVXUURvUnNQcEhzZ2ZRNUw5VXZfemM?oc=5
 
-- 《福岡県議会問題》「絶対に落選してほしい」県民の怒りが“動議賛成議員”に飛び火…一部議員は公式SNSを“鍵垢”に - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBzdDBtOTZwd1FpSU1QcjZGZ0F2ZW96VlJXT3lWbFAtMWxRUjlzNGJuOGxaWEtJMF9iOHNtcXY3Q1ZvNGFNLXRpR2JMUzFfcTZsSVp4QUViNE9icXpicWM2X21kR1B5cTctVTdmYjY3ODBlM0FZYTI5QU1nMkxELVk?oc=5
+- 前線南下で北陸や東北南部で雷雨 関東も一部で雨雲が発達 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vcV9mMTZGRlZGdUNkYXdRSktqQ1ZxamZ6WTRIejFuNmU5NndyeUM1NS1EdU5IcDg1WUZHY0ZiN2NhX0JVeFRtbTVlTmx6dURCSmZXUA?oc=5
 
-- 内閣改造、来月中下旬で首相調整…木原官房長官の続投有力・維新から入閣方針 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwNWI1Wlh0c0M1dkJHZThPMWJRSWdqN3NKa3k2b25na1NnNDZEYTNvNFJEXzkyM1B6VWFxaVE1QkNmd0VQWm1Td0ptSXNVaktfTERURFlxTi02YWpYUHVyLTVZcXE5dw?oc=5
+- 千葉豪雨で大雨警報等の基準引き下げ 千葉市と八千代市で - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE54V3ZlU0pLYUw3Sm9rdDlVcWx2UlpyV2xreVpfTW1fdHhEZUg2SU5lZXRUdEpkREpqVkRad0pfZGQyR05ZSVV0WTlHTEFJSUlzY3hTZFEwTk5aVF9WR0xN?oc=5
 
-- 7歳男児を富士山に置き去りか 登山ルートに1人…警察が保護 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1XV0VWQl96d0REY01pa1JMYUtyNjNEVkl2LXo5WWdONGhERkpGdENaZUZKVWNJQ1FERWVUTWNrdjFYNWpFRXNqX0tjUkowNjBYTldsaFNKVGs0SVVLb2N0VUpCOGN0TkVXd1JZX0d0Q2hBZw?oc=5
+- 〈赤根所長から、今回の制裁措置に対するコメント発表〉米トランプ政権から制裁措置を受けた、国際刑事裁判所（ICC）赤根智子所長の著書『戦争犯罪と闘う 国際刑事裁判所は屈しない』の重版が決定 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9yU3phNFNSX0VhWjlLLVlmV0QtQnpvRk04RHdUX0xfRjcxemJEZFhfNEFwV1RZU3JveVowdzZRUWRNZ0lLbDZIMWQ0OTdxbHRzSzhuR2RiZzlSREk3VTFfOF9aUEprSGJFUkE?oc=5
+
+- 中止の琵琶湖三市花火大会の主催者 滋賀県立高で部活指導か - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE8yN2d0WUk4cHl1Zk5rYUkyRmJzaTdESUpka2U1MXdrNUEwMGJjNmY5Y1VDTFhocXhBNDdpYXIzVEhPbXI3NDk1YWdGbmhXOC1GSVFWNGlfX3FGYklSZF9DZGoxYWV2S1RiUWx5dHREazU3UC04YVE?oc=5
+
+- 蔵内勇夫議長を巡る福岡県議会の採決中止に苦情が殺到…「恥ずかしい」「県民の声を反映していない」 - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBuVnkxSUFMTjRqZHM3LTBWcF9tbHVuMW5lWkFjTWZ1RTVTM095SU5TdWlkZmZzQUhJbWl6RUtTR0wxNHN3UENLeFZSM0FqRTVTcHJ6WEJ2eDhOVFBPcmJaNTNSNkRLN3c0RDlKZVV2c1B0dw?oc=5
+
+- 秋篠宮ご夫妻 宮殿で表敬訪問 パラグアイ大統領の昼食会に - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1MQ0NFc0xqMkl6dEtnWHo4M3h0NXlmWDNCSk00VGJCR3Rsd0N2S1Vwc0U0dDJCT1ZHUW5lRjBueU5MTlpqVmNCZDRtUDBvZnowWWg2cFc5VE44ZGtTcWlNY0dsR2R6UW53dEdEdldNQzZvZw?oc=5
