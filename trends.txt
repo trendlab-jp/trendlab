@@ -1,10 +1,10 @@
 TRENDLAB 自動取得ニュース
 
-- 板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5
-
 - ウクライナ南部商業施設にドローン攻撃 16人死亡、130人負傷 救助隊到着後に2度目 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1NdGgxYkhMRi1XYXlORXd3QjFnRkRtVUREUi14UndSd1NmdjQ4YlhvT2hyTE16V2w5RXVDdy1hZlJ4cGUzdTl2VFpSVnJibUZmUV96RW0yQUNoLXJianpsV2ZQNkVXaF9yQjU5SEVYNlI0bDRabUE?oc=5
+
+- 板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5
 
 - ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い オプション市場は9万ドルを意識｜仮想NISHI - CoinPost
   https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5aWU40Nzc5dE5adEdOaG1xTmdqVk1qR2MxbzhLaHMxWHNlZlYxbDYwek9jeUhvOUhNelZyejBMekVyRDQ?oc=5
@@ -12,17 +12,17 @@ TRENDLAB 自動取得ニュース
 - 強い台風18号(ソウデル)が接近 沖縄は暴風雨のおそれ - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE56WmZmaDI2VG9iWDJBN3czR0FfVGZ3d09KckpFU2I2NW5EQnRENVBpZFZJWUdoRE9jLXI4VWxkVmRhNEF0OVNWbHM5QjA2U0pwVGYyaA?oc=5
 
-- 安愚楽牧場破綻１５年、続く苦しみに被害者「無念」…被害総額４２００億円のうち被害者に戻ったのは５ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zc1M0T3FZVlJtY0JwelNXbTlnSWhSUU0xc2xXU3YwbFhEcjBjZ0h4ZnRETURjNHNvZ0g1c3NOc1FzSXkySmlISWgtN1R3TUJVdGtSM1JYY050czIyZlpRZWdYZHJGZw?oc=5
+- オオカミの群れと暮らしていた「シエラモレナの狼少年」、80歳で死去 スペイン （CNN.co.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNF9ZRXFxdnk3THZqZXZTTW9FRkI2WW1pcnQ0eDhpcFpGTGx6SUVrVEMxRFdHOHBLVTdoNUw0VEY2S2RtR2ZXX0tJQXFKUkR2dFYyb3QzbzE3LTdhcFZRYW1YZkY1RkpNVU43aG85VmRjclUwTTFMbkpHak9PY2c?oc=5
 
-- 半身まひ８８歳夫が認知症８７歳妻を「超・老老介護」、後期高齢者同士が４割近く…根強い「家族の責任」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14SnJnVURScGNLeGVCUlpNVlNVczBNZWtPcWg2UWV1V0JMOFB0Vmcxdkt0cEpaVXJ6enJDN3BHRFBBYVI3ZmV5azA5bVR1NEZQQjVtVGQ4akpxOXVvS1BqX0xXUEhfUQ?oc=5
+- 千葉豪雨 死者13人 浸水被害約3900棟 外房線あす全線運転再開 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE53QjhNcl9tY1M5Rm9aMGRzQ3BCdUhqVjR5eE9rUFR5NkNycXQxX0RYaWprZU1YOEp3ZlIzcEJjaTlzdEJKNlV0a1ZseWZpUHBmSkVMdkxPYWZrSjhmbWZB?oc=5
+
+- 《クレジットカード窃盗容疑で逮捕》NY出身キラキラ慶應女子大生（22）の父は大手クレカ海外法人の「最高経営責任者」だった - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZUpkdjZqT2dyYmQ0MFJHakJ3LXVyc25OV0FsUVdqWFI4cUNpS2wzckxwaTRiTDV3SDVjbXB1aVF6STNCQ2N3ZHY2Q2NfZzc5UTlzWUNvdjdRdU8xLUg3a0NkNWpVR3hpODVCZDJfNmpxbmlTZmowSVJVYXdMNWM?oc=5
 
 - 滋賀県野洲市のライトケミカル工業の工場で作業員２人心肺停止…釜の研磨作業中、酸欠か - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xaEZSMHRlbks5akZXNFBkTFVEZ3NobEFlZ1BLdi14enpLMGNnT3dLZ1FoVGZMVHdUWThtdHRGZXZjZktJRTFOVVZ5OVpuS2V3bWtfb2stR1F5UF84RzFNSkNvMDdUdw?oc=5
-
-- 【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5
 
 - “採決中止”の動議を出した県議は議長の元秘書 批判殺到し自身のHPを一時停止 「議長本人から動議提出の指示を受けた事実はない」 【福岡発】（FNNプライムオンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE43bVd5UWlhSDlCRlhwX2xOUjFSckZCT0VGTlBKZXRwZ2J0Sk1IR0toZ0F3dUpBZGRWSDljY2h4RVB6SlhrRWdGWkFXamRPTWxfQlFFcGU2eHFpd0JVc04xYi05dVYybXBldndjMmNFRWwxYUhlVS1oSmtBTlBOaDA?oc=5
