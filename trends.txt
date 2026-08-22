@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 茨城県南部でM5.9の地震 東京・埼玉・千葉・茨城で震度5弱 津波の心配なし - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb1JERExNUElVN2ZjeTNoNm96RWREM01LNG1GaWpFbkcxeVZ1SHpVcDFCQ0VkSFdnNnp3VTVYcnRWS1o3T1R3MnJUUmJOd0dPOGhQUWhGMEtpbzA?oc=5
+- 【地震】埼玉 浦和区「マンホールから水あふれた」複数通報 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE10WUxvMWFKc19tckNzN2l6NW1nNDUwSUxMRndHaDhqMHVNYzNiYWlwNnoxTWZfa2c0WENCRURVRmE1TnlHbjZCRk16NGJ2TFpYVWJuMDlMUDIwaFlhdlBV?oc=5
 
-- ウクライナ南部商業施設にドローン攻撃 16人死亡、130人負傷 救助隊到着後に2度目 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1NdGgxYkhMRi1XYXlORXd3QjFnRkRtVUREUi14UndSd1NmdjQ4YlhvT2hyTE16V2w5RXVDdy1hZlJ4cGUzdTl2VFpSVnJibUZmUV96RW0yQUNoLXJianpsV2ZQNkVXaF9yQjU5SEVYNlI0bDRabUE?oc=5
+- 【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5
 
 - 板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5
 
-- 台風18号　明日23日には非常に強い勢力に　26日頃に強い勢力で沖縄直撃か(気象予報士 中川　裕美子 2026年08月22日) - tenki.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE01a0tNaDBjNC1HMHZ6TWlLd1pSd291RFgzMjJycXptSGRFNUpvVGwzS0pUTVE1X203NkVyazVEWndTMEEyZDlBWVdCNXJFYl9BM3JfaHFOeUZOLVBnRmFlNEdDTjViU0ZNa2VidNIBckFVX3lxTFB5S2x2SW5MVFdLbk1wT010Z2lYN1A4LTQzV2h2MEZqTGFQYTY4YThXcW11MUI2Y09lV0kxc19Ec0h0MndlUll2WVdPQzBEZXNtcU5wZmRUM1ZjeV9Ud2tkbDFrWW5ZTDdWTmMzYXNjZWlrUQ?oc=5
+- ウクライナ部隊で特殊作戦担うロシア人、母国の敗戦で「まともな国に」…捕虜になれば自決覚悟 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUE9RZjBwVnNIUnpzbXJhak9hX1NTaUdlemtiWENERC1XSktuVk5uLUhQeDZaSTZ6d0RMeEc2b0tYbFMwWnVJRV9JeHhpVXF4cWtwNUxoWTJLY0lkNUI4eGx3?oc=5
 
 - 沖縄 石垣市と竹富町に避難指示 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xUFcyS2tOS1dwa0cxUXAzVm9pa1lXcHdhVGVrY2hBRmw3a3ZGS1EwZnduQlhiUUtUcWI0WTRUX3VNeHBUeGRITGItMHRFLXNzVWQxR0lBRTZ2UnhrOVVR?oc=5
 
-- 滋賀 野洲 化学工場で男性作業員2人が意識不明 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FbWFIak9BZWlZWEN5WmhHeHhNa2tkckZ1WmZ6RE1BZ3l2alVkMWVoQTRBR09QN0JiWVZJUmpJU1k3LW9aTk00cnROUjhQVC1veXZ5VkVrR2ItVlVsZTNJ?oc=5
+- イランに「正しい合意」締結の準備できていない＝トランプ氏 - ロイター
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmlJWVJ5b1pRVEVwaFdsalZTc1RxLTg1T1R4d2pVdThYdTFMN0ZZc29MTUZjdTJlYkRjdmJhVm44blhrb09td1Z1UGlJWFRUUjZOb3BDT3hqbWxNNVR1amNkWDJQdTFqdy1UNXJVd3RsWGswQU5UNmVFQzRRcmc3TVd3?oc=5
+
+- 台風18号、26日に沖縄本島直撃の恐れ 27日ごろ宮古島・八重山地方に接近の可能性も - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KWWpaYlQtVGNtbDZJN2hwMFNvSVhUQ0lTWWdUZWI1emlZc2Ziak9ENXNFYmMzUlJTLVV6YkhNbVBxbldGOElZUU9RdFdVU1MzVVRvaHBGVnd1SkhfTEE?oc=5
+
+- 滋賀県野洲市のライトケミカル工業の工場で作業員2人死亡…釜の研磨作業中、酸欠か - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xaEZSMHRlbks5akZXNFBkTFVEZ3NobEFlZ1BLdi14enpLMGNnT3dLZ1FoVGZMVHdUWThtdHRGZXZjZktJRTFOVVZ5OVpuS2V3bWtfb2stR1F5UF84RzFNSkNvMDdUdw?oc=5
 
 - 来週26日頃にかけて熱中症リスク高い　熊本で再び40℃の酷暑日予想(気象予報士 堂本　幸代 2026年08月22日) - tenki.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE0yekhETGRHWk45X3M5SGYwZExqcVN3ZHRabk4xZ0FYcWNhSE5ZUDQxN0l6bnJINWV2R283cldGdGZoUmp3QjJDWVlOSEw5SGNtTmZoNmw2eHdETFV2cTFsUnQ0MncwRWtxMi1TYkRKUEbSAXZBVV95cUxNOVVBb0wxWHJ5cVhxUndCcjJiN2Q2TTdmTUFhVFdLYUZtQ0VCWlB6RHQxS19fOEJGSThPY2ZyX3N0b2lXVjc4bUgxbnd5OEhzWmFZUVF5enRDd2l3Y0JxVUxfTXY2VTZZWElaV0RVbk9CNmliUjd3?oc=5
 
 - 【速報】薬師寺の国宝に液体かけた疑い台湾の女逮捕 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUMl94NWlqd1d4SXZjWW14aG5vbldXOWJ4V1lSWFdYWjBDU05uSTFDblVrcGYyZWNnVkJoRDFYVDBfa2M0TFA1SGd6WQ?oc=5
-
-- 【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5
-
-- 東海第二原発 異常は確認されず 長期間運転を停止中 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zZDRNWHkzSlFUWWtJdmhzMk9SVEp5cl9lTUE3UzBGRXU2ZWZHQlo1NF9faDF0Y01OTFhYRkpnWGZDS0RLWGxnaUtjRXlNdTduTHluQkN1RE9kZ01oUlFN?oc=5
