@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ショッピングセンターにロシア軍無人機が時間差攻撃、１５人死亡…集まった救急隊員に２回目の攻撃 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1idTQ0bVZmODhSamNlMTdMd1IybGNfY05WVXVWc2h1WTZSaHRvWkNVSUlydElVTVU4QkFnLUN0Sld3cnJ2SGwwMGZXR0lTZ1gwa1pOdExUTTRSSGpFS1RDV1hR?oc=5
+- 東京都・埼玉県で猛烈な雨 板橋区付近で1時間120mm以上 気象防災速報・記録的短時間大雨 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdzFsb2JwSWpvUExxb000bzYtSG5SSkJMS2JFcGRXT1VJV1c2bVNZXzdmS0hYX0FwSWRCS3VlaEc5TTR4aTJ2LVk1YVVNT29EZFdrcQ?oc=5
+
+- 半身まひ８８歳夫が認知症８７歳妻を「超・老老介護」、後期高齢者同士が４割近く…根強い「家族の責任」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14SnJnVURScGNLeGVCUlpNVlNVczBNZWtPcWg2UWV1V0JMOFB0Vmcxdkt0cEpaVXJ6enJDN3BHRFBBYVI3ZmV5azA5bVR1NEZQQjVtVGQ4akpxOXVvS1BqX0xXUEhfUQ?oc=5
+
+- 熊本地震支援 「応援割」念頭に観光需要喚起策 木原官房長官 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0M3FqaEpaWk03TjVyS1M4TktLYWdBT21LQnczR0FnRlFRSGRrLWg2RThPR3BmdFBoVUx6Q0cySDg4bThVUFlBZTZVSXh4VWVZdmJFZDU4aTJ0ZS1HbGRR?oc=5
 
 - イランに「正しい合意」締結の準備できていない＝トランプ氏 - ロイター
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmlJWVJ5b1pRVEVwaFdsalZTc1RxLTg1T1R4d2pVdThYdTFMN0ZZc29MTUZjdTJlYkRjdmJhVm44blhrb09td1Z1UGlJWFRUUjZOb3BDT3hqbWxNNVR1amNkWDJQdTFqdy1UNXJVd3RsWGswQU5UNmVFQzRRcmc3TVd3?oc=5
 
-- 台風18号　明日23日には非常に強い勢力に　26日頃に強い勢力で沖縄直撃か(気象予報士 中川　裕美子 2026年08月22日) - tenki.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE01a0tNaDBjNC1HMHZ6TWlLd1pSd291RFgzMjJycXptSGRFNUpvVGwzS0pUTVE1X203NkVyazVEWndTMEEyZDlBWVdCNXJFYl9BM3JfaHFOeUZOLVBnRmFlNEdDTjViU0ZNa2VidNIBckFVX3lxTFB5S2x2SW5MVFdLbk1wT010Z2lYN1A4LTQzV2h2MEZqTGFQYTY4YThXcW11MUI2Y09lV0kxc19Ec0h0MndlUll2WVdPQzBEZXNtcU5wZmRUM1ZjeV9Ud2tkbDFrWW5ZTDdWTmMzYXNjZWlrUQ?oc=5
+- 【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5
 
-- 今日は関東南部で猛烈な雨のおそれ 災害の発生に警戒を - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFByM1JiNlhDUGFwQ0VoaDZYMDBXTm9tbXBLdjVrSjg0QklscmtYSWtYb3k4VHd3X0VMdF9XOEI5cnpidHhtUUxjUnVrZzBxZFp0UFpPNA?oc=5
+- 千葉豪雨の被災車両、レッカー移動に「４０万円」…現場にも一時保管場所にも見当たらず盗難被害の例も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uOXk2SUozN2VqTWVJVUthZzNWc3VCQXRfUUZLUE1FazZxV1JCdjRQOHBhNElmM1VYLXJ3M1FSdGRrSGdmem8zR1BYZ3FqM3JHNTdvSUJoWWJSdnRhRkpuUXZsZGxSQQ?oc=5
 
-- 秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SNl92clZRNzhEbVJRVy1xamRyVk1fSHAtZjFWQ0h2OTQzV0YtcEtMRHJSWnFmWVhqdnFycnFHTUJzMGt4ZmpJaFRSUjdkS1R6RlkyVHRfRlh0eVNDbWhv?oc=5
+- 紀子さま パラグアイ公式訪問で見せたファッションに注目集まる 「着物姿が美しい」「ピンクのラパチョとてもきれい」 - まいどなニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzJjNnBjUVlTb25PNjV6bFZRa2M2RENWWWltWWx5dTdkMFlsMnIwc1ZEY2R0NjViNlpHcGtnNHRlNTRXTFpDZ18zNVdqVl9a?oc=5
 
-- 「日本の支援が重要な鍵」 ICC赤根所長、米制裁にコメント - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SRXVFX3lBU0tueUl6ZHJqYjEzYTB4S2c4dmMxaXBXSlFGZXM3aE5LVGkzRDBCUWl4cUpuc3h6YS1hTDFCWlFsODl3M1MtN2k2VGtKSmdqS0xVSUhZNWRzUVhKcmNvUHNP?oc=5
+- 「トリプル台風」発生中　沖縄は雨風が強まり荒天　九州～関東は危険な暑さ　酷暑日も(気象予報士 吉田　友海 2026年08月22日) - tenki.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOVVJRWdpMHdVckMxeVlnZ1NlX1N4dGh5MFFMU3lscVktS2lPS3p2X0d6UmpRT3lkMkZhUDRFeW04QjZkMC02VmVwZHhUTkRvVElhSVN3c2JZbGQ1a1dfQ2ZvOE03OVZrQlVV0gFwQVVfeXFMTVJXUU9hWmhOcy1vQlhVRzlkVUJSTS1VVE9USVI1MUVvOXVXNVdGRW41UTlrYU85UGZ6WXlscDBncmd1Qy1nZ1NLSVdsTWhfLWNKblk4MU5PUUFJSmFtTkhwNVk0eXJCVnd1NVhkZUtKSw?oc=5
 
-- 埼玉で昼過ぎから非常に激しい雨か 突風の恐れも 1時間50ミリ予想で「滝のように降る雨」に 24時間で100ミリ、警報級の大雨の可能性 - 埼玉新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LN2c5YzNISmtocmF6dFdkZWZMUjFDcEU4NGFrZF9kRmpsMmFVcTV2WXQ2RTVvX2dSdTlRcm9zZU9COUZ5cXRNd0drUW9BQWN1SVdkSWtjNA?oc=5
+- 「3万5000円支払った」突如中止の花火大会…チケット購入者に募る不信感「返金と謝罪を求める」幻と消えた夏の思い出「心にぽっかり穴」 琵琶湖三市同時花火大会 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA1N1drYUg4SFMzMWozLVdZVHdPMFlaclh3aEZ4M2JoTVZpTkk3OXJqMUpfRWhCRHdtU1FteHU4ek5RVW5jbTdIYVd6MEw2MzhoUUVUSHNtR2txOXgxSUtpaVFvaGRsX3FZdjUwanJ6c2QzOGV0TGRpZEVqQ0RJZ2M?oc=5
 
-- 劇物入りマフィン食べさせ… 殺人未遂容疑で46歳女逮捕 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE82cnhLdDRnclM0S09JY3hQV25WTHpDVkhHa0VfM3VnVm9XUmVsQ082QnMzNTVZRGlPOGd3d3hWekFEeGtoM2tBZmotMl82UVZMc1BGdkpiNWt3alJ2TFc3eDhWd1Mya1JZSS1jSzNIaXNFdw?oc=5
-
-- 〈イオンモール爆発〉館内に戻ったのに被害を免れた生存者の証言 「食品売り場に寄ったことで助かったのかも」 - デイリー新潮
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE01RDh2YU5kUE9OOVZab2dObTJhRUNIQ2RGNjdsMWkydlNZZWlQYUVWTUhMakRZbkRiY2NOekNPa0M4VV84VkFyNUd3SDZya3dYaTNNOE9HUjRIeG05c093?oc=5
-
-- 長崎自動車道で車6台が多重事故 鳥栖IC付近 樟南高校（鹿児島）のバス、女子剣道部の生徒9人と教員1人が救急搬送 生徒1人が重症、生徒2人が中等症 佐賀県鳥栖市 | 行政・社会 | 佐賀県のニュース - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWnlmZHhBMVZDUm1BRlJDdkpBM1ZwWEVUa1gwMWNJd3VNd3o0Sm0xNWxFdmFtTlZjbVhxZjF3Vm1kSTVOMHhkN092U1N6QVM0SElaXzZn?oc=5
+- 橋本氏「みんなで担う党に」玉木氏「政権準備の3年に」国民民主代表選〝総総分離〟で火花 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5Jd3hSZXB4dWZLOE9WMFVaNEFrVk9YUGJDX2dUNTZWVW82REFSVXQ2eGxISDVWQ05MS2hjWk5nWDJraW1NV2ZkQ3BDblowWWVhSjdRbENiVFVDNlJiWWQ4dURVUjdnV1laUFA4NTRvZHdxVHJPY1E?oc=5
