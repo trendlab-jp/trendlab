@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 東京都・埼玉県で猛烈な雨 板橋区付近で1時間120mm以上 気象防災速報・記録的短時間大雨 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdzFsb2JwSWpvUExxb000bzYtSG5SSkJMS2JFcGRXT1VJV1c2bVNZXzdmS0hYX0FwSWRCS3VlaEc5TTR4aTJ2LVk1YVVNT29EZFdrcQ?oc=5
+- 板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5
+
+- ウクライナ南部商業施設にドローン攻撃 16人死亡、130人負傷 救助隊到着後に2度目 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1NdGgxYkhMRi1XYXlORXd3QjFnRkRtVUREUi14UndSd1NmdjQ4YlhvT2hyTE16V2w5RXVDdy1hZlJ4cGUzdTl2VFpSVnJibUZmUV96RW0yQUNoLXJianpsV2ZQNkVXaF9yQjU5SEVYNlI0bDRabUE?oc=5
+
+- ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い オプション市場は9万ドルを意識｜仮想NISHI - CoinPost
+  https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5aWU40Nzc5dE5adEdOaG1xTmdqVk1qR2MxbzhLaHMxWHNlZlYxbDYwek9jeUhvOUhNelZyejBMekVyRDQ?oc=5
+
+- 強い台風18号(ソウデル)が接近 沖縄は暴風雨のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE56WmZmaDI2VG9iWDJBN3czR0FfVGZ3d09KckpFU2I2NW5EQnRENVBpZFZJWUdoRE9jLXI4VWxkVmRhNEF0OVNWbHM5QjA2U0pwVGYyaA?oc=5
+
+- 安愚楽牧場破綻１５年、続く苦しみに被害者「無念」…被害総額４２００億円のうち被害者に戻ったのは５ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zc1M0T3FZVlJtY0JwelNXbTlnSWhSUU0xc2xXU3YwbFhEcjBjZ0h4ZnRETURjNHNvZ0g1c3NOc1FzSXkySmlISWgtN1R3TUJVdGtSM1JYY050czIyZlpRZWdYZHJGZw?oc=5
 
 - 半身まひ８８歳夫が認知症８７歳妻を「超・老老介護」、後期高齢者同士が４割近く…根強い「家族の責任」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE14SnJnVURScGNLeGVCUlpNVlNVczBNZWtPcWg2UWV1V0JMOFB0Vmcxdkt0cEpaVXJ6enJDN3BHRFBBYVI3ZmV5azA5bVR1NEZQQjVtVGQ4akpxOXVvS1BqX0xXUEhfUQ?oc=5
 
-- 熊本地震支援 「応援割」念頭に観光需要喚起策 木原官房長官 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0M3FqaEpaWk03TjVyS1M4TktLYWdBT21LQnczR0FnRlFRSGRrLWg2RThPR3BmdFBoVUx6Q0cySDg4bThVUFlBZTZVSXh4VWVZdmJFZDU4aTJ0ZS1HbGRR?oc=5
-
-- イランに「正しい合意」締結の準備できていない＝トランプ氏 - ロイター
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmlJWVJ5b1pRVEVwaFdsalZTc1RxLTg1T1R4d2pVdThYdTFMN0ZZc29MTUZjdTJlYkRjdmJhVm44blhrb09td1Z1UGlJWFRUUjZOb3BDT3hqbWxNNVR1amNkWDJQdTFqdy1UNXJVd3RsWGswQU5UNmVFQzRRcmc3TVd3?oc=5
+- 滋賀県野洲市のライトケミカル工業の工場で作業員２人心肺停止…釜の研磨作業中、酸欠か - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xaEZSMHRlbks5akZXNFBkTFVEZ3NobEFlZ1BLdi14enpLMGNnT3dLZ1FoVGZMVHdUWThtdHRGZXZjZktJRTFOVVZ5OVpuS2V3bWtfb2stR1F5UF84RzFNSkNvMDdUdw?oc=5
 
 - 【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨 - 千葉日報オンライン
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5
 
-- 千葉豪雨の被災車両、レッカー移動に「４０万円」…現場にも一時保管場所にも見当たらず盗難被害の例も - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uOXk2SUozN2VqTWVJVUthZzNWc3VCQXRfUUZLUE1FazZxV1JCdjRQOHBhNElmM1VYLXJ3M1FSdGRrSGdmem8zR1BYZ3FqM3JHNTdvSUJoWWJSdnRhRkpuUXZsZGxSQQ?oc=5
-
-- 紀子さま パラグアイ公式訪問で見せたファッションに注目集まる 「着物姿が美しい」「ピンクのラパチョとてもきれい」 - まいどなニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRzJjNnBjUVlTb25PNjV6bFZRa2M2RENWWWltWWx5dTdkMFlsMnIwc1ZEY2R0NjViNlpHcGtnNHRlNTRXTFpDZ18zNVdqVl9a?oc=5
-
-- 「トリプル台風」発生中　沖縄は雨風が強まり荒天　九州～関東は危険な暑さ　酷暑日も(気象予報士 吉田　友海 2026年08月22日) - tenki.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOVVJRWdpMHdVckMxeVlnZ1NlX1N4dGh5MFFMU3lscVktS2lPS3p2X0d6UmpRT3lkMkZhUDRFeW04QjZkMC02VmVwZHhUTkRvVElhSVN3c2JZbGQ1a1dfQ2ZvOE03OVZrQlVV0gFwQVVfeXFMTVJXUU9hWmhOcy1vQlhVRzlkVUJSTS1VVE9USVI1MUVvOXVXNVdGRW41UTlrYU85UGZ6WXlscDBncmd1Qy1nZ1NLSVdsTWhfLWNKblk4MU5PUUFJSmFtTkhwNVk0eXJCVnd1NVhkZUtKSw?oc=5
-
-- 「3万5000円支払った」突如中止の花火大会…チケット購入者に募る不信感「返金と謝罪を求める」幻と消えた夏の思い出「心にぽっかり穴」 琵琶湖三市同時花火大会 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFA1N1drYUg4SFMzMWozLVdZVHdPMFlaclh3aEZ4M2JoTVZpTkk3OXJqMUpfRWhCRHdtU1FteHU4ek5RVW5jbTdIYVd6MEw2MzhoUUVUSHNtR2txOXgxSUtpaVFvaGRsX3FZdjUwanJ6c2QzOGV0TGRpZEVqQ0RJZ2M?oc=5
+- “採決中止”の動議を出した県議は議長の元秘書 批判殺到し自身のHPを一時停止 「議長本人から動議提出の指示を受けた事実はない」 【福岡発】（FNNプライムオンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE43bVd5UWlhSDlCRlhwX2xOUjFSckZCT0VGTlBKZXRwZ2J0Sk1IR0toZ0F3dUpBZGRWSDljY2h4RVB6SlhrRWdGWkFXamRPTWxfQlFFcGU2eHFpd0JVc04xYi05dVYybXBldndjMmNFRWwxYUhlVS1oSmtBTlBOaDA?oc=5
 
 - 橋本氏「みんなで担う党に」玉木氏「政権準備の3年に」国民民主代表選〝総総分離〟で火花 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5Jd3hSZXB4dWZLOE9WMFVaNEFrVk9YUGJDX2dUNTZWVW82REFSVXQ2eGxISDVWQ05MS2hjWk5nWDJraW1NV2ZkQ3BDblowWWVhSjdRbENiVFVDNlJiWWQ4dURVUjdnV1laUFA4NTRvZHdxVHJPY1E?oc=5
