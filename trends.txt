@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 茨城県南部震源の地震、茨城・埼玉・千葉・神奈川で少なくとも２２人負傷…８０代女性がベッドから転落し重傷 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE85VUxTR0l2MWx2R3ZWN1hnRnlkeE1JYTRTeDJkdURNMU42Q0hFQU5XbnNTQkxxdFhIQ0Foa1Z5NDEwY2hIZTd4dEFBTW1tQUZadVRxZEJ5SjltODN2QXRLbEQ1ZmJKUQ?oc=5
+- 東京23区などで階級2「長周期地震動」観測 高層ビル「歩行困難」も、関東で震度5弱 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE50d3A3Qy1KdVlJNk9PTkVyZFlrSmxrUVc5SWZyRXhrV1pLOUpVRU1vYzgwRzBuZzlFeXJYdHJmaHZENE9pbUZtQmJ0aHRQNlhISkxXdkNjN1UxZ244YzV6VEs3eGJ1aU9OVS1qdXVhUHBGdVBrUEE?oc=5
 
-- 台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wbUFoR1VOZkk5SU83QWVlbFFtS1RBc1E0QndROHZSUGx0SF9zZjBDOWRNb2JKVW5pOW9rODd4OTVqR3lUQjVRS21sSjNGeEdqWUxKbmZRYUh4NmMwTVJJ?oc=5
+- イラン、アメリカの経済制裁強化に反発「域外各国にも影響」…トランプ氏「何が起きるか見ている」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ma2hoa2sxS0JENWYzWFY2S0o4Q3BFNFdSWVJ2dzVCZk1TdDdweTZPWG5aYktwOVBPZ3NyaW1lRzF6Zk00MmxIQzk0eUJWY3Q5T1NfNmxESTNhZ3BZQURCb1ZB?oc=5
 
-- 関東は今日も雲多く大気不安定 北部中心に急な強い雨や雷雨に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZQzctVlVST3FESnVtTzZnSVo2c2tlcno2cmhPeDBkZ2Z4Q1FncG1CM2RCTHF3WjNiZk1jYnljUmRvXzJpeHVNWXQxU0ZOWDJ2aVdxLQ?oc=5
+- 週間天気予報 西日本・東日本は猛烈な残暑に 沖縄は早めの台風対策を - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MWJ3Sk83WXJsVlZqN0tFN2Rid3V5RjJ1VmN1ajQyVXRIc0lMY051by1uZWJwcTNSQkk3UURIVHlDRnhxUHJreUctQjlzdVFGS2JVUg?oc=5
 
-- 東京・埼玉で猛烈な雨…「記録的短時間大雨」相次ぐ 23日も天気急変に注意（2026年8月22日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFB4RWZBaUlWUXdRNlJzQ3NYS1o2Q1c4RFg4ZmRTWGRuWlVoWHlUQ0piSHJ1NTNjT2xVT3NOcDM2VHpROEVqMDN0V0JIcVRFM0VqY29xcWJKNEZfTnpyRTFIQTlXQ1U0aEtucTZGVDNhTnVBenNLOE1CV2JMODA?oc=5
+- 台風18号　25日～27日頃に沖縄接近　電柱が倒壊するような猛烈な風や高波に警戒(気象予報士 堂本　幸代 2026年08月23日) - tenki.jp
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE92X0JoeG1TN3pZU2gtYkF5UXlNUTFYcHh6cmRuZ05ybWZRaG5hME0xYUR2bmJzNzJfcUhuZ3U1RDlSclp4LVNlVjlPbEdOV0FwckVxNW9MNFJTS1lDdldRVjRzR2p3NFlIc0w2TENOeWTSAXZBVV95cUxNMEJMb3I4N0Z2X25TMUpHQ1d6eDM5OE54b09teXNpV19YV3ZzX2Z4VW5NRElYMUVMOHVTOEZtUkhhRGhuSzU2MzloaVlwZVlabVNwWi1Kck5oelBVb0lfS3gwVHpxYWd1X2xoOHhUNWNQX21TbXFn?oc=5
 
-- 「手はバンザイ、足はM字、体中パンパンに…」事件から数日後、真夏の空き地で発見された15歳娘 対面した父の絶望「変わり果てた姿でも、顔を見て一目瞭然でした」【女子中学生殺害遺棄事件/第2話】（RSK山陽放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9EQkRYcUN1UjNIeWF5bWY4V1Q5emd2Ry1tSnpsY2REYnA2SDdYeG5iRHQxYmZkZGhfZFB5OUtwaXFmaWtSMW1Td3RCQWRtUGd3ZXVNd2lVMlNwV1VPZTR5MnBGNDRKOHZ6aW9fZGNTcDBWNDFEaGtxdVQ0a2dEX2M?oc=5
+- 東京・埼玉に「記録的短時間大雨」 飲食店で浸水 道路陥没で信号機傾く - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mVUhOLWZVdVM0a2I0aDRvOHhqakVIak90OHRycGxyaEd5WEt2Qk4zbWRsTkc2QWVyYl92UWFuN2xBZXA4VU1JYjF2dG1xQQ?oc=5
 
-- 東海〜九州・沖縄の27府県に熱中症警戒アラート 危険な暑さに警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IU0RkOTJYSWxoNm1CNDB1NDlwYkswTmc5LThZeFktYXhJblg5V1V0ejBwMllvZTlQOVV3SjdiM0FSYWJPLVNLV2ZaMFBKUC1abmtFSg?oc=5
-
-- 台風18号は強い勢力で沖縄に接近へ 台風20号による大雨にも警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE11Y01GemttaTM4bXJCWGUzQW41Y2xNSmJvcXk5Rnc5ZUhrUl9tUndrZ1J3V1E1MV9qQ2hPSU5ydWotTmF1YnJNSDlGSjhOakZYOGxaRA?oc=5
+- 秋篠宮ご夫妻、日本人移住90年式典に 「困難を克服、心から敬意」 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Wk91NnFSa3ltQWZnUkJ4dlhkV1p5cXVLSi15WGJCWi1YX1Nhcy1IMFpwN1I2ODB6TkxEckdOT1VUZ0lzMjY0cUZoTFBnd29tOEF2aEN0ZFFBbHI1bnB6OV94MzNHb0U?oc=5
 
 - 台風21号発生へ…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfRTN3OFZqUldibXVXUzYyeElMOTIxWkNtdVVXSGo5b2N0b3BVWWlYa00wNUpCRWtGd0lnUGdkeHdGUjdrTlRaQUdCV1k0RlNxQUdfaWYxYW5iRGhYN3c?oc=5
 
+- 自民、沖縄県政奪還へ総力戦 幹部投入、政党色に配慮も - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxc1c2bm5ZRktldlhGNzdCZEhBTEtDUVpqYVRFMTRkeTFwSkZfd2hvVFZSajYxQ0V4NkFPSWdVQ2JLRE5EYnN3ZFdISHBNUlUtZHROQWhvTmozZ3hTa1h1RUZEZw?oc=5
+
+- 心肺停止で搬送の作業員2人死亡、酸欠の可能性 滋賀・野洲の工場 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBVWU5iQ3VINDhsZXFPczhlT2xTa2o3bmRtZFJ1LURLa2o2ZzZwUFhyRHgtOUgtSkU3dnowQU84Qng5QTRuaWVaSXhJaFhoTGc1YWRpZDRJQm1KUUVCSmtZQTR6MWtnNFBxbkdzcVpDci1RQk96N3c?oc=5
+
 - 琵琶湖の花火中止問題、返金求め出店者らが「被害者の会」 チケット購入者にも参加呼びかけ - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUWmdDMHlrNUZaaXI4blpEODkzc3RQN25LS1duZy1vOHYzVmVibGRKNHF2OXZPLTU0cHMxUmRPX1V5d1pzLWRXTm1PNktyd1VkYUN4MQ?oc=5
-
-- 【沖縄知事選】支持基盤は古謝玄太氏が圧倒 玉城デニー氏の3倍 衆院選政党別得票で2氏を比較｜グラフあり - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CcTFKM2FfQzNFbHZtc1ZOZE1hYnJlcThoaVplb3owZjdoVG9aa3MzTC1FR0ZlUmtPWTVrVnFCZ2NIX0NKYU9Hak03VVp3ZjVRWHBCbGtielVLek9IWUE?oc=5
