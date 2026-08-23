@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 関東で震度5弱 「地震の巣」で発生、首都直下との関係は - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdEp4Nng0bFJBRzgyOUFKVnZIUUZPVmJ5d2JyeGpqUXJ0RTJyWkp2WlhkdGRWMTE2RThtVUkwYmxncUpENmdDb2dBNzhwb3pfakVIb2xyUnE5MWM3bnlGTF9XYjRJdHlq?oc=5
+- 高市内閣の支持率５６％、７月調査から１ポイント減り最低を更新…読売世論調査 - 読売新聞
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE82WTV1OHpZckw2Y1RJUm9icE9tQjRXSmwxSm1ONW0tYXk3Ul9kWDRZekcwWWJ5QkRGY0drUENYV3NlVVl2SGxMelJnaVpwQjN2eVk4M3huRGY4Z09HVlowbFFBd1dhVHBxUWN5S1JOaWI5S0pLakE?oc=5
 
-- イラン、アメリカの経済制裁強化に反発「域外各国にも影響」…トランプ氏「何が起きるか見ている」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ma2hoa2sxS0JENWYzWFY2S0o4Q3BFNFdSWVJ2dzVCZk1TdDdweTZPWG5aYktwOVBPZ3NyaW1lRzF6Zk00MmxIQzk0eUJWY3Q5T1NfNmxESTNhZ3BZQURCb1ZB?oc=5
+- イラン、米制裁に協力なら「敵」 ホルムズ海峡通さずとけん制 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZHEtR2p6N0paR3lhNjFyOGlBdVNLc1JGT014S3c5Z2RlLTFVQ1pOQmdPbDVpUllrRkJocGVWSHRIQlFMNHVCLU1WYnQ2TXBIbTVYQ1NYTVg0d3E5bkVTM1B5RmZ6X0taN3JFaA?oc=5
 
-- 台風18号は非常に強い勢力に発達 台風20号による大雨にも警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yMlhxQVl6MkNub0ZEeUF2dGQ3U3phRy1hWE1KdEpsUzhPUmxFeDhvcEJ2NEJpZDQ5eDB1Q25TZWYyUURDbDhtMF9lZkNEdzc5dXJTeg?oc=5
-
-- 秋篠宮ご夫妻 パラグアイで日本人が初めて移住した地域を訪問 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE44SUVQQUFUSHFYZEpWTDNHejhoc3FGZXRpRlRkNlItVE5aVnNoRG1zUXd5dHljRlhFMjNGUmZWRktmUk1haTF3MFZzZXhaSFEwZkY4Ync1ZGNnOW9Nd3pB?oc=5
+- 福岡市の高島宗一郎市長、１１月の市長選不出馬を表明…自身のＳＮＳで「次の世代に襷を繋ぎたい」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5UnliSnR4S25ScGlZRGxXVkRpM2RDd1A2a0xIODhkZzJ5a3Jpdk5KZ0lwY011RmNPQXJfcHRzZHAtNmVJRGVkd2dvRWxCS0tMdVFoQk1fdFlDTHZNcVFJUW4yTHBIUQ?oc=5
 
 - プーチン氏、ウクライナが「パンドラの箱」開けたと非難 報復警告 - ロイター
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGVtQXlrT0FudXpwcmVlVDZYeGQ4UGpCUVQ1Rkt2VVBpYTBEUFhLQmdQZG1MWFNOMFoyeGcyZG5LT3o3QUVVQmc1ek5HWDBpMGVUVWlCZk03elhTNy1WcGRDYVcwOFJpQVRPblpyamFWTWN4MEVzb01FU2c5aGt3WQ?oc=5
 
+- 立民、公明との統一会派も選択肢 水岡氏、3党合流困難なら - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WlJQNWlYdEdrZnVNdkgwR0xoaWpOZEJlZ29qeTRMSDkyT3djZW9oc1FLT1lablhlUDQ4THlOazEwdTlESUpEQmFvOA?oc=5
+
+- 関東で震度5弱 「地震の巣」で発生、首都直下との関係は - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdEp4Nng0bFJBRzgyOUFKVnZIUUZPVmJ5d2JyeGpqUXJ0RTJyWkp2WlhkdGRWMTE2RThtVUkwYmxncUpENmdDb2dBNzhwb3pfakVIb2xyUnE5MWM3bnlGTF9XYjRJdHlq?oc=5
+
+- 北海道で震度4の地震　津波の心配なし(気象予報士 日直主任 2026年08月23日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5jYVNMN1NFdWNnQnBYZ1NrOHNhNG5hQWdVNlIwVl85SURJNnpuNW5ZR2ZteHNSM2dfWDhoelRkd05BalhpYXZKLWFRdmlOaFdoLXZWdHlLS1BOc01NaWE5dWVYTzNWX0xyMHfSAW9BVV95cUxOeFdsYjBwdFhZS1VvMEJPNmRnc2h2MWJYRHREaG1nTHY3dEM0ZVM4VUNRdFN0b2FMRGh3OVVpb3hKVkpPNDIxQV84c0VzUklDamZfMWlOY191MFl3bXltbXRtaTRUQ2RqMGxYZHZmcXM?oc=5
+
+- 台風18号は非常に強い勢力に発達 台風20号による大雨にも警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yMlhxQVl6MkNub0ZEeUF2dGQ3U3phRy1hWE1KdEpsUzhPUmxFeDhvcEJ2NEJpZDQ5eDB1Q25TZWYyUURDbDhtMF9lZkNEdzc5dXJTeg?oc=5
+
 - 大津で観測史上最高の39.2℃ 週明けも深刻な残暑に - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tMmtqOFFxZmUteDNPZVRiYk9CckI4MFA1NXVDdnZwZ0hPb3ZkMWZRMk1RcWE0M1pnb0M3d01FM1pIRk5ERHRfSHd1TDNwelVHTUg1bA?oc=5
 
-- 東京・埼玉に「記録的短時間大雨」 飲食店で浸水 道路陥没で信号機傾く - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mVUhOLWZVdVM0a2I0aDRvOHhqakVIak90OHRycGxyaEd5WEt2Qk4zbWRsTkc2QWVyYl92UWFuN2xBZXA4VU1JYjF2dG1xQQ?oc=5
-
-- 「異常な発達障害者」 横浜市長巡り市議がX投稿 識者ら批判 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoUXFUemtxbFlpVFB4N0RmTkxRZzM5NDlLOGhiUmxoY3ZUQ2VLYnJyU2E0NGV1aWFRVUl3a051SUd4bkNMc0NzOXY1YTZnUGppaklQUHNTNmktV0t4NjNMMVFobjA0SUNw?oc=5
-
-- 心肺停止で搬送の作業員2人死亡、酸欠の可能性 滋賀・野洲の工場 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBVWU5iQ3VINDhsZXFPczhlT2xTa2o3bmRtZFJ1LURLa2o2ZzZwUFhyRHgtOUgtSkU3dnowQU84Qng5QTRuaWVaSXhJaFhoTGc1YWRpZDRJQm1KUUVCSmtZQTR6MWtnNFBxbkdzcVpDci1RQk96N3c?oc=5
-
-- 薬師寺の国宝に液体かけた疑い 台湾出身の女「感動したものに…」 [奈良県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5OGo4N2s2dEtxdnBMRzRmV2VabWRyRnpzU1pvQVppQXVteWhDbDNhX1hPNUhDSVJBVzBKRVlaS1plS1hFZ0FQOWlsTHpPR201Yll6YkhsTmR4Q0tZMldVTmZYV0F2Vkk?oc=5
+- 【速報】福岡県議現金授受疑惑、実態調査必要74％ - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE02WDI5WXlpdEhTZlRhbDNTSGRZS2p3V0hrR0xRUjBYSXJxS2JtV0RkVnBRTUxLOElKTWR6cmlUWFRIOHFlTUxCLS1tVQ?oc=5
