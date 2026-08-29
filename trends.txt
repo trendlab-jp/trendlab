@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 中国・ネパール土石流、行方不明2980人 死者633人「土砂ダム」決壊で新たな災害も - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1LaWxJSUlYTGVFTGlMUDEtNkZHUk5wMHF0ZnI1eUYtUE9IU3hvbW1VODV0bHpiU0huT0Fsc0FGNTdHUWZIYUpXam1GN1pIT2t3anc5cmNOa2hKUW1OQnlxMGUzZ2Fyc3RSWm9OYlFsazFOR290Qmc?oc=5
+- ネパール・中国土石流 行方不明になった旅好きの仲良し一家 周辺住民が無事祈る（産経新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wd2UwT3FiTVNOMmJQMlJfQVV0bXNCb2FOeHJkQmxVYUJTUGo5TDluQTlYbDBQMHA4c1AwWkc1eWJIbk9ycDNnUnR5VHJDMTFKVS1OZVR4bEZGb2ZPTjRSTERJVUpobEpLRXMxMnVmREtzM0kzMDNqTUJJUGJReDQ?oc=5
+
+- 支援物資の山に「なぜもらえないの?」 被災地を襲った想定外 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yT0dMTkRoRHpSX3FZZ2FOMkJ2WE5mSmstb2FiR0lxb2VWVXJrUEJndGVRZWVyc3otTzhtaFZGS25Pdi1XbVRIVGh0Rnc1eWN6Qzc4R1V3NnNMTFN5UmRBcEZFSnQ4aHpw?oc=5
 
 - 鹿児島 いちき串木野市の水難事故 沖合で新たに1人見つかる - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wdnZ4RzR4TkxGckdTTmNtWHVpUHFLNzNkN3VDQllheWIzclk5eHk4THBwREh2Y3NWQnVqSXUzbkRMQlJ1X0NCZnVWbVZfTGMyUHdKU1RlUFBaZkNNcHBN?oc=5
 
-- 「厳しすぎる」「巻きこまれ事故」 自民幹事長の福岡県議「非公認」発言で広がる動揺 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE02QnMzNjlsNHA3bkludVlXWDNpNW1BUzBwT01Sa1JxWUFfRXJGNHhfdV8yM2syRF81b3A5a0lMLXNmNDBMVnd0bUZxdHlseFRPbUo4Rjl3?oc=5
+- イランのモジタバ師、「国民の士気を低下させる発言」などの禁止命じる…国民の動揺抑える狙いか - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE94VTlkVmFYd094TFpjeWpuUktoN0E4Qkp6R2hpWGxpVVl5cTBBLWs0cHMwR0tJUzBIVi03Wk8zTDlja1lPWkxWaXhjeW1HMms0bzJjR2E0aE5Fc2gtR3FmOTRR?oc=5
 
-- トランプ大統領“ベネズエラ石油資源の過半数の支配権を確保” - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6SFh0VFphUXVYNVgxN2JkdFdBNE1zV3ZsdXpsNlZsVmxnY204eUlBZ1ZxMzdxdkdIX3JsM0pDRWg0LU00RUhlb1l3OHNXQWx2QjUyX3NwcDlhUEIxdG1r?oc=5
-
-- 避難所３日目「この生活いつまで」、北陸で再び大雨の恐れ…災害ごみ受け入れ開始「思い出の物もたくさん」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE83enJBZ0RjX2VySnpLbnFrQWFSUks0N2Z5dnJaNUwzaFdiNHpPWG1sSkhJYm9Nd092Z29XbzIzSDd0a2haMVlBU1EzU0c3MVB2cVE3UVN1QVgwQU5iSHNSWDRDTk9XQQ?oc=5
+- JR七尾線復旧めど立たず 敷浪、羽咋 金丸、能登部４駅で設備水没｜社会｜石川のニュース - 北國新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbEhIbnJtbUk1OHZoWEpFTGxCdWJoZVpiYmZEYlBGMGJYYjhjeWpfZTdoSVhjRllkbXFJcDNrTmt5UW14dk9MMy04WDZZSE5MU2FWdnViSQ?oc=5
 
 - 台風23号は「強い」台風に 台風22号と並んで北上中 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSTRhS1lLVllkNHEyMHM5cENvZzdlLXJzWkc2XzhvaFJ6SGFlVkVnMkpNT1I0RldFTmRLNFptN2oyWV9LV3pZQldERlJHMjk1NkpEVA?oc=5
 
+- 【速報】日本は「米犯罪の説明責任問え」とイラン - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxcFdEUTNicmJxeTRHTC1KY25PYTMtVkhsME5xcU5kQlBrZ3FTMC1XZlpHakRzTlVUcGlCZFhyZ2hxM3ZkcmxSUm01aw?oc=5
+
 - 近畿の地震確率、兵庫や福井ー滋賀県北通る８活断層で最も発生率の高い「S」に…断層密集地帯のリスクに自治体は - 読売新聞
   https://news.google.com/rss/articles/CBMickFVX3lxTE91dTQ3NXkzUGNYMEdnR1ZhVXg0UlhCemxDeW0yT1VWckxteVJKaGtsWDl1cFVSYmR4UUtHdEZ5RFB4RDRlLXZOaGhiaVp5OFhSM0dfQVZlUXhwdXJTMk1HeHJfUGV2NlQ3OEc3dGVEYmk0QQ?oc=5
 
+- 明日30日(日)　東日本中心にすっきりしない天気　北陸は引き続き大雨に注意や警戒(気象予報士 田畑　有佳子 2026年08月29日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5TVjQ0T2liN1E0Uy1JM2NrcHAzdXNvUENqb3JiMjFiMk9JOHNScTFwMXhkZ041WVNOMTRUbXY4NFR5NWhFMFBhVTRCRFpLbGFMZl81MU5RcDJqeENTWVdaTUtHWVVzWm9EalHSAW9BVV95cUxPOWlUNzF6X2xXd1dNOGR6UFFqaDlpclZWRXlMNzlna25tT0sxOHRFWE8yYXhKTTRVdEZkNWMzY29zSlJHNExyNFY1VVVsUDVFaE9ERFYyODE2ZjFTX2gtNVRkWHRtaW5wUnZvSFZyejA?oc=5
+
 - 相次ぐ首長ハラスメント 強い権限、資質に厳しい目も―横浜市長辞意表明 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JRGd6TFhBMGdrUVU4ZmNaMHJRSmFRTGVBOWpkRzRuQmtncXV1SXVnV01aeEk4Z0xFdVgxWll1TlRPYzV5Q3ZfZ3cybGxJenN2WWZiMXFPOHR4VzlDcWFRSHNobw?oc=5
-
-- 相模原17歳死亡》「どうしてそんなモノを…」現場の献花付近に“菓子の袋・吸い殻・避妊具”まで…近隣住民は困惑、SNS配信者まで現れて【発生から１週間】（集英社オンライン - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE93dVd6TjRBYjgtcldxdUx4ZWNCbEZOeE9pMjlkb05OWDZYcTljYlpzTHRjZXdHR2tUajFUQThxYW4yblpBZ0RoNC1fSHpYMXBtcXd1MXhGREpaN2F4ckRUc0FjYmtFUHRXU01ERXFVS2JBN3YxMHpDZ0Zram1vRTA?oc=5
-
-- ICC赤根所長と初日の出見た私 トランプ制裁「自分事化」する功罪 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qVVZrT25sNDlHcFYtczBlYkRfVW5MYUV6d3Q4VU5FMUhzWjN3TzVHelp0U0Etc3E1VUJyaS1GMTJfMmtnZEtTOURpZWJyNVpPMVkwOHY2VGNSanF5RFBCN1JVUm5WWlU?oc=5
