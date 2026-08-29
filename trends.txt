@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ネパール土石流「すべてを一瞬で押し流した」…死者５８４人・行方不明２５００人、不明５邦人は大阪の家族か - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE85TWFJdlZkdWNiNGQ1S2NOMXo3eHVpNDkwWTZuSGNpWHZNRmRNMnJMTldmaEJnUExpLTFGd0U5US1zQ2VWeTFscGtVbzROWTdsRzdpQmNERUlESE1uZnhsZjZB?oc=5
+- 鹿児島で沖に流された中高生のうち２人を海上で発見、いずれも心肺停止…１人の捜索続く - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vODF6b1pkRDZURktyZkF4cUZGVGMzd3dfMldCN2JyWWFWYjBISzhxOTZtWnFQbUdPdmVZYmJyNnVBUHFmcG00MGd2MWpiV1M0UVZGMU9rNHlDNEFEMUhmTEFvb1ZpUQ?oc=5
 
-- 中道への3党合流断念、立憲内で反対論根強く 統一会派結成もなし [中道改革連合][立憲民主党][公明党] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xOWVHVFFTVGU3dDlVc1NXZlJpdTlmeXBOY3JvczN2OUM0bXBzVEdmdGs2MEFrUXJLcnRlTU9VTENMb2RtYzB4bzNCejBBb2ZvMU1tSEhqLVpZc1ZmWlhiT0J4NTA1OVU?oc=5
-
-- イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUFdwV3FjZkJPclZPa3AzSWc2bXBCbzZjU0FUOTFfUUlWUEl4RG1WOU9ZaC1jZnozbjJjLWVYSlJBSzdBSVU5VmllaU8zdWowZzR5VjRkVGw1SmNhcmtLdkV3?oc=5
-
-- 福岡県議会の金銭授受疑惑、知事「蔵内氏は公の場で語って」…「見過ごしてきた当事者」指摘には「心からおわび」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UVgzZ1I1eVYzdWRPQXlUR2NxOGtsLUtKa3M0dkxxRzdJZjhfUVJEc08xV3pXTFRnXzczalJxZF82aGtVN0E0S1NubFR6dUQ2SmZFQzRaZ3dPR2djRzdGQXgwY2NYQQ?oc=5
-
-- 横浜市長は「典型例」 相次ぐ首長のパワハラに共通する「背景」 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qelJHc0sxY3pvMmM5anNxaFhkNTc5d3ctUVp5NnlCMlBXLVVFQk9ndFhwaHFKTVNidTZkX1NYcVJYM0FZdE84ZlZQblpHVHRKVHdLQU9OMGt2bjJWS0o5NWJFSFVEOEwx?oc=5
-
-- 昭和天皇「独白録」の「台本」見つかる 成立過程が明らかに - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbmJ5eG5fc0h4allYSUd6WFJCcUZqS3RsOVNQWWdMU2FQVUtDby0xLS1CQ0tCa19SSHVsMWhjcjhydFhwakJrcWF1QmxnbC1WNElNTTV0SUdPaTRMZGlKTjNaSjRFZDlf?oc=5
+- 爆発音のち濁流「ほんの1秒だった」 ネパール土石流、増える犠牲者 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Z0NnY1llb0NLOTNBTThEZVB1U0NFMkc3cUtPcWNQZ2tSNUliaTQ2cDBYYjBhdTFNZEJfQUluajMzdll4c05RUC1feTJYQU5EM3JCaVhEY2tzQVpZVFIwLTFBQzAxTm8?oc=5
 
 - JR七尾線復旧めど立たず 敷浪、羽咋 金丸、能登部４駅で設備水没｜社会｜石川のニュース - 北國新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbEhIbnJtbUk1OHZoWEpFTGxCdWJoZVpiYmZEYlBGMGJYYjhjeWpfZTdoSVhjRllkbXFJcDNrTmt5UW14dk9MMy04WDZZSE5MU2FWdnViSQ?oc=5
 
-- 高級腕時計盗、事件２日前に店を訪れた容疑者「チリでは厳しいが中野の店は簡単に盗めるのではと思った」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHR1piS1h4Y3c0enVWbnRWdnhQcnl4eGJPUVdJVGxXcnF1emhIVDhNd09kQ1hWczd3eXlEZGRKVDRSS3RNRnRSNXdfVGREamNxZ000dlhNMmVyNUYzV0ZQSmNVaGFEdw?oc=5
+- イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUFdwV3FjZkJPclZPa3AzSWc2bXBCbzZjU0FUOTFfUUlWUEl4RG1WOU9ZaC1jZnozbjJjLWVYSlJBSzdBSVU5VmllaU8zdWowZzR5VjRkVGw1SmNhcmtLdkV3?oc=5
 
-- 〈詳報〉鹿児島県いちき串木野市で中高生4人が溺れ、3人不明 岩場から2人が飛び込み、助けようと2人が続く うねる波、遊泳禁止エリア - 南日本新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yVkxnZUtTbGJCcEJxZkhUNVVqekYtYm5OckxFSzBKZ2kxUExZbXczOXo5NVZMZkMydE4zMkFveGxrMEwyaTd0N055RFNpWGhfN1JHZ0dsUQ?oc=5
+- 中道改革連合は分裂の公算、公明出身議員が離脱検討…立民は党首会談で合流しない方針伝達（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE84TWdzVl9DdE9pQ3lkS0ViSk5sQmtKa2tYM1dkSUtOWnFBd25sa1hnNncyaDQxYmFFblNYcXFrbHdjZTAtS2R2Y3Z4cnk4Q2FDV250SVBHLUxSZ09OYm1RMEtRclJaYUtwU0c1dkV6MS01dnJaVjUwMC1qLWpIR0U?oc=5
 
-- 札幌から函館に向かうには 代行輸送の詳細発表 大雨で路盤流出 特急北斗運転見合わせ ＪＲ北海道 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBqT3g0b0FGR3hZNEVGY3hEd2h1ZzVtZllCNV9sV1QwUEE0SjFwX1dDQ3hlMldGaElLNkZqdnN5Q0Mwc05LOUsxQTRGRFdLa05idWowbzd5ZXY1dnZtX3Bwc0ZhU0ZYcnpXSXpmbkFoX3NfbndfOEpkWlQ2M0xXeFU?oc=5
+- 「厳しすぎる」「巻きこまれ事故」 自民幹事長の福岡県議「非公認」発言で広がる動揺 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE02QnMzNjlsNHA3bkludVlXWDNpNW1BUzBwT01Sa1JxWUFfRXJGNHhfdV8yM2syRF81b3A5a0lMLXNmNDBMVnd0bUZxdHlseFRPbUo4Rjl3?oc=5
+
+- 横浜市長は「典型例」 相次ぐ首長のパワハラに共通する「背景」 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qelJHc0sxY3pvMmM5anNxaFhkNTc5d3ctUVp5NnlCMlBXLVVFQk9ndFhwaHFKTVNidTZkX1NYcVJYM0FZdE84ZlZQblpHVHRKVHdLQU9OMGt2bjJWS0o5NWJFSFVEOEwx?oc=5
+
+- 相模原17歳死亡》「どうしてそんなモノを…」現場の献花付近に“菓子の袋・吸い殻・避妊具”まで…近隣住民は困惑、SNS配信者まで現れて【発生から１週間】（集英社オンライン - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE93dVd6TjRBYjgtcldxdUx4ZWNCbEZOeE9pMjlkb05OWDZYcTljYlpzTHRjZXdHR2tUajFUQThxYW4yblpBZ0RoNC1fSHpYMXBtcXd1MXhGREpaN2F4ckRUc0FjYmtFUHRXU01ERXFVS2JBN3YxMHpDZ0Zram1vRTA?oc=5
+
+- ICC赤根所長と初日の出見た私 トランプ制裁「自分事化」する功罪 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qVVZrT25sNDlHcFYtczBlYkRfVW5MYUV6d3Q4VU5FMUhzWjN3TzVHelp0U0Etc3E1VUJyaS1GMTJfMmtnZEtTOURpZWJyNVpPMVkwOHY2VGNSanF5RFBCN1JVUm5WWlU?oc=5
+
+- 花火大会の天気 第98回全国花火競技大会 秋田・大曲（2026） - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tblM5SnkzcndLNVJEamVncFZCNnRScVdwREZXVkdwXzkybTItS0tQakJzeGk2ZGxsZ0ZycEpReU9JVkF3NGpJclg5U29SMkhTcWpfcA?oc=5
