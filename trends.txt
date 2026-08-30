@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ネパール土石流、トンネル内に１００人以上閉じ込めか…死者は中国側含め計７６８人・行方不明３０００人 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBScE1XMmNoUVdLYXRGY2c4Y0NrZldLV0FGb1NXZEsxN0lNVVg4Ri1HU2VKMHZMN0ZrSEtPUERQMnRWbW1jRThnSHRzT1FLZjJFb1ozODhrRXRPd3ZzZjlSLUZn?oc=5
+- 土石流、時速１８０キロで崩落 ７分で検問所到達、死者７９７人に―中国・ネパール - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UzRwd1U0ekl2Q05PWVZIdUhPcUxIWVNQZXFfVW5sTGFOcHlLSmZJQ193b3dGOW5QanNKZjYxdmk5OXJURk5rT0diSU5mZ3JiNURYaFRvVmVGTVpoRzJGVk16cw?oc=5
 
-- 福岡県、議員連盟へ毎年度1200万円上限に公費補助 30年以上継続、廃止を検討 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE56UEZLM3dlX2tlUWRFWGNqT2tDOXowR1dQbzBjS0c0VGFnS2xuQ0J2TFUxNkl1RGlDaGF4ZlV3cWRiX2lKTUhpNmpkQkoxV0swUjYzRHlIazZZZ1FabGNybl9rbWgwQjI3bGdtMWctTUo2c0VkZ1E?oc=5
+- 福岡県が「議員連盟」へ補助金１２００万円、数十年にわたり予算化…高額海外視察が問題視され廃止方針 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdWxDSGx0M3FjcUVwUnJXY1I1c2RKcGVNN0NUc2hSX24zWmFGWmluc2hYYzdPTTZLSVNqcm90VDVNekFQN0RhOUpiUVdFYllUdWhUYVloRGxpQUZJeVIyUFhKbHg4Zw?oc=5
 
-- イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ - ロイター
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3BkY0Q5VDI4cG5lWnpxUnVxc0piTEFsenVfRkd6ZUtTVVlZclV2Vk5RMURXaXRXVnpVbFB4NVBnMERmZjZBZGlNVkRFSGpOMjV6UVMxelpiSHpBN18xUGFHMnFXTWZkMmI1dXRac0NLR3VlOEVNZklKOGJUVU5faXFR?oc=5
+- 紛糾４時間の保護者説明会…質疑応答なしの動きに「向き合う姿勢感じず」 同志社国際高 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1FZWFqZ3h0M2hHblA1eEdwaDVFZEE2VkMwa19mMFdmTnloQ0VYS2RHUXJmU1VNc3VDMktTMDJMX1Z0RVF4WkRGMUZhYzlTTE5XOUlTS0M3RXVjbEdKVDhINFkyR1ZGWE90cDdrSm04N3NLV2JpSWc?oc=5
 
-- 香川県知事選挙、現職の池田豊人氏が再選…新人３人を破る - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpSkl5eUJ0NFIyRU5hcGFpcGZETTZmNWhKbXVmWTBwRUdaTzc5bThjRUtzYVVFWnN1NDdaM3BuYzBZWkRLeHZhREJ2Mmg2WW9lc0t0aUl1SGpZeXp5TGdDRFg1SzMzQQ?oc=5
+- 氾濫した河川、水をかき分け進む車も 丸岡城周辺も冠水 福井の大雨 [福井県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hdi1BVVBnMmp4aFlkMzY5T0otVTdwU1U2V0poZF9meWhfYjlEd0ZMVkpBdFpleHphSFVTT1Y2NlhBSE1BUm1fODZET0Y4bUhjbU1hSmlXYmhZUkoySDdhTXBZTGF6LWc?oc=5
 
-- 福井・大雨 福井空港で滑走路などが冠水 各地で浸水相次ぐ - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnYzQ0QWZUc2lBMUZYX1BTZTZuWC1OSEJZcTh0bWs0Sml6cER6UHpiR1ZVM3ZnWjFvSVRtYVZ5enpWbWo4TDZBU3ZwZzIyb3Q4ZldreUlMX05sOG42TS1fRTZOT0J5Y1JN?oc=5
+- 香川県知事選 池田豊人氏が再選 実績強調、共産推薦ら3新人破る - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBxZ2luZ2JQSDdUeFU5TW9QTnF1eFJ4WjNnWndPV3FmYjRKNjJJTy0ybS1NVTdYUVg4NXBzSW5xdXVFMVZmeU5LXzVvR2V2RVdjUDF6TFRFNDVLMDdPRURSZjN1OE9vNEZQLUdIWkxCYThuVk9CSlE?oc=5
 
-- 高市内閣支持4ポイント上昇62% 減税「社会保障に不安」64% - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE03UnRNbFJ5dmdQUnpKWGJaRURWMC1hSFp4TXoxUzd0OEI1cy1Yc0JXc0tyRVVscWNSRHlKcF9falhKc3ZFTTFsanE0YVFjbU1JNE9PMWV3cmtIVmdOXzJ3ZUZzeGgtZTdudFhONQ?oc=5
+- 【速報】中道分裂の公算大、公明出身が離脱調整 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3NmVTLWp4dzcwS0V2M3VoQUFpX2dVSnRXQ0hDYlZJOHdHNkJ0Q0hHQVhKUWdub1NuRjZCdWFKV182Mm4yVVEwMHd4Yw?oc=5
 
 - 山口の製菓店で80代の男性死亡、殺人事件か（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5rN1k3TElzenFSSW9vLXNadHo2WW1YSS1CdWNTWktCVTkxZ0pNR052NDRnWXlsSGZDcnQwcUplcUxTQ2ZXTFEyR3AtX2VkcFM1LWc1UHdwbThDOTVyZ2tTNHBvOVJLdDBBUk5zQUs3VjZwNjQwSTJoUWFNVHFoSDQ?oc=5
 
+- 台風23号は足早に北上 22号は東に進んだ後、進路を北に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE03MFdWZ0hLUkVoU0hWSjVwZlFqdkU4RnBKWE9BMEhrOF9DLVU0b09nMl9yUWYxMHh2T1ZEQXE0ZXMzNkNzeTVFM0hJaWc5dXpQUnVaVg?oc=5
+
 - 沖縄 読谷村 ダムで中学生含む2人が溺れる 搬送時意識なし - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3clhiR3dXOTI5OEVEQ25mLVYxazNJWDBkR1paZ0lvTkRBX2V6RDBhZGYyWnRBVmJiR2M3MHlRbWxRSjBLWGJFQzVjR1ZLd2gzb0ptSHV2WGRQZF9UWmRv?oc=5
-
-- 【速報】レゴランドのアトラクションで一時閉じ込め 乗客11人救助 けが人なし - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBQRF9pdDYzLUhsaFpVRExIRWVsMk00eVNJNjJsZkNPQm1lWEdpVUltdktWNTBFT3lGek9odWZyX3A4VGp4VXFXWnRUamxkYjNZN0lVc0plTExZQUhGNmNYMFNUUk52Yl9YSi1jeXdRS1ZIdw?oc=5
 
 - 東京ディズニーランドで「客の手荷物から煙」…モバイルバッテリーからか、けが人なし - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZT1A5ZUxEc0VVcmZzM2ViMlZjaExjV0NYNGNESUJ5Z0x4bDJ0VGRmVm9VYXk4OVlBdlZDUzl6YWswOEI5YWJfMGR4RkhRR2pJcmduYTl1MXFrTXhFV1BoQ0lCb0Jsdw?oc=5
