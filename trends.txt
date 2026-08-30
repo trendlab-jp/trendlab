@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 香川県知事選挙、現職の池田豊人氏の再選確実に…新人３人を破る - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpSkl5eUJ0NFIyRU5hcGFpcGZETTZmNWhKbXVmWTBwRUdaTzc5bThjRUtzYVVFWnN1NDdaM3BuYzBZWkRLeHZhREJ2Mmg2WW9lc0t0aUl1SGpZeXp5TGdDRFg1SzMzQQ?oc=5
-
-- “ネパール側の海抜約5000メートル地点の氷河が崩壊・落下” 中国当局発表 大規模土石流の原因 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE4tUHRCTkdQX3p6eUFuNm9vSEhMLWFUekRrbzdia3Y5WklzWWltcTlDeVBJb2RleDBqblByMGphcjYwOVBGSmIyTTljWWZJNnBVVjBVRkxPc0NwM1lGbk1iOExLZnMzT0xZdUJWTXZDelE2OGFEQ0F5SXJGajRHOTQ?oc=5
+- ネパール土石流、トンネル内に１００人以上閉じ込めか…死者は中国側含め計７６８人・行方不明３０００人 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBScE1XMmNoUVdLYXRGY2c4Y0NrZldLV0FGb1NXZEsxN0lNVVg4Ri1HU2VKMHZMN0ZrSEtPUERQMnRWbW1jRThnSHRzT1FLZjJFb1ozODhrRXRPd3ZzZjlSLUZn?oc=5
 
 - 福岡県、議員連盟へ毎年度1200万円上限に公費補助 30年以上継続、廃止を検討 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE56UEZLM3dlX2tlUWRFWGNqT2tDOXowR1dQbzBjS0c0VGFnS2xuQ0J2TFUxNkl1RGlDaGF4ZlV3cWRiX2lKTUhpNmpkQkoxV0swUjYzRHlIazZZZ1FabGNybl9rbWgwQjI3bGdtMWctTUo2c0VkZ1E?oc=5
 
-- 福井3市に一時大雨特別警報、30万人超に緊急安全確保 2人軽傷 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdHRFUDdPeFhVdWdYRktaejRJVUt5MmNSLVNyREZmSl9sZVcwX3NHazF3ZXVyRnh4QkRCMl9lSGd1ZzFvalB1N3Zzb1NubTkwNVdXbkVTMEwyRFZZUS1MTDR4bzA2Umc?oc=5
+- イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ - ロイター
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3BkY0Q5VDI4cG5lWnpxUnVxc0piTEFsenVfRkd6ZUtTVVlZclV2Vk5RMURXaXRXVnpVbFB4NVBnMERmZjZBZGlNVkRFSGpOMjV6UVMxelpiSHpBN18xUGFHMnFXTWZkMmI1dXRac0NLR3VlOEVNZklKOGJUVU5faXFR?oc=5
 
-- 【速報】東京ディズニーランドの施設で「客の荷物から煙が出ている」と119番通報 全員避難済みでけが人確認なし - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE00VXgtZGhadndPZGgtS3M1MmUxdHBrSk5JU3MzRENQU3N2RE9ZbGVmd3VTNEtGd0RsQkZMbFVUTHpZX1hKQ04xdDA2OXd4RE5XYkZtWXBjSQ?oc=5
+- 香川県知事選挙、現職の池田豊人氏が再選…新人３人を破る - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpSkl5eUJ0NFIyRU5hcGFpcGZETTZmNWhKbXVmWTBwRUdaTzc5bThjRUtzYVVFWnN1NDdaM3BuYzBZWkRLeHZhREJ2Mmg2WW9lc0t0aUl1SGpZeXp5TGdDRFg1SzMzQQ?oc=5
+
+- 福井・大雨 福井空港で滑走路などが冠水 各地で浸水相次ぐ - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnYzQ0QWZUc2lBMUZYX1BTZTZuWC1OSEJZcTh0bWs0Sml6cER6UHpiR1ZVM3ZnWjFvSVRtYVZ5enpWbWo4TDZBU3ZwZzIyb3Q4ZldreUlMX05sOG42TS1fRTZOT0J5Y1JN?oc=5
 
 - 高市内閣支持4ポイント上昇62% 減税「社会保障に不安」64% - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE03UnRNbFJ5dmdQUnpKWGJaRURWMC1hSFp4TXoxUzd0OEI1cy1Yc0JXc0tyRVVscWNSRHlKcF9falhKc3ZFTTFsanE0YVFjbU1JNE9PMWV3cmtIVmdOXzJ3ZUZzeGgtZTdudFhONQ?oc=5
 
+- 山口の製菓店で80代の男性死亡、殺人事件か（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5rN1k3TElzenFSSW9vLXNadHo2WW1YSS1CdWNTWktCVTkxZ0pNR052NDRnWXlsSGZDcnQwcUplcUxTQ2ZXTFEyR3AtX2VkcFM1LWc1UHdwbThDOTVyZ2tTNHBvOVJLdDBBUk5zQUs3VjZwNjQwSTJoUWFNVHFoSDQ?oc=5
+
+- 沖縄 読谷村 ダムで中学生含む2人が溺れる 搬送時意識なし - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3clhiR3dXOTI5OEVEQ25mLVYxazNJWDBkR1paZ0lvTkRBX2V6RDBhZGYyWnRBVmJiR2M3MHlRbWxRSjBLWGJFQzVjR1ZLd2gzb0ptSHV2WGRQZF9UWmRv?oc=5
+
 - 【速報】レゴランドのアトラクションで一時閉じ込め 乗客11人救助 けが人なし - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTFBQRF9pdDYzLUhsaFpVRExIRWVsMk00eVNJNjJsZkNPQm1lWEdpVUltdktWNTBFT3lGek9odWZyX3A4VGp4VXFXWnRUamxkYjNZN0lVc0plTExZQUhGNmNYMFNUUk52Yl9YSi1jeXdRS1ZIdw?oc=5
 
-- 大曲の花火、小松煙火工業（大仙市）に総理大臣賞【各部門の成績あり】 - 秋田魁新報電子版
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2UDZUcW9kRHh5NTAyTURtb1FkYzRjWUNjMEY1cGZKZVNneFotd2RKcmNaLWtkU1hCX1gzcW5yV0hacEViaFhmTDIySjlSOXZUU3I3QnFEUUs0VTFnZWdlRnR3?oc=5
-
-- 米政権のICC制裁、「反高市」勢力と「無責任な暴論」 国の存立基盤を壊すな 有元隆志 - 産経ニュース
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmpjYjRULUJWdTBNdnhtSXhvWWxDNk1iZHd4SVJGS1lwbkZ6dGQzazk4MGdZMVM0bjdPM25KRHdoMjM4Yi14YmdfTkllcmhBWnNhMy0ySE5BaVdvWExKNTNXaWItUFdhbFlRMElOTnpqc0lhUjRoUEg2dl9MTFZXVXgxUDV1NDd2QkczdVo1NHUxNTFxZWJPMFRkeGk?oc=5
-
-- 環境省 除染土再生利用 さいたま市にある合同庁舎の花壇でも - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YLXZLcHBaS3FGdWk3VXByUjVkVTRrb2FzaUlFa24welZqVTFVNlVDQzEyeE0xaEw0ZmFRdFhKTlpHU3dHdDJUWFRjT3JIRWo1emF5aFNLSkQxZTdqNGlV?oc=5
+- 東京ディズニーランドで「客の手荷物から煙」…モバイルバッテリーからか、けが人なし - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZT1A5ZUxEc0VVcmZzM2ViMlZjaExjV0NYNGNESUJ5Z0x4bDJ0VGRmVm9VYXk4OVlBdlZDUzl6YWswOEI5YWJfMGR4RkhRR2pJcmduYTl1MXFrTXhFV1BoQ0lCb0Jsdw?oc=5
