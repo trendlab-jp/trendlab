@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 【福井県に大雨特別警報】九頭竜川水系の龍ヶ鼻ダムで緊急放流の可能性 竹田川の水位が急激に上昇する恐れ - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1NWGZLc1I0dm53MmFZUVBaRTFpVHR6YXVBaDVreHp3aDdSUDVkYnZtWm1jeU9RSDBkSXd6enJNUV9EZ2F0dzVhZGlDVEsxTmczWm5nelVDb0x1czRiTFJDVW5LdERpRmhyN2RaTG9QLVc3WENyeVhHb09PUHg?oc=5
+- 福井市と福井県大野市・勝山市に「レベル５大雨特別警報」、３４万人に「緊急安全確保」や「避難指示」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE56ZzVqY1NBN1d0cVdqMDNTUjhwUER6YWo5eVVyYjJJMzcwZWJoUzVfYXdQRG5GdWNjamlVRzZHc1FaTXJSWjZVY1ZUNHBNT2FRZU92MW9semp5czl4WDBmcXBXOWp2QQ?oc=5
 
-- インドからチベット目指す巡礼者、韓国の発電所作業員…ネパール土石流に多くの外国人が巻き込まれる - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE13NTAwUVZxVHVGZU51VzJEcUNkV01ZZUZQYTB3UFJtZDFfTXlQM2dLdE1tWHp1YjZpbWNXN041aXU5UmVma2dSeHFpc1RyX2FYN2ZnX29zeUd2SkhONi1iWDB3?oc=5
+- ネパール・中国土石流 行方不明になった旅好きの仲良し一家 周辺住民が無事祈る - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcVFsNlBOcjc3SlpJYW4yZGtLQWdlenI1bVkzeVk5YjlhWFR6OHlFU3hRcFphTVp3UWo2SmdOalNZanl0ZXIwRERFQkYxOUFBWVNwRkloQmVlMm9CM21CLWlyV2ZaWE94cm9UbFVXUmlMcEV4eUE?oc=5
 
-- 支援物資の山に「なぜもらえないの?」 被災地を襲った想定外 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yT0dMTkRoRHpSX3FZZ2FOMkJ2WE5mSmstb2FiR0lxb2VWVXJrUEJndGVRZWVyc3otTzhtaFZGS25Pdi1XbVRIVGh0Rnc1eWN6Qzc4R1V3NnNMTFN5UmRBcEZFSnQ4aHpw?oc=5
+- 沖縄県知事選挙の関連X投稿の発信地は「東京」が最多、沖縄を上回る デマ、候補者攻撃…選挙への影響は - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Xc2xvOFlheWcyWm4zMFAxejZWMkRybWpidS1ucC1TSWlMcE9UWVRkNW9TYmM5aHlYeWk0NlZTZzk1NUtLSEpaeG9BQVlZZjN4Y2x3?oc=5
 
-- 【速報】福井県に「レベル5大雨特別警報」を発表　命を守る行動を(気象予報士 日直主任 2026年08月30日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9rODFXSzAyMDBiQ0NldzdCNzlKTm9HUDlaQkEzV3pKTmxXWjF3MHZXb3B1N0NuUkNHMS12c1RtZjM5VzV3NW9CZ0NvZExmM3RGWE9ieHM3eVA1ZXFuRlVIa1pkb1BZVWQyVVHSAW9BVV95cUxNN0c2MlJJbnV0T1EwNTU5VnpGMVI5empWUW96ejR0eXJRWjRDbkVPYlU0aGQ0QkhoNktyRTdYeGFNLWFUOERfU2lUdy1NeURHU3cyclNoeEVUOHdQaTJScVc2NkZWQVF6RDYxaUtMa1E?oc=5
+- 全国政党化に苦戦の維新、「ドン」退場の福岡県議選に２０人擁立…党内から「関西に集中した方が」の声も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWjVXQnRrbEtwdzdMZEVyQVRaUFZZQVFiYmdIOVlrS2JJYmFJUGdSYVZmQzVTNjVpdmtDc1VZT3VxbktKc1N4dHd1ZlJNbE5xbms2QjYzVnNKZF9pa1RNMVNQY1g4UQ?oc=5
 
-- 千葉県東方沖でM4.8の地震 茨城県神栖市で震度4 津波の心配なし - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NaGwxTml3Y2xOYldGUklweFY3eHlfV1otS0ZmcDdlY0owb0FnTEExZDZadzRNeFRibUtXcENJZThjWi1Ub1JZYkMtN2xyODFBaHNPOExDaTUxd2M?oc=5
+- 北陸道 福井ICと金津ICの間 上下線で通行止め - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RZk9fcG95VTloRVF6QzRGaUJlWjF3REZLTlNTeXhuSmw5UGhNLTdwVXhrQWZVWUktT2preDMtQTMwTUNkRnV4S0dCN2dvYkRBWHRXeWFSZ3k5VndVSHg4?oc=5
 
-- 福岡県、県議の任意団体に税金で補助 30年以上「垂れ流し」か - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wbWdjbzhSc2lPRlRER1RuQ1huaVZ1UzRjR3ZfbzlaMXN2ZjdMZTBHZ3FPaGZsOGdJb3JUTXBHRE9iX2MzYmZzYTc1Nk5IRldjTzdaRHdsNy1DVFctRkFGNVNpZWtoQV9H?oc=5
+- 海保が3人死亡事故で訂正 「遊泳禁止区域」は誤り（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9GeVhNd3BIVDR1UjM1QV8xZWhEc1RZZ1Y3TU5mTjNiVTJsY0FpUUJVcVBReFlDRXFpcWFLUzhVeXpfY0RtSVJIeHlZUnRjVEFBLTMweUZqem1PNnRzdV9IdExzM3MxZHZSQ0MxT2hRT3NVazBJLUtSMXc4RFU2Ync?oc=5
 
-- 秋雨前線が停滞し大気の状態不安定 北陸を中心に大雨に注意・警戒を - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PTC1FaWdEekpWeGdYUURCMzltSmUwcWZFaUZYWXFLM01kaVNJUzQxdFBsREc4akowOFNRMUZjQ3ZFTU1sNi0xYkVvU29PdS1hSzF0Nw?oc=5
+- 東海や西日本は晴れても油断禁物 急な雷雨に注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95TkNLdzcza3gyaGRab2dzQWV2ZElYd1UwTWNaWnQ4UFgzekx3Q1RfWExBYmFzQWZuYktmUHFtdnQ4UkNsdHdtM0lmOE1qcFhoSHREbQ?oc=5
 
-- 男子中高生3人不明 全員の死亡を確認 いちき串木野市 - 南日本新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uNkNFV21KTjc5MEpsXzdnQW92MnYzbFlvMjRyTU1yU1Z4V0pyc3RmZFVkcVdsNDh5X1ZSb0kyVi12Z2RzRE5QalJ4R1p6eGZ5NGU0ZG5UNA?oc=5
+- トイレあっても受け入れず 被災自治体の限界露呈 熊本地震1カ月、今回も体育館で雑魚寝 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE0yY2JrZjhRbU5JNzNjY05YdTd3WmNVajlVSGF3TFlPU25NUVBUajcwWDVzR0Q3SmdVeWRTSEFrVTJsRUVuaHhHaTgzVVFSb0E5ZGJ5REhHTXFnUF9Nc3FqdDdCdFZmX0VCMVZheDVpb3NjWWJHb0E?oc=5
 
-- 辞職に追い込まれた福岡県議会のドンの黄昏 肝いりワンヘルス事業新規凍結と闇の中の真相 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE85SEltbHpsX1JRMi1WR2ZscVh5ZlFjSWg1ZW9hS2h3SlFtM2s5RkFvVU4zbUY3dEI1c3RQblNyZ3BnelBJVEFWVmlJYzllVE1TYXRhQk5xUHpGa0YwTXVRQVNTXzg1dS03QkNkdS1LLTNkOVFwQlE?oc=5
+- 高市首相「命を守る行動を」SNSに投稿 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzMWVNVmh5N3djZC1jR1NFWm1ZT0tza0Vxd01aQTA5YkU5OTBxVHhiSU4yaXFvcE96bUtqSFJTZkpRVWRTMC1pZEdWQXVtWllKVXZraUxlT19WRmtxUnhn?oc=5
 
-- 高市首相への野次こそ民意 こんな裏工作で自民が勝ったら沖縄はオシマイ｜巻頭特集 - 日刊ゲンダイDIGITAL
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHUndoT1FmT1daTkl4S0NaMjBqencxb05ueFRjVVJaN1laNW1fVmJxMzJqWG9oaEQzaDJWTl80cUFvTExPM3lZMmZiRUxKX2NQS0xCTl9GYWk4RHV5ZVlOd2VmNWhYZw?oc=5
+- 大曲の花火「近年まれにみるいいコンディション」 河川敷１０万人、一流の技を堪能 - 秋田魁新報電子版
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQUFUOXMzRUhmdGpKSEhrMXZkb0M3WGNIcmlQZnc0RlJhdmMtdEZUeFQ0VzB3ZE9UMFEyVE1yWm5INEZxVHlnRDBxZ051MXNzMVZXUzVsSm1JbnBMRmJsZ2RR?oc=5
