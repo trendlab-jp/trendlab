@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 【福井県大雨】広範囲に冠水や浸水、早期復旧と対策願う声 収穫前の田畑も被害、農家は嘆き - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE93VVFJTkVOX29QQ2UwQXp4TS1YMFFnQmJ0Y0l4eGgtMkloTjh0elo3MS1USWZISmdSZ1U4cWVvTENTVjhKSlFMS1hYVnJLN01GRndtXzdXU094d2U4Tnc?oc=5
-
-- 香川県知事選挙の電子投票、前回選より１時間以上早く開票作業終える…有権者「簡単で良かった」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVZTdXQXQzNjZLS3NrNmZnY3hJWVZFVlBraF9PMExFN2ZRb3l2ZWJhWFROU3Z1X2dhdkNLQi04ZENzWXc5bzFLM0hrTXBQVzFFdDdvQ1pHZ3ZaWFpqd1ZqVGNWNlZRdw?oc=5
-
-- 米軍、ホルムズ海峡に近いイラン南部のミサイル発射施設を攻撃…イランへの攻撃は７月下旬以来 - 読売新聞
+- 米軍がイランのミサイル発射施設を攻撃、「脅威を作ったのはイラン」…ヨルダンの米軍基地に報復 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hY0Rhb1UwcXktcGN6ZmtiNFVONklZeFVGNzVjbUpZd05DM3FpejdISXN6c0M5MTlpWE5wZ3JqNElVSlBUS3VOYzZFbG9BN2owcjZJRlN6NDBhM2NxUjJ3aFRR?oc=5
 
-- 米軍幹部、イラン軍事作戦「持続不可能」伝達か ヘグセス国防長官に - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE8yZ0ZzbHM0WG80Q05qS00tMUlJYjBpVXF2Y2hoWFA3NDdvdDVzZm9EQ3lkbmVFblRpV0QwQ0pjekRIWGp6aWVMaGY3eHBXblZjZVZMU1dGUkl6U041Q0NOVGtpaXBZeE5McXh5aw?oc=5
+- 中道、分裂の公算 公明系が離脱検討―３党党首、３１日再会談 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqTExDV3JjZmN4a01YSUVsWFF3SE14YjFMVlZ1YUNBdWtuVmUySFpGRzNSWFN3bUZHUEJrZ0Z1QWNodkFNcXRneGlyMTZIX0RLTWlwU1pSLVFuLTFlVjZWX2U0TQ?oc=5
 
 - 滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jVG1sbHRNS09YMnlEQnhuLTlqNXd3MnVqVTNfMU1icFFYdWJFQUtJei15dkpVSlJlRzA4SXpUYVczSDY0QVZvazN3T0JwSndPTTV0OENlNDAySm9nb0pJ?oc=5
 
-- 中道、分裂の公算大 中立公、31日に党首会談 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kQXBwVDRYVFlIUHd1Z09lakE5eGdhdVBwc1ViWWF0TWtNc2J4ZDhDNmhyeTZGZl9DSmxKM0RXWXN2Vk5iWExOZ0piYw?oc=5
+- 【大雨】福井県8月31日鉄道やバスの状況まとめ 越美北線は終日運転取り止め - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jemdfZzlON0QwQ3psV096WHkxbWFqT3M0OEhndFN6SENuakkxNFdKWEY5dTlWMlRsNzVUcHd4WnJuNFRRczZMRHBfUmNmaXFUNGZ4U1RvbU52Z1pfSmc?oc=5
 
-- 【速報】台風22号は熱帯低気圧に変わりました　23号は日本のはるか東を北上中(気象予報士 日直主任 2026年08月31日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBXTnFySUZhN0xiRWM4R2lpVzBJZ3RMbjl6LUl2Wm4zVHg2SGtrSUdYODVtTGZVTHU2RGZTUWRDRWdQZmtyS01fc0d5V3VpZnNVNTI4Rlo4cG55N3Y0cDhuSW55QVRNejdBZnfSAW9BVV95cUxORzJCb0o5YTZjSVdRTzhWbmVFaG9KV2hEeUFjNFdHLTZId1JSaGk1akpfSzA2bEVrUkM0SGdTNmlhdFRBeVZsRVhrU180OWtBNS1vM243V1poQVNySEFwY2E5UEV6NEx4a2FOamgxa0U?oc=5
+- Googleマップ、オンタリオ湖を｢アメリカ湖｣に 米国で表記見直し - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBMTU1mTE1OMVVrT2ZMWjJTWXF3N2Z0VUZ2VkNTOXBRbjB3UGoybEhpTnlVdzBvU2EyV3RxRkNjZmRqVTlxd2x4Z3VsU1hNRjNFZHJsNjJwd1ZlcG96bVpoemNJVFZOMHhCR1VGRg?oc=5
+
+- 日本の南で新たな台風発生予想 次に発生すると「台風24号」 進路に注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXX3ptT1BYNlc3WE0yYl9SMkk2MWlsYlJNczh5Nnd4TUZhOHF2RjhPY0RJY0dCeXhFTGtvblU4MFhzQU1sbGViSWRia1NURXFaNGFhMg?oc=5
 
 - 核のごみ最終処分地 近く茨城・常陸大宮市に文献調査申し入れ - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UaDhpQUhZZHRYbjljdXVjeUotQ0VDbGJvNHlxT2o5TE9QS2ZudFdSZll3WnB5NTF6UDJMWlpoRzhuVlZwZUoyQmNTWGRSLVNkNDdXeXhqOVdRZUxFbFhv?oc=5
 
-- 福岡県、議連に公費で毎年度補助 年上限1200万円、廃止へ（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE04YnZNa3dQRVdsMXlLTEZvZTVocHVwOW1MVzVueDF6NzVwbGZxekttSUpLZUxONmdXRXFsdm44bVUzNGdDVXZmSlJGMzFJalBvLTV6QTFNOUU4aWVhdFhnMGtpQl9pbVhTSFZfa1A2S3BNQ0U1SHB6U3ZsTUZZams?oc=5
+- 香川県知事選挙の電子投票、前回選より１時間以上早く開票作業終える…有権者「簡単で良かった」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVZTdXQXQzNjZLS3NrNmZnY3hJWVZFVlBraF9PMExFN2ZRb3l2ZWJhWFROU3Z1X2dhdkNLQi04ZENzWXc5bzFLM0hrTXBQVzFFdDdvQ1pHZ3ZaWFpqd1ZqVGNWNlZRdw?oc=5
 
-- 「父が血まみれで倒れている」…製菓店経営の80歳男性死亡 山口・美祢 殺人事件か - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9CRjJoei05eFg3RU5rRkpWbFVLTzVYeEpKM05halZmNlhwdUZiRVJsdFllemU1RGg1YTk2YUp1aTZWZ1hxcnZmMmt6ZmwtbGJpc2pQUllOamRtSmcxVW5Oa2cwWllrVlNkU3hMV1FBRjVUM1VqeFE?oc=5
+- 「これまでの学校側対応に不満」辺野古沖転覆事故 同志社国際高が3回目の保護者説明会 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZmo5SlpETTVQYUFrU296THpmYkZvY3kzTnRVNjNhZU1LQjVIWlJDU2xBdHJGLUtsTzBlNWlybjBWOGNNT2cya1FLOGEtcVZBejRwMXZHV1FfUzlvbjNueFBLbE9ZTHpVRzk4MEVPZWVHakFIcVE?oc=5
+
+- 【更新】仙台・八幡3丁目の住宅街で熊目撃 - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSDNVbEp6N19GQ3lVYXgyVnB0NkpNX2FFcExRT0lyS0RKaDdOX0xJdFlmdHllaDZ1R1hFMU9jOFhtandKczZkcXlweEtuTzZHcGd0NnJRTWQ4cWhQM1Mxdg?oc=5
