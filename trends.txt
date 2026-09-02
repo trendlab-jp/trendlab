@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- イラン革命防衛隊、米軍への反撃を開始…「新防衛システムで無人機を撃墜」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTc2tfMmhvbWdtOWJIckJRb1VnWGpnSGtXMmRwbWFhUExyaUt1dkNCVXAtSjRUUXd3M3RzM1d4TVcybmk1VTNkUzZNM1NtQVRCZGdhWVZnWl9kN2dmeTZxdG9n?oc=5
+- ネパール土石流、標高５２００ｍの氷河・岩盤が崩落し「時速１６７ｋｍ」で流れ下ったか…温暖化の影響指摘 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE51RTF2OHYzeHgwNWxnWjBNa2FPb3U0RUFFTWphd0U1NWVEUnQzZ1VaRWRSNlRtVzhteU42RTdZdEMzN2RsVXB1bHE2VHZVVnM2QU1GVlhwazR2OFRNbVZWcDFldEQ?oc=5
 
-- 【ネパール・中国土石流】安否不明の日本人5人の生年月日をネパール当局が公開 子ども含む家族か - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZHg1RVFLTkcxTXhuZHVDWEN6bzltMkY1OVdFRjVfbkpfUndvMGRRaURrSmNtMEw2cXNoUzM4SzhkZGVUTTk4UElqVUpVLXFxMVRtckJyc1ZqSEhqWUc1X2VRUTI3VUJuUlRjZElpaWpKRzV0cjJjbkZkWFE0RXM?oc=5
+- 米軍がイラン攻撃 革命防衛隊標的 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzZDdXMHVfX2J1dEZTTW0tanNZbmxpT0pkZk5Dd2lKQmFOZmJqUldiaDhtQzNNdG9yMFpGYTM1dG9sQnBTc2lkLVo4ZEtfU0xK?oc=5
 
-- 青森県で線状降水帯が発生のおそれ 大雨に厳重警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfN29BdDZ2WTVOU1ZpeWZ4TXAwMDJDcklNNkJUamVMbWRnUXIwX1JnYTNRVzh6cXhiNHU2T21vTTRjdFpiaVM2NnI4NF9hamFJc3Zyag?oc=5
+- 青森県で1時間に約90mmの猛烈な雨 気象防災速報・記録的短時間大雨 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRMHZjNmMyS2hXS2lfcGRYM1ZzUE82Rzc1UGtkNC16SWxhS05FS1NCNER5MlV3SzFFZmI0ZEt0NGpMNVJsMFZvM29FNTBmWXJBdzRkXw?oc=5
 
-- 福岡県議会に自主解散など求める決議案、北九州市議会が採決へ…福岡市議会でも同様の動き - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRUdoTi10OURNVXZTdFlpb0plejhlVllhMS1JTXFEc2dCYjl5eF9nTWY1ckt1RUNzOEVSRlBhaWxuLVg4bzNmcnc3NEJMUTJtQURENmVZZ0xWQmpzZk1UX2xWQnV1QQ?oc=5
+- 上海協力機構首脳会議 イランの立場支持する内容の宣言発表 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxZXRRN3pGME5BZ2JQZ2VVbmJOOXRPOFdYYWE0VHo4SExNeTVqSjZVM0Q3SkRoYWE0OERVZ0ZLdExYS1J1T0FiWkFDZVg1WU51MHZuYTZ6NzluRkV5ZEM0?oc=5
 
-- 福井 生活道路の法定速度引き下げで警察などが啓発 - news.web.nhk
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KUnkyMER2U3VNQVVVSThld3N0NzlPSC1FTVBjZktMTThtMkt6OHl6OFlMZkFtN2E3Zi1fUkFnYk1pMDROUzYwajg0WXFadzYxS0pBeHB5OF9FVlBqSU4w?oc=5
+- 【台風情報】最大瞬間風速25m/s「台風24号（クロヴァン）」今後の進路は？西日本～東日本などで警報級大雨のおそれも...9月12日までの雨・風シミュレーションで確認【気象庁2日3時45分発表】 - newsdig.tbs.co.jp
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZFBHOC14UDdhMGNMNzYtTFM5VUY3X1oyV2IxQ2Z4cEFfck8yZ2lmUk5lTzBKOEpQM3QwLVlfYkxKV3U2cG5SNVl0S0dydFBGVFYyUUl0Zw?oc=5
 
-- 千葉豪雨は「異常気象」 気象庁の専門家検討会が指摘 - news.web.nhk
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oVlZNclAzT0V3UVh3XzVQSW9QWnFuYVZiQllHRFBzUHdKNXJSRnVYY3pHZE56SzdXQ0VRNkJLTTUyNEJyemtWZzQtYVZQM0xybXlqNkV4bTlzbHZIZ0pv?oc=5
+- 伊勢神宮近くの商店街火災 鎮火に向け消火活動続く - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RTUFERE16aXFPa1VLUFN3UDA2ZlkxaXhlSzV6RUM1X2FZNFFjejRXeGxOV3dWU2tmVHJNTWxPLXBDc3Y5TlpPMkFhMlh4MGtZS3hwSUZOalpsdkpOZDVz?oc=5
 
-- 台風24号は北上して大雨のおそれ 台風18号は中国の沿岸を迷走 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYUXFPWEVqdkZXZkJ6aGpiaVZDd1g2M1hZMkxVQzdxeDZhQlVtZXB1bU1fR0t1Y3lJbUQ3bUhxMGJnZkZwTWtNcUlOcUtwWWRfNUJfVg?oc=5
+- 生活道路の「時速30キロ」規制 北海道内は一般道の5割対象 標識新設せず - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVXVndXIyVm5ia2NkREdoVVp0T2dadWJGWkZmUWVKM0dtek45MG5JN3V2NmM1U0lkNnh1SWdXdDZHMHNsN2RVQlA5ZldQSGZZX184ZDJHMU8yZw?oc=5
 
-- 【台風情報】ダブル台風の進路予想は 台風18号は南シナ海を東北東へ 台風24号は日本の南でほとんど停滞、2日午後9時には、南大東島の南南東約190キロに達する予報 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE95LXFXRVJBWUF6MVI3ZlFkbmptMjhOaUVYNmFjeE4xWWdqZVRhLUQ2YldxcEJNZ1poTU9qNHk0aFNna1lyT1NSWExFcS1Edw?oc=5
+- 台風発生へ あす以降大東、沖縄本島に接近 台風18号も復活、北進か【1日朝】 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KWUpXUXd3Y1JHQllSWklSM2VPbmFudVBRQUFuc1FaamRXNmlZZV9PVWZ3SHFMVnhUTEZSSW44WGpLQnFNTHdaV0FCSnhtMVlrOTFzMkdfMWYzVk5GXzQzSw?oc=5
 
-- 伊勢神宮近くの商店街火災 鎮火至らず - news.tv-asahi.co.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE95Tk9feGNESWlsZUJuZnRDMVdnWGdBTDBBTEpVamxxN3ZUai1wNTI2MTVJQ2szVTN0Zm9jT1hpZFBOUFVkZzVINDhEWll2WTNzWkhGNnVIaXJma3htUlVPYi1sc2JwODRVY1N2M1JvQWtRZw?oc=5
+- なぜ「物流施設」が帰宅困難者の受け皿になるのか？ 千葉豪雨で1万台超の放置車両！ 受け入れ＆物流機能をどう両立するのか――防災拠点に求められる運用条件（Merkmal） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9hRFNBSW04b3ZGRVZnZ0VyQ0pEWV9Id3AyOFNkeUVnWEMwRERWLVJuZ1Q5Mll3djQxMndIdnY4dEk1MHIzUXNkdmFHN2NXcVh4QU5udGlfcVNwcTZSSEtWSlM3U2toU1d3SUpENEhhSk1sWFlCZGpnbjRndVEybW8?oc=5
 
-- 今夏の平均気温は歴代５位、昨年・一昨年を下回る…４０度以上の「酷暑日」は延べ３６地点で観測史上最多 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoWWUweUQ2RkNIbnFuUHFCbGZkRVVqTVZHUUZSUjk4SnJQQUp3ZnNfcVBOTVg4WnI3RE9IYVp3VzU4ejdPSXJoYzJBb2lVUVl6SWxhNFpPVVRLVmVJbEJTMlNYdkc1UQ?oc=5
+- 福岡県議会問題で武田良太元総務相「悪いことをしている感覚が麻痺」「県民の信頼を得ることは不可能」 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWUktY3lMdkY1dHJnWGhqN3pFdVROaWFOV2VKb1o2aXR1VExyZ000NXZmOFp0WWlFaGFkaWhDZnU2d3dOTmFIelo2S3hPLU1jRTBrUlJR?oc=5
