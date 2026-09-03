@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 自民党･鈴木俊一幹事長の再任調整 高市首相意向､麻生副総裁も続投へ - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBaenY3TWFwYy1KN1dVS09jbWxqRXpuZUEwZExyQmxUeVV0OHNQanhYc3FrUDZKQ1VYRzJVY3k1R0g0OENtZm9PUGNBdnh1eWhlV3BpQXVzSXJtTjlac0YzRU9tdE1oWS1EcjVnNA?oc=5
-
-- 長期展開していた空母リンカーン、船首から船尾までさびだらけの外観に衝撃走る - CNN.co.jp
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R1ZBaXdzTDlHMWhyQXFva1NpWnpCZnplVmtBX2JtdG54cE1NdFRsX2V5Zkd3OTdDaE9Qcks3bU1uMTdSMjhrX0Q3NnZ0aDBnbU84?oc=5
-
 - 原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター
   https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5
 
-- 台風24号(クロヴァン)は東シナ海で反転 秋雨前線の停滞で大雨に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JQjVOdmpMY2ZkeWZsYmZoSTh5akdUSXl5M1dPWEJhaFdLMmRoai00T3kwRVlmengxaVlFTnBYT3FMM2FSVUk0YW5EeE1CWENXbE5JWg?oc=5
+- 明日は九州南部で猛烈な雨のおそれ 6日(日)〜7日(月)は関東も大雨リスク - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tWEdqYzByV3FZUzlSMDlXc3JXc2VrYy1aNkhVQTZTN1ZaZWk0Tmx6cjJfeDc0YmEwbFdkZVBPb1Z0eUh2em4ydDZsX0N2WkR4MzRiMg?oc=5
+
+- ノーベル化学賞の白川英樹氏が死去、９０歳…電気通すプラスチック開発で２０００年に受賞 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JMF9PR21CXzJFcTk0NTIzMDh6aF9IQ3JRaGkxQkxFMG14YUVvb2RSbF81ZDE1eEVWaWFtZno2aGdjLU5JOEdVVGhDalFsNWhJYngtY3ZQbVZPUm1jeTNYQnZFR3lzZw?oc=5
+
+- 「われわれこそが多様性」 矛先向けられたバウハウスの反論 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zbk9GVExtS3QxQUNwWlUyOHlJcUFyTHdYLWloX2dXWWRKQmxuNWpoYXZLRlBONUNCQ2ZTRFQtLWt1ZVM4UnY5UTAyd1JrVHVLZXg2bVVEdVRVa1lNS092Z3FCRl9kTnBP?oc=5
 
 - 「まんじゅうや」の投票は無効 東京高裁、現職市長の当選認めず [茨城県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NNGg0eVFyOWFGMWtpRENWY3UxOFoybDBiY0JOTk5XQURDb1lMbkktNGRDbndNSEh6MjBCYTV4UE53aE9fSElWa1JVamtDSEplVndDc0NMUFVQZ003TC1mR2FhQzJTVXM?oc=5
 
-- ネパール外相、土石流巡り中国・アメリカ・インドに「補償」求める考え…温室効果ガスの主要排出国 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsRzROT3NIY2FJY3BtcmJKNEZRLVhUMTZkZ2Q2ZzItQXA3SWNxWWsyTTdMREl0NElWWEx0bHNQWWZueTlCbUkxMGc1STd2bnltal9lT011cXRfRDNRbnFpMnpR?oc=5
+- 中道代表、野田元首相らと会談：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE93akVZblJMLXhERi1ZQkdRNTFtRGg3ajVFZ2xZb29jX2VUSXFyRDNCYzZ4NlZvZFMweWlHM05SWVEwSTJBOGw4Unpac3NwelVEVFhIaXpPWm1EVlJFNnRQSjB6Yw?oc=5
 
-- 【線状降水帯】半日前予測 鹿児島 宮崎 に発表 鹿児島４００ミリ 福岡２００ミリ【雨シミュレーション３日（木）～６日（日）】 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVWdfb2xYYmo1RWNfVjRDNXVmaHdFV0N4WEVrZkU1S0gxTEFQWmRZUmhCdklYYkd1RC1GbVN2REtTRnBOdGkzZkhhN2VJTEp4RnozX1hIZlkydEJfbDNlTVpPQ21hWlk?oc=5
+- 【最新予報】九州南部と奄美で線状降水帯発生の恐れ 秋雨前線が停滞し長引く大雨に警戒（日テレNEWS NNN） - topics.smt.docomo.ne.jp
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHg4U05CdThyWElHU0szeGVLSlYyVDB1M1dYanJVMHNPNlVONGQ3RlNYQXBYNXQ0Nm1pd0ludXdFc1c5WDVsRWoyU2FwMDhWNFJNVjhkOXdCdzk2UzU4VWVyUHJwSDFjNWlEeFpRcEhVa1VqXzJyY25xTlBXNEtDTEluYlVEV0NQRV9LNkZn?oc=5
 
-- 【速報】【台風24号】JR西日本、近畿地方であす4日に運転取りやめの可能性 - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aay1GV0gxSzdnMlVQYVhhdW0xdGt1NTkxclZtTVdFRW9VcEZiZjlIVXF0V2J3YW5wUnhXOU5hUzJudktkX0k2Q2swQzZYRl9pamlfd1p4MF8?oc=5
+- 熊本 八代 日本製紙八代工場の火事 ほぼ消し止められる - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE90LUtPX1hNTEZEMHlFODd6N0ppeTRCRzJPRjlrV21LVGgtazlaRVh6aElBZWQzWGZtajl2X1M0Q1FpYmZreFo2YkRDdTE4WDlqS3c1cW01c1dxMWNrUkVF?oc=5
 
-- 夫にメチルアルコール飲ませ視力障害、傷害罪に問われた被告に無罪判決…大津地裁 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yVDg4VzZMNnE0TWhwSnVobDBiaHBUdVNIQjZiblNDaVNJYkVaak9Rb3lPNzZnNDZSa205NnNsM0c5S1dTVGlIYWg3cW11d0tHVzduLWtCbEpfRzdDckdNN1AxVlRhdw?oc=5
+- 青森各地で激しい雷雨 台風24号と秋雨前線…広い範囲で大雨恐れ 気象庁警戒呼びかけ - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5TTFIzUG1HVGtQNnNHUHlGZk55a1lSTlVaV0N1TE9TY2dVTFppN0NyaGFXQTlDdFBHMGE2UnFrOWhPckltazc4NHZsNkFONW91MUNIVTVyQW9KR19nbXhsdjJmbUFLUE0zMHFYN2UxUTlOdw?oc=5
 
-- 伊勢市の商店街火災、80年近く店を営んだ店主が現場検証に立ち会う (2026年9月3日掲載) - ライブドアニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxREVFc1gwRW1Zc0dVdTh4NEVJWDZaNmNVR2FLTzQ0YW80VHV0dl8zcDg0cDBDcHFXdWVoU1NHTmVqcWVuSUgtUmxJYW1IQkkzRzAzV0hXdHhRZkI1N3c?oc=5
+- 護岸ギリギリまで濁った水 家の前には浸水被害を受けた家財道具 富山・氷見市では「レベル3土砂災害警報」で避難指示も 大雨への警戒続く【中継】 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qRVU5YzI4UVJ4NU9lWHZpLXE0eUVkTzdBZFdVbHNobHJfdFZsTEc3c0xFb1hoUTFDYWNYYlZxNTRpU0VLdzNtT1FNelV1NWlxcWZyV1VHaw?oc=5
