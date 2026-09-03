@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 玄関に迫った泥水「次は無事では済まないかも」…未明から早朝にかけ青森で大雨、８７棟が浸水被害 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE94QkRNWXBhRGMyRzJodVZ1ZTYwM3ZvWU50US1BWkhGVXEwMnBoWXFsYzdXUFRib3JKMEsxSFdpOGlTc3N3Q2puSTNqUWtZekw0S3ZoWDVmVWp5NXk2aGgyRGZjcVVudw?oc=5
+- イランとの協議、商船攻撃停止まで行わず＝米副大統領 - ロイター
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNV19WbEs3VENDYTM1bGFvYjNMZWdpVGVVV0tjekRaSjdGeHNLdlhlWXpST3FibEJnR3IzbUZGVXJxX3hxMkZoVzV2VFJfNlctRnVub0Z6ZXRCczdtZnNaYjg4TXRrOWxBUDZlajNpRDNGV2l2aTdDMHNnb2pUaVFJSWtB?oc=5
 
-- 明日9月4日(金)の天気予報 西日本の太平洋側は大雨に警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sYjR4VXJXRmJoNERnT2pzRlBrVDI3Z0JmbEFhbEZkZkpvdEk3MFJXclpJNVIyZ1NtSjRmZUlHQWs0aVpwaFZ3bEt4TWZLWFJ6NmFmUw?oc=5
+- 台風と前線で各地に発達した雨雲 線状降水帯のおそれも - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zdVJINGFPRy01dTdRYXp1Ump3azVMTGI2S2JLMGI5OTI3Qk1xSGMyY0xTclgtMnV5TFBnd2swamkwbjlqYVU4ck81S3REckpYelFMSXZXQ2Vmd0N0NVZB?oc=5
+
+- 自民党･鈴木俊一幹事長の再任調整 高市首相意向､麻生副総裁も続投へ - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBaenY3TWFwYy1KN1dVS09jbWxqRXpuZUEwZExyQmxUeVV0OHNQanhYc3FrUDZKQ1VYRzJVY3k1R0g0OENtZm9PUGNBdnh1eWhlV3BpQXVzSXJtTjlac0YzRU9tdE1oWS1EcjVnNA?oc=5
+
+- 「まんじゅうや」無効判決、市内に和菓子屋９軒「本名に代わると言えない」…判決確定まで市長在職可能 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zenFyVThtTWplemtsNlhDSnNZR0ZOVmVHZ1J3SnRDd01TN21YdHRMVHdLZDNycEZzdHp2NEtmY2FBa1J5a1VQWXgxbG9SYk1GZTh4WUpGSmxXV0NiYXhyY3Y1MHJoQQ?oc=5
 
 - ノーベル化学賞・白川英樹さん死去 電気を通すプラスチック開発 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVUpZWnQ0bGxpQzZkaHVHVDRzTVVsc2VRRHpYSE5tQ3l2SEdRNGE4bnpzSU00NkN5UWF4M0s2a3RuVkhWVThQajZrdFJOR2ZwWG81QlNkaTNnM1E1UzF5eUcyQlJGRzA?oc=5
 
-- 「市民から『まんじゅうや』と呼ばれている」請求棄却の茨城・神栖市長、高裁判決に不満 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5SWmNqdlNTWVZuZjgtMkJIVm9YWDNaalNIWUxxOUxDTUkxd09POXJtTHRZd0RFQU45QjB6OVV1bVd2VzhuNkRjV1k1amVFMFl2RUJHbjgyZi1mcGJrbXpfUk1QTUZLckNfUGRVRnlSb3MzQlhMaXc?oc=5
+- 日本製紙八代工場、解体作業中の煙突から出火…作業員１０人は全員逃げて無事 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbEtwOWF0XzVvVzU0SHhmNVFYTFlGY25xTUhPUV96QmFQUUU4LTFVTzdGQ2gzUVoydDQ4cUg5a1A0NXNjRTdWRmVRb2VmMnR0cE1nVEJUek5aMGdmZ044bEo2bDExZw?oc=5
 
-- 原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5
+- 演説中に「子どもを殺した」と連呼か 共産党沖縄県委員会が告訴 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRS1FzOTJPVkk4U3lBUjB0TWJXcUpOU1VVS01LbF9pWTBkd09TSUxLOTcyOUVrQUpGcllOZkdIVHhrRjAzR1VjQVgzM1FyTGRCSW0welBXaUN6VTdfN0lCVE55RTg5TGVR?oc=5
 
-- 公明党、「穏健保守」結集練り直し 生き残りへ焦り―連立離脱「勝算あったのか」 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE10ZnEyZnEzTzFmMTB2cGFkcEk2SjFHOFVxRktiTzI1R0ppd2JGT1dNUjZvdDJnYzVqejNzOGxfdVZ0Qll0dzVUTUNLVmRQUThCRG03U1F1bWc0VDlhUkp1bzNiVQ?oc=5
+- イグ・ノーベル賞医学賞、鼻の正しいかみ方特定した故・海野徳二氏…日本の研究者は２０年連続受賞 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWDd4Vm9ZSTVyVzhsQnVZVEUtU3RSOW91anFoQVFsX2ZzMEUyQ2ZmX19BblhTeG1BZ3hybW9QenNyNHF6cjRiSUVWR0hEZ2FRYWdjbEdiTDQ3SkRJdzBjelhSXzA?oc=5
 
-- 熊本地震で解体作業中の日本製紙八代工場の煙突 出火したと通報 (2026年9月3日掲載) - ライブドアニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE56RjFkMDZkcnktcVlWMVRmdjZNVFpuU09uZWtfUGFqWW1yQ2I4RFk4UGdlekg1LUlBdHZ3dDljeE9mWnY5OGdRb3ZoQ3g4NGRHYjFsNmVnRnhDNlpnSUE?oc=5
+- 奄美地方で線状降水帯が発生のおそれ 大雨に厳重警戒 - weathernews.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95X0lyM3pTYndfOWY2S0VxaUdBMjlpeTM4WGhnMFRpS3lYbFd0cTBHQjF2a2s2NmxIbmhIb1NyanZVNkpIaWFScElzdmJSblVjNVdVVQ?oc=5
 
 - 京都府舞鶴市の民家にツキノワグマ2頭、「緊急銃猟」で駆除 親子か、京都府内では初実施 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sN1pGY080OWY2dHp5ejgxYWtOdXpPeXM2a05TQlFyRWlHdE11dU84dTc4QTdkUWk5a1JWM3lxYXhoNmVsdklRS0h0VjMxTDAxY2ZoaEFmazc?oc=5
-
-- 【速報】台風18号は熱帯低気圧に変わりました(気象予報士 日直主任 2026年09月03日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5McDB4aGYtdEpwbmNpc0FHTFItdmFpQlhPdkxzdXBaeU1uby1aQW1FSVM2a2swR1BySUFPM1ZMTW5oMXo0eHh0QjBKd0taRWJscktzRk82ai1pMlBNYS1YZUpnajktSENaTmfSAW9BVV95cUxNYjliYmpCZWxCcVVkV1o1a3ljeVRYZXVNSUFsQ1BLUUVETWFPTnJjWVpleWtnZURjY042T285SlJlUEN6dTNrNzJ4WkhQM3c0WG5PdUtQSHdqOUdUVEp1ckg4eGxUM3gwNUVIcXJjbEk?oc=5
-
-- 彦根城が世界文化遺産国内候補に…大名統治システムが読み取れる遺構に「顕著な普遍的価値」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wdDZMWDBobXoxUWlVRWJob1pOa3RPTzhnTGhTa2pBb01vZ2ZWZXhDNjVtM2dndjJqSkxqVUhLTTcyTUlib2FZTFJONEVoUHV5TEc2dlZyc1JHNldqNmpILW5WOE41QQ?oc=5
