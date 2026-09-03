@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 原油先物1％高、米イラン攻撃再開で供給懸念高まる - Reuters
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5
+- 中道比例議員の復党、制度的に可能…衆院選で立憲民主党・公明が届け出しなかったため - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kVnRrNnNGcXJZWGRGYUxqOGY1RVhmeHBYVlFOQ1cwbGVUYnUzbzJVa3lfTnMwMFZtOTZPaGYxb2YteEV3TXFrbmhTMnljbFNiZTNBQ2tlSDNTdkZDa25LR3JvMmFXUQ?oc=5
 
-- 「穏健保守」結集練り直し 公明、生き残りへ焦り：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE10ZnEyZnEzTzFmMTB2cGFkcEk2SjFHOFVxRktiTzI1R0ppd2JGT1dNUjZvdDJnYzVqejNzOGxfdVZ0Qll0dzVUTUNLVmRQUThCRG03U1F1bWc0VDlhUkp1bzNiVQ?oc=5
+- 「まんじゅうや」は無効票 茨城・神栖市長選訴訟―東京高裁：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SOU82Q2tVUC03dkdqdy0waVl3emNqYkRKd0diSVhza1p0Zi1kUldqR25TeWZfbUx3d3lRU21lYVdQZVVxeEdtV3RZb0N5Q2dBcnVMWWxmVzNfZjFBWHl1WGVsQQ?oc=5
 
-- 「まんじゅうや」の投票は無効 東京高裁、現職市長の当選認めず [茨城県] - asahi.com
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NNGg0eVFyOWFGMWtpRENWY3UxOFoybDBiY0JOTk5XQURDb1lMbkktNGRDbndNSEh6MjBCYTV4UE53aE9fSElWa1JVamtDSEplVndDc0NMUFVQZ003TC1mR2FhQzJTVXM?oc=5
+- 75歳以上の高齢ドライバー「運転技能検査」強化へ アクセル・ブレーキの確認項目を追加 一時停止も減点引き上げ 来年からの実施目指す 警察庁（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE53WC14d0ZXWVNiVGx4QU9DTE5idzRlM2pnTE00QnM0clNIVjQ0U3hCQ1NMTUF1SjZ2cDN5cmFHNDBfUzBjWVM2MUhrVEszYlJnREVBYVE2eTAybUhINlh3TFVzZHpHZHZNU0NWMXR3U1pEeFlETlNKbTJJTXZJTjg?oc=5
 
-- 高齢ドライバー「運転技能検査」、踏み間違いしないか確認する「方向変換」追加へ…来年度中に厳格化 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE80M1M1STBGNU9QRUJaaWtlSTgzR2JlS2JBekNPMWxsYmgzS05BNnFiaEh2MF9ZdUZlTUtHS2FXbXFBZU1fRzhITFFFM1BmeDNlS3Rod3JBWTEzMk5ZZjlpMkVkU1NqQQ?oc=5
+- 台風24号(クロヴァン)は沖縄付近で迷走 長引く影響に懸念 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE50c2RMNVNMQmVBMzdGemNYSnNSYTNRVUJtRXhyN2ZsZ1NmTERwWExxN1ZNTEtmMVFrZzA0UFRLRnlYZTRjNUpkc1g2dU5ZMTdDdkttVg?oc=5
 
-- 沖縄・奄美に台風24号が接近 中心から離れた所にも活発な雨雲 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95aFFxRlJya2dDMjBSa2VENDNPNzdZYTliaVNVamNLVlRWVGUwV0xWZmdNUVRCd0hqb1Q1bFdEcHFHcUdEemhPOXJoeUxjRXdqUTdITQ?oc=5
+- イラン革命防衛隊、米軍への反撃を開始…「新防衛システムで無人機を撃墜」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTc2tfMmhvbWdtOWJIckJRb1VnWGpnSGtXMmRwbWFhUExyaUt1dkNCVXAtSjRUUXd3M3RzM1d4TVcybmk1VTNkUzZNM1NtQVRCZGdhWVZnWl9kN2dmeTZxdG9n?oc=5
 
-- 玉城デニー氏の公式Xに「裏取引」投稿、数時間後に削除 玉城氏が釈明「出す予定ではなかった」 沖縄知事選（沖縄タイムス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE11aXJtT0l1UWx0TkFkUWFBYVQtWXJpZENkTjRYTXd5TWxKRnExeGh3bVJfRkdFc3pZQjM2dUJMZXo0VDVIaTFuVmU3b0o4aENIMWZzanBSTWctQnpRckhzTjQ4NDRoT0Q0U24xZGJSa1hiM3J4RzdZTDBoNk9fY2M?oc=5
+- 玉城デニー氏の公式Xに「裏取引」投稿、数時間後に削除 玉城氏が釈明「出す予定ではなかった」 沖縄知事選 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRDVEbGdBbFYzUXl0VHdSNGItVVBxdGFYY2ZWUDBvYndJYkF4UG1XLTdyel9tcXl3eTg3U005Mi1EM24yUHFWelVVQQ?oc=5
 
-- 青森市 瀬戸子川で氾濫発生 456世帯にレベル5緊急安全確保 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBaazgyUkt0d0p6VWlPZDVVZDhHWTFhM0dkU1AtdXhYNWtOQkZpOUdPMkRFUTl5Y3F5em9CckN5RGZ0N1dhaF8zQUNDcWNZZDhZanA2NzdUQVU1VHJIWUFiZ3JBQnRObFRBTWNLZVU5MU5KQQ?oc=5
+- 今日3日午後は大雨エリア拡大　九州南部で今夜から線状降水帯か　週末は関東も警戒(気象予報士 石榑　亜紀子 2026年09月03日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1DSTN2S0lQcjZFQmFpQXpQREFMNjc3NGhGRHVIZGNsX3VVcWNpcGFOYzZibUVPN0QzSjd0c0MzTXdwcm9vRnlGYXdXUXVBWEJHQlF0aFRLcjFRMXlCRmk4ZmNfQjQ5dzd2cW05YTdn0gFzQVVfeXFMTmNHZHFDT0xNTkZjMGVnZ0hkZ2p6T1NhMDZpc2pSWGsyNU1yR1JKUlB3SVJGRGhZWVJteV9TYXlHdkhnUXljR3VWRDZoNFF0aGJwZlMtX2hUbUR6bE1lcUViUGpsWDU5Z0R0MEtRRkJYWHVScw?oc=5
 
-- 富山・氷見市、全域の４万４８０人に避難指示を発令…気象庁「レベル３土砂災害警報」発表 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tSE9FWnRmVTRwQlJKVkZtTDBQYWFjSVdUS2tCNG1JQ005RlBmM1Y0QkRnRzlFSHlDeGNRUnN0SUxaM2EzVHlWS0hDUDZKU2hIWm5rcXJNRkhsSmw4V0FXNnpCX2xYdw?oc=5
+- 活発な秋雨前線が南下中 北陸、東北の広範囲で雷雨に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WcnA3WGczMTlNM29mUU9oY0FDMjcxbURBZWNmeWF2ak8xTkZ0QUFZSXd5ZjhIRzQySV9LYy04ODZveEsxVVJVcXVjaVlYcDRiZFhFag?oc=5
 
-- 鹿児島・宮崎で線状降水帯発生のおそれ　気象庁 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE84VWF6NFJmeGsxZXZ4dFNzbEdPd0QwMlMwQ2Y4dk9lNVY1NUJjZmF5SzRsWHo2ZmE1VkVGUGVUdDl6eGl6WkoxY3FxdC03aFNkS1pOc3Q2WG9vMUZzR0huTEdjSGZUZ3BNdDlGelBFMNIBdEFVX3lxTFBxSmpFUmotR1ktcEhpM2pVZU05bzlHMkhJbTN1aDJIMW1uZ1QzRWVJNmRnZXVIMlQydGdabUNabnJDX1BqdURsMkJCMHhVWlRKVlc2VzhOM0FPRG9NYmttMkJtaEU5azQyTmJHZkMtVmliV2Jn?oc=5
+- 青森県五所川原市の一部に「緊急安全確保」発令 警戒レベル5 命を守る行動を - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95cExPdzRhcnB2dlBuaU1QYmdBMUs1enhROTBnZDlwcWJPRW9vald4LVRydkR4bG1zNXktRVg2T2FHdGxETUZuNDFhNWNodlpibzI1NQ?oc=5
 
-- イセエビ漁に出た漁船が戻らず…乗員3人発見、いずれも死亡確認 宮崎 (2026年9月3日掲載) - ライブドアニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RVWV5azI4b0VxQm4yMlJrdTBtRVg1RjBJaG5jZW5oVFlUNVlkWWg5TXFMbkR4a245UHlXbDJaU3J2bHBieDlXMDlqWXA0VFNqdGJRZ1hMeEZhNGdjLWc?oc=5
+- 宮崎・日南市沖で「エビ網漁に出た漁船が戻ってきていない」通報…漂流の３人死亡、船体は見つからず - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE40emhpX1NXb0JhX3paYXFSMXBUeVRyQi1KRlNDSlRKbU9sWWFPTUJQTTU2cF9RSlFSMEN5d1JaaG5reU93U2JIeEVhYld5VXRUVjBUNWI2UEdSdW53Y0FnSWhzZHloQQ?oc=5
