@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 経済プラス：内閣府でも財務省幹部「冷遇」 次官候補転出に首相ブレーンの影 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTjd4b2lFMi0tZFRReGI1Ykdod2FrUnJ4cUQzdXVFYzdQU2FQOF9QVzR0Wms4Q2o0RkdhWGpoaWFUOHJMNE84emFEbnhpTmRsX2F4UDFtQUVkbFZRTkYzV0dkMlBNeExG?oc=5
+- 「中国も被災者だ」 土石流災害めぐりネパールが補償を要求の報道に「気候変動は世界的な課題」中国外務省 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE16VnJVekxnaG13d0lkOUtVcE0yMGU1SlVLdDZmcU5JT1RvaTQ5MWN6WDZOUVN0VXk5VENjUTZMNVJJVTc2cTRlQWZDcHRDZw?oc=5
 
-- 米副大統領、イランとの戦闘「戦争ではない」 終結時期示さず - ロイター
+- 米副大統領、イランとの戦闘「戦争ではない」 終結時期示さず - Reuters
   https://news.google.com/rss/articles/CBMiggFBVV95cUxNV19WbEs3VENDYTM1bGFvYjNMZWdpVGVVV0tjekRaSjdGeHNLdlhlWXpST3FibEJnR3IzbUZGVXJxX3hxMkZoVzV2VFJfNlctRnVub0Z6ZXRCczdtZnNaYjg4TXRrOWxBUDZlajNpRDNGV2l2aTdDMHNnb2pUaVFJSWtB?oc=5
 
 - レベル４大雨危険警報で「アンダーパス」冠水前規制、千葉に続き６か所も対象…全国に順次拡大 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DN3IwM3R3NXBMb0lQd1N6MjVZc1RLVUFia2haWWFLaGM2cW9tRDEyek52YnVVNjR6amEwenBmYUR2Q0lJa25vd1VRa204aGNnREpsWk52UC0wUUJNT0k1Y25BSWVaZw?oc=5
 
-- 台風24号(クロヴァン)進路を南へ 秋雨前線や新たな熱帯低気圧の影響で大雨警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wSVZCVFlOVWQ3TnZlNWI3eWV4a3BVUDc2RENGRjR0bHBxemY5SFUxV2xKMzZoT1dQTml5SWpSUDlXcHBmYnNVWThwZ2tYUTc5QlVBOA?oc=5
+- 経済プラス：内閣府でも財務省幹部「冷遇」 次官候補転出に首相ブレーンの影 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTjd4b2lFMi0tZFRReGI1Ykdod2FrUnJ4cUQzdXVFYzdQU2FQOF9QVzR0Wms4Q2o0RkdhWGpoaWFUOHJMNE84emFEbnhpTmRsX2F4UDFtQUVkbFZRTkYzV0dkMlBNeExG?oc=5
 
-- WMO「エルニーニョ来年2月まで 洪水などリスク高まる」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KalhEeDFaZGt1M1BRTDBSbmdLNzFneTdPejNlelBSUFdaRVl5aWI0TVJ0YkUwb1RZcUtTT1hrM3hjbzNzazNUOWF1cUc1d0daTkNTY1hUeWkzbmwxaWNN?oc=5
+- 宮崎県の南部平野部・南部山沿いに「線状降水帯直前予測」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DWkJ5WEs5c1JGNE9LbnhqSG1rSTBOdmo1RWU1MTJJSUViRjFyQ3ExNjJRYktVX1Z1TFdCZ2lKQS1tUUFCZXlDaG5NTGNJVENQV2Z3SlVTZHVsOWFHandF?oc=5
 
-- 巡査が手続きミスで受け取れなかった荷物、開封したら「大麻」…所持・使用で懲戒免職「やめられなかった」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0dHRGNGxnemRjYlVQRDBmVHh6TEFpVmZJZzFOLUdzNlhtbW0yZ01ianNjYUFzUEdCd0E1QmlXUTFtSmRTZmtEem0teldvbHkzY2JiYm9OY2hjNUs0NDFjQTdGektfUQ?oc=5
+- 「まんじゅうや」無効判決、市民も様々「私の地域は呼ばれていないので納得」「呼ぶので尊重して」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YM0dFV1pQVnNIY0VrMkkxQnZHQ2IxRHdDUEZPY1l6RWZSTDdEOWhqYktLSDE1Mld3aGZZYVN2Y0NJWldMT3d4UTNlMFQ1dlBrNGV3V0tCOHAyZ0tfSldEd0tkdjhqQQ?oc=5
 
-- イグ・ノーベル賞医学賞、鼻の正しいかみ方特定した故・海野徳二氏…日本の研究者は２０年連続受賞 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWDd4Vm9ZSTVyVzhsQnVZVEUtU3RSOW91anFoQVFsX2ZzMEUyQ2ZmX19BblhTeG1BZ3hybW9QenNyNHF6cjRiSUVWR0hEZ2FRYWdjbEdiTDQ3SkRJdzBjelhSXzA?oc=5
+- 関東甲信、４日夜から断続的に激しい雨の見通し…台風２４号は８日頃にかけ南西諸島周辺に - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrVTVPZkg5S1dmeU9rNmEwdE1ORXZ6NlZZa2phbEhoSEpWcFFucTZIQk9ndFhNb0xLY0hacnNJR21pNWlNMmJySGhJZnlJcEpLYzNVQ0VyS2hJd2J5S3QxTklCQ19DQQ?oc=5
 
-- 「まんじゅうや」無効判決で茨城・神栖市長が上告に含み 前市長反発「市民が我慢の限界」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFA0QlFEMUlXektJdEdjeW03anZyYk5lY0JJV0V6LUpiZWtVd2hTVnJrajRBWC1PUEdQMHBOZXh2ZU43TE4tMG54blU2QUc4QV9WQjFwY0tuaDZIc20wT2NBd2NYbTVrdlk3R2hJRVhRZUpqQ0JjWkE?oc=5
+- 「考えていない。日本国籍者に限ってきている」小泉防衛相「外国人の自衛隊登用」提言否定 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRjYzcnVJMTBVWFQ0aklZTVZWS2JlSDdkeU1xU0l6RHhBMmFlY29tWXc4R0xnS1dOV1RoU2pxVzUzZjJyajV4d245eUFvX3RwQXdCcjd1YVJUY1BxeDdhN3JoS3g1eFo1d01pUXNqN0JlY1JCV2c?oc=5
 
-- 【速報】【台風24号】JR西日本、近畿地方各線は始発から通常運転 4日以降、運転取りやめ可能性も - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FMl8zWHF5clkzRmZyTng1ZU5qQkMzR3VydUVNbk0yaUY0T3NOdXhpUXAzYlpnUmFYRDNlM3lqX2NqOGJMWUZjTVJVZVVETDMyMzB0aHlDd2w?oc=5
+- ひと目でわかる今日の傘マップ 9月4日(金) - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZQy0yc0pvZ1hfVGpSQzctWWxoa0xLVlY1TmxsakZkenhKdHVjcjBqUnBaMTZURmtkbk9KdHBhMmtSZVkzb3d0NzVhTThLUC1EdUplQQ?oc=5
 
-- 「成仏させられずごめん」８９歳母の遺体３か月放置した女性の困窮…８０５０問題「地域から孤立」どう防ぐ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pWXh4ZVdSdF9mcDktdUZ0QXJQWTUtVndKRGRCNXRNbmxzdUExSkFoRkZ2Q0pBTFUwcS1OTHdHM0VReDVyb2V1SXBTV0hFVWFDbHZaZzRaRl8tYWtTOXdvUkVfdXFjdw?oc=5
+- 埼玉栄高・車横転死亡〉「息子が身を乗り出していたとは思えない」犠牲者の遺族が学校や運転生徒を提訴…事故1か月前にも同じ車で横転、無断乗車も常態化（集英社オンライン - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE51Z01PQl9oSjJIVHZMMmJNQzVCdWhibmxNLTZBV2VuS1lVR3c3anJDMGYtYV9EbkJBdFlLTGJPUy1MYkR5QnFXVzlwU3FfYzJiVEtEN21wN1hpUzN0TG5lNmxuM2ttZ3h1bTJaWDdBS0hTRG1icE4xTk1md2x2WDg?oc=5
