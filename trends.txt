@@ -1,7 +1,10 @@
 TRENDLAB 自動取得ニュース
 
-- 高市首相、近く党役員人事と内閣改造に着手 自民・有村総務会長が言及 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bb0FDXzJXVENIVmNyaUZHMGhUQzFJZzFLNThYTXZTbno1WFdjY0x3ZmxfMnpaNGkzZ3VsbDVEWk5kUXZzbGJBVzBNWFhuNHc0LVAtalIyYlUtbkRpajBBYlo4clZFS3VUR19IRmY2MUlUSE9KT2c?oc=5
+- アメリカ中央軍、イランの石油タンカー３隻を破壊…「革命防衛隊」の攻撃に報復 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE94U2hlSnBaU054WGxra1YtZTVGSGlRZkxENWh3dFY3blNGLXVZcUZXN0dQZ0hlRm5PZy1nZXE1WnFHWGFYQlRobVJOUDV3NUFDeVFSUmJ3Y1FYekdfeEdBZW13?oc=5
+
+- ケーキ店火災で3人搬送 岐阜 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zWTZMdWY2RjRTYTNudkxidkxTZm9Fc3VxU3FRRHY4a3NVLVNBRExrY0hWX1NUejJXN0RxQ2hDS1p3MXI0dUJqbXhnU1JVNlVX?oc=5
 
 - 【速報】ロ軍がキーウの2空港攻撃 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nLTJONnVLd25IZDFfU0JhUUNPV3FyTnFwQjNnNVZDNXZucHlXNHNBa0hrTTVEZFF0TDRIMmVYeGVEc1NuOU14RlBKZw?oc=5
@@ -9,23 +12,20 @@ TRENDLAB 自動取得ニュース
 - 台風24号(クロヴァン)はループして東へ 秋雨前線や熱帯低気圧で大雨のおそれ - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnR3ZlckJuNEhPVHotcHFraUtIbEtkRXBwdlNVdTctd0FGVHdmcm9janY5TW1ZeVAtQ1lRRWVIRXhOcnZkSXlYZjdlRkpiQ0ZPMVNaTw?oc=5
 
-- 水力発電所から中国人男性１人を救出、ライトの明かりが目に入り「何度も大声で叫んだ」…ネパール土石流 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMDVSREZiVmpjSnFhTWotd0hEaUd4YjNlOEpyd1hGOEg5Ukg4dFUzdmtfRG9EcHltM0JscXZSZE1TbU1pc0JLRC1mR2thTlcxRldmTFFDYUdSZ1BZUkRMOFdB?oc=5
-
 - プーチン氏、キーウを３日間攻撃しないよう指示…ゼレンスキー氏の米特使らロシア滞在中の空爆停止の対応受け - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IcFoySDBILTNJRjE1aDloQjZrYmwwN3RfUEtHTktzcnl4QjA5eTlqNS1hWDR0VUwxX0ZRV01uZ0ZVbEJVeFRRZkc4Ul9hQzRPaUpfSjdVbjh2U0VOcFg4bm13?oc=5
 
-- 辞任表明した自民党福岡県連の松本国寛会長、金銭疑惑の調査提案…自身の主導では「県民の信頼得られない」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nRFdiMFZmTTV6WGlSMFVZU3g2d1lYUEpqeTdqVUhsOWxIZWJPUjdZX1JkQXp0VzZBS3ZHT0hfdnVTUHI1UVF2TE5PNkhOVmJGZElEd3BYS01IUHdZNUxRM2ZUeWhOZw?oc=5
+- 【速報】ネパール土石流 水力発電所のトンネルに取り残されていた中国人男性を1人新たに救助 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT21rRnF0UmloSm5sem43QkpMRm03UDNQOFBPVlBTajB5RDVXVzROV2tnbktfdTlDdTN0WVR5NDd6MmlfQXNDZTMyd3UzQQ?oc=5
 
-- 「人が刺された。ガソリンをまいている」と通報 ２人死亡、3人搬送 岐阜県本巣市のケーキ店で火事 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zbUdWS2huaUxnb2t4NGRLUXBYOGUxaXUzU2IzUjY3dEI1eXZ1T0dvdFpBVjMzWjBhckRUOW40dUNDckpDUkR0UFRZVnhGSXN5bHhWdQ?oc=5
+- 辞任表明した自民党福岡県連の松本国寛会長、金銭疑惑の調査提案…自身の主導では「県民の信頼得られない」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNkRUUGVyNEVIRzUwTEdaWUYzR21JUjlkMWVjWHFrXzNWV3J2Q1YxWXhnLUY2RVROTGFKelhWd1IwNVptZzBpOWV4TE1lOTZFX2tpWHZBbkY3UGZvWEppeHV6Qm43WDY3YjBPR2lManJsWVItRHY2M3dGNzdkNUE?oc=5
 
-- 屋久島の道路路肩やのり面の一部、複数か所で崩れる…千葉豪雨以来の「土砂災害特別警報」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE16OFFfMmRDZDh3aHhneHMyQ0t4am9mODJsUkpCZzhMLV9WYmo5SEtPSGRFeWphN0hROWVwd2tpTVllOFlRNHpSNDZlUFNmSFNjZHpyYXpGejBteWwxT3owY3RPRk1RZw?oc=5
+- 関東甲信地方では「警報級の大雨」の可能性 24時間予想降水量は関東地方南部・北部200ミリ、甲信地方・伊豆諸島150ミリ（6日午後6時から7日午後6時まで 多い所で） - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xTU1HWHRGcEM5Y0lmMlpRVW53VVBFdmd3UURLQ2RCZ3B3bS1manl0YkRLV0prbVZYbHBTWTJuZGx5cG1laGVxUDh4Tm5KQQ?oc=5
 
-- 高市首相、ソ連兵像撤去をロシア側に要請「菊花紋章は日本を象徴。全く受け入れられない」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5PSE42UmtXMmg4WjlmaTVsY2x6azd0SDRBZ1UzTnFRQkRQQXBhRkU4TzdMSEpkbUJ4bGJSX045SXA0Y2l5VXNpTGlRSmxhWmhOT1JUOUptVXBpajhvbTBZOU1yZ3hHNkRBTkw1OVVCQzBpclh5RlE?oc=5
+- 連続放火か…58歳の男を逮捕 周辺で不審火6件相次ぐ 東京・足立区（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sLVpfMldudTdPcjZkQU5ud2Q5anBDTG9xUVJPMlBoamdpblRrdUtUZjhyRnJ4Uy1EWk9UaHBvM2s3M3R2bVAySVlSZDVzbzFQWDI1Q19pYjVVYjUxbTdRbnhQQ2JJTWVMMzNGYzJxTV82UW1JNG11MHA1amJHWUE?oc=5
 
-- 熊野川の濁流にのまれた両親、唯一の遺品は朱印帳…促された遺族＜紀伊水害から15年＞直前に四国巡礼結願 - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBPLXRMbkhyWHp1ekl5RWcyb19yN3Q1bXhTVEJwQ2kxQ2RxajJSQ3AtazlVdklfaHZLUGY0QzdKQXQ5cGNYY1dUSllKUGJyRnRvZXgzT19XbzdsTVBVMEtlajB4TkRXME56dW5zLTNjRVEtUQ?oc=5
+- 「経験したことのない大雨」屋久島町に土砂災害特別警報レベル5 台風24号と前線が引き金 奄美地方も厳重警戒 十島村では180ミリ予想 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVGpKT2VPb25ETks1VGdLaFVTS216bC1YQ3h1dlVhTVhYRGR5YzJhR1lIWlVxMWlnOXJ0MzFsckZnbjRSZ0NQck5zeUYtUQ?oc=5
