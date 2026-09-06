@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- アメリカ中央軍、イランの石油タンカー３隻を破壊…「革命防衛隊」の攻撃に報復 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE94U2hlSnBaU054WGxra1YtZTVGSGlRZkxENWh3dFY3blNGLXVZcUZXN0dQZ0hlRm5PZy1nZXE1WnFHWGFYQlRobVJOUDV3NUFDeVFSUmJ3Y1FYekdfeEdBZW13?oc=5
+- 米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化 - ロイター
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE95dl9DUjhiSjRNeTRnd2otMkpSMjVmWE5mZTk3OUQ5VVhRVGFBc3l2MWlzcUoxam1MSk9KczNoal9RX2pGQm5xT1E5akhhVm1yQmNPbWd5alFkczdQUmprRjd4Rl9WcFgxTEJRY1luTnhMNzdzSFpsaF93?oc=5
 
-- ケーキ店火災で3人搬送 岐阜 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zWTZMdWY2RjRTYTNudkxidkxTZm9Fc3VxU3FRRHY4a3NVLVNBRExrY0hWX1NUejJXN0RxQ2hDS1p3MXI0dUJqbXhnU1JVNlVX?oc=5
+- 世界地図「メルカトル図法」ではなく「イコールアース図法」使用促す国連決議、日本も賛成…各国面積がより正確 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE56Q29qMU0wOUNOaWtxZXhIMWlLdllZcEhzLWU1aEVSV05iaXl4QUdIUDFNNGRTSmRsYjVzSmQtamQ4LXNCZjM3TUZndk1kUGZheERBY3BXNDVwZVBGbGlLb093?oc=5
 
-- 【速報】ロ軍がキーウの2空港攻撃 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nLTJONnVLd25IZDFfU0JhUUNPV3FyTnFwQjNnNVZDNXZucHlXNHNBa0hrTTVEZFF0TDRIMmVYeGVEc1NuOU14RlBKZw?oc=5
+- 【速報】米特使搭乗とみられる航空機がロシア到着 - 47news.jp
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE12SUlWeGljb2haMDVaMGFVcElJOTJIMnBTb2xJazB3aTBJUUFNeUxuX285N0x6Y2JySWRwVGFBb1FsVWFRTnZ0TDBWcw?oc=5
 
-- 台風24号(クロヴァン)はループして東へ 秋雨前線や熱帯低気圧で大雨のおそれ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnR3ZlckJuNEhPVHotcHFraUtIbEtkRXBwdlNVdTctd0FGVHdmcm9janY5TW1ZeVAtQ1lRRWVIRXhOcnZkSXlYZjdlRkpiQ0ZPMVNaTw?oc=5
+- 伊豆諸島 八丈町で1時間に約110mmの猛烈な雨 気象防災速報・記録的短時間大雨 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxUURVaXdYeUhMM2Vhc2FHdDJIN3ptWlM3dEVEMmd4Qm1PeFF2d0FQYWE2TU9PVUEzaUdnM0JjQUlRYnU4U3Y4clh0ZjN6SWlzZkdLbg?oc=5
 
-- プーチン氏、キーウを３日間攻撃しないよう指示…ゼレンスキー氏の米特使らロシア滞在中の空爆停止の対応受け - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IcFoySDBILTNJRjE1aDloQjZrYmwwN3RfUEtHTktzcnl4QjA5eTlqNS1hWDR0VUwxX0ZRV01uZ0ZVbEJVeFRRZkc4Ul9hQzRPaUpfSjdVbjh2U0VOcFg4bm13?oc=5
+- 衛星１００基以上で監視網増強、移動発射台を探知しミサイル無力化…画像販売も「防衛と経済の好循環」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNU9kbEd2bklLdWF2OHRJbERMWko4N2gzT3V1eEROSzc3cVBkN1U5cU1TNkdZWjdtVnZWMGpNZEVyTXo5Z1dzNzV4d1Bmd3dTcUtrbWN0Z005U09pZ0Z6dnh5TGxPQQ?oc=5
 
-- 【速報】ネパール土石流 水力発電所のトンネルに取り残されていた中国人男性を1人新たに救助 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfT21rRnF0UmloSm5sem43QkpMRm03UDNQOFBPVlBTajB5RDVXVzROV2tnbktfdTlDdTN0WVR5NDd6MmlfQXNDZTMyd3UzQQ?oc=5
+- ケーキ店で火災、2遺体発見 「人が刺された」と通報 岐阜・本巣 [岐阜県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MRjNiMlBfeGlqOWZLdVg2RnNlZzZjbEd1aG1SdFJBX3E0NnNrN05LSEZLNTdIVzN3S1RZYkx3ZnluTGxNeC1Qdk8zSWVjTkFEcGJzaUtwRXZJanFGakh6VUE5TURkcTA?oc=5
 
-- 辞任表明した自民党福岡県連の松本国寛会長、金銭疑惑の調査提案…自身の主導では「県民の信頼得られない」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNkRUUGVyNEVIRzUwTEdaWUYzR21JUjlkMWVjWHFrXzNWV3J2Q1YxWXhnLUY2RVROTGFKelhWd1IwNVptZzBpOWV4TE1lOTZFX2tpWHZBbkY3UGZvWEppeHV6Qm43WDY3YjBPR2lManJsWVItRHY2M3dGNzdkNUE?oc=5
+- 週間天気予報 秋雨前線が居座り長雨に 残暑は落ち着く予想 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VaVMxNk9fTUZRdjlvaVlPcURzZFdDSmRpWWNjS1pEd3QwY0FuQ1Fya2xmN0lUUG4zTEUxQS1pekpMMktFamczMjNOMlB0NV8wVWJCbA?oc=5
+
+- 悠仁親王殿下20歳のお誕生日に当たり - kunaicho.go.jp
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHdJR2ZBTk9nU3JfRVhjZ1pxX2tzTW5JSzdJQUZncWdpQ1FtSjlXZ285Y1JKVEVUQzJTNlpyNFV6MHYycExkaHQtUkVmU0w1bGNuQUlmVWxmZU4yUmFDN1lEZHFuOGFLU29ubFdxZ0dOT3dyNTlZX0NOa3NyWnlIbU9ueG5BZDA?oc=5
 
 - 関東甲信地方では「警報級の大雨」の可能性 24時間予想降水量は関東地方南部・北部200ミリ、甲信地方・伊豆諸島150ミリ（6日午後6時から7日午後6時まで 多い所で） - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xTU1HWHRGcEM5Y0lmMlpRVW53VVBFdmd3UURLQ2RCZ3B3bS1manl0YkRLV0prbVZYbHBTWTJuZGx5cG1laGVxUDh4Tm5KQQ?oc=5
 
-- 連続放火か…58歳の男を逮捕 周辺で不審火6件相次ぐ 東京・足立区（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sLVpfMldudTdPcjZkQU5ud2Q5anBDTG9xUVJPMlBoamdpblRrdUtUZjhyRnJ4Uy1EWk9UaHBvM2s3M3R2bVAySVlSZDVzbzFQWDI1Q19pYjVVYjUxbTdRbnhQQ2JJTWVMMzNGYzJxTV82UW1JNG11MHA1amJHWUE?oc=5
-
-- 「経験したことのない大雨」屋久島町に土砂災害特別警報レベル5 台風24号と前線が引き金 奄美地方も厳重警戒 十島村では180ミリ予想 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVGpKT2VPb25ETks1VGdLaFVTS216bC1YQ3h1dlVhTVhYRGR5YzJhR1lIWlVxMWlnOXJ0MzFsckZnbjRSZ0NQck5zeUYtUQ?oc=5
+- 自民党福岡県連の松本国寛会長、会長職辞任を表明…県議会での金銭授受疑惑巡り（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Ym9zWFREc2Q5a3dPdFI1NEZmQVhUd2daVFFEc0d3blhVNXp0eFVsMzFmb2JmY24tMkw1cHB3ZUwzaHNidmQ0ZTRyRGppSHU2cmRLQnVJWlRKV0xSRy1ndFVrUEVCMllYX1B2VElGdnBVdnVVekZNSXd4VlBaNFk?oc=5
