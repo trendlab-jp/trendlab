@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 東京 新島村に土砂災害特別警報 命が助かる可能性高い行動を - NHKニュース
+- ケーキ店5人死傷火災 遺体の男性は腹部刺されたことによる失血死 搬送された70歳男性死亡確認…事件に関与か 岐阜・本巣市 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtZi10VkdxT0VKQjNROXdnRmY1WExXV1o5enRGNXNISFV4TERRTjZKZUxadjlXaF95YmxhV1l1Mnlic2VaVmJYSWRTY2hsdw?oc=5
+
+- 東京 新島村に土砂災害特別警報 命が助かる可能性高い行動を - news.web.nhk
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pSzFfQUo1RHdzclZod3JHYnBXWVpyYXU1LTNrSTZ1UlE0c3k4X280UVY0LTJueGEtMUhmM3dlWVZhSTNhOFZVMldSMmdlOHd3QmhRaEdTZ3JpOHdPck9Z?oc=5
 
-- 岐阜のケーキ店３人死亡火災、屋根から「助けてくれ」と叫び声…オープン２０周年での突然の惨事に驚きや不安の声 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Obm9zLU1lS2FoM1B3NE5PN0ZzcGw1TDBFRGJpdU0wMmZZaGJmVVhiVUtSZGVlVVF6RmlaU25ZZ3VYMjlfa0JrWEtqVnFOX2FXUnlHUVpVUjk5NkNzenZxd2pudWhVVTBzRzRUTnRPVVR2V2Jqc2wxRml2dlR2YUk?oc=5
-
-- 古謝氏、やや先行 玉城氏、激しく追う 沖縄県知事選 朝日情勢調査 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Td2JDT3Z4Q0hjNm9IR1pwVldiX0hSV2pyMVNrQnJMQmpLcE5nYzVrZC1jMWVYSlRBMnAwSkZIV1BzaVM3VHU3SlB2cHZ0WVB4bEs3RTZhOHVSSUxMUWdvUXhCWEpRTjg?oc=5
-
-- 民泊が全国最多の新宿区、住宅地や学校周辺の営業禁止へ…既存施設も・半数以上営業できなくなる可能性 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWEZBRHpYZWY2cDJFUEpBdnE0Vmk4NEJqTFJOLVFhYWZiU1RkVzFBbEMwYnJ1VGxaUHh4bTRvT1NUT080VGZ3QzBJMHctYUdRdEVZcGxKVzBYVFkwaW9jNHZiSHFfUQ?oc=5
-
-- リニア工事「百害あって一利なし」 静岡前知事の拒否で失われた10年 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBWYzFxYVdGczFlU1pHOFpHZHg3SHdiMHl5M3A1LURwZmo1YWpRdUR4Rk5oem00aVFQQVA3VUNleXZBUGJKUThDSVJhNGlhcl9GOWpxMEg5dkZCQ01UUFhXNWVIQ2xlUTU0OVFXMg?oc=5
-
-- 台風24号の間接的な影響 秋雨前線が活発化し関東や伊豆諸島で大雨に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qNEEydlZ4WHQzSG5zb3kxNXhjc1hxY1JzR1d3anZGRWp0ZzJWT21wdWtaQkRtak9DMTRlczhLeFBfR2ZTRnBHMHY0b3RERS1YVXA1UQ?oc=5
+- 東京周辺は雨のピーク越え 東関東は昼頃まで、岩手は夕方まで大雨警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EVjMtRmEzd1VSQ0RYUUdBTzE2U2I3SWF2b2NTZzl0ZW1vemJmNVFxVEdtUS00R0dvTFpvRGg5VWstTnhrSElha1k4eXQ4UGZJc3hTRA?oc=5
 
 - 大雨で小中学校などにも影響 複数の自治体で臨時休校を発表 - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTE1TU1hGM1pkZ0E1ZExsUjFfdWpsX205elpLRVZ3S2ljUHNFYzdhUkRCUG5kT2FHN01id3VKODJqbk01Zm9TdUtxdlVlLVk5WkJXNWgzX3dsMGU2VlNGZnowemVld2hCQi1TLUh5NWdOdEcydw?oc=5
 
-- 前線や台風２４号の影響により関東地方・東北地方では大雨の予報が出ております高速道路は本日から明日にかけて、広範囲で通行止めとなる可能性があります！～車での外出をお控えください！～（９月７日 5時00分発表） - NEXCO 東日本
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE5YRldOREdOSFB4UnpYa1pOOG1yNm14Q1gycGY3QVdvM01Pb2Y5bHdPeHA4R2x5bEZMaXYxUEh1U3BRM19DRF93UVFMRXZrWWZfaDduT2tZelZjcldUYTNhX0x2MzJJTVRjTDRLamZmNHlSMGxrd3R2SmNJWTNTUQ?oc=5
+- 国民民主代表に玉木氏３選、今後も「政権と一定距離」…他の野党との連携にも慎重姿勢 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hOE13UkNlRXgwaUU4LUxfdFhfZVNCRkhVUnd3dXNLX2FqeWt1S05sWDhDODcxQVgzNUcybVpxT3lfbXJNQU9hRFdScWFtT1dadmRMVkhFQ1Y1aHhqd2FzREtpeThtdw?oc=5
 
-- 千葉豪雨で水没のアンダーパス、「レベル４大雨危険警報」発表で全面通行止めに…先月の冠水教訓に導入 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tcWY5YVhxcUFGVzI1eVhTblc0Rl9jR2VEMnJKZjlGZ1lYR3ZMcWQtOU5BV2hmZ3FRbWV5OU1fQVB1OUIwYmM0R2tFT18xZnN6ZTZrSDdZMjNSUDJDVzV5VGp0R1NRQQ?oc=5
+- 千葉市中央区の国道16号のアンダーパスを冠水前に全面通行止め 全国初の予防的な事前通行規制を実施 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE85MkdxcXZSWE9IVzRPMk4zd2VQcVZJTnM1cDJ3cGFiSm1jMjZBTXg3ZzNZR0lVNDFQQ2Q4OUpGV0pOWHNqUXJFQ2ZYUzdhYzJWaF84TXM4SQ?oc=5
 
-- 大阪・交野市長選、現職の山本氏が再選 維新の新人・美好氏破る - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JQlhxb1B4X3NhZl9GeDRReWM5dXJMSEw3SDVZMVBKVTJkUy0xVHM2LTQzNFhhRF9Jc2tkS29KRTdTRk5ReVQ0Z3VvWEpYWG52dHY1Nnc1NVVEN0FsU0Vlb3VJbGVfeGZx?oc=5
+- 【速報】台風24号は熱帯低気圧に変わりました(気象予報士 日直主任 2026年09月07日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNUlYemQ1VWI5NlZnN2tjLTAxQl85b3UtSE1IanNXYVhHcHN5UDE1eWI1U2M1ZzlLV3hlYmpuLWE0ZFd3c0JpcEVPOTgtRGFSSE9Pa3RQdkw3YXpncENTd0xEZ0h2ZVQtWEHSAW9BVV95cUxQc3FyZjExcGlJdldRZlJxaW9QalNFdWNHSzd0Vi14T2NpYzdfZGJtUHJNang0TlRwSzl5ckt0TFBfVjFlNktneVRWaFpCV3lTSm43bktwRUN5U1doVjVmVXlTYk5LRUtKdW1aWEFtVHc?oc=5
+
+- 辺野古語らぬデニー氏、6党相乗り古謝氏 前回から一変の沖縄知事選 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DcXpMcEpJWmktWVM1R1ozQ2lIVGdqckEtMWVldkV6MjMwRDJmRFBKd1V3QXhpS1FiX2pYMWZjZ0IzWUxpVmplemp4VUlvNkc1a0dUMnZWTUZrN2ZUV1hwaExlY3ppeVE?oc=5
+
+- 大阪府議補選で維新候補が勝利 36歳新人 交野市選挙区 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0aU1PUnlJMW4tRVNsYmtLemd3aXd4cVhJMUprdzZ2MXpiZ2RuQnRxVW4yUTNqakhhS3M5OFZNMkM2YUs0WTJZeVpHLWNlalR4ZEtyeV8zTFZkQkhyMG9RU0FkajQ0TFJq?oc=5
+
+- 民泊が全国最多の新宿区、住宅地や学校周辺の営業禁止へ…既存施設も・半数以上営業できなくなる可能性 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWEZBRHpYZWY2cDJFUEpBdnE0Vmk4NEJqTFJOLVFhYWZiU1RkVzFBbEMwYnJ1VGxaUHh4bTRvT1NUT080VGZ3QzBJMHctYUdRdEVZcGxKVzBYVFkwaW9jNHZiSHFfUQ?oc=5
