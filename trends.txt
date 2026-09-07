@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 関東や東北の記録的大雨で1人死亡、2人けが 10日頃まで前線停滞か 土砂災害などに厳重警戒 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qVFo3V21jNWlRcEhvUHI4TWhBT1pOclhRblFkVjdqMnl5UUc3MDFZZEx3RlMwR083czl5dDBKMWxweTU5UkVVTlN1cE1CMFlm?oc=5
+- 伊豆諸島・利島村に「レベル５土砂災害特別警報」、新島村と大島町に続き…「ただちに身の安全確保」呼びかけ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mWGZscGQxcWwxaE5ibG9IMmltQVhtc2JyRzFSaVlGS0hlYjlrMFVGRVlzWHh4YWhsVnlsNzVLY2U5SnhETjQ2VFVCQ2d3U3Q5TFdOTk5PYjEybnlWQm5BS0t2V3pQZw?oc=5
 
-- 大雨で「一斉休園」の通知、夜に取り消し 保育施設めぐり千葉市混乱 [千葉県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3cmNkSHh6LUQ1amVNMDZWblhITEduYk1FbGlOR2p0dlk5aVNFQjR3MEU2cW1YVWptLVJYenA0U18xZEc1V05TVkl3TEREUEE0NzhZM1hsZjFUbDBkR3pramg3OHUyMDA?oc=5
+- インドネシアの大規模噴火、高度1万5000メートルに達する噴煙の様子が映像で明らかに - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EaUhPYkZiX0pCVF9wYml2T1RfajRuOFh1Mk1FQW9Xb243VEtOMUx0VUdJVkVGaF9ubHpxZHg2LVN2MEtvUzFDT2lzM3pCSGlaMjRB?oc=5
+
+- 「東ドイツ」民の心つかんだ極右AfD “劣等感”反転に成功 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE45TDVVTU9EbGdldWl1X3dLZk4teEU1U3doVmRwTTdzNS1iUXhGdmtKYTQ1QkRBa255WG92ck5KWWlwdWRSNVVPZFRDS0VjSlFReVBrR0RZVEFsUGxlcldkNl9RWVdiOTBK?oc=5
+
+- AI「人類存亡に関わるリスク」 国連高官、安全対策訴え - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ITHNELXpPTjJqSHQ3Nl9Edk1PVWFJNmpucnlQZTVfSHBaWHVnZDhkejNUbUdNQkZOejZpZVBxR2cwVnZuQ1JnS014cw?oc=5
 
 - 小林鷹之氏、引き続き要職に 内閣改造、梶山弘志氏の入閣浮上―高市政権 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE81cjl5UUpwY0FBMnVQalFaVG5zaUJQQzdMZEVtc3A3MjFBSHRMaDh1M2dPb29xWHRyTzNobklLVHF4WGk4d01fSnFiUy01ZlVBWFdOMHE4Ym5kTVJZQWZpaURTdw?oc=5
 
-- 独州議会選挙で強硬右派「ＡｆＤ」圧勝、州首相輩出なら戦後初「極右」州政権誕生…移民排斥や愛国主義訴え - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzR0t0ODZ0eVJJZXp1YTBGbE1jakxUMHlXRUZWWFVTVy1SODBMenRaV1d0dVJrY1NsRFZjWGhXeTRjcHF0S0lJM0RsaGxqX2ZSUWxvamtfMFBFc2pRY3NaZVpB?oc=5
+- 岐阜の人気ケーキ店で5人死傷 放火か 同級生の集まりに謎の人物 - news.tv-asahi.co.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5QdDZibFZRVWRKS29sSFdiYzlkWUlpRWtVMGZBdEUybUtfeXVjRGtCWVRzdkt0NkpiNmF0QWRndzNjNTJpY1ZOS0dJWTExa25URUUybmZFWjJWTHdONk5JMzdIdW1UUTVEWkwyWThvek15Zw?oc=5
 
-- 【速報】国連、AI巡り「人類存亡のリスク」警告 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcVFEdDV5WUY2LTh0ZEtieGw2ZVZlZDhOelBTR0NKUEhPT21LeGV5ck1rTkZBbHRvRHgxS0JQUXJtOUh5WC1xamxDNA?oc=5
-
-- 棒で殴られ…特定技能外国人が告発 北海道の町議らを刑事告訴へ - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BQ2sxeDFfeTZZTDFoVFFFWDRrZVRCaHp1b0xuUGVpZ2NpNTZILWlmc2h3N25CUUN2cHBTa0htTFZIVWVZRGdoQ25RX2xqZUN3cEh0VjhBQ0loM2FvTnNNbVV4TmxiYzF0?oc=5
-
-- ３人死亡の岐阜ケーキ店火災、焼け跡の男性遺体に大動脈まで達する刺し傷…車から見つかった遺体ほぼ全裸 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE40SzVQNUlrbjJBX1pHUDlIWEU1T3NPVG40Nk55Ni1NU3VvR0g4V2hMYnh3T0FoeVg3VVpUQ1U1T3RKRHdMamlrM0dZUTRDbk43YmtMeFh2N0cxbTdHV05ONktETERYdw?oc=5
+- 【詳報】千葉県内で再び豪雨 通行止め、鉄道不通相次ぐ 浸水被害やがけ崩れも - chibanippo.co.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DUzUwemxRWjI4OUVfY2xLVHdWQWZtc2pQV1VESWloX1h2RUZFZlVySlpDbjJmdTZEVUZ2d19sbW83cGdjcXYxU1Y2dGFpM09NT2dOSEdnSGQ?oc=5
 
 - 関東～四国など　8日～10日頃は再び雨のピーク　少しの雨でも土砂災害などに警戒(気象予報士 藤川　徹 2026年09月07日) - tenki.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9PdXZZNU1ka1hXUVVLbzdPZXh1WjNQaE5BLXl2bEYzX1ZMTjJESUVvWnl3MkVJdnRkZDk3dVljVXM3TEVMTXBnUFgyZDNjY0Fja1VNWThaYXJnN1hDb3JKTUVKTGU1V0xYTzhQbdIBckFVX3lxTFBZTG91NzhrRC1OX2lMa21iVks0Wmd1V1lFRWhVaEsyV1Vva3hmajltRnQ2TUFwal9PcFRncVdlNkdDYno4LTBIaF9NTXM4eUFBWG8xUzJTeWJNTEhzUkU3MG9QMm1ucDRlUzRQRUZZVXY0Zw?oc=5
 
-- 【沖縄知事選】古謝氏、玉城氏 激しく競る 投票先「決めている」88％ 期日前「済ませた」19％ 琉球新報・共同通信・OTV合同情勢調査 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UckcwQ21SY2VsSTkwdVhnQ0xQQXRXbFJUSG9OZVFsSGgtdHdpWWs4M1RTMVlwX1Z6VllvclBWZHpRWFY3WXRDbEY0VVI4eUhNMWM0NlBaU0NRdVplRkw4Ng?oc=5
+- 登校か休校か 当日朝の判断に「遅い」の声 仙台市教委の大雨対応を保護者は疑問視 災害時の指針なし 休校の適否は各校長に委ねる - kahoku.news
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NMnBZaTF1RDk3OUtuQWdjMGpEQnRTRlozOG1fbmNXTUptVHlCb0N0RkNXR2tmel96UmoxQnZTdE52N3pjMF8xbEFaaFJFcW9vQlB1MWhqWjVGUWYyNnc2cw?oc=5
 
-- パワハラ認定の山中竹春横浜市長が辞職 市議会が全会一致で同意 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjZmlwZFlROFZ3elVxakhOcHRESE9BLUJYTnNUc3VCSTdwVkRBNmZnZENVbGRmd2xrSHdsM3k4STlQOXlHeTZUT0k1UnlRdGdf?oc=5
+- アパートで男性刺した疑い 住民を逮捕 家賃保証会社の社員重傷、支払いトラブルか 東京 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5TbjJQWlZ5RkJvT1B4WmtvNUk0RU9Jd21JemhLUWIzRXE4S2ItMmxqRUY5OHc4R0RmaTlIanRwbEFOSkswMXRKcnVIem1RV2JGZTA5RFBZZ1NSZUFyUHFQdkxGWmFfNXdpVDdJbm0zSlVWR0tyZFE?oc=5
