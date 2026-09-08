@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 愛知・岐阜の庄内川にレベル5氾濫特別警報 すでに氾濫発生の恐れ - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lSnJacFFwVXJkUXZkLWdueG9YOEFpY1I2VmV1eVZfcGpHZ0hyRXJsR2ZVZFdJMnNjZlYwa2FMZVhYYmYteE1KWDJzUnVVMXEyVGRHUWhOd285dEVVRHF4VTZ5X2tfc2M?oc=5
+- 名古屋市千種区の１時間降水量１０４・５ミリ、２０００年秋の「東海豪雨」超える…秋雨前線の活発化で - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQU29fVElZQTFMb1NBcGVOdW42SnZtUjlidDZzcWpQaHVTU2lhUURYSTBQWEZYdk9FWEhURGl1R01nSjRuTFZ6eXptODdWaGZ6LUVTS2J1SFllb0Rvb0c0YXdhODNFdw?oc=5
 
-- 立民系は新党、公明系は復党 中道分裂、統一会派目指す - jiji.com
+- 立民系は新党、公明系は復党 中道分裂、統一会派目指す：時事ドットコム - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFAySFh0X0RyNDdUTVFESUdFUlFHbXhnOC1TSmptNlhFS1FyMjhjSmFYYXZZdXhEWFBlOURTQ2NocFhhQ2Jfb051VFZsQWFELXVnN2QwVklrSlQ5RUlmclNHaFVLZw?oc=5
 
-- ロシア、ウクライナ首都に猛攻撃 米特使らの訪問の翌日 - cnn.co.jp
+- OECD国際学力調査、日本が全分野で1位 読解・数学・科学 平均低下の中で横ばい維持 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5udW10N2NCNU8tNlN0MkstM09xUzRBOHYycjJzb1BwQlZDc0NYdG5lOURZMUVLMDA2YzB3MXVLZV9yWGhjNW8xUURmcTR1eDAtQUo2dlRTcUxDVkU4cE1JdVRlMkE0NzVzSnFEU2Y2cXJ4NzVxenc?oc=5
+
+- ロシア、ウクライナ首都に猛攻撃 米特使らの訪問の翌日 - CNN.co.jp
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE40V0YybVBhYWhBdWo4cTRUYWU4YWhaZmwtbENhYVl0bU95UTk5SVp1R3RyOWk3dmNyUjhxeWhEempMZzlEWVBOSmlUOFQ0ZHkyWUVj?oc=5
 
-- サウジ、親イラン武装組織フーシの攻撃で73人負傷 「断固たる対応」を宣言 - cnn.co.jp
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE55aFo1YXVMOVdsS3owcTdLa1BjbHpFeVJSRjZMTEx2dTQxdlhtaTFMM2J4X0YzOGhqNnlGbmhzOEprMmxvMFpRNW5NUFZteGpXaEQw?oc=5
+- 岐阜 洋菓子店3人死亡事件“役員が戻ってきて男性刺した” - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BZjFNUEpmRW1vektCcjhiYWV4ak5CUE54bzlRellZVE5CZk00bHl5MUxvSnlPX0Riamd5aFV5V2JqMl85UDZiS29talJWeXg1UU1kQkE3cEl4QjlLeks0?oc=5
 
 - 明日は四国から関東で大雨に警戒 秋雨前線の活動が引き続き活発 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tQVRCS0JMdTEyd0tBTy1CVmpXb0NaaldLcTNVeVpVU0g3aGZfQVFsbjdaa2lJcmcxZU02ZHM2aHR0VXV1R0NKY3N4REQxeWx4Tkp0dQ?oc=5
 
-- パワハラ横浜市長、返り咲きも？〉自民は「元ミス横浜」の女性弁護士を擁立へ…“ハマのドン”は山中氏を支持、出直し選が大混戦に（集英社オンライン - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJX2VvZ0w1U3FNQjVPUmRDVXozMmFsRjNrYXpJVjZybFpRcnp0TTlIaXFFLUprOTVULUlRWmJFRm5Zb3pKUFVOX3YtNXNyNnpHWGhaWTlRTWFVTmE5NTZwbjlYWWplb285Qjk3VWNiV1lkSk5HTWE0ZWUwallZTXc?oc=5
+- 【速報】【大雨】近畿地方、土砂災害「極めて危険な状況」 気象台が警戒呼び掛け、大雨ピークは9日か - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VjdvcnYybjFNV09vMUgxbFZRM0dFa3lTZ05kWlpTb1J0UDFWaUFJRjUtNl9yUUYyd09MMUk5ajhaQkNKeU40OTVVVG90dS1GdXUtSExDNEo?oc=5
 
-- 岐阜のケーキ店火災で３人死亡、２階で火をつけたか…焼け跡からガソリンを入れる携行缶見つかる - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvTFhDRmJpRk56UDhiYVJQUDlWYUJrazd5N0M3QzlkWmRsYXItSmU0LUQybDQ2SlUzQXpZVGtNMXlFcW1tNVAxYmZJNUczRXJXVU1wd0VMaXRJdTgzT1o5dnJEZmwyZw?oc=5
+- 横浜市長選、経済界有志が弁護士・原沢氏に出馬要請「熟考して結論」 [神奈川県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JSFhqX3VwZ3d3UUU1TnZmMkxWNFhxbnRsNUpCZnI4M3FzbHB5UTcwUURCUjRfeXNpRzZaMWFJUUVXcUdBanQ0aWw0amF2X1RLX2VZSGNqdHpQR0tNVzlHd3R1dUpocVk?oc=5
 
-- 【速報・動画あり】めがね橋、また流木衝突 南房総 千葉豪雨で破損、土のうで対応 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOGNVSTJxd3lKOXVDLVZvQlhQNWRsbzRGVzJnZFF3Ml9kVVZ6T0k5a2ltcXFLNW5iNEMyVDUzcmFfcVB1LXU4SGtRSWUwS1M3dk5KUnl4MUY?oc=5
+- 【速報】東京の野川、仙川、善福寺川にレベル4氾濫危険警報 早めの避難を心がけて - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1mTmp1R0w0WHdOWEszcldobkQ2N203OE5qM3pxbTg0eUlaNkNwbW4xdDJsVVk1TzVyRnpheUNObnZQVVVrcmNXUE1RRWV1QUljN0Q4VUs3VUtJNGVQRndXOXVGU2tEMnVuWWN1SWhlWkNhZw?oc=5
 
-- 沖縄県知事選に関するＸ投稿 昨年の宮城知事選の3倍 11日間に107万件、県外からが91％ - okinawatimes.co.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Rc1l4ZmhJZEtJdjJKYlptNWxCVG01VDlOOTdJWEduMmdxc2hNWm94MW5UMXJERHFaU2x0c0Vjd0VtaF9vZmhoMTMxOWs1TlMzN19NNjVFVGg5X1JRM2c?oc=5
-
-- 日本の15歳、学力高いが好奇心低く 数学と科学は世界5位・読解4位 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZnE5a3lJVWdqTzY0bUZKOVBHX2JsV0Y3ZmZvUHFGajBKUmt3QU9KNWJUTXFUdGo0emh3MG9aWlN0aG04amQ3b2Z6ZkNjWVl3b3d4dmhQNW55M0hrN3Vhc2pzcnhITDZzb29UMA?oc=5
+- 【速報】埼玉で河川氾濫の恐れ 氾濫危険水位に到達 - 埼玉新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE80eUNJLVdpalRkYmNwQlFleEh5blBSSzZlQkxLMHhES20wd1FuWDZHck03RGNOY1RpYW1lRDVqWWNpUmlsYmJnUXB5UUlZaExDRlk4cXlOMA?oc=5
