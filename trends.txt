@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 名古屋市千種区の１時間降水量１０４・５ミリ、２０００年秋の「東海豪雨」超える…秋雨前線の活発化で - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQU29fVElZQTFMb1NBcGVOdW42SnZtUjlidDZzcWpQaHVTU2lhUURYSTBQWEZYdk9FWEhURGl1R01nSjRuTFZ6eXptODdWaGZ6LUVTS2J1SFllb0Rvb0c0YXdhODNFdw?oc=5
+- 主要閣僚の留任続々、入閣待ち議員やきもき…高市首相は「アンケート」と能力重視 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3LUVKRU5ld3VsamtmN1hqRkhQcnJRdm5PMUVuVmVtSjRnOEFkZ0ZJRmxwNmRjSHJUWWd4QldzSUtMY0ExRXpfdV8zVzN6Ny1BenZLdHNrc21USlhFc0E2bFZ4bFdSQQ?oc=5
 
-- 米和平交渉団、戦争終結へ「妥当な案」提示＝ゼレンスキー氏 - Reuters
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxOYktNRGNjR3B1Q3pSVEdMZmt6ZmhIREpxUGsya2pDVHBSTElBaXZSWmluY0E2bkI4SnBJQlJhMGtWdk0xclh3UkdXaEhCOFJ2Wlh0ZlBud0lKNkNXTDBDVEsyNGQ2c0dIVFpOZHpZUGlCeDlONW95ckMzVUZVMFlweQ?oc=5
+- ユダヤ人入植地からの輸入禁止 英仏加など１２カ国、イスラエル反発 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoejBXM1pxT2tKOGlhLWdtWHM3Z2J5NFNaM28wd3hwaW9LcTVId3ZoTzBpZFloYnc2OVFHVXRDS2p2YUdfRWltS3pVWmJMNGdPVnlHZEw0MDFNY1dkNGwxLTh3dw?oc=5
 
-- 維新、閣僚１人で調整 内閣改造、１７日案も - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uSXFTTE8wbTI5SFh0S1c2VFFqZzV3ZnIxV1I3OXlYVGpTTkFMY25kSllCRGNDb1FrOFNFUkt5cTF0VUNQRFBBbFZpMVNUbTh5SzV1VVZacTN4Y3BrZndZS3Q4WQ?oc=5
+- フーシ派がサウジ攻撃、米はイランへの攻撃再開 中東戦争拡大 - Reuters
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5rMWkyZkdKZ3NrRVBqN3lvUDdPbVhzTkM5RWEtbjFCSjFUbXpnaWFsLXFiekxodTVWcThvZnlEdmNRRU42OUdja1JOTXpBZTdZc1o4U3hjTWlnbzFqdTBTSUlYM2JNX0l5eDBWU1I2Q2JGbTF4VkE?oc=5
 
-- 中道、立民と公明系離党し分派へ 一部残り存続、衆院で連携維持 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nTXNuN2dxM0JJQXN2ZVdWa2V6NDY2MmtBYl9PSGU1QVdmdFFlUWdHWHZ4b21zMWxqc3NPeG1LNGRrLUQxTldBRHJWMA?oc=5
+- 名古屋で観測史上1位の猛烈な雨 今日も東海を中心に引き続き大雨警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSU9yT2VBSkt5Nzc4VkFqZU9IT3hZTFl2LUFFSXVGMmNia2xuaXVXX2Q3Z25SZDR6WHpNekV2a0g5SER0YTlQTzRXVXQzZHhVcjRCSQ?oc=5
 
-- 岐阜 洋菓子店3人死亡事件“役員が戻ってきて男性刺した” - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BZjFNUEpmRW1vektCcjhiYWV4ak5CUE54bzlRellZVE5CZk00bHl5MUxvSnlPX0Riamd5aFV5V2JqMl85UDZiS29talJWeXg1UU1kQkE3cEl4QjlLeks0?oc=5
+- 立民系は新党結成へ、公明系は公明に再入党で最終調整…中道「分派」は双方が対等に分かれる形に - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE40RmxpWUpRMWgzQU1PUUdfSVdvNS1nck1haWRfSjdoOHZKU3gxcVU2YTNzUkdYZ1BVSkRlV20yeDRzY2xfZ3pwUUpndldKNWJIZ2dDOWlGRkZ3UnZBMnVjU3RMckNjQQ?oc=5
 
-- 【9日にかけて大雨ピーク】関東甲信・東海・四国で線状降水帯発生のおそれも 秋雨前線と低気圧の影響で東北～四国の広範囲で大雨警戒 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUjVOWm04RWFMRE93Q1l6cm1TYlA2Y0xHNVF3VFNQMS1LT1NFUFdOWHBGZE9RMTNic3JoUlNDUWV1QS1pcXdtcElMQ1ZKWVN1UGJhMXpXUQ?oc=5
+- 「スリッパの謎」が示す捜査の難航 上智大生殺害30年 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vM0RNRUxSZmhFckQ2T2lyazh5Um1fQlVLb3huVFVpYVZnMnJETEt3LU5hZzFPQzdKX3FxOVU5X29GX2o2VVJOWXFJQXEwYmxOMk9xd1g3a2x6V2tzOS1DNmVCTjNWQ3M4?oc=5
 
-- 【速報】埼玉で通行止めが相次ぐ 道路冠水で - saitama-np.co.jp
+- ３人死亡のケーキ店放火殺人、いったん店を離れた７０歳男が戻った後に出火…トラブルの有無など調べる - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KYW1oOEtkX0xCOFhQT1hhWVJNTTlSYkFKN0IyR1kzdERRYnZyZDFBTjNxLVUzTm15aXV5U1hUWktnZHotSXE1ZGRCbjlaNWJLYjZUNmVkM0V4Z2xKZy1BejNfVUxlUQ?oc=5
+
+- 「９・１１」から２５年、イスラム敵視の風潮和らいだＮＹ…初の市長誕生の一方で「憎悪」再び激化の懸念も - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE93bmpxb1h0YURSM3J4VHZ1WjVmX3h0WUpIQlRReVdsSXl3VUZzUGdySy1GX3p1Mlo1MmtNVklRMHczNjlSWmJzelo1UlZkWFc1cWdlT1lOOXhPUEhqUlFfLUxn?oc=5
+
+- 【速報】埼玉で通行止めが相次ぐ 道路冠水で - 埼玉新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EdUFYVzhvNUQ1T1JaX0tMM0tNTkJFLTAwY1ZIR1Q1SXFJdVJ0c2U1aVY1ZmpGUGxOX0FycE82WUc3ZjItVm4yOTFsZmNlMEVvNjVPeEpqOA?oc=5
-
-- 【大雨】近畿地方、土砂災害「極めて危険な状況」 気象台が警戒呼び掛け、大雨ピークは9日か - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VjdvcnYybjFNV09vMUgxbFZRM0dFa3lTZ05kWlpTb1J0UDFWaUFJRjUtNl9yUUYyd09MMUk5ajhaQkNKeU40OTVVVG90dS1GdXUtSExDNEo?oc=5
 
 - 東京都 野川・仙川、善福寺川で氾濫のおそれ レベル4氾濫危険警報を発表 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XUWNBUXQwMWF6MUtidTdNZ2xTYmNxRkU5T21LcnpDZ0pOWUJxRjJaNUZwbm9NYnNKeVRVNGZVdTY3UWN6aW05eDIzdE9RSXYzQk80Xw?oc=5
-
-- 国際学力調査「日本1位」も手放しで喜べず OECD平均低下要因に移民増、デジタル化も - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5KbVF5TmlhRmRtRGRXYmpDbmFtMnYxWTZIZ1p4bmIxTWhGcU5TSjlfcHZPRlFFaTV2dEZvcHlyM3k2SEdnWGQtRFR6NkVBSU53U2dEVTA2RkVCazRWTzBoTUQwdkNPN2tyNjJOMkJjYzZKcGJSY1E?oc=5
