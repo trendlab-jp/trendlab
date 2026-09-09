@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 中道改革連合に政党交付金１１・７億円交付へ、２月衆院選の選挙費用支払いなどに充てる考え - 読売新聞
+- 中道改革連合に政党交付金１１・７億円交付へ、２月衆院選の選挙費用支払いなどに充てる考え - yomiuri.co.jp
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSUdqQmZ2UHBxZzAwR05ad2IxT2FyYnZYSjlTejlWRVMwVVZMcVFHRHBuS3Q5QkFTeUFjME1zM3VuMFhXV2tJdUx0aVV6TFhvSjFwSnNTdkZmRlJqdkpxV3FRYk5Cdw?oc=5
 
-- ネパール土石流がれき220万t 試算 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YWGRlaHQwcEtMSnIyWTI4Vm9kWEFXTm0wVER4SzlQZW5kdklOVFdaVnJyR1FxbWhYY0hiVk9qUmZmUExUQnRVWmVqTm9uVDls?oc=5
-
-- 米国ラスカー賞、日本から4人ダブル受賞 睡眠研究の柳沢正史さんら - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaZXBFT0ZDcnRLSTY5dkgwTFh6T2kwLUloZnZWS0JyZ08tTlRVMjB3V3E3MzBlQnlCMWNEVTlUa01IQjhFTVJtaUc2akFneFdZUkM4X0hOMTJ3V0laWG9wb2lkUWJUc2s?oc=5
+- イラン革命防衛隊、ホルムズ海峡で米国の石油タンカーなど２０隻攻撃…攻撃の応酬続く（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISTEtSm0weW9zNTEzbl8zWGRIaGxidDM3MV91OS1MeDRUZGV3WE4ycUtVQTJFZTF1UWFJUUtWYzJ1QjZiZTJLQ3d5cVdZUC1tWmRacm5kblExMmdIOUZDb201c0tEdG15QnNfZ3dQbUVORERLaG1XY05ac2ZMelk?oc=5
 
 - 関東で2日連続の局地的大雨 八王子では道路冠水 善福寺川など一時レベル4「氾濫危険警報」 再び“警報級大雨”か - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nUW9NeXV1eWlEZ282d3FROGtpQ3pBbGdHTjNEUndQSXB3UW15QmFxcFNoSEtLTHFFZVFXUGZMcnotZ3lmT0NldzVWVzdCUQ?oc=5
 
-- 米軍がイランのタンカー5隻を攻撃、イランはヨルダンの米軍基地を攻撃 - BBC
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pdDhrdU9iRklOR0FoYlBSNDNpSkktX0hZT3k0b01RaW8xaGJwM1JPdnFkUkdSdjhwdWxabkdzR0s3Z0Y2SHZTV09fVUw2ZmdvLUJ0cnBSWlZFY1ZlbVln0gFkQVVfeXFMUGcxaFhJQTMwZEFOLU5nekFBODN2R0Z3MkV3ZzdqS3VLS3E4OTh3NTBDNVVocWN4MlhaYWxyMldzSVZGRmVFN1FLeFVFLWZ2SDR1VktjajI3b09LTHE3UENmaVY3Ng?oc=5
+- ＜独自＞内閣改造でAIとデジタル、復興と防災は同一閣僚に 高市首相、17日実施で調整 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZTRkOXlfb0tCSkF6NW1fTHA3ZGdlanRoZC1DcEp1TjJFWkw0a043em5kczMyb1NUcjNQSERYTVpZRUFQTzd1cU95UGdLdkF5WldqZHZwZlA1bDVEZVphVXRpaVhocWpvUVJUVDN4QWlFdGt0V0E?oc=5
 
-- 男女2遺体は中学同窓生66歳と65歳 3人死亡のケーキ店火災 岐阜・本巣 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1fNS1zTG9wSE5hYUJPd0c1Y042Tnh2TlhWRGJ3UTRrUktHTFZVYkRWMTN1dHNZYk9sX2RSR0JZeHZER2JnN2wyOTdReUdpeVVGVFhHWjM3cXVTS0l4UTZxaF9aWkNVOTdDNnlFWl9WVzJBTkhGUVE?oc=5
+- ネパール土石流がれき220万t 試算 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YWGRlaHQwcEtMSnIyWTI4Vm9kWEFXTm0wVER4SzlQZW5kdklOVFdaVnJyR1FxbWhYY0hiVk9qUmZmUExUQnRVWmVqTm9uVDls?oc=5
+
+- 本巣市ケーキ店火災「死亡役員が火付けた」 無事の同級生が証言 - 岐阜新聞デジタル
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GUmF4cXEyaW9Sd2lIdnJuVXN3bGswMWZKZHA2a1cxRC1WOEpPenU4UXdxaDd2Y2N1ZlZTd0FMOEl5U0ZKUXVDZEpRdW9hdUROVHM4b0N3?oc=5
 
 - 名古屋で大規模冠水 広範囲で「内水氾濫」が発生 “見えない川”暗渠も都市型水害のリスクに - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5OXzVpdXM4OFdILTF2UDFpY2dlNEtkVzAwS1d6cHkxc0tDMGVRWjhnUFNXUkxxbElTdHpoMWQwdDhQdEFEX09MZDBlWEp6WU9Ca09PWnR5YUphS0JWSllkTWhVRGNYbXZ1TWxQNF9TcmV4b3dXaDVZSkc0TmVuM1U?oc=5
 
-- 福岡県議会の新議長が「六つの約束」 異例のくじ引きで就任決まる [福岡県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xdXlmZjRKbTZxaTJXSVdBdFJQNmZVWGtjQXV2MzlMdVlIR1NGZEhsbWhxUjZDOXctTHowZVZId2ZqU3lwaGpNdjN0SVhTdFVUQ1lLa3VkT2pTQVQ0LTJfSGliRGVzV0k?oc=5
+- 米国ラスカー賞、日本から4人ダブル受賞 睡眠研究の柳沢正史さんら - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaZXBFT0ZDcnRLSTY5dkgwTFh6T2kwLUloZnZWS0JyZ08tTlRVMjB3V3E3MzBlQnlCMWNEVTlUa01IQjhFTVJtaUc2akFneFdZUkM4X0hOMTJ3V0laWG9wb2lkUWJUc2s?oc=5
 
-- 【詳報】刃物女の車、外環道を逆走し職務質問逃れる 千葉県警が追跡、都内で確保か パトカー３台に衝突も - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE51UU9qSFVuMWs2NFFPY3FrRjYySjBkX1BGeTdobnFlVmxtclZ3aFlHYklXOUp6SFNLOXZGb0N1OVNZSXhMT1hJMWVLTzhvVzluQ2lTbnhldk8?oc=5
+- ドン退場の福岡県議会できょう議長選、「非自民」は公明候補への一本化で自民候補と拮抗…午後選出へ - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFByRno5RmhpS2ozSmNuQ1RyMEpLcXZza1ZuenRlb2pQM1JMNXZNQlZHb1BZY3hmc0pxWXU2Wnp4SWY5TGpWblRuU0JtNXBsVjBINUdZd3QtNWhQTzNGUTkzVnA0dXhWUQ?oc=5
 
-- 上智大生殺害事件、未解決のまま３０年…父親「事件の風化を最も恐れている」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UX0V3UGJPY20xZllvVlh2ZUl2TG9DbjFuQ1NWWi0zRWFnZDNsMzZVMWR5Yllsd1BhQjJ3bExVTEI3X2d3azZzVVZBLUU0WkpvaGdLRXI1eXpXM0lUYkY2MTJ3WWdPZw?oc=5
+- 【速報】富士山で意識不明の2人が死亡 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UejZOQjFxN2VseFMtQ0luak1sZFA1aEpCRUZtaDNIcGdvRUJ0bDhkUF8xRUpydlAtTEtjRVl3MWJhM19zdXEybjloWQ?oc=5
