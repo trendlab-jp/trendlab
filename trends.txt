@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 読む政治：内閣改造でどうなる「入閣待機組」？ 狭き門に6期生49人 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVm54dFZWb25yQWowajRQalpndFNYaTlaTkJvYk1tcE9FNGVwTVF0N1ZpTXJMc2N0TkkxQW9fdmh0dllpU2M5MkNvWFVmMDdPdElmR1NfTnZJVmMxdUVoODlGNTBxMXNS?oc=5
+- 中道「分派」…どうなる未交付11・7億円 みんなの党14億円返納、新進党80億円分配 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9qMW9ralRfRzIzSUtzU2d0d2Z5Rk5RdEdvdF9wR05ocDhYdmtudU45aGZtZndvREZ2U0JuRTI5S01ObWtpNUl6dzBPRll2M1FJbTNoWFQzT0gzRGxMYWI1R2p0YUNMTlRkb05OMWtmVjNuR2FFOUE?oc=5
 
-- 上智大生殺害放火事件 未解決のまま30年に - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bldwTWFLdGJzY2c1QU9idW5ZdmJRbHhNa2NURjhIVGhqaXRwS0V6Tjk4clZESTZkWHJfeklBTjJNLW9JeTYwRFdKSF9EM3BYSXA5TWhTOXA5cjFVSnVr?oc=5
+- 東海地方の記録的大雨、名古屋で車２００台が立ち往生のまま…一時退避施設で一夜明かした帰宅困難者も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qZldrendBczZ3QlpJUTZPQkg0b2FXaGUtQkh2N19rSk5PLWEzWHJ6VjZ5ZFpSNC1YRnpMaVM5bGVMeW93Sm1tX0dleE9vanVhOTh2VHdsNjhVeWdTV2cxVkE5b3NQdw?oc=5
 
 - 米中央軍、イラン・カーグ島沖などでタンカー５隻破壊…イラン側はヨルダンの米軍基地に反撃 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4T1h1TlBSb2xOS2FjelVJQlZSSEViSUtSYWJiRWxsWWszYjJJQ0JXdFBhUlFmLXh4OExxbjcyeU5pWm9HRWZZZlRtUlJJQlhqeVcydjh6Q1NONklxYWhRWWhn?oc=5
 
-- 今日も東海を中心に引き続き大雨警戒 線状降水帯が発生するおそれ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSU9yT2VBSkt5Nzc4VkFqZU9IT3hZTFl2LUFFSXVGMmNia2xuaXVXX2Q3Z25SZDR6WHpNekV2a0g5SER0YTlQTzRXVXQzZHhVcjRCSQ?oc=5
+- 上智大生殺害放火事件 未解決のまま30年に - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bldwTWFLdGJzY2c1QU9idW5ZdmJRbHhNa2NURjhIVGhqaXRwS0V6Tjk4clZESTZkWHJfeklBTjJNLW9JeTYwRFdKSF9EM3BYSXA5TWhTOXA5cjFVSnVr?oc=5
 
-- ユダヤ人入植地からの輸入禁止 英仏加など１２カ国、イスラエル反発 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoejBXM1pxT2tKOGlhLWdtWHM3Z2J5NFNaM28wd3hwaW9LcTVId3ZoTzBpZFloYnc2OVFHVXRDS2p2YUdfRWltS3pVWmJMNGdPVnlHZEw0MDFNY1dkNGwxLTh3dw?oc=5
+- 関東は午後にかけて雨の範囲拡大 帰宅時間帯は本降りで強まる所も - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlRHp1UVA3amFWSzhHdFRPTzBHTkdpLUFYQXAxaENCX29PQXVPTUlMU01TdkZHb1hJcUFLTnpZVnhRTUc1UFZZMWdmbVo3RjhzTVlxZQ?oc=5
 
-- 中道、立民と公明系離党し分派へ 一部残り存続、衆院で連携維持 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nTXNuN2dxM0JJQXN2ZVdWa2V6NDY2MmtBYl9PSGU1QVdmdFFlUWdHWHZ4b21zMWxqc3NPeG1LNGRrLUQxTldBRHJWMA?oc=5
+- 自民と非自民候補が同数得票の福岡県議会の議長選、決着はくじ引きで - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEbTMxQjR5ZkI4LU9ZQzNoc29rQUZ6UXBacUNaNFRIMEN0eUVZbEwtUlhVTno1YnpVZC1MaW9TUzFXcU1CUFlhSjd1Wkw5bkFDUW1GSklJaHozR2RxbnFOMkJNVlpHQQ?oc=5
 
-- ３人死亡のケーキ店放火殺人、いったん店を離れた７０歳男が戻った後に出火…トラブルの有無など調べる（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5qREJVSm1pLTR1V0txaHBVdUtHMWpWNVlZZVRKVnhqd1M3MTNvbkRaalJLcW54XzlSVnFwc3FGRmFSdmltdlFMSjJ4ZGI0UEIydzFPQ25uTmRGMmQweXZwQWFhb003VnFLOTBKcmFhZkdsOUppdDJsZlVvaVJNTHc?oc=5
+- 大阪や京都はこれから雨のピーク 昼過ぎにかけて激しい雨に警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE91bHQzOVM2dGdzOXV2czViblg1b0ZkRWZhSTZLVmhaTUdXYjZ6eE1IWXRDNGFlM1FmYU5uaWQtdXc4VjNNMUR2VkVZUENjVHczd2M4Vg?oc=5
 
-- 「９・１１」から２５年、イスラム敵視の風潮和らいだＮＹ…初の市長誕生の一方で「憎悪」再び激化の懸念も - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE93bmpxb1h0YURSM3J4VHZ1WjVmX3h0WUpIQlRReVdsSXl3VUZzUGdySy1GX3p1Mlo1MmtNVklRMHczNjlSWmJzelo1UlZkWFc1cWdlT1lOOXhPUEhqUlFfLUxn?oc=5
+- 岐阜ケーキ店火災》気さくな女性オーナーと70歳男性は「公認カップル」直撃取材に親族が語った“ひと言”（週刊女性PRIME - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1kdzRIQy1TN2ZGbXI1M3NoNy0zdXJGbENzRzdZOG5MOGVIY2hwaTMwOVJYWnk5QmpSOWIxd3VKRmQ5SklBLTlKa3cxU3hzQjYxQlNPaElCN3BnZk1jQmx3RFdRcDBCTmVmVHhaUlVYNGJOdEg1UFIzN0dobDJSYTQ?oc=5
 
-- 【速報】埼玉で通行止めが相次ぐ 道路冠水で - 埼玉新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EdUFYVzhvNUQ1T1JaX0tMM0tNTkJFLTAwY1ZIR1Q1SXFJdVJ0c2U1aVY1ZmpGUGxOX0FycE82WUc3ZjItVm4yOTFsZmNlMEVvNjVPeEpqOA?oc=5
+- 【速報】富士山で意識不明の登山者2人発見 単独登山か…７合目･山頂付近それぞれ見つかる 暴風雨で救助ルート変更 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFByUm9WaENudm5VUGZVWUEtMjN5bHVIWldraEFIbzJTMVdtQTI1Q2kyYVNpSDlabVE5Q1FRYzVZbm5JamVXWjl2M0FEQlA1bFpwTThkTUtablhKYzNNODdaM2x1bGNoNHNudlhnTmNpUWd1RHJINXpvTlBSX055Vnc?oc=5
 
-- 【大雨】近畿地方、土砂災害「極めて危険な状況」 気象台が警戒呼び掛け、大雨ピークは9日か - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VjdvcnYybjFNV09vMUgxbFZRM0dFa3lTZ05kWlpTb1J0UDFWaUFJRjUtNl9yUUYyd09MMUk5ajhaQkNKeU40OTVVVG90dS1GdXUtSExDNEo?oc=5
+- 小山市、野木町で車両11台水没 9月8日夜、栃木県内の大雨被害まとめ - shimotsuke.co.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oQm55R2d0LUl5YkdxbVJVNGQ0OXBUaFNwVTVNNThTT2dJQzFiSm9Gb0piVnpzQjRkcGFUOGlJOHVrTlpaU05uSE45c0VnWWhCS0NicHAzLVgxWUk?oc=5
