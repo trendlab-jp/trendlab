@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 中道改革連合に政党交付金１１・７億円交付へ、２月衆院選の選挙費用支払いなどに充てる考え - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSUdqQmZ2UHBxZzAwR05ad2IxT2FyYnZYSjlTejlWRVMwVVZMcVFHRHBuS3Q5QkFTeUFjME1zM3VuMFhXV2tJdUx0aVV6TFhvSjFwSnNTdkZmRlJqdkpxV3FRYk5Cdw?oc=5
+- 沖縄知事選挙でデマ拡散、ＡＩ作成の偽ポスターや発言のすり替えも…陣営「野放しにすれば歯止めがかからなくなる」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrd3d0TzV0NDRRbzFtbHBaYTNaZGVZV1JTS0NaYWhuR2RzTG1vMzMzZWxqaXlNSl9fVlJ0cWcza3lfaVk5ODJTWHYtTml0Yi16MzkweTMzaXZ3YVB1SWRTR2paOFo2QQ?oc=5
 
-- イラン革命防衛隊、ホルムズ海峡で米国の石油タンカーなど２０隻攻撃…攻撃の応酬続く（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISTEtSm0weW9zNTEzbl8zWGRIaGxidDM3MV91OS1MeDRUZGV3WE4ycUtVQTJFZTF1UWFJUUtWYzJ1QjZiZTJLQ3d5cVdZUC1tWmRacm5kblExMmdIOUZDb201c0tEdG15QnNfZ3dQbUVORERLaG1XY05ac2ZMelk?oc=5
+- 世界遺産・高野山 宿坊で集団申告漏れ 1億円超、国税指摘 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NUmhIem4yaGNaUjhwM1M2bXhXcmpQb3JKa21uQ2lrS3lxSWw5NzZOVl9YczRLOUlWd1lpTVY3TzRJY0tYYmNqNEEtaDIxeVMzek9UbnlNUy1XV3RnNWNKWUlNaGR5MW92?oc=5
 
-- 関東で2日連続の局地的大雨 八王子では道路冠水 善福寺川など一時レベル4「氾濫危険警報」 再び“警報級大雨”か - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nUW9NeXV1eWlEZ282d3FROGtpQ3pBbGdHTjNEUndQSXB3UW15QmFxcFNoSEtLTHFFZVFXUGZMcnotZ3lmT0NldzVWVzdCUQ?oc=5
+- 米ラスカー賞に日本人４人 基礎と臨床でダブル受賞―睡眠研究の筑波大・柳沢氏ら - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZdmdYXzg5V1UwMDVhbXk0U1ZmanBucEhyWFRRZklUS0xMYmxVZDlGeklKWFJ5M0VVclBZMjhGNGFDaF82QjNlTnYxalgxSS0wMFFadmJvRlBnQUp1VjA1NUoycw?oc=5
 
-- ＜独自＞内閣改造でAIとデジタル、復興と防災は同一閣僚に 高市首相、17日実施で調整 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZTRkOXlfb0tCSkF6NW1fTHA3ZGdlanRoZC1DcEp1TjJFWkw0a043em5kczMyb1NUcjNQSERYTVpZRUFQTzd1cU95UGdLdkF5WldqZHZwZlA1bDVEZVphVXRpaVhocWpvUVJUVDN4QWlFdGt0V0E?oc=5
+- フラフープを使って車のカギを誤作動、乗用車２台盗んだ疑いで男逮捕…埼玉・千葉・茨城の数十台窃盗関与か - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JZkgtLTNsXzVoY0lid1ZDME9sTURzNTk1Rlk0djVNalpST3RzY1hWa0x3S1RUSS1BbUwtTVNjaHhDNTN3SlF6ZEJxT1dZZVRNb3p4MUM5RHdIay1MNlFtbHRueUUtQQ?oc=5
 
-- ネパール土石流がれき220万t 試算 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YWGRlaHQwcEtMSnIyWTI4Vm9kWEFXTm0wVER4SzlQZW5kdklOVFdaVnJyR1FxbWhYY0hiVk9qUmZmUExUQnRVWmVqTm9uVDls?oc=5
+- 週間天気予報 秋雨前線は日本列島から離れず 週末は再び真夏日予想 - weathernews.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FQVBEYWgtN0VEZmZsNmdqTlpZaGtISkpQck5vWjVDbTlrU0tqOEMxcmpGNldsa1UzLURBRHlNLTl6SGZKQUlsVV9KNzAxVXRPbVJXdg?oc=5
 
-- 本巣市ケーキ店火災「死亡役員が火付けた」 無事の同級生が証言 - 岐阜新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GUmF4cXEyaW9Sd2lIdnJuVXN3bGswMWZKZHA2a1cxRC1WOEpPenU4UXdxaDd2Y2N1ZlZTd0FMOEl5U0ZKUXVDZEpRdW9hdUROVHM4b0N3?oc=5
+- アングル：米中間選挙が事実上の最終盤入り、トランプ氏の共和党に暗雲 - Reuters
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE8wczBXaVhWN1laSWY4ckpFSk5uTkd1TzVFTnF6Y1N4V0syOHlQUUpMeW5URkY5bm9OQlZ2bVJFSHEwbHdHdjRRdGExM0t2bjJQckFaT3UtbW40QVlldWphYUVEaW10YlVOcncwWFRiOHNZRzlqLTBoQnJn?oc=5
 
-- 名古屋で大規模冠水 広範囲で「内水氾濫」が発生 “見えない川”暗渠も都市型水害のリスクに - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5OXzVpdXM4OFdILTF2UDFpY2dlNEtkVzAwS1d6cHkxc0tDMGVRWjhnUFNXUkxxbElTdHpoMWQwdDhQdEFEX09MZDBlWEp6WU9Ca09PWnR5YUphS0JWSllkTWhVRGNYbXZ1TWxQNF9TcmV4b3dXaDVZSkc0TmVuM1U?oc=5
+- 岐阜ケーキ店火災》近隣住民「男女のことですから」女性オーナーと死亡の男性に共通する“配偶者との死別”（週刊女性PRIME - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBtazFCWEtlOG1tbF93LVJVcmdaT3YtQ0JpOVBnNzZhWV9mUWFna2doR2pHQTVZSy1Dc0s3X1ZQU3ZHLTRMWGNubHhIWVFod0xiOEpTaV90T0wteFJMQnIwVXVLT1pqRjgySGw1MXFfbDJyYWh4V1M2ZV8xMnBydDA?oc=5
 
-- 米国ラスカー賞、日本から4人ダブル受賞 睡眠研究の柳沢正史さんら - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaZXBFT0ZDcnRLSTY5dkgwTFh6T2kwLUloZnZWS0JyZ08tTlRVMjB3V3E3MzBlQnlCMWNEVTlUa01IQjhFTVJtaUc2akFneFdZUkM4X0hOMTJ3V0laWG9wb2lkUWJUc2s?oc=5
-
-- ドン退場の福岡県議会できょう議長選、「非自民」は公明候補への一本化で自民候補と拮抗…午後選出へ - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFByRno5RmhpS2ozSmNuQ1RyMEpLcXZza1ZuenRlb2pQM1JMNXZNQlZHb1BZY3hmc0pxWXU2Wnp4SWY5TGpWblRuU0JtNXBsVjBINUdZd3QtNWhQTzNGUTkzVnA0dXhWUQ?oc=5
+- 同数くじ引き決着の福岡県議長選に疑義も 名字だけの3票無効に - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SNVJHaEtZVFQ0Smt3TmhtekdUZm00Q3cyN0xmSndXSUJRZHZXZlBQNzFpOF9rOS1CTjFYY2hzM0xKX1BXdk90TWNXS3pELURWcWRrckZmUTF5bDBXQTFHLXVBalZNZy1x?oc=5
 
 - 【速報】富士山で意識不明の2人が死亡 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UejZOQjFxN2VseFMtQ0luak1sZFA1aEpCRUZtaDNIcGdvRUJ0bDhkUF8xRUpydlAtTEtjRVl3MWJhM19zdXEybjloWQ?oc=5
+
+- 史上最大の豪雨、耐え抜いたナゴヤ企業 生かされた26年前の教訓 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1lMWxWbEExLUJ0Q3pBUGtFZjVRdUNEUzFzMTZCWWRReF9Na3pzQkdyd0xZc0J1cmZtZUxMTzNaN19ZbTBGc3FreFptU19SR19XZjhGUWM3eDg2cGlmbXZ4aHRMYzlYZHBaaGxWVw?oc=5
