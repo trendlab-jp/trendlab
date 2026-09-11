@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 共和党大会で支持者ら熱狂、「トランプ配当」には会場でも賛否…「素晴らしいこと」「これは賄賂だ」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LUFhsbnVMRnNzSF9kMWxhOVAzdVdXZkFiRGtZM0x4c3NQVGFzWW9NNEdVRDJZX09JVEw1ZDV3VkM5a3VTQVhIaTdlMnFmWVZHUWQ1OENIMm04S240TGNwUmJn?oc=5
+- 【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか - BBC
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRnRvRnB0UFpuOUdxWnotNEduYWFjb3FfcjZrTmxtQW5ybFZFNGpGMXRfdkFiQUVWUkpDMUdiNGZfdVBnN2twWlJLbWNJcWtnYVkwQW1jZnZLd1RBd2pV0gFkQVVfeXFMT0NNdjE3SkxSYW5QLXoxMUhHMDZYTXZRVWI3VnRPdFZIcG0xNEw5WlQ1clRnWTZSbmFMZ2RwcUozaXc1Rlg3LXJWclMzeWJJbzVtR0ZlUWJ5VGRiSnpvRUJXYW80RA?oc=5
 
-- 「党はバラバラ、なのに会派は一緒」 分裂中道は重い「党議拘束」に耐えられるか？臨時国会で早々に試される結束 - JBpress
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVkdDeHR0S3JIZlJDUHY0YzNBNm1tZ2thMDU3QUdOUkFuSVR4MC1qbHVyTXhwdjNYdEk0cUxhMTZXSld1WElWXzY3RUprTkJha1lmUGlR?oc=5
+- トランプ氏、フーシ派への攻撃拒否 サウジ皇太子の要請退ける＝報道 - Reuters
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9PLUdncU94eDBUcE5TWDVOQWdNSVN4bjZLQkFQOFY2cWN4ZksxSU96aTBwaGJuOGFONTRBTklYeDROZUZLTjk0dy1hTFFNZEE0YXdQZDBJUGE2ZndySWdicFZteXYyZHl0TW9aeldTc2xqQVgxQmFOOTFmOGZxZw?oc=5
 
-- ＜主張＞9・11から25年 「中東発のテロ」に警戒を 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5NR2FWbW9QaHZOTk8wS2Y4RmVGZFhKX3dJam9NZGtXRGx0Q1c0ZVQ5bEp1ZVlqLVptR1Rqb08yRGIxYVd1d1JHamJEYkgteVFXanZRWjY2UXVmMWtsUHZMRDV1QzUzTGdFZ2Z0WXduS09FbXFPaWc?oc=5
+- 冬の富士山での無謀な登山、金銭的負担求める方向で静岡県が最終調整…山麓４市１町が有料化検討を要望 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jVUp1OWU0dmhLU3ZqcDcwUTlxVy14LUYzX2lMazNZblk1Y05ZRUhNZEpoMzRsUE9JbFQ4RXV0WDJobzh2LWd4MTA1R0ZNNm01blJUYm9scERsWHZ0QnBHSWI5Y2x0dw?oc=5
 
-- イラン戦争長期化に現実味、エネ供給不安強まる－フーシ派も攻撃強化 - Bloomberg.com
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE5iblJHVmpEWnZzVlUyZHJxWERzZjRnZVR1MEdRYlQyVHdHaU03c21EaFd4djg0ZjA3U3JJNGQ1c3prTEViM1VDSDR3Y2NuQmxQWDZaTEgxX2hJRXpwTjJUZDlKazNZWGhiQTFIODVwdFRXQUd2TVRJ?oc=5
+- 都営バスで「あおり運転」疑い 警視庁が40歳運転手を書類送検「バカヤロー」との声も - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1ENXc0NGtMMTB2R0xIYkdseDY4UjYza3BvazQxVFVHcmxDbzB5Zi1sb3VFOVlfSlVkVm54by1IYzlkZ3hBNnpnWGljRHFPbjJWMFZFc2VrY3A3VWplMXNSUWpNWnZuT3JFUHpXbnlQTjY4YWRBN0E?oc=5
 
-- 【速報】相模原市の男子生徒（17）死亡事件 男子生徒と一緒にいた中2男子（14）への傷害の疑いで10代の少年4人を逮捕 男子生徒死亡の経緯についても調べる方針 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzdkZNeC1zejZBem5aRzJOX3NQVGRDVFNFR0w0WWREZklPNTB3Y2FLSXYxVllpdUdUdFl6OGJBMmJDb1J0Y3FzdW9nMGNfWlZCeGVNdU9oRQ?oc=5
+- 【9.11から25年】24年間“封印”された幻の映像…崩壊タワー真下から記録された一部始終と“封印”のワケ - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1xajJMRk1KY1k4VWdmNm1FY1NEWnFaUjF2TVJ6Ym5UTElJT1puODEycWVxaUlROXNTQWRZblZkMmRVSC1mYlhZWEhlUnFBQzFJaHhXdnFZXzhDNUgyZHZpRzFYWTNhc21qSUl4Mzk2NTI3YTVFQlE4M01B?oc=5
 
-- 週間天気予報 太陽恋しい秋の長雨 来週は再び大雨の可能性 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2cGtkVVUyRVJGdEZ0Ny1mNTNsc0FuaTh2ZXh4aFdJd2REU3o0SzJadTRzUTRqMTFybjdNSUZDaWpnUjJVYmpPdU05UDFBUzI1dGNFUQ?oc=5
+- 【中学生と少年4人は面識なしか】相模原市・高2男子生徒(17)死亡事件 一緒にいた男子中学生(14)への傷害の疑いで16〜17歳の少年4人を逮捕 関連を捜査 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PT2lhYWdzd2tybmpQMm16T2xGTFFGeFNQLXhVVVFyZWZBQ056UEE3MW5FalBjUGZSVmIyN2VrN3ZDSXl2WUxwWkNIQ0hHQVhkbUJKT0RVWQ?oc=5
 
-- 「イコールアース図法」提唱の米地図製作者「北方領土は日本の色に変える方針」を明言 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1VZGhtbDBzeC1rMzd6dFpBSTJEcjF5Z3ZHckJZZjVQai1mWjRKYU1ycXpnZUQ4TUZFZ3dFYkg5T3FCSUNQdkgtRDV2czM5YW5kOGtlQTVsbDl6bXJFei1LSGc2X3dzYXNxR0xTY19sWWt4dzdFbUE?oc=5
+- 関東の雨は次第に弱まる 夜は再び降り出すため油断できず - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzQ0gzM1JwMnBobjFfUW1EVmZvcWxKTVpicFVJYXdpNHg5X0FkUXJJRVVHZ1FlNldNM1NyNGMtZlNwMEp4cXNkdHY2b2pSVEF3ZU0xQg?oc=5
 
-- インフル〝原因不明〟の早期流行 厚労省、前倒し接種可能を通知も「調達間に合わない」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZ0J0cWRNTmo3NGhQdjVrUVJ1RldpdFNwNUZKaUJNdTJsR0tvTE44dmVtRVJaUFJTY3dkOHFpOUl0SllBRDl2d250dzBVT3ZGeTh4X1ZWSlJsTVc1TlI4R1ZTYUo5NDdwNGFjRUlaVjhDclhLMXc?oc=5
+- Ｆ１５戦闘機の那覇緊急着陸、拘束装置を使用 小泉防衛相 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpT0UwOUN3eVI1SVJjQUhRNnFPbl9Md3NFcmVFYlAyMkNDSGJDZ2p1VGhxRGsyeG5UZndMWTZrZWNXTEx2LUhFOVJTMGo1N3ZlZVV5SEdiaWdMUXQzSkRIbHotcw?oc=5
 
-- 都バスがあおり運転…ドラレコに「バカヤロー」罵声 30代男性運転手の免許取り消し - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HdWhWV0dXNHpoMlVCX2hPSXE4Z0x2TXhDM21CZjAtMGZTcUVUYVZCeDZfSjI1SzU3VE5nZC1heldxWmM0dks1eVdKWWRpVzZBNHRN?oc=5
+- 【速報】熊本ふっこう応援割、9月15日販売開始 10月1日～12月25日の宿泊が対象 - 熊本日日新聞社
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE96NUxfNXBaT1RfREMwcEw4MFlPQm9HTVFwaFZzcDFCdTUteHhqZDNzYXJySWQ2bTNwczVzQWJsdHM4bmNweEUwVFkwamZ2VEk?oc=5
 
-- なぜ富士山の遭難救助は簡単に有料化できないのか？制度の限界と法的課題とは #エキスパートトピ（前田恒彦） - エキスパート - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2NqMVB1bk5UZVNybnJDcmk0a0NIV0hGTVFjOEFLLVVia084bVFIVTZ4bFowQTNiaElGM3A4UFBaZTV5bnFGcW5wQ1BuNEEzdEhvaVgwSjZpb0V3anRKd2NhRHFMV0UzVk1yS1ZNT0ZXMHNtc0ctX1FRYTgxRUxmcmlFRmZ5Q1lC?oc=5
+- 沖縄知事選、古謝氏と玉城氏が接戦 13日投開票、選挙戦は最終盤の「三日攻防」に - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1ObENIU0UtMnppMVItdkM4TUNYOGNpMHd1VkpSc0VueHBLOUktSmc3RG9kWFZtUnJIc2p2SkROTWVsUHd6dkFETkdJbFY5Zjg0TEFKTURRUUpaQW1EdXBCaXZEZWdBemZRc3U0ZnY1RnZreWtQUWc?oc=5
