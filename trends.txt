@@ -1,28 +1,28 @@
 TRENDLAB 自動取得ニュース
 
-- 週間天気予報 太陽恋しい秋の長雨 来週は再び大雨の可能性 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2cGtkVVUyRVJGdEZ0Ny1mNTNsc0FuaTh2ZXh4aFdJd2REU3o0SzJadTRzUTRqMTFybjdNSUZDaWpnUjJVYmpPdU05UDFBUzI1dGNFUQ?oc=5
+- 中道解体、枝野幸男氏の強烈な警鐘 「『野党は批判ばかり』批判に萎縮をするな」…“邪道”な高市政権との戦い方 - JBpress
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZWRwd0k1TjFEcEhDVTFab29wakw1dks1RHhZdEoxYVY3ZVl1RVlic3BSeDY2MFllRWIxVmdtaThURkpnUVFhTmpZOFNkR2dEdG5KdW5n?oc=5
 
-- 岸田氏も人事アンケート回答 木原官房長官「首相は実力主義」 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pOEZraDlSYlNJOGdkY2wzeDVtOUprR0Zoek9EMVRKbmJzLXp2TW93WWZXMHlGcDdUUTg2elM2ajFjcmdPRlREMUItbUNBRlJhcVVCMWtZNFUwVmFHQjRlR2JGbw?oc=5
-
-- 中低所得者向け給付制度の担当相、創設を検討…臨時国会召集１０月５日で調整 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWOUxERldvTm1CdmVCaS1Mb3J3LWRtRnVmT1AxSlpQSDNJM29wSThtMS1fTWJ4ZExySE1zemtLQ3k2eC12RllQOVJ1RlVkTWtNekdxdGhnMEJZZ3VrV0VmdDJEdlg2Zw?oc=5
+- イエメン反政府勢力が攻勢強めホルムズ海峡代替ルートに懸念 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wUExGN3hiNVdFblhEaUp0TFA2aDZFeld0Smd1ZmFNcG5ORTQ3RE1TeThrSy1IVGZkYWZobTkyV2ZQOU54eXpsRk1nRkVaaWdhLVBvSTdWZzlSdE5QWEo0?oc=5
 
 - 米中間選挙2026,トランプ政権：トランプ氏に落とし穴？ 有利な区割り「ゲリマンダー」の効果は - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LcE1wTE1Tam56Ui1sMW5MT3lPRUJGSldnd2RUY0llMFdfWHY0LWstalg1YWo4NjBwclhocGpoV2JLTjNRX3JkUERsc25CN04ycTFBTkF0LW9hOUVLUENadjNUbVpNbjlO?oc=5
 
-- 日本の原潜検討、米海軍内に促す声 韓国には「妥当な理由の説明を」 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRmRvNzM3dE83Q3ZZbG1pQUYzWmJESFRrbENKdXNDQmNOMGxxMGg0MXdnaXZJS1lydTFmVzQtRmxNdFdTYjd4TTNsakxyakVfcEQ2UkN0VC1xZWlsV1laMUkwQ3N5LTBsekJSeA?oc=5
+- 岸田氏も人事アンケート回答 木原官房長官「首相は実力主義」 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pOEZraDlSYlNJOGdkY2wzeDVtOUprR0Zoek9EMVRKbmJzLXp2TW93WWZXMHlGcDdUUTg2elM2ajFjcmdPRlREMUItbUNBRlJhcVVCMWtZNFUwVmFHQjRlR2JGbw?oc=5
 
-- 立憲出身議員の新党 来週にも結成へ 解体の中道改革連合 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZS0I4NGRmYTR5V2hMMEtzeXJNaTFscXpzX2x2a0xRUmpVajUtdTJkYkNsUkFGdWtsdkVVN0pMWi1qMW1MblJMT24zXzJiQnlFTjBxRjMtYmtObG83anpxUlJfN1NHYkE5NktYMjFDZDBvNkU?oc=5
+- 週間天気予報 太陽恋しい秋の長雨 来週は再び大雨の可能性 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2cGtkVVUyRVJGdEZ0Ny1mNTNsc0FuaTh2ZXh4aFdJd2REU3o0SzJadTRzUTRqMTFybjdNSUZDaWpnUjJVYmpPdU05UDFBUzI1dGNFUQ?oc=5
 
-- 「イコールアース図法」の提唱者公表の世界地図、北方領土がロシア領と同じ色…日本大使館が修正申し入れ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mYWRMVEJLMmJVQVFINWp0N2R1bUpvZzVlLTlwRzM0WEkyUmEzcVltbFRzWjM3TTZHS05RbWRZcnJmWjE0MGc4Y21kY1oxTDdTMTladEdUcDVJNVJ2NHFSdC1BczhCdw?oc=5
+- 「イコールアース図法」の地図でロシア領と同色だった北方領土、日本領の色に修正…ロシア語版は変更せず - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tU3B0VnN1R0Rwd3B0OHUzeFhhbnZWNGdjWVlrTDhWQTNicnpobWNzaXZKUTc5RHNMVlVUajNRMVUwa2thRkpVQUdTTFlqQkJSb3djeUVHaVBPNjJjRzhnVFMzOXB6Zw?oc=5
 
-- ＜主張＞未解決事件捜査 風化を許してはいけない 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQ0JLLXBRZHRTY2hYc0I5N0ktQ1dyc1ZaSEl5M25NdGdXSXV3cTlWSGcxdHJhU2tLM1FxOXdkNGhPMXpDaXp2UzhhWGRKbFlOaGpUR0txT3JGUGQ4UzRRaUs4U29BLVgyQlU0MGdfanE5NlZqVmc?oc=5
+- 都バスがあおり運転…ドラレコに「バカヤロー」罵声 30代男性運転手の免許取り消し - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HdWhWV0dXNHpoMlVCX2hPSXE4Z0x2TXhDM21CZjAtMGZTcUVUYVZCeDZfSjI1SzU3VE5nZC1heldxWmM0dks1eVdKWWRpVzZBNHRN?oc=5
+
+- 午前6時に家を出て午後9時に帰宅も今は昔…真庭市の中学校教諭に聞いた「部活動の地域移行」で進む教育現場の「働き方改革」【岡山発】（FNNプライムオンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAzMEY4aGwtNHBGRTVWM3poZldRVGhPUjJDMlVqV09hM19mVXZaYzk4eUpEdENpLVBnM3VCajl3R3JfWjZidjIyT0FKSDduM1duTUZKMUhvZGpiNGMxUjNselZZX3YyQ2ZaMXpyUDg1ck1IcEU2MFJQWFVLS3ZBeUU?oc=5
 
 - ＜政治部取材メモ＞中道崩壊で強まる野党の「石破待望論」 ただし、当の本人は興味なさげ - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9aOGgyekVQN3hycC1jdEV1RzJmelQ3SVFXeTZXTThCcUpmWUtmTmRSbzUzM0FndEQ0U2lzWDFacXVPeThvbmJvME8xNEtIV2o5Y0dUNzI0c1hQOU1rb1BiNkhqVUxEVnVnSmJ4dTI3RVpOcTdjSVE?oc=5
