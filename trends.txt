@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- サウジの原油パイプラインが停止 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vZXI3eUhFUnFLZFNXcnVVMHFzaVdfZ2tBZ2s3ZkxGM08wZGtzVjl1VzZvSnNNR3BCeEduUlNURkhPVUthMVBkNW80cXJzOUxu?oc=5
+- 迫る「第2のホルムズ海峡危機」 サウジの原油パイプライン稼働停止 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE0xR1l5VkhzOTBlNHh5RGYxTEZqYnpaTy1TZnFhbTR0eTg2RnV0RDlmdU5DT29sWHZ5RmNGeUJNOGNTM1RmQTNnNWdIWG0yTHpyU25DVTNkdlJQbVZoYjg4dVhkZ2ozOHdIajJxWA?oc=5
+
+- 北海道・十勝岳の噴火警戒レベルが初の「３」に…１９２６年の噴火では１４４人の死者・行方不明者 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzRU9ZTTBsRnlPSU9hdktxVUZUelYzXzF4Uy1BbkRPMklmSXBYODRrZzJQTUlhSFZuQ3dTN0c2YVowdXZLWUVkME92X3JnRkdWUHcydUlQY0RWMFQxTlQweFFxUmVsUQ?oc=5
 
 - 沖縄知事選、荒れるSNS 動画、Xの大半が県外発 AI悪用し中傷拡散 兵庫知事選と重なる投稿者も - 神戸新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBkY3pNQjFVTngyV0E1LWVvM1RsN2pTcl9pUDE4anNZZGplTWdwTVlHTW02R1lCNU50LWFva0dBeDVfVzJ2cE9CWHA2SjlXQnlhWUk3X3dJSVBGdGRFOTJwNUpNSlYwdkR4YUZOa3BRYw?oc=5
 
-- 十勝岳の噴火警戒レベルを３へ引上げ - jma.go.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1FTW42bThhUFJRVGhvTGxwWTlyNWZ1QWxkWDVuR2FHWkZxR1k1STJLZzdxSEo0cUljZXU1aUZ3cUczcnRkRGpQRUlsV1VnVktsdWxRcXdKSThPOUI4UHgtNFpNUHQtVEtOeWhWUkx3V2xwYldD?oc=5
+- 来週は秋雨前線が本州付近に停滞 大雨となるおそれも - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE41M3JaNlJkZVp0Z1djbWVPSHdUQm5NUUtpVklpWWUwWXNDOHdPRnpGSkxjbXlqVk1UeGtrX3lTYUVvQnNnTm9MUTNkbERzamlNRTJ3Tw?oc=5
 
-- 週間天気予報 前線停滞で秋の長雨 大型連休は南の海上に注目 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mVmFiVmVxRUpWc05VdVRXTUw5RW5ITVZYQzh5cS00RzM4eFNmX3RzdnZtZUVHRlB5cS1BcHJtRTN5V21TVDZkOU9wRTlLY3FpUGZsdg?oc=5
+- 就業体験のはずが「時給１００円」「集客ノルマ」、就活生の不安につけ込む「ブラックインターン」（読売新聞オンライン） - news.yahoo.co.jp
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE41VW1oZU1pRjVkZ3NBMkdYaXQ1ZVJ6WWszYmRQdnFJMXFHekt3YjVUa24tRlVlWFBLZlVkT1c2Ym1kdXh1Q2lNT1VzWDBlR0hCdG13VkNueTNWSmY1aEdMODhCakZxMnZOTldWX2pZaWVmZ3NyVXF1VEdvanFjV1U?oc=5
 
-- 米南部で黒人女性、木につるされ遺体で発見　家族らの訴え経て最初の逮捕 - BBC
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjSkt6TnN4YUhlQ3lfVU03ZVl0Tml5WjYyN2FseS0xeEgwMGFNVS14OHljRXhna1lVeW1Ca0s4ZWs0WmROeS1LbmJfdDE4cjlXRzFyUHJ0WXkxOUpHQmtV0gFkQVVfeXFMTmNrQ1JiZW1pYnBfTUNyN0E3d1lUQndqS3BUQmR2eWxGSzZXMUxiMXVNV043QndpSkYxVlZDcklCQkJwWVFfWTVKN1lKXzNabGdnb2FreDhDSFFnVkZ4bmViSE1xSQ?oc=5
+- 相模原 高校生暴行死事件 警察に通報しないよう口止めか - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZUVVYSzMyV05fRmczLV9rXzQ0WVhSd053N1g0blJReXVhQllKMWpHT3UwbFJ5T0NkRGkzbE11bEJ6NndsMEVtaWNoQzhlN2h2d19DSWpMekxlVE51ODhz?oc=5
 
-- 矢田川水位、レベル4発表時に既にレベル5基準到達 気象庁の対応追いつかず、氾濫特別警報が後手に - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GUjJSZF85ZFRoREV4em04UWFnYmo0UnlRNkZZTjAtNWdOT3hFbVRmamZMTGQxMmxUSTRSaTJyOWxhYXhrMG9PcWU2YUQ2S3g2VFBPSA?oc=5
-
-- 相模原の男子高校生死亡、少年３人を男子中学生への傷害容疑で再逮捕…死亡事件にも関与か - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTdHR3ekZLekNEVHQ2dFppMVFZSjg4NVJNQ2FHb2hOVS1XZDdHb3pGOG1MZC14TEhrMmw1MWJrekk3aFhPMnVqSThnQkpyZDVISEhzVlBCMk9ZS0VQa243dnQ4U2Fadw?oc=5
-
-- 「イコールアース」地図、日本語版の北方領土を日本領と同色に変更 英語版は灰色に - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5jb0M2bUIxMjd1RHl4Y0Y1WmczRWJlU1JMb2pNQ21fNTQtSGJsbElwVnJ3WDVVbGZNeGVwOG9WZ1JoLUxhYk55VXcxMGxpM0ZLY205Ykd3eXlhUHZWZDFNSUhybk52WTMxcVlGVzRYQ2ZNR3hUZXc?oc=5
+- 【速報】イオン熊本の全テナントに契約解除打診 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE12V3o2eU5fbU9KbVhSWXptYUstNnRuMmttMTk2NWNKRXYyaXdEQkJsdVA1VnBrck9Jcm5HTHR6RGtmUjh4dWVOY3FfSQ?oc=5
 
 - 「完全に終わったな」８月の大雨で越前そばに大打撃…秋の収穫前に農地の半分が浸水被害、異例のまき直しも栽培条件は厳しく - 読売新聞
   https://news.google.com/rss/articles/CBMickFVX3lxTFAxQlZHNy1IaTUzNjJ5U2p1VzZDcVJrSl9BaDZ2UzJmQjhOQkJYRDU1clhQSUYxdFl3dFBYLWpPZnhTTDdCU1NlbVZYZWhNR01LRHdJNi1ES01Wa2dhZGhfQjhmci05em83aTNxRGl0cVBwdw?oc=5
 
-- イオン熊本 専門店に契約解除打診 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE01a0pvMFZYM1FYRV9IWUcwRGMzeENyZDM4NlFUaVJ2OGJmWjBPTnJwVXFQc2o3TmZwcXE3S3JveHVJdkh1Mlg3LUoxX1VDTlRj?oc=5
+- 岐阜ケーキ店火災、店主女性が入院先の病院で死亡 死者は4人に - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbllUYTB2RzFuZk0zLXRfQUYzbXU5XzJQTVotMGc1b1FkQm9hLUlzWmhFSnFaRjF4dU9nSHlncVQ5Z3ZGTnhvcEJLSFJnN1FtN0ZSdWpoNE9DaFp3Vm9IMmpMYWNvaFJU?oc=5
+
+- 石川 大雨の被災地向かうボランティアの出発式 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMGdFME9UcW9vQkhsVWpySkI4M3NkcHlKNDZtWGhRcjlFbFI4YTBCVUNITlNyMGJNZ0Z0SWNWS3hRMGVDbEhCbmJ1LUw0YXotZ24yaDVlWC1PQWFBTHI4?oc=5
