@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 迫る「第2のホルムズ海峡危機」 サウジの原油パイプライン稼働停止 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE0xR1l5VkhzOTBlNHh5RGYxTEZqYnpaTy1TZnFhbTR0eTg2RnV0RDlmdU5DT29sWHZ5RmNGeUJNOGNTM1RmQTNnNWdIWG0yTHpyU25DVTNkdlJQbVZoYjg4dVhkZ2ozOHdIajJxWA?oc=5
+- サウジアラビアの東西パイプラインが攻撃を受け操業を一時停止、イラクの親イラン勢力が関与か - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVXBpVmtJRVpSeUlqaUxXMjRCWWVJdXhWMGtoRkUyTlF5a0RDaGFVMGY5V1FyQ3RmNUtJRHZPNk1NUVJ0em9FcVY4c1V0eXpIclZDR1U0TGxSSmNmeHRBbDZ3?oc=5
 
-- 北海道・十勝岳の噴火警戒レベルが初の「３」に…１９２６年の噴火では１４４人の死者・行方不明者 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzRU9ZTTBsRnlPSU9hdktxVUZUelYzXzF4Uy1BbkRPMklmSXBYODRrZzJQTUlhSFZuQ3dTN0c2YVowdXZLWUVkME92X3JnRkdWUHcydUlQY0RWMFQxTlQweFFxUmVsUQ?oc=5
-
-- 沖縄知事選、荒れるSNS 動画、Xの大半が県外発 AI悪用し中傷拡散 兵庫知事選と重なる投稿者も - 神戸新聞
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBkY3pNQjFVTngyV0E1LWVvM1RsN2pTcl9pUDE4anNZZGplTWdwTVlHTW02R1lCNU50LWFva0dBeDVfVzJ2cE9CWHA2SjlXQnlhWUk3X3dJSVBGdGRFOTJwNUpNSlYwdkR4YUZOa3BRYw?oc=5
+- 沖縄県知事選13日投開票 継続か交代か、各陣営が最後の訴え - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5
 
 - 来週は秋雨前線が本州付近に停滞 大雨となるおそれも - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE41M3JaNlJkZVp0Z1djbWVPSHdUQm5NUUtpVklpWWUwWXNDOHdPRnpGSkxjbXlqVk1UeGtrX3lTYUVvQnNnTm9MUTNkbERzamlNRTJ3Tw?oc=5
 
-- 就業体験のはずが「時給１００円」「集客ノルマ」、就活生の不安につけ込む「ブラックインターン」（読売新聞オンライン） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE41VW1oZU1pRjVkZ3NBMkdYaXQ1ZVJ6WWszYmRQdnFJMXFHekt3YjVUa24tRlVlWFBLZlVkT1c2Ym1kdXh1Q2lNT1VzWDBlR0hCdG13VkNueTNWSmY1aEdMODhCakZxMnZOTldWX2pZaWVmZ3NyVXF1VEdvanFjV1U?oc=5
+- 相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元関係者が語る少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5
 
-- 相模原 高校生暴行死事件 警察に通報しないよう口止めか - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZUVVYSzMyV05fRmczLV9rXzQ0WVhSd053N1g0blJReXVhQllKMWpHT3UwbFJ5T0NkRGkzbE11bEJ6NndsMEVtaWNoQzhlN2h2d19DSWpMekxlVE51ODhz?oc=5
+- 「大規模な噴火に繋がるおそれ」 北海道・十勝岳 噴火警戒レベル3「入山規制」に引き上げ 上富良野町で避難指示や5.6kmにわたり通行止めも - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LVA3NDV5WVVvSFRVTFFEZ3c3dzc5WkdacWpFU0ZqbkpCVmVFeG5PN0tTVVlZSjlqZ0hmSnRFZkhjb3p2OGZUaUlKaU9JVXZZOThMWlVtYw?oc=5
 
-- 【速報】イオン熊本の全テナントに契約解除打診 - 47NEWS
+- 政党交付金11億円で選挙費用清算を国民は許さない、中道議員49人で割り勘を 平井文夫 - 産経ニュース
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDZ4VGZOcEF4NFBuelQzUk92NW1fSnQzSDRHcmhnczN3X2swU1hDb2s2QWxndFdmMmZhV2ZzUGxzUFRiS1dkQzJyLXFKUnFNOF9FWTlINFBxX25QaEhqRlZLY0toVW9JMUVzakZhY2RSZUc5d3hCWjltMGpWS2dsQ2dYNlROTU9WeW9lMktHZDlobGlGZk9WdmUxMWk?oc=5
+
+- 千葉豪雨「1万年に1度」規模 ウェザーニューズ分析、将来は発生確率2倍に - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9STXpwQWg2ZWEtaFBVZGRKN05OdURheVJ3aVFla0JScWdPRXE3NFhRTFlHZFpJM1JMU1B2d0xwc3V2eFc4U005LXN5bUZuUGVncHRfWXVOWXNIWnpuQ2c1dUR5NEh5cW9oc3FvY2Y4R3EtRTFxX3c?oc=5
+
+- 【速報】イオン熊本の全テナントに契約解除打診 - 47news.jp
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE12V3o2eU5fbU9KbVhSWXptYUstNnRuMmttMTk2NWNKRXYyaXdEQkJsdVA1VnBrck9Jcm5HTHR6RGtmUjh4dWVOY3FfSQ?oc=5
-
-- 「完全に終わったな」８月の大雨で越前そばに大打撃…秋の収穫前に農地の半分が浸水被害、異例のまき直しも栽培条件は厳しく - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTFAxQlZHNy1IaTUzNjJ5U2p1VzZDcVJrSl9BaDZ2UzJmQjhOQkJYRDU1clhQSUYxdFl3dFBYLWpPZnhTTDdCU1NlbVZYZWhNR01LRHdJNi1ES01Wa2dhZGhfQjhmci05em83aTNxRGl0cVBwdw?oc=5
 
 - 岐阜ケーキ店火災、店主女性が入院先の病院で死亡 死者は4人に - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbllUYTB2RzFuZk0zLXRfQUYzbXU5XzJQTVotMGc1b1FkQm9hLUlzWmhFSnFaRjF4dU9nSHlncVQ5Z3ZGTnhvcEJLSFJnN1FtN0ZSdWpoNE9DaFp3Vm9IMmpMYWNvaFJU?oc=5
 
-- 石川 大雨の被災地向かうボランティアの出発式 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMGdFME9UcW9vQkhsVWpySkI4M3NkcHlKNDZtWGhRcjlFbFI4YTBCVUNITlNyMGJNZ0Z0SWNWS3hRMGVDbEhCbmJ1LUw0YXotZ24yaDVlWC1PQWFBTHI4?oc=5
+- 「マンジャロ」求め来日する韓国人が急増 地方都市の病院がSNSで“聖地”に - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE92b2wzSDlMMHhuTVF3QktQT1NDd2lHZ1VQN1dmSl9HUVI1STZyTHdPVnk0YXBjWndraG1iR0I0UTY2ZWJTZ1pwM004R2lfQVpoM3ZBVTlKOUF2enZfbjA2SXZzUzVCQklvOV95U09QZFM2Ul9KV0RHUzd3?oc=5
