@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 沖縄県知事選、新人・古謝玄太氏の当選確実…３選を目指した現職・玉城デニー氏らを破る - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DWGlYbkhydjloV2QtczlTSWRvT05ucmFXNHBFWmZzZEVWZFRXQ2lQMFRfbFlSNGdPSllxdHhXblo1aFRlUm12SjA1OFNKbUtHRDluWndQUEFtY3pBaDJDUzdTa0d2Zw?oc=5
+- 沖縄県知事選 高市政権支援の新人、古謝氏が初当選確実 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE96SzBLTmZTYVM5bEhFVU1fUkU0eUZsaVM1LXM4ZmJQanpGRElZOXR5a3ZTdDhFVjFiQWl0MkE5eU9qakNwbE9yRmZvM2NnWWc5QjNUOENVLS0ycDZVTFZOREtKMTBQanFB?oc=5
 
-- インドネシアでフェリーが遭難か、１００人以上救助も６人死亡・約１３０人が行方不明…日本人の被害情報なし - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LX2dlSmQwbW9RTXYwTktmb3BwSFloTGJEbFN3WWVoa0ozQXhrX0NwU3BsNDRsM003dFNDZUdGN3N4TE9QMVRRc2Q3YUxJUHFKQWlKVEs0ckxHdm9rNlFSRldB?oc=5
-
-- 日中友好議連の若手議員8人が中国へ出発 「中国人民対外友好協会」幹部との面会など予定 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kNVN2M3g2b0xyc3VVaDlmLXI3X1g5bS1zOGZBRG9iNTJVT05wZEFuV1RUcTQ5ZFd3Zk1CX2tfdkJZczhYN2hqdFZhbXNleDdIV2pHN0NYSQ?oc=5
-
-- 岐阜のケーキ店放火殺人事件、店主の死因は熱傷性ショック - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14cTcxaEtFRWhBcE81dnBMQV9QcVhqOXF5a0o0WHBqSWlBMDl1Ti13d0NPTVhGa1djakJwNEdTdXNjWWlNQThydFVyZldWVkp1bUtmdU1oSnBiekk3X082bmlnVDQ4Zw?oc=5
+- インドネシア沖で旅客船沈没 地元メディア「6人死亡」 去年まで日本で運航（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE81cFlUMHhyMmZ3NktqeUM4T19NdXoxUWRPa05TVFJuTE9vcDhFMjNlZ1F3QzdwNDRZekpmV3RTam53STF0bzFLNVBhdzE1b3dmbGJFRUxONWY3Q1I3bHRHcVRmWGlrbFlTOVloTUtGZG9YMllldlRSRjNVNElBd0E?oc=5
 
 - 明日の関東は久しぶりの貴重な晴天 ぶり返す暑さに注意 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UeDl1Z2tiOVJNQllDQTVLNzYzeDlCMm1uYldHOTl2RzdTZHhfNC1IdlJEczVtaUNzTUlZMnFfZEVmOVF5REYtR3pNaHdESmx6Y0hQYQ?oc=5
 
-- フーシ派、紅海の要衝で影響拡大 イラン、米への圧力強化か - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE83OGtOT3IzdW5MU3o3T1k3X1kxc0tjVURmRzlqU2tVUHExbDQxYjJ5cDd6TjRRcXhPSzJhTUNGRWdJUUJNa3NQYWZQQjRpQVh1ZEN3M3JnSW5LUmg3V1lFb2FhRQ?oc=5
+- 岐阜のケーキ店放火殺人事件、店主の死因は熱傷性ショック - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14cTcxaEtFRWhBcE81dnBMQV9QcVhqOXF5a0o0WHBqSWlBMDl1Ti13d0NPTVhGa1djakJwNEdTdXNjWWlNQThydFVyZldWVkp1bUtmdU1oSnBiekk3X082bmlnVDQ4Zw?oc=5
+
+- 秋雨前線停滞 月曜は日本海側中心大雨に その後太平洋側も - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bGFfTkNkcTBuejBGV0JDVnlXMF9RWlhHQ2ZJaUF3UEY4bTdLbUZ0UzJXcDZkWVNiN1MxUmUydWxxUnJXSm05NjhLcjFoREprX2I0SlpPNDJITkoxaERz?oc=5
+
+- サウジの原油パイプラインを攻撃した装置押収、イラク当局 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2pmdEVLUGoyTURhSkxGOWFwOTB0RmJxak9ZdU4xRy1FY3NkQUtRSFpHcjktZzV5UEVMMGtXdDZ1Y1M1SXZTVmVZTXdlX21DZWdQTXlKdXB2UUJuRlNma0dXeEl6c2daRVB2d2JiTXFoY1pOT2c?oc=5
+
+- 竹富町議選 12人が当選【沖縄統一地方選 2026】 - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OWmNzX09DcUZMa1UwUmNaV3RZUThLTTBBZWJZY1NBdDczMjZnMzJOcTIycFBlYmpFVzQ3ZjVMODlySWp6LXlKTHlFM0o0bW1JM3JYWklCUmFGWUJLamc?oc=5
+
+- 【速報】京都市の商店街で水道管が破損し漏水 周辺に水あふれ「大打撃だ。早くどうにかして」 - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVOFdtUjM0Q09GbkpveFYwdEtLWUhwa3pQWWNxRWpfR2psOEN4Y2RlV09zcmNWZFFkeEswemZndGJiamZnSkRlZXY3RzdJcEhyc3c2ODI0Yl8?oc=5
+
+- 度重なる大雨に疲弊 館山、迫る水に「うそでしょ」 千葉豪雨１カ月 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzd0lLa3Z2TkZSaHBaRnBsZ1F0SDhWSy0yZ1A0OENuV2JMYVgtM1Qtd1YwQ2I2ZWFBanJyZ21PNG0xOVdtQW45WlhFTXY2T2trNVVKdEJDeHM?oc=5
 
 - 津軽海峡でM4.5の地震 北海道の道南と青森県で震度3 津波の心配なし - ウェザーニュース
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1za2RJOXB3QThNTlp2QjhOSzVLc1B1NC1YQ3dlQTVOWWJFR0J6ZFkzNEJTX0hBTkRqVi02YmFoV2k1U2pyTUlGRVhpRHRZeUUyS3NqZFl6U0hIRmc?oc=5
-
-- 「SNSの“加害者晒し”が原因で犯人グループが地元の子を詰めて…」17歳少年死亡の裏にあった“犯人特定トラブル”、地元に渦巻く疑心暗鬼【相模原】（NEWSポストセブン） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTGNuUDJCenRqTHhSUlVLbS1JUG5zcWNpS2ZtMzNOVDhwM2FCb193XzJaWmNBTkRqeEdwdG5xYS03bXk2Qnk1bld2RDVvbzdOM0dzX29MNVN0YndaMk1aS2FWWnpDMFQwMERJdFM3MXRPenpDQi1yMEhUaDU0TWc?oc=5
-
-- 千葉豪雨から1カ月 「レベル3大雨警報」発表から15分で冠水 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBLYkZlSTJBaFJHM3ZhTFVoeWtwOThJOHN6ZG9VaU4tZ214WkZVTldmY2FxYmxQYzlSOHNBYV9zQ3BVdW5WdUpFV1RGV3RoVUhKdzZqTFM4SHZ4TWNIcXNLaE56OE1xVmpraW4xUnlXWnZYUQ?oc=5
-
-- アフリカ「メルカトル図法のゆがみ」に一石 米国は国連決議に反対 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE82WlNiSkp2V0t6SlBWcHFZd1hCdnBGUWlFWjR0WWpTdk16VW5fX2pCM3BtVk5tZFlhemJnOXZ1UzkyblIzdDRlbkh5ZDVxbjZCcjJfVW9KcjliUElFcmUza1FLakJneldxaXZCUw?oc=5
