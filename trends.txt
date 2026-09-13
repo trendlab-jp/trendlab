@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- サウジアラビアの東西パイプラインが攻撃を受け操業を一時停止、イラクの親イラン勢力が関与か - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVXBpVmtJRVpSeUlqaUxXMjRCWWVJdXhWMGtoRkUyTlF5a0RDaGFVMGY5V1FyQ3RmNUtJRHZPNk1NUVJ0em9FcVY4c1V0eXpIclZDR1U0TGxSSmNmeHRBbDZ3?oc=5
+- トランプ大統領「イランに責任がある」との認識示す サウジアラビアの石油パイプラインへの攻撃 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeEVob0RuX3E4RkdwaWtFYkNBVnRST1FfOEo0aFVjZGxfQU1BVldfbmxfckZTVFhSSTEwdExMWjl3M3dJckY5VlZXNmJ1c1RhZkkwUFdtanN3dnJ2RzA0QlhQSzQ0bldrQXBWX1IwMFhiYkJ5cXdrNzd4dFZpclE?oc=5
+
+- 千葉豪雨から1カ月、今も断水のマンション「トイレは隣のビル」高齢女性「家に戻りたい」（産経新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYbC04aXVSODlGTUNZU3pFeS1ZR0diSFhFY0RCY1dCbFdBSTNET3BrYmNXYjIwTzZzS2o0dk9zX2dXZ0pCSUM4TUczbktxWVd3RWJ5dThfeEhLQ0kwcTcxRy12WGZzaXl6QjNJYUVpZ0NxclFfbUNfN0I4QlZLTlE?oc=5
 
 - 沖縄県知事選挙13日投開票 継続か交代か、各陣営が最後の訴え - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5
 
-- 熊本地震でＳＮＳに根拠なき情報「炊き出しでイスラム教徒に配慮」…食事提供の自治体は「宗教的対応していない」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhMkJHZTIySkZmc3RraVJtcTZZZk1rSzZOck0wcnlFVnUtSmJBQjVSbERseEVWVnpVTDNYRUY1TngydS1JbnNPVmFnaktncHRnNTh6V3VYaUdCSFZ1NjdJYWF2SVEzdw?oc=5
+- 週間天気予報 前線停滞で秋の長雨 シルバーウィークの天気どうなる？ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE92eFZ3cGNmQW1IRWt1bzZUOEs4WUZtQmEwVkt1Q0NVNXBEc3M3VjRCUGFGRk5lQmt6MnBiNGl1bWFsbWFGdGIzc3UzMnRXWGJDdEU0dg?oc=5
 
-- 「大規模な噴火に繋がるおそれ」 北海道・十勝岳 噴火警戒レベル3「入山規制」に引き上げ 上富良野町で避難指示や5.6kmにわたり通行止めも - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LVA3NDV5WVVvSFRVTFFEZ3c3dzc5WkdacWpFU0ZqbkpCVmVFeG5PN0tTVVlZSjlqZ0hmSnRFZkhjb3p2OGZUaUlKaU9JVXZZOThMWlVtYw?oc=5
+- 高市首相、自民国会対策委員長に村井英樹・元官房副長官の起用意向固める…古川俊治参院議員の初入閣も調整 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoZHk3ZGE2WWs2bUJhWWNPVnpHSWVrN1ZyajFma0tubEhqV0QxT0t3RnJsVzVsbExvREdER2JwTWJFSko5aWpONHJsTWI5Z2NqQm9wSUpNc29qTzIyZlJQMEpZNkRJZw?oc=5
+
+- モディ首相と習主席が会談、インドと中国の「戦略的かつ長期的」発展で一致…関係改善を強調 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIbERCS0tnYlRRMVE3U1BqTFJ0RjRYZ0ZnVU5wM1Z4cWdVR0F6T2lncjhOZ25fUVVXakllSkEtLWRydXRmdEhuSmFZT0hnODZzTFpSOTZPYTEwdWNoaUhRQXF3?oc=5
 
 - 相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5
 
-- モディ首相と習主席が会談、インドと中国の「戦略的かつ長期的」発展で一致…関係改善を強調 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIbERCS0tnYlRRMVE3U1BqTFJ0RjRYZ0ZnVU5wM1Z4cWdVR0F6T2lncjhOZ25fUVVXakllSkEtLWRydXRmdEhuSmFZT0hnODZzTFpSOTZPYTEwdWNoaUhRQXF3?oc=5
-
-- 明日9月13日(日)の天気予報 西日本や東日本はスッキリしない空 お出かけには雨具を - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OY0FYcnhMVTBsbVBDdi1KZVpLV1RlOW80cndaTjJuV0l2VmNpRUFVWkh2R3RHR1I0UmE1Ujd2Y3dHVW04ZkhHN1BVYXc1ZGRGbUZvcQ?oc=5
-
 - 千葉豪雨「1万年に1度」規模 ウェザーニューズ分析、将来は発生確率2倍に - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9STXpwQWg2ZWEtaFBVZGRKN05OdURheVJ3aVFla0JScWdPRXE3NFhRTFlHZFpJM1JMU1B2d0xwc3V2eFc4U005LXN5bUZuUGVncHRfWXVOWXNIWnpuQ2c1dUR5NEh5cW9oc3FvY2Y4R3EtRTFxX3c?oc=5
 
-- 埼玉 寄居町の治療院兼住宅で火事 男女2人死亡 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjREs5YlIzS21xZWhQRUZpNUFYS05ZNzY1bjhrbTVCcjRXMm9SOWRlbzMzVjhwa1BuSHFscHc5MjRzRm5IWDdPX0RmaVUwTXhxcnduaUpuTUxidTMwTFUw?oc=5
+- 埼玉・寄居町の治療院で火災、男女２人が搬送先で死亡…７０代の夫婦と連絡取れず（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TU29XYTQyXzd4S285eHZIZUZrSlBJRUh2Qy1mQ25XSlVMcHMyOWlwd3dTX05pT1NySk1TdGQ4TWlyYzJfYU9RVFVOQTB0YUhsWkNrSnlKM0x1RTgwYWNlcUNSTDNZQ24yWklTbjk5QVA0SzFOd1Z6bE5BbENkMjA?oc=5
 
-- 岐阜ケーキ店火災、店主女性が入院先の病院で死亡 死者は4人に - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbllUYTB2RzFuZk0zLXRfQUYzbXU5XzJQTVotMGc1b1FkQm9hLUlzWmhFSnFaRjF4dU9nSHlncVQ5Z3ZGTnhvcEJLSFJnN1FtN0ZSdWpoNE9DaFp3Vm9IMmpMYWNvaFJU?oc=5
+- 冠水の恐れがあるアンダーパスを持つのは１４８自治体、３割は「予防的通行規制」を実施・検討開始…読売新聞調査 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wME9kcl8xZUVHM2JaemtEd0dXYi1uUTlWTUdWQ1hnWDN3QkE3RjRfNWltMEVpRXVyZUphUGRCTDhydUhWNmlJV1hEcTQ1ZWI1UUw3OXFkX3VycktyUFZRZDJZa19GZw?oc=5
