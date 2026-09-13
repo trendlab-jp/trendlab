@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ大統領「イランに責任がある」との認識示す サウジアラビアの石油パイプラインへの攻撃 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeEVob0RuX3E4RkdwaWtFYkNBVnRST1FfOEo0aFVjZGxfQU1BVldfbmxfckZTVFhSSTEwdExMWjl3M3dJckY5VlZXNmJ1c1RhZkkwUFdtanN3dnJ2RzA0QlhQSzQ0bldrQXBWX1IwMFhiYkJ5cXdrNzd4dFZpclE?oc=5
+- トランプ氏、イランが背後にいる可能性が高いとの見方 サウジの石油パイプライン攻撃めぐり（CNN.co.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBiemJfXzF6LVVjNDRXb25Gcmt1NUJPZlNfeHY4ZkY3bm1tbkoyLXRnX1hwSUhmaHBHakh4N0lULWV3MFJaN29HNnlqbXNPSXVvOUF1Z181YzZXVjVRNDc4VElpZFFQQWk2blU0ZDRHOC1HbWxfXzJpU25tOTZrM3c?oc=5
 
-- 千葉豪雨から1カ月、今も断水のマンション「トイレは隣のビル」高齢女性「家に戻りたい」（産経新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYbC04aXVSODlGTUNZU3pFeS1ZR0diSFhFY0RCY1dCbFdBSTNET3BrYmNXYjIwTzZzS2o0dk9zX2dXZ0pCSUM4TUczbktxWVd3RWJ5dThfeEhLQ0kwcTcxRy12WGZzaXl6QjNJYUVpZ0NxclFfbUNfN0I4QlZLTlE?oc=5
+- 千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTm1LVzVKT3NXRmlVWW1HLUZYZ1VGRnpYOXhlXzZPck8yMU1QcnhhZ04yQ3BMcXdQdm9fb1hjVUtoekRsLTM0RnNLM2J4V2NnUnJiRjU1aUlMX1B3SlFZ?oc=5
 
-- 沖縄県知事選挙13日投開票 継続か交代か、各陣営が最後の訴え - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5
+- ゼレンスキー氏、G20でプーチン氏との会談に意欲 ロシア側は即座に拒否（ＡＦＰ＝時事） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTm5NT2ZNYmw2NUJBRFQ1OHZVLWVHMi1NNUZUSnMyUGRxTTQ3WV84eTZDRnVac0hXS2NhbXNIZGNNRnA5N05PSk9fWmJ4ODIyNURDbUJEbDdBb2w2X0ZZeTlMWGFKMkU2c0N2UnpwY091UjB6M2N4TVlwVFNUYVU?oc=5
+
+- イラン、海峡管理巡り14日説明 オマーンと合意したと主張（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5adDJKcVgxMm1xdkFXNzhFQ1FmUS1aaTNqNjhXWEJSTzkwM2pzd2pNUW1FVnViQk5VcUswR3l6UTBpY2RrWlhDRk9tWnJXa2tFODRld2U3M2VCRlpPMkZZa2ZSdkZDRzEzcnVTXzk1V29Na2NLMHoycFdCVlEwMlE?oc=5
+
+- 「辺野古」「経済」で審判 沖縄知事選、現新一騎打ち １３日投開票 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GVDA1MmFNNS1TZzJTaHg3NGpMZ1dHcVlKck1xSGpnUjVrYnNzVTY4aEVRNmpuY3I1NzVMQWd3Ml9vYW1JbERIVVllTHpHR2wweDg0b3NpMTAyNmlIUDZVejNSSQ?oc=5
 
 - 週間天気予報 前線停滞で秋の長雨 シルバーウィークの天気どうなる？ - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE92eFZ3cGNmQW1IRWt1bzZUOEs4WUZtQmEwVkt1Q0NVNXBEc3M3VjRCUGFGRk5lQmt6MnBiNGl1bWFsbWFGdGIzc3UzMnRXWGJDdEU0dg?oc=5
 
-- 高市首相、自民国会対策委員長に村井英樹・元官房副長官の起用意向固める…古川俊治参院議員の初入閣も調整 - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoZHk3ZGE2WWs2bUJhWWNPVnpHSWVrN1ZyajFma0tubEhqV0QxT0t3RnJsVzVsbExvREdER2JwTWJFSko5aWpONHJsTWI5Z2NqQm9wSUpNc29qTzIyZlJQMEpZNkRJZw?oc=5
+- 「あの人が旦那さんだよ」岐阜ケーキ店火災・死亡した店主、曽野さとみさん（66）の同級生が告白「水泳部のお嬢様」「お店がオープンしたての頃に…」（文春オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYTEVyRHl4cVNVWDhPUEtDbmhPSDRIU0U0MFpCd21GeTMzclA0V3dLZ2ZjWXliY3p4cld1Rm16MXEzckg4VFFLWFQzNXAxd1R4Ylo2SklpaUFGNmx6aVNMaW1aZWtFekdGSmtCU3AzNGtBb0NLblVnOU93Z0J5MWc?oc=5
 
-- モディ首相と習主席が会談、インドと中国の「戦略的かつ長期的」発展で一致…関係改善を強調 - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIbERCS0tnYlRRMVE3U1BqTFJ0RjRYZ0ZnVU5wM1Z4cWdVR0F6T2lncjhOZ25fUVVXakllSkEtLWRydXRmdEhuSmFZT0hnODZzTFpSOTZPYTEwdWNoaUhRQXF3?oc=5
+- 九州から東海、北陸　急に強まる雨に注意　激しい雨や雷雨も　今日13日(日)の天気(気象予報士 日直主任 2026年09月13日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE55MFpHZHlqbFB2VDRIQTV0QUM5WmRrWWpjSFlUQnN3Y2tweWhsekhIUTFKZmpzWjFlNDNJN1A2OHpWZlY4VGh0ZENoT1dnVHc0NXpDYjM4dm81SmwtV2VjbWVjLS1hd0N2UHfSAW9BVV95cUxOZnIzQ3hINTJLOGlrNTh5dGtuOUlscTlSdVZvTm9RcW16MnlRSW1TNng2Z3p6TWRFalROclFfYzdRczZTam1sRjlFZEhoTVMxb0ZUeXpnTjJReDJoZFZJR0RkcE90MWZzOW1wZDR1dUU?oc=5
 
-- 相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5
+- 富士山閉山後の登山道に“海外の団体客”も 閉山期に“年間1万人”の実態明らかに（テレビ朝日系（ANN）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9BTEd4R3NtWTYxZ3NXek83d0MwWFhwbHdCdHM5WHpnQjN6WVBETDRhc3FEZmxNbzkzOTZkaTlzc2V5aVpKa1lHVUtHSC1SZExrYVh6OE9hcC0tZ2JPQmJ1di1PWndHbTFwVzVLeVA0XzBDMEN2QWRSWjBWZm9Gdms?oc=5
 
-- 千葉豪雨「1万年に1度」規模 ウェザーニューズ分析、将来は発生確率2倍に - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9STXpwQWg2ZWEtaFBVZGRKN05OdURheVJ3aVFla0JScWdPRXE3NFhRTFlHZFpJM1JMU1B2d0xwc3V2eFc4U005LXN5bUZuUGVncHRfWXVOWXNIWnpuQ2c1dUR5NEh5cW9oc3FvY2Y4R3EtRTFxX3c?oc=5
-
-- 埼玉・寄居町の治療院で火災、男女２人が搬送先で死亡…７０代の夫婦と連絡取れず（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TU29XYTQyXzd4S285eHZIZUZrSlBJRUh2Qy1mQ25XSlVMcHMyOWlwd3dTX05pT1NySk1TdGQ4TWlyYzJfYU9RVFVOQTB0YUhsWkNrSnlKM0x1RTgwYWNlcUNSTDNZQ24yWklTbjk5QVA0SzFOd1Z6bE5BbENkMjA?oc=5
-
-- 冠水の恐れがあるアンダーパスを持つのは１４８自治体、３割は「予防的通行規制」を実施・検討開始…読売新聞調査 - yomiuri.co.jp
+- 冠水の恐れがあるアンダーパスを持つのは１４８自治体、３割は「予防的通行規制」を実施・検討開始…読売新聞調査 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wME9kcl8xZUVHM2JaemtEd0dXYi1uUTlWTUdWQ1hnWDN3QkE3RjRfNWltMEVpRXVyZUphUGRCTDhydUhWNmlJV1hEcTQ1ZWI1UUw3OXFkX3VycktyUFZRZDJZa19GZw?oc=5
