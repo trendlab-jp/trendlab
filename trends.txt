@@ -1,7 +1,7 @@
 TRENDLAB 自動取得ニュース
 
-- 敗北現職「SNS中傷が野放し」 玉城デニー氏陣営、告訴を準備 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBRnNNR0hzcVd6aFpvTElSVUw0YkJ5c1pvQlJMS1NxWkZ5V2hJcWJKQTRNbDBpdm4xSG9naVIyazg2Z2oxOXR5b0xyUQ?oc=5
+- 若い世代で古謝玄太氏への支持３倍超、７０代以上を除き玉城デニー氏を上回る…沖縄知事選・出口調査 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE04aFVuREw2NGxjamtJTnYxR1B4TlZaazN4RWp0aVI0eFpYSXdneGtSQUlzWnc2LXl4OFAxNnhDVElicFIwNThDamIyek03WENiQllsT3B3cjZYam54Rk85MTNmS1Nfdw?oc=5
 
 - 葬祭業男性に「腹を殴られた」 ケーキ店救助の男性、県警へ証言 - NEWSjp
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE16cUZpZzhqWEs4ODFhUjBzeGw5bXlYbzZyNHRJWk93V3F0YVBIaXZTYmJVeHpjUWEwLVR5X1E1aWdNWVJseFNCRmVnUEZEdw?oc=5
@@ -12,11 +12,14 @@ TRENDLAB 自動取得ニュース
 - 台風発生予想 シルバーウィークに影響懸念 次に発生すると「台風25号」 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sRTU4S1RleVBESEwzZUdUMS1Zdlg4U0NicU9tRktxZnZBZGxSWEVTa3FrSFZMQmFtZ2VRWTFmUG1JUWxoblAtYk9XTDZodmdrNGRjdg?oc=5
 
-- 辺野古米軍キャンプ・シュワブ前で市民が怒りの声 古謝氏当選で - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Y1dOZmNLbFd4eFJyNzk5TktCNVI1M1lqWVd1T2RPLXNQMjMwOWpOd3ZmWWY3SkRTbjREMnJsR28yU2Z2RDVNSXJfbnUwc3JIbkZLTGZZbk9ESzZHal83NzdaTGxmOGhL?oc=5
+- 立憲系新党名称「民主改革の会」「民主改革フォーラム」軸に検討 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRUZITE9neEdCTVVvMDEtcG8tLWJZMmdrZE5kQ0ZVLXpsMmNaZGhHOW5WdmxMNTc3OWZ1bllsanEtcWVaajh0UFR1WXpuMEdqdUZla3RjM1A2RGEyRjJsaUpsN1lwTnYy?oc=5
 
-- 維新・中司幹事長が入閣へ 自民国対委員長に村井氏―高市首相、１６日役員人事 - jiji.com
+- 維新・中司幹事長が入閣へ 自民国対委員長に村井氏―高市首相、１６日役員人事 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeU1jT3NsRkplR0xSN1N0bGVRdE5HeHdoNG02d29fd3ZWUldaUHpiVmZ0VEwxT0ZjbTF5M29jUTBzOS02b0RheXJKUEVVSjcwOGZheV9rbWJ2N3VkX21IV1NWRQ?oc=5
+
+- 「地下施設」がマンションの弱点に、トイレ用水にバケツ１０杯運ぶ毎日…復旧に２０００万円かかることも - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WV2JGUTJObkpHeEFETFY3UXV5LUVGOHlsaFhFMl9vLTNTeGtDQnV1WVBBMVFXRWVFNDQ0RmFncktFTzMtLTc1VHE3T2o1NFZQa2hhTEo1OEotcDF0WmZJTnNoZ1hvQQ?oc=5
 
 - 近畿地方、シルバーウィーク「真夏日」続出か 京都や大阪は32度予想、まだ続く残暑 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE82ZVpvcXc0QU9DN3JkZTl2aGRaR2htQUd4THgxU1lXOXQzLWpWR0U2aWRjOFZ4enNWdThKanhJdXZ2a3QtcFdQWklnbl9PWlNuUDkxeVFOa0Y?oc=5
@@ -24,8 +27,5 @@ TRENDLAB 自動取得ニュース
 - 久留米市で麻しん（はしか）患者の発生 福岡県内で今年7人目 - 久留米ファン
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeUFTTHlSUzNua3NRejM0SkJQMVM5YUFKbE5qdHExZTFlUGlLTnpJVWU2RjBjYWx0M19LYjk4NFlIelhXamtYWnF5ODlFaUk2OFZZMw?oc=5
 
-- 「津久井やまゆり園」で入所者の顔を平手打ち 虐待と認定 男性職員「いらいらして手を出してしまった」 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMai1KVkJGWXh4Mmt3Z3RoQjFNNnFZMDh5QkcwYUdHVWhxN3M2akhJZzF4NlFoR2dWSUNXbVpXZjI3ek5fajl5Mk1BcUY1Sk1YcFRjSnE3Zw?oc=5
-
-- 山梨県が閉山期の富士山救助ヘリを有料化へ 救護所閉鎖で高い遭難リスク、埼玉県を参考に - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1ieExxQmJPbGJWSkJGcXNFT1VnNW5IdG1GTlh4bEZFd25uaXZXa2U2ak5fNWw3TEhHN3dUS2NmYlRPSTN3WkszaHBMWmNWMkhrVnJ6SUV1bjZONTBOOEJadEwzaDdDX1dEZDU4WmR6djlqMHhwUEE?oc=5
+- 台湾人が中国から台湾に戻れなくなる？ 中国の出国制限で台湾政府が注意呼びかけ - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5DRThRMkJGMjg5T18tSWJTS1o0VDBVZi0xY1dxTzdvS3JaVjFIQnJnMzc0bzUwWTM2ZGZrdTU3NFl6ak85bmVDX0l6TkNvWFRJQnpjcFoyZ0JnVEZzR1pFZk1NTEZQVGc0Y19HejJhcHdiRDctUVE?oc=5
