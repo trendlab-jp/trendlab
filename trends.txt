@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 沖縄知事に自民系古謝氏 １２年ぶり辺野古容認派―現職・玉城氏に大差 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nSmlFRWVjRWtDZU5UTGFBSU1FVGxOR0hYeFJRT016ZkdscTBNTUhyZE45YUtmT1lmZ0NrNGY0R3p1MFZIaEljajdrSi1MQmJaQXFGdkNWOUc2YWhMWlVQTVVSNA?oc=5
+- 東大に「沖縄県人会」発足させた古謝玄太氏、同世代が帰郷を諦める姿に…「挑戦できる環境作りを」と知事志す - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoS09qekt4cE43LU5ZdUdfMXVQOG85MlBqMzVkNGZRUDhYd2Zra05pdWxIQUpmNzluVU5JWUpzN3U5V2hWQk9QZ0YyVTFkM0EzanZFN3J5MHp5N0duNkNzdzFlVmJfdw?oc=5
 
-- サウジの原油輸出、3つの輸送ルートすべてがふさがれた（中央日報日本語版） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1vblBtQmhqTW9BRHFFQ3JMTnI0Wk53bVJJRG13MHgtNjBnZWZxTlFneEE4OXRLZVFSLTdOQk5hNWM4UlNSSk1GTE5hZkxOMWJPN3RRSFoxOGlfcTdFSVhXNVgzamV2Q1UyeUd6djlubHBEdzRKdGwzY0NNY3prRW8?oc=5
+- トランプ米大統領、ウクライナにロシア燃料インフラへの攻撃停止を要求（ロイター） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdnRCTEhwUFlJejlLeEZ6SkZGTVVGUUVkSkwyLTNQMndmamMzSlhEajAwMmU3NTZuajQ4aGdSbWc5SWdIbkFRQWxUN0tIUWsxZU41cnpmWXVZaXMwWG9qUUVmUHozYkR0cDhZVWRCb0puZjl6bHEtQjR1Tld5OVk?oc=5
 
-- 今日9月14日(月)の天気予報 広い範囲で雨 関東は厳しい残暑に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TMnUyYVIxdnR0QzFWWU5fZ3NXNDlReUhReGhaYVFNREZYdjJkN0JpS0d5VXNGakZGRV9RbHZzT05kTWlxVF94dGNxUW1lVzJMUDV3WA?oc=5
+- ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - Reuters
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5
 
-- 軽油高騰は「ゼレンスキー氏のせい」…トランプ大統領、ロシアのディーゼル燃料施設への攻撃停止するよう要求 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4YmtVZDFwN2p6c08tWFlFU0JSVEdIR2UyUU45TDJIQUQzdDgwZE9nTmJoenlGZkptM2pfTk83UEYxNzAyNnNZUWw4MFByOTlGQWxySVh1eVdRT2N6bVg4OTd3?oc=5
+- 九州～東北は激しい雨や落雷に注意　関東は久しぶりの晴れ　今日14日(月)の天気(気象予報士 日直主任 2026年09月14日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5sZGFqMXhrS3ZTaklpNkFSdzZzODlGU0JMMG80eXg4QlNjS3RrVmNZMllBSGExQ19lVEFwQndGT0w4Y1daUU8wRnFpS2pXRUZObVhTbjI2RDBOb3lEdWdxajd6RFFVZ3VqVXfSAW9BVV95cUxNbDlSMW1lNzZYcm9zZDVDRzdLdFBYeHBiN21IeEpMZEVma2cyOWVJQTczczZXM3U3eFZ2TjF0dUZtRVlJTnI4c1JTXzRxbTl2S1E5UV92Y3NnLUJPQzZQSlQtNU9zUTBlal90U0Rydk0?oc=5
 
-- 八重瀬町議選 16人が当選【沖縄統一地方選 2026】 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtdzVrWFhhcnBPTno0NnpqT2VNT2xRcXRwWEp5VGVBT1NYYWpaaUpkZEVhejVxMlJ5Y21vRXFLMDNacEEzRmVBZVcyZE5hX1FhZHZaNnF3Vzg4Q2dDdVE?oc=5
+- ホルムズ海峡の代替ルートを押さえたフーシ 世界の石油供給に打撃 [米・イスラエルのイラン攻撃 イラン情勢] - asahi.com
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbVBfWWZ4NW54bWY4Zm85V2VPR09fQ0FfWHNULVlHYVVTY3BXRzZqR0FjU0RRWkVhOWRhQmZad2laVGx4akk5d2N2YzJRMnF5c1BhdFBxOGFFOXZrRHkzM1RoeXZfSzg?oc=5
 
-- 秋雨前線停滞 月曜は日本海側中心大雨に その後太平洋側も - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bGFfTkNkcTBuejBGV0JDVnlXMF9RWlhHQ2ZJaUF3UEY4bTdLbUZ0UzJXcDZkWVNiN1MxUmUydWxxUnJXSm05NjhLcjFoREprX2I0SlpPNDJITkoxaERz?oc=5
+- 台風25号発生へ…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RUV9XZTV1aUg2X2FKbGtJcGloQ3BnanE4T0ZlYkJGVXVjbElUU2gtUWlVTVF4OXI2Y0ZtalJEZGtGcWFWNmR2VEJsa1YwbHFaajlJNUdMa3dSRGhBb2c?oc=5
 
-- ケーキ店女性店主の死因は全身やけどと判明、外傷は確認されず 岐阜の5人死傷火災 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFB5VWxoOGJ3Ymxic2JqYWxQenllbmUzWEJ0UWdWRE5RYnloT3IxdDE4ckFPYWh0ZG04UGx6MHM0TjlVU0xvUkFyS0Vwb2dOUXdOeEZWdmVrNC1xbVpiNDJCa1BXcnVTOVZEYUxCcnFxcFJUUDdvZ3c?oc=5
+- ＜速報＞沖縄市議選、当選者30人決まる【2026統一地方選・沖縄】 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMUEzLWU1Tm0zZ3FiWDMzSmFUUHc2aFd1dm53eFJhV3J3UU1XUE1ON2F1QzczM1BhTkY5dzBRUTF0Q3YtVkZ6X0NaSnlRZFNuczVWTEw5cU1XRzFlWTlCNA?oc=5
 
-- 【独自】維新・中司幹事長の入閣調整 ポストは首相が最終判断 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVXdERm9uVEpvU0NhY2VkUS15WFJQcE1LWTJVYmpYc09mYXdjenNwV3RrNDZfaFk3M0VXT3FhR2dLZ2tYZEluMDJXVQ?oc=5
+- 「八千代１号幹線」沿い浸水 地下大規模調整池が満水 １３年前の台風被害受け整備も 電源水没しポンプ停止 千葉豪雨１カ月 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ZGt1elBuYUFScXZKVHpkRk55MXcyQzBibnFHMm9nMnpEdEVUdjctd0pLNnV6YjF0RU11ZDBuWF9LT01FNzlhaUxkdGhYMXQxSnNCaHFtbmw?oc=5
 
-- 事故で停車していた車から降りていた男性 後続車両にはねられ死亡 中央自動車道 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE51TjlxMGJZeWtJcE13cEVUeEIxU2lHdlFBVGU3YVhzaklQWWtLb1N5NHJNVVpLZXVSWmRnOUJiUHU4RWZhd2ZGQ3F6S0R3Ry1f?oc=5
+- 【速報】水戸ネイリスト殺害事件 殺人とストーカー規制法違反の罪に問われた男が初公判で起訴内容を認める 水戸地裁 判決は30日に言い渡される予定 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpUkpLYS1uTnNVNW1wYzlNcUYtZkpITGthMVpkeXQxcXQtS1lZZnBiUzZpWVhsbDVSLWd1bDM2SGJCeDFwVXF5WDYzS2FPSnAxbzZYek91RQ?oc=5
 
-- 【台風のたまご】新たな「熱帯低気圧」があす（14日）にも“2個目”発生か...今後の進路、日本への影響は?台風情報に注意...24日（木）までの雨・風シミュレーションで確認【気象庁13日天気図】（RSK山陽放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBFX01HOE4xMVpmYkpJcTJIc0U5Y1NVWndtc1hIQlIxQTRteWk0WUs0NWpQXzl5Ri1fbUd2ekwyb2N2c1lVWVpEVWRnRmgwNkVieVBNLUpCd0pIZGFWY2VEUExCM1BTS1RDUWhSZDlyUXpmaGdfMTFfR3Ftc3pqRWM?oc=5
+- 維新・中司幹事長の入閣で最終調整 行政改革・規制改革担当相が有力視 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVERGLU9rcW5IMXlwcE5tQmFwYjU4MWxDQl9QdS1oX1dwYXh2a010NnFfMUhyc0ltUHlrWWxJRGt6V1Q5a0dQdE1NeU9BaWFuOElUVGVRT2dEVkZtOE84Y2FTUW4wNUZYVlV3NER1ZklZNlR1M0E?oc=5
