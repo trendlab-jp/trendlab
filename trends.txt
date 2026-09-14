@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 知事選敗北で「オール沖縄は終焉」 沖縄国際大の野添文彬教授 - nikkei.com
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE92ajdlUjNZNHRCRk1LVXFsQjNtRTh1MnRvMUx4eGtqLXZOOVR2VHU3QUtZZ3BMZ1BKdndxeWc4U3pQRndGaGNFbkJrLXB2SE92V2l4ZnpndUNhWDVrQnJWZk9nRGJVWEFkRWNiZg?oc=5
+- 【速報】沖縄振興予算、３千億円超への増額調整 古謝氏当選うけ - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUcVQ4Sl9ZSnV3M3NTWGVodmhrbkRSVm4wdGtTTV92WG9pdFZ4blFaa1lBdXkyODZGbGZXN2NJS08wYjRQSDR5SVFUNkctTUJVNGJRUDBjNkhsVDVP?oc=5
 
-- 中道解体、泉氏「分裂と思う人いない」も…「党バラバラ、国民はなんでやねん」説明に苦慮 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFAxWDZxYjRqX0U2ZFdhd2dtd1V6b0twUzBoNklJMWFETElNbjc1NlZmdHBTT29YMXA2RWRWYkl3Y0ZVa3lUS1lwdVM1Sm9LUFFERFJteEZRQzBsOXlYdjMzdU5YS2QyOXBidmNBOTAycEI2ZUd4S2c?oc=5
+- トランプ氏、ゼレンスキー氏に「ロシアのディーゼル燃料への攻撃」停止要求…中間選挙への逆風懸念し責任転嫁 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZQ1E2dUVrMFhGZ2RrTF9fWGFUODlLajFpa1JKMUlVc0tCekpFaWF1dDhlaXlSSmVOdDkwcWFBOGxqb3FmaW9sbktxU3NPVHlmbkxBZGlUakZsWUw2WmlGWmR3?oc=5
 
-- 中国人インバウンド減少でも「日本はほぼノーダメージ」「中国側の自滅」と言えるワケ（ダイヤモンド・オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1iajNmZnVISjQ5NVZ4WXBiTVp1bzA0UW5pd3RIOWppSk5reGYwZ19sRGJZMTJzcGNrZlZ0cDBBdzVDd2tfUkx3ME43UDhGalowbC1zT2tCRVFFUnpMeTBLNVdjNHlKYllUclBlRWY2TmNoVFlYQ0xEcW1ZLTlhM2c?oc=5
-
-- ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - Reuters
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5
+- 読む政治：たった1人で政党交付金12億円、中道「受け皿」批判に火消し躍起 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RR290aFp5R054cVNvU19xSGR2U2ZnWmJMNXJtYXV3d3pCSG9FakZfb0Q1OTRwblpUVUlUSVd5RnMzZGcycUpxeUUzdmR1NVBNa19yOW9DOXdrWUV6eEtjWHBFbmVkWnA0?oc=5
 
 - 台風発生予想 発達しながら小笠原接近 5連休への影響懸念 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TMDRtQWtZUFdyZ0NLb05pd2FJaHhxSlYtUlNOekNYU2lJTTAwTDRWSXI5aEF5d0R4V3JfOFBlRVpUaGhZU1RqaFBWWURiU0JOQks2dA?oc=5
 
-- ケーキ店放火 死亡男性はオーナーに強い執着か 何度も店を出入りする日も… 2人の知人｢付き合っていた｣ 岐阜･本巣市 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZGxBclpCdTZwVnB3MjhJd0VNaEVDaDludkJkdlpVc2k4RlJvWWhucWxuQnFEZ3ItUDFqbFlxTVpNV01lTF9OeC1kbEFlRk1XcEdzYnNpMA?oc=5
+- ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - Reuters
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5
 
 - 山梨県が閉山期の富士山救助ヘリを有料化へ 救護所閉鎖で高い遭難リスク、埼玉県を参考に - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1ieExxQmJPbGJWSkJGcXNFT1VnNW5IdG1GTlh4bEZFd25uaXZXa2U2ak5fNWw3TEhHN3dUS2NmYlRPSTN3WkszaHBMWmNWMkhrVnJ6SUV1bjZONTBOOEJadEwzaDdDX1dEZDU4WmR6djlqMHhwUEE?oc=5
 
-- 【速報】森衆院議長がキーウ訪問 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3S0xvSU14S0MzZEt5ckFNVHhoN1hyX1drcmVmZGktRUFhM3BCbnJTOU8zVTRMX1FNd2lQRnFJTm9QZkFUc2N0QjVNTQ?oc=5
+- 「津久井やまゆり園」で入所者の顔を平手打ち 虐待と認定 男性職員「いらいらして手を出してしまった」 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMai1KVkJGWXh4Mmt3Z3RoQjFNNnFZMDh5QkcwYUdHVWhxN3M2akhJZzF4NlFoR2dWSUNXbVpXZjI3ek5fajl5Mk1BcUY1Sk1YcFRjSnE3Zw?oc=5
 
-- 自民と維新初の「閣内協力」実現へ、維新・中司宏幹事長の入閣で調整…内閣府特命担当相に起用見込み - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPNTFNampRMTA3VVVlMlh5a3UxaDJsR1FMV0tfWTQzZ05xNFhVYnlsTFJReVlLQXRhUzFaMzV1ZTU3Z1FfaXQ0QmczZnNpME50X2dJdW8zcHJTcmhFM1AxSTVKYWItQQ?oc=5
+- 普天間飛行場の移設先・辺野古を抱える名護市の市議会議員選挙、市長派１５人が当選…多数派を維持 - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9TUFppU3d0MW1CTnVnb0pMU3VOMDR0N0hPalFvWlV0VXphU01pYkdqZ0M0NzRmV0E0X0RNSnJlUkpBMXQ1WVZlTlF4cEpPTlcyeHdEUTdvUGJGb1BiMXprX3V1cE1LaUZ3ZUh6Y3BIOTAzUQ?oc=5
 
-- 悠仁さま、宮城・岩手訪問 初の東日本大震災被災地、秋篠宮さまと - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUE05WTh6ZGhTMkF1c0lYT0tDOGN2RndySk51QUFMU3ZBc3RHNlY1R0FhaDlNZkFRS0laVTEySHdaVVdtd0psVWFmUVNja0ZqdHV5MzNZcmRXQU9uWjhLaEFBMA?oc=5
+- 維新・中司幹事長が入閣へ 自民国対委員長に村井氏―内閣改造 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeU1jT3NsRkplR0xSN1N0bGVRdE5HeHdoNG02d29fd3ZWUldaUHpiVmZ0VEwxT0ZjbTF5M29jUTBzOS02b0RheXJKUEVVSjcwOGZheV9rbWJ2N3VkX21IV1NWRQ?oc=5
+
+- 親子4人に次々暴行・緊縛したとされる少年…その後転落死　少年を容疑者死亡で傷害などの容疑で書類送検 大阪・此花区 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE5Wb1k3MXBNdHd2T2dlZ3pEMGRUa1dkVWJHLTdjMUJBQ0JHdkszQzBkLTZVV0h6S3NJVTJOdkc0a3BpeExJMW53bHMxRmFCNUdYVlB4WUxHa29IMWhpVHJpdDRETHhqYWgtRF9yaVRaMU1ub0hXSlRfWGRnTk3SAYIBQVVfeXFMTkdSR1N1aXFQcWI2WXBxQ0R6V055ZFVWR3d1bW5YTEt0TU1TUG54LVhtR0tBZWp0LUpkazU5SWN2RHpwMXY2UU1qQlZua3U3QVRndXQzWWJtWmRQS2xTMHNXMEpGZXlZZ2p1a01OQkRfLWVqMXQxS2NtaF81SkhBMHRCQQ?oc=5
