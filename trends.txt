@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 空自の大型無人偵察機「グローバルホーク」１機が鳥取北の公海上で通信途絶、周辺海域で浮遊物発見 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZYUloTlBWcDBpMC1aYmxwVUNRWmZ2ZmY5dTRVZE0xUVZBbmZpOUpvSjJQNUhoOWNXYm90ZVFSTUxMckZFc3p4MXB0SU1US0NWMHFGbWlEV2dTdlBocFFIV0YwUFp2UQ?oc=5
+- 自民党の総務会長に梶山弘志・国会対策委員長を起用、西村康稔・選挙対策委員長は留任へ…首相意向 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uQ0g1QnZYUGV2N0c5MWxaNGtUQXh5UjQzR3VIelpvTk9ZcUlrbjJqRGxvb0g1eFJ3aGZqVkRGdXYySFNreTdib1hsWk05dTB3NmI0WnhsQTdyV3FSRjhYSm1DSDRhZw?oc=5
 
-- 与野党に太いパイプ、石井参院幹事長交代へ 国会審議に影響か - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0LXQxMm1BMXItSXpfMWg3ckxnTGlRcEdyYkJ2eXBLaXpNNzUyNWZQd0cxOFNTUUNHOHR4Vkl3cDEtNkZ5TUVXLWFtYk96UVM0eE1VeHpWb1k5OC0yTW1PQVNueEZfclUy?oc=5
+- 通信が途絶える直前、通信装置との接続不良が発生 「墜落」のグローバルホーク - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFA5WVpJVUpuSlFOb1NQR0JlVDVqSXVjOTFMalpkUlphN0JTbklRa19YSGVQdXNfVWoweThiUmtLZkUyNmxRanBqVEhqMmtHTE04bEtRUkI0RHZ6WW9CeVQ2WGdyZXgtR0dEaS1tdE5RNW9RV0dYUmc?oc=5
 
-- 辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 | NHKニュース | 事件・事故、沖縄県 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5
-
-- 露の侵攻は「蛮行」 森衆院議長がウクライナ議会で異例の演説 原発被災の「共通点」指摘 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9keHR5a19QcGg0eThKWjJQTFVKQXBLNmZDWXYwZndKajRTNl94ZTVoMWdBVVZZdkt6S2lUa0hoLXAxRVJ3SlZha0NON0VkVWIxZXdtZTJ6bDF1cDNLbVlZUHJTaHg4Y3R3dDhyazQzNGRyMVc3Wnc?oc=5
+- サウジアラビアの東西パイプライン、復旧に数週間 AP報道 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1WZjRMbWRvR0NveWJMc1ZnYWp3dGNpc0cxRS00Z011UkQ5NkQyRXBYaF9nUVNrVVJtSnBGa251YmEtYmFpYVBBS2NsTE8xSndKeW9WRlNwS0N0OUozdjRfdl9YaGg1MUN0bHhGag?oc=5
 
 - 台風発生予想 シルバーウィークに接近か 次に発生すると「台風25号」 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoc1FiQTU0UHFqcTJfcUVDUUVhZXFLMkc4N3RuT0tWTTk0Vy1JX2RmOUpuckthRUNLQ3lXVnE4dkozMk9MV0VDRkRYM2lxVmJyMUo1Rg?oc=5
 
+- 辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 | NHKニュース | 事件・事故、沖縄県 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5
+
+- 四国電力送配電社員が転落死、職場のパワハラ訴える遺書残す…遺族は「事実をしっかり調べてほしい」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE92cllJZmdLTFExQllzTFRuQkN4SWJKbjRQMGlKTGstbGczZWh0WXpHaVE3aExrTnVJRVFJekQzbm00ZjRGb1ZMMnlpc0RtdXliNEE4Z3FTUnRmbDZDczk2QWVUZ21CQQ?oc=5
+
 - 沖縄知事選、X投稿88％が県外 デマや中傷拡散、結果に影響か - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oSXB3OGZSSVVJZGE1ZkhxbEJueFppLTdWZ2RwNzhhYkRDUkd6TTZoR0YyMEczM3NwOFYzTGRWYnpzY0JpYkxYUVp1Zw?oc=5
 
-- 鉄塔転落死の男性が遺書 先輩社員から「頭悪い」「死んどけ」など暴言 遺族は調査求める - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5qRHpuWkJkM0VtRXI5MjlkX3hYdjZtbUZXc1dmcWRfaUp2WjBDNmxselkyM0VyRDVsQU83enV6YmFZOWVIT0ZOcFllR0ZWcTNidDRsMlBfSnk1UlNnSFBHSm5lQlF1a01UMkYwR2twbXp5UWM0VUE?oc=5
+- 秋雨前線は本州の太平洋沿岸に停滞 関東以西の太平洋側で雨 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE85aVRoVTRnc1BpMjVlWjl2SThKWUUtV252LTJNSTlEaUZpY1JhanFtYWRLN04tQUMwSmpnbHhCU1dzdW5lQWlidy1BU0dROUwyNVFTUw?oc=5
 
-- 京都府警が住居侵入容疑で逮捕の男は「案件屋」か…間取り図送り「窓の鍵が開いている可能性」など伝える - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FZGw5S0lTMWFuc1VWdWJrTDQ3QTFtblFvWDZ6dUx4Z3J3SWpTbDVIVkFBb196UWlMTUFobXVjVHNEa25JMWxYZm5ndWY2X2o5Szk3bmxvMXpjZmw0OTdRM1dOVWxWUQ?oc=5
+- 露の侵攻は「蛮行」 森衆院議長がウクライナ議会で異例の演説 原発被災の「共通点」指摘 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9keHR5a19QcGg0eThKWjJQTFVKQXBLNmZDWXYwZndKajRTNl94ZTVoMWdBVVZZdkt6S2lUa0hoLXAxRVJ3SlZha0NON0VkVWIxZXdtZTJ6bDF1cDNLbVlZUHJTaHg4Y3R3dDhyazQzNGRyMVc3Wnc?oc=5
 
 - 【速報】5歳の男の子がマンション11階から転落し死亡 ベランダの手すりにぶら下がり助け求める目撃情報も 東京・北区赤羽台 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9HT3U2ZlNfbWkyYUROSHpObkNyY3pFU3Fkb2RFeWdHamQ4U0s0QlNJWTlZWHlUbFE5cFJJZk11NERIb1NmUlVPNllSWmhNblJrM0ZTdmo1NTBEd1htNEhlX1l2V3dURl9wQU9mVk1CS2RFTkdLRnV1RDlSV0ZEQlk?oc=5
-
-- 【独自】蔵内前議長と福岡県議4人、パリで1人20万円の夕食会参加 県が公費で負担 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YS0d4NFVFamhwRHh4UEpISl9Ta1luZkFFaWpfOXduX1JEbzZ1M2dIWkVPbWRxTjZFdzdOVjN6YzNjeklpTXUtQWNWV0NQYlkwVkw3cGpR?oc=5
