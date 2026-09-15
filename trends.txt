@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 沖縄県知事選挙で敗れた玉城デニーさん、辺野古移設で「県民は納得しないと主張したことは間違っていません」 - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1sV0hEZG0xaGZlc0lBTXF3aWJZaWRuWDNtRGZHQkttTDdwYWxaY0U1cnFOLTgybm5OSUpuZWE0OWNTRnZmZ1U1TlEzNUxwTVFZMlNyNTA5djVCcmVqaEplWUlTUWJjanljbGFEc2JOckFLUQ?oc=5
+- 海保 鳥取県沖の海上で偵察機の機体の一部のようなものを確認 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EcWt6a3RsdTlPRGd0LVJnOHNJblVPM2xlNkNVZ05Eb0VBaDU3eUxrSkFadmE1ZllnTEVIRzF5ZjllZ2Nzb2FEWGx5VTdaRXRUU2psWjQ3d1V5NkMteVZr?oc=5
 
-- １００歳以上の高齢者が初の１０万人超え…９割近くは女性、最高齢は京都市の１１４歳 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtWm1iSEN4YzRyRHcxVnRBcmxoNHJfNUJHSGF5TVhENDQ4UURFd2NiSEY0cHZnX2hBN2dYLXBlR1pkRDI1WFhubVduZ3J0d2t3OFRrem1uSDkzaGgzcVVuOHBRRnMxQQ?oc=5
+- 沖縄知事選勝利の古謝玄太氏、自民役員会に出席 高市首相「経済・安保の面で大きな勝利」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE40UnpqQVBTQUNIejZ4cUJ1TFBNdFZkM0ZLbTZmVF9vb01oeDBtQ1lIUlJ2a0VzRGhiS3BmRVJnREtVcklJLWJUbENMLW9fSUtkSkExMWVUbkFaY1dCR1N3VWpyOFBsaTA3ZEZCb2hWaWdXSXFZUEE?oc=5
 
-- 台風発生予想 発達しながら日本の南へ シルバーウィークへの影響懸念 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PSmoxTTNvbVU3TGZoSEJ4aWNkZDBfVkZJbUowMlFqQ0xmaFNmOXJtQjI5dzMwOWg1N2UtN2tKaG0yZW1tdUVOM1pvNTRFQ2p1Qm5VSQ?oc=5
+- 自民役員１６日、内閣改造１７日 高市首相、人事日程を表明 - jiji.com
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUbjJudmZRdFBSTjJOZ2RLb1V4eUowRkM3VjZQamVXRFY5VDFDSG0zRHFySnRQMjExdHEzOEVMMENITnlxWXB3S1htYWs5cUdSakVBUm9HeHpJeU4tTjNJLWNiTQ?oc=5
 
-- トランプ大統領、ホルムズ海峡めぐり各国に費用負担を改めて要求（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUmxfeVF2WVVjbElad3RuR1RYalNpRXJOeUxEaDRVSmwxMzdURjFIenN3b0RJN0NrbnB1RXJubi11WTRpSzlqUmxqM095dHloeWFLaDBqZmYySThXbWtKOWxUeDFHb19ZMUFfVEFmVml2MXlfdGlPVUtBTm4yMjA?oc=5
+- 損壊したサウジのパイプライン“復旧までに3～5週間” 報道 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pT0djdjh2QzV4RU5paGZQdFo2Y20yN1ppdHlzcm0tYUoyNC1RWjFmOTR2aW5pTUZQM252ODdCNlZoT1ZVb0hpNXdzdzMtd0kybUt2MXlkQUxxZzNsR0k0?oc=5
 
-- 高市首相が１７日に内閣改造を実施する意向を表明…党役員人事は１６日、鈴木俊一幹事長ら骨格を維持 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FbUI1clJDVHd3RmpUbWdfVFR1Z3VJZ0Vyc081eVZ4V2duVDB3MkVpVkFtOWZvY2cwSl9JNVlZZFFIRjZsVlNoRmNiV2xuZzNYWVR5Q2oyWUlkcmJ4LU81NGtZY0lhZw?oc=5
+- 自民党の石井準一・参院幹事長が交代へ…青木一彦・参院議院運営委員長を後任にあてる方向 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tbm9SQ0lsa3ZOTlVmVV8zYkJfMFJxSmQtblY5VnQ4RmF6TVN5cU1nNldNckdtLUtBZmdEQTlFWDh6ZGZoaURtaTlnd25LZ2kxNFNpT1FGTW1lUE52M2swblRCZktkUQ?oc=5
 
-- 四国送配電鉄塔から19歳男性が転落死 、職場でのパワハラを訴える遺書が見つかる - 徳島新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iaGZjNF80Q0FIMHdGRzVSa2ZmTEhOZ1R5RnRUZTN0Q1dJeVJ3WEhDWVNYUGNTbGFYRE5NVk9ZWlB1djRrS2JDYlhGeXFmSGxBNVNYVV9B?oc=5
+- トランプ氏長男の結婚式宴会、プーチン氏関係者が費用負担 米報道 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBNN0pISVFlZEs2bnNydllnUUxMNzlJSHVnaUlKRFRpbGhWTzZGN1RTaC16QlUzY1BfbTVnelJmNnJSMFo5NE5sNlBUNndRZ1ZnS0EzeGZoc1BPUDN1RWE5Mjl1RTlRNnpoV0ppRQ?oc=5
 
-- 水戸のネイリスト殺害、連絡を断たれ「一言言ってやりたい」…偽りのＳＮＳアカウントで友人に近づく - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BcWpSQ1ZXY013Nkxwb3JwZWo1MlU5TmJ1MWFFa1NnSDBRbWxodjFSUEpaQV9OZ1UxT2k0Ym5WUzAyaXB4WENsRFZmWVRYdDFPaWlXam9LQ1ZkS2lOQ3A3amJnaG9tUQ?oc=5
+- 新たに発生予想の台風 日本海を発達しながら進んだ場合、広い範囲で暴風被害のおそれ(気象予報士 堂本 幸代) - tenki.jp
+  https://news.google.com/rss/articles/CBMicEFVX3lxTFBlUXhMelhBN282S0JTTzY1dXJxUmljWVpsamRueHQ5S3ZySkc1T3BqY0VfZEtlb0hydXpJVG9tVG9oUllDdmRydFJyMGxxUDZNR2ptUHMwN1dWeHUzYlpRUVMtWHdNR0Z6amFjYzVVYXk?oc=5
 
-- 長崎県内宿泊の九州ふっこう応援割、9月15日受け付け開始 オンライン旅行予約サイトで半額に - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hT0FSbVo5MEN0ZTlfWE9VRzhDeVNQbDdTa0liZkNUT1ZNZ29fY253WHotRFZpN3JuRDhIVmVXTEVCMEszSk12SUJySjd4NnRxTV9xNmF3?oc=5
+- 午後も雨の降りやすい天気続く 太平洋側で再び強まる所も - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iMHc2ZVk4bnpMNFdyRUdPWVk5Yklua1FGR2dhei0wOW5CaVl2emN6RXFWN2FlQURoaHJXLXMwekdQeWMyVUJiTURtM19mYzJSMEJhRQ?oc=5
+
+- 鉄塔転落死の男性が遺書、徳島 四国電力送配電、パワハラ調査（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUkEtV1Uxdmt4YjM2czhodWlkLVNOR3JXbGlPQl8zVFRLS0NSeE1VM1VFdUwzSlBMTm0yT25rdVVVZjlzcmJUT3Y3Y2dIY0ItMmItM2gxY054a1BTb0k1eE94SzJ5U1pkRWZfckRJaVBoX0RUaXQ2dlRReEhNT1U?oc=5
 
 - 記録的大雨当日の名古屋駅周辺の推計人口 ふだんの1.7倍に - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2QTVXeDZWN3pVdTdMYkVFY2NHWG1Dc3JrdXEyRVpVc2M5ckJHNkhJY2dFZkg3cVctWVR1ZWl5NGViMUF3bmZ4b2RoRnJEcERMUUplczFFZmpkWi1ReHRF?oc=5
-
-- 同志社国際高教諭が死亡 辺野古沖転覆で死亡生徒の遺族「重さみんなで分かちあうべき」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5rY253NlpyeGp1Z2Z0WmEyXy1PdVg2RmhFZjFMVlRSMmRvZm5sZnlqbFhfVFFqb2VNR204bnFHSnFxZWcxMVF6N2E0YnNBRW1Lam50eS0td21tb0Vha2oxZWZud2NhVVd4LTNCWmVZc3VON3VEWlE?oc=5
