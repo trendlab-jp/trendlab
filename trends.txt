@@ -1,22 +1,19 @@
 TRENDLAB 自動取得ニュース
 
-- 若い世代で古謝玄太氏への支持３倍超、７０代以上を除き玉城デニー氏を上回る…沖縄知事選・出口調査 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE04aFVuREw2NGxjamtJTnYxR1B4TlZaazN4RWp0aVI0eFpYSXdneGtSQUlzWnc2LXl4OFAxNnhDVElicFIwNThDamIyek03WENiQllsT3B3cjZYam54Rk85MTNmS1Nfdw?oc=5
-
-- 葬祭業男性に「腹を殴られた」 ケーキ店救助の男性、県警へ証言 - NEWSjp
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE16cUZpZzhqWEs4ODFhUjBzeGw5bXlYbzZyNHRJWk93V3F0YVBIaXZTYmJVeHpjUWEwLVR5X1E1aWdNWVJseFNCRmVnUEZEdw?oc=5
+- 知事選大勝の古謝氏、沖縄の無党派に浸透…大敗の立憲民主・共産両党は退潮傾向浮き彫りに - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sc29nTDh1Q3dncDk3eU1lNllDbG9RMk85RF9ING04cVdDNkp6a05rVXJscGRzaXZlUVJ6WE9oSXJLTEZzaldqSkRCNGJ4cHcyNGdnbXM0Ym9qbnAyVEptbGVJMDBLdw?oc=5
 
 - ロシア、ウクライナに攻撃停止求めるトランプ氏発言歓迎＝報道官 - Reuters
   https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnVaZF80YnY4dGY0Q2N6SW9vVDMtcEZYazRpekk1MXNaZ3Q5d0dlMVZFSzR3TEhoaDhHenJJWjgyRXlLNVZKVThmMUU3OVRjV0Z2NEcyM1BGeUFCQzg5UWU0cENrMjZYdEtVMC1pZlpKdHhXWnRlT09NLXpaSWpFSlRBeFM?oc=5
 
-- 台風発生予想 シルバーウィークに影響懸念 次に発生すると「台風25号」 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sRTU4S1RleVBESEwzZUdUMS1Zdlg4U0NicU9tRktxZnZBZGxSWEVTa3FrSFZMQmFtZ2VRWTFmUG1JUWxoblAtYk9XTDZodmdrNGRjdg?oc=5
+- 台風発生予想 シルバーウィークに接近か 次に発生すると「台風25号」 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZa05sOUVJTGJaX2pQSmdnQmpNUTFORThsdUlJUmZ3SDI3NndKT1FJQnk1LXFuaVRoeXVPd2VWb0t1X3FVajQyVWJ0TTJnQm9mS25GWg?oc=5
 
-- 立憲系新党名称「民主改革の会」「民主改革フォーラム」軸に検討 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRUZITE9neEdCTVVvMDEtcG8tLWJZMmdrZE5kQ0ZVLXpsMmNaZGhHOW5WdmxMNTc3OWZ1bllsanEtcWVaajh0UFR1WXpuMEdqdUZla3RjM1A2RGEyRjJsaUpsN1lwTnYy?oc=5
+- 習近平が激怒〉高市首相が中国政府の許可なくXにアップした写真の内幕…自民党前幹事長も憂う、首相が壊した日中関係の本質「小異を残して今日がある」（集英社オンライン - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQkMyMXEyZ3h6R3dpd21BX2p5R3FnZ3gtcm85NzdtbjFjZkQtVDFqWmNxLTJCbW4xbXNGckJYVEM4cHo3VUVRVEJEVFpYWmVGZEYyeVAzdTdxdHg5eENFQWZNTmw2NFAxdzBNUTJXeDR1OThIUzZvZnBWWl9sWTA?oc=5
 
-- 維新・中司幹事長が入閣へ 自民国対委員長に村井氏―高市首相、１６日役員人事 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeU1jT3NsRkplR0xSN1N0bGVRdE5HeHdoNG02d29fd3ZWUldaUHpiVmZ0VEwxT0ZjbTF5M29jUTBzOS02b0RheXJKUEVVSjcwOGZheV9rbWJ2N3VkX21IV1NWRQ?oc=5
+- 葬祭業男性に「腹を殴られた」 ケーキ店救助の男性、県警へ証言 - news.jp
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE16cUZpZzhqWEs4ODFhUjBzeGw5bXlYbzZyNHRJWk93V3F0YVBIaXZTYmJVeHpjUWEwLVR5X1E1aWdNWVJseFNCRmVnUEZEdw?oc=5
 
 - 「地下施設」がマンションの弱点に、トイレ用水にバケツ１０杯運ぶ毎日…復旧に２０００万円かかることも - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WV2JGUTJObkpHeEFETFY3UXV5LUVGOHlsaFhFMl9vLTNTeGtDQnV1WVBBMVFXRWVFNDQ0RmFncktFTzMtLTc1VHE3T2o1NFZQa2hhTEo1OEotcDF0WmZJTnNoZ1hvQQ?oc=5
@@ -24,8 +21,11 @@ TRENDLAB 自動取得ニュース
 - 近畿地方、シルバーウィーク「真夏日」続出か 京都や大阪は32度予想、まだ続く残暑 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE82ZVpvcXc0QU9DN3JkZTl2aGRaR2htQUd4THgxU1lXOXQzLWpWR0U2aWRjOFZ4enNWdThKanhJdXZ2a3QtcFdQWklnbl9PWlNuUDkxeVFOa0Y?oc=5
 
-- 久留米市で麻しん（はしか）患者の発生 福岡県内で今年7人目 - 久留米ファン
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeUFTTHlSUzNua3NRejM0SkJQMVM5YUFKbE5qdHExZTFlUGlLTnpJVWU2RjBjYWx0M19LYjk4NFlIelhXamtYWnF5ODlFaUk2OFZZMw?oc=5
+- 同志社国際高教諭が死亡 辺野古沖転覆で死亡生徒の遺族「重さみんなで分かちあうべき」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5rY253NlpyeGp1Z2Z0WmEyXy1PdVg2RmhFZjFMVlRSMmRvZm5sZnlqbFhfVFFqb2VNR204bnFHSnFxZWcxMVF6N2E0YnNBRW1Lam50eS0td21tb0Vha2oxZWZud2NhVVd4LTNCWmVZc3VON3VEWlE?oc=5
 
-- 台湾人が中国から台湾に戻れなくなる？ 中国の出国制限で台湾政府が注意呼びかけ - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5DRThRMkJGMjg5T18tSWJTS1o0VDBVZi0xY1dxTzdvS3JaVjFIQnJnMzc0bzUwWTM2ZGZrdTU3NFl6ak85bmVDX0l6TkNvWFRJQnpjcFoyZ0JnVEZzR1pFZk1NTEZQVGc0Y19HejJhcHdiRDctUVE?oc=5
+- 兵庫県播磨地域で激しい雨 2市1町で県内初「レベル4」の大雨危険警報や土砂災害危険警報|社会 - 神戸新聞
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9uWVVwZEUxVzBDYmZ0eURoU09XWjdEM1hIWXdfVUUydjJ1WU5lU1hwcUJwYm9Ra2V0Z0FRdG1Ta19TTkQ5WU9GZENJR3dYdTZmMnlSMURKX0Q3NzlUYjJURGR1U0hCVUliSDdnbE5fbw?oc=5
+
+- 熊本県熊本地方でM4.0の地震 八代市で震度3 津波の心配なし - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MbDFPXzhXV1lIa0dsTU5FSVY3MWpBMC1DQnNnLUQ3U1RfQVMzOUh0VXVQdnUyODhTRmJITVFaQjlBdGswc2xxejNZVXJtSmUtUzZBM2ZUdmRCb3c?oc=5
