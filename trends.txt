@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 航空自衛隊の無人偵察機グローバルホーク、鳥取沖で「墜落と推定」 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFB5YzJkbXZWQlduNE9OMnh6eVM2R3dHbEJwZjMwR24yRmhRUU9naV9iSlNabnBIajhweDZQU0h1cGlYR0dvR3ZwbHZZOTVpN1dQNTZQeUxEeWhvaEU0LWsxazBlUHQ1bkpwSnVuVA?oc=5
+- 空自の大型無人偵察機「グローバルホーク」１機が鳥取北の公海上で通信途絶、周辺海域で浮遊物発見 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZYUloTlBWcDBpMC1aYmxwVUNRWmZ2ZmY5dTRVZE0xUVZBbmZpOUpvSjJQNUhoOWNXYm90ZVFSTUxMckZFc3p4MXB0SU1US0NWMHFGbWlEV2dTdlBocFFIV0YwUFp2UQ?oc=5
+
+- 与野党に太いパイプ、石井参院幹事長交代へ 国会審議に影響か - mainichi.jp
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0LXQxMm1BMXItSXpfMWg3ckxnTGlRcEdyYkJ2eXBLaXpNNzUyNWZQd0cxOFNTUUNHOHR4Vkl3cDEtNkZ5TUVXLWFtYk96UVM0eE1VeHpWb1k5OC0yTW1PQVNueEZfclUy?oc=5
 
 - 辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5
 
-- 立民系新党「民主改革の会」 代表は小川氏、週内にも結党 - 時事ドットコム
+- 米最高裁 トランプ大統領が求める郵便投票制限を差し止め - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yRHVzQVFSbEFrdnY4cGJLMWx5VXN1bldJNmRGdlJFdURPUkkweDY1S2xNbjlrNjBHbmtHUHNaUWxjRGs0T0MyTkVNX1hLUHNndGxCTkJjLWprN1dQanVj?oc=5
+
+- 立民系新党「民主改革の会」 代表は小川氏、週内にも結党：時事ドットコム - jiji.com
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sbzVpT3R1cVltc1NkNHFBVG1Wd0NrUmdZTUxiRVo4UElvMkNneDZrSk02WXJaRDBidkU2dDlHZWhVZUYxNHRCNDlraWtmNTRCVnFHZFVlNXFIS2R3THI1aFVpSQ?oc=5
 
-- 自民党の石井準一・参院幹事長が交代へ…青木一彦・参院議院運営委員長を後任にあてる方向 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tbm9SQ0lsa3ZOTlVmVV8zYkJfMFJxSmQtblY5VnQ4RmF6TVN5cU1nNldNckdtLUtBZmdEQTlFWDh6ZGZoaURtaTlnd25LZ2kxNFNpT1FGTW1lUE52M2swblRCZktkUQ?oc=5
+- 台風発生予想 シルバーウィークに接近か 次に発生すると「台風25号」 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoc1FiQTU0UHFqcTJfcUVDUUVhZXFLMkc4N3RuT0tWTTk0Vy1JX2RmOUpuckthRUNLQ3lXVnE4dkozMk9MV0VDRkRYM2lxVmJyMUo1Rg?oc=5
 
-- シルバーウィーク　秋雨前線の影響続く　新たに発生する予想の台風の動向にも注意(気象予報士 堂本　幸代 2026年09月15日) - tenki.jp
-  https://news.google.com/rss/articles/CBMicEFVX3lxTFBzUmpsLUZ1d0M5TUpzT0VJTlVsWmtIbzZ1bE1ObnhFSEQyQ0RueGRrb0hxSmVPUFFrZWs3aGVpRzYycjhWVjFackNsbThPT1BEc21PYVV4dG1MWEk1d19feVMxUUdMbkZvaDBtdjFhT0bSAXZBVV95cUxOX1hhREdzSmViYWs0NVJvS2R6cWY1ZUJueUw2Sno5dlIxelcwbEpEQncta2NhYnBOZEt2cVd0djJNRkdPQnF0Qmt6eVU0a3Y1Uk5hM24wdXM2aTRsWjZUUURXa0F5WkRwclNsdmxwMzBJZlBmU1Vn?oc=5
+- 沖縄知事選、X投稿88％が県外 デマや中傷拡散、結果に影響か - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oSXB3OGZSSVVJZGE1ZkhxbEJueFppLTdWZ2RwNzhhYkRDUkd6TTZoR0YyMEczM3NwOFYzTGRWYnpzY0JpYkxYUVp1Zw?oc=5
 
-- 沖縄知事選勝利の古謝玄太氏、自民役員会に出席 高市首相「経済・安保の面で大きな勝利」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE40UnpqQVBTQUNIejZ4cUJ1TFBNdFZkM0ZLbTZmVF9vb01oeDBtQ1lIUlJ2a0VzRGhiS3BmRVJnREtVcklJLWJUbENMLW9fSUtkSkExMWVUbkFaY1dCR1N3VWpyOFBsaTA3ZEZCb2hWaWdXSXFZUEE?oc=5
+- 【速報】5歳の男の子がマンション11階から転落し死亡 ベランダの手すりにぶら下がり助け求める目撃情報も 東京・北区赤羽台 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9HT3U2ZlNfbWkyYUROSHpObkNyY3pFU3Fkb2RFeWdHamQ4U0s0QlNJWTlZWHlUbFE5cFJJZk11NERIb1NmUlVPNllSWmhNblJrM0ZTdmo1NTBEd1htNEhlX1l2V3dURl9wQU9mVk1CS2RFTkdLRnV1RDlSV0ZEQlk?oc=5
 
-- 東京都北区のマンション１１階から転落か、５歳男児死亡…ベランダの高さ１・２ｍの柵に跡 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ISU5ZQ1AyZjNVOG52QlNPdUVfZXk4Q0d1Qld2VFJFWTduYl9leFNYcmJMYUp3UHEtV3hoNndwZjJDc3ktUVpOVXhycDhtTmJnMUc2RnBJWlNyQUJSZFRQc3ZNNXZ1UQ?oc=5
+- 鉄塔転落死の男性が遺書 先輩社員から「頭悪い」「死んどけ」など暴言 遺族は調査求める - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5qRHpuWkJkM0VtRXI5MjlkX3hYdjZtbUZXc1dmcWRfaUp2WjBDNmxselkyM0VyRDVsQU83enV6YmFZOWVIT0ZOcFllR0ZWcTNidDRsMlBfSnk1UlNnSFBHSm5lQlF1a01UMkYwR2twbXp5UWM0VUE?oc=5
 
-- 【速報】梅村、金村両氏の維新新執行部入り浮上 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ULVFPMDdmSHA1ajJuN1c1UEtiN0ZXcTRuOFVWYUJseExrMHRTSjRQZHpUVXBjaTloUXd6T2lVQ1BGS2lCV3MwZGw3TQ?oc=5
-
-- 秋雨前線は本州の太平洋沿岸に停滞 関東以西の太平洋側で雨 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE85aVRoVTRnc1BpMjVlWjl2SThKWUUtV252LTJNSTlEaUZpY1JhanFtYWRLN04tQUMwSmpnbHhCU1dzdW5lQWlidy1BU0dROUwyNVFTUw?oc=5
-
-- 鉄塔転落死の男性が遺書、徳島 四国電力送配電、パワハラ調査（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUkEtV1Uxdmt4YjM2czhodWlkLVNOR3JXbGlPQl8zVFRLS0NSeE1VM1VFdUwzSlBMTm0yT25rdVVVZjlzcmJUT3Y3Y2dIY0ItMmItM2gxY054a1BTb0k1eE94SzJ5U1pkRWZfckRJaVBoX0RUaXQ2dlRReEhNT1U?oc=5
+- 露の侵攻は「蛮行」 森衆院議長がウクライナ議会で異例の演説 原発被災の「共通点」指摘 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9keHR5a19QcGg0eThKWjJQTFVKQXBLNmZDWXYwZndKajRTNl94ZTVoMWdBVVZZdkt6S2lUa0hoLXAxRVJ3SlZha0NON0VkVWIxZXdtZTJ6bDF1cDNLbVlZUHJTaHg4Y3R3dDhyazQzNGRyMVc3Wnc?oc=5
