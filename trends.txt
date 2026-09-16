@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 高市首相、参院・石井幹事長の交代巡り「人事権は私にはなく今朝伺った」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbXc1VXAwOVMtdGtNenJpTjNWRlRXWkp0LUoxRFZDZVJrQnlZd3pIR19qcTk3Zjh5ek10b1F6eDEyQzROaVpSNWhPYnZScWpVdVBURUZaamF4dWVsakRkdkFmbkFhZw?oc=5
-
-- 大気不安定 熱帯低気圧は台風に発達見込み 連休の天気に影響か - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWTZpRmt3djl0YU0wclUtWkd1WlFoSWZfZWcyU0ZLUzNTMHMtVXM3c1BLakhFUFRaVm85RzFoR0NTTlNKVGU3SVNGX2hFUkp3M2p2NU5DUGplV3hib0Zz?oc=5
-
-- 公明・西田氏、連立復帰「考慮のかけらもない」 立民参院議員の新党合流「むしろ高まる」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1mV0JORjQ3azd0Z1JkdUdob1pSZmlDMlRfcmxqMGNPYURzYWU3SFItMUszZVB1Um9JdmNtbjNyVEpvMlRWaDhiZmVhQVhGanNoNU1WWjQtN3NUQ1I4cmJoY2pnRnl1NWVYTGs0Y2x4ay1YYnJBMUE?oc=5
+- 【速報】高市総理「政権公約の実現に向け総力をあげた実行体制」自民党役員人事を説明「参院役員の人事権は私にない」【全文掲載】 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBva0h0OVZPRi1UYkE3VUdHeHgtOHRtM2ZaTDdWZjhESWNIY1Z1bERHc3FDYjZYUlNFQTRzWVdKWGxVWWkyMGhId1YxdHF6QQ?oc=5
 
 - 米ケネディ・センターが閉鎖 トランプ氏、施設名の改称に反対した民主党理事と激しい言い争い - CNN.co.jp
   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGMFVTa0I5WUdtRGFxU0RmLWp6WmtISTJMYnB6cHJFZnl3ZWJEU3MwSzhtU3NlbVJqMWlmaGU2R09hMTYxYWpubl8wRzloRVRu?oc=5
 
-- 玉城デニー氏に“直撃” 明かされた「辺野古沖転覆事故に“ダンマリ”だった」理由〈沖縄県知事選で惨敗〉（デイリー新潮） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVmRkbzNZZ1ZJeDFWc0RDV3pWREYwWjZmRWNIejJmUWV6T3ppN29KTnpqVDlsbS1RUmlJeFIwUzhFRGEwSERWUDVWYndqSTdINGY5aWdIeFlxdHhfY1RMb2U1ZDlweWpGWlI2aHZVZEJwMWl5el9TampSQTNIUEU?oc=5
+- 台風発生予想 シルバーウィークに東日本へ近づくおそれ 次に発生すると「台風25号」 - weathernews.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zeGNMdDRpWi1BVE1WTlgzVi1scnRzdEMta2hRUVVBY0tJNXBXZmlNaklabDdLeFdoTHFGbUlwOENjOF9Lclh5SXNYV0VDUUdwUGdWWQ?oc=5
 
-- 運航団体「誠実に事実と向き合う」 辺野古転覆から半年、謝罪声明：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWXl4bTZkbXBYczR0UG4xOUVOOG5tSnRzd2x4RlNBSnFNMVhwY2U2MzlFbTg4d2RZYjZqSTZlb292MGlxWFp3cjhjVXB5RXlkZGtoanlQZzBweEttUTVvYXBaaw?oc=5
+- 玉城氏大敗の沖縄知事選、抗議団体幹部「申し訳なく思う」 辺野古沖事故の影響認める - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1kaFV5NXVid0lUb1JtUE9zRFl1NkItNVBONWZwWm96U3R6RVBUSjJSLVNxWS0xQndlbjhNZGZDNHpxVXFwaHJxMW1kbHZfWG5YU0dHeWZGMzBWSHZYVlN1R0lBWEtmUExSVGo3S2hnbkhJc09Rb1E?oc=5
 
-- 四国電力送配電19歳社員の転落死 所持品から遺書…先輩社員からの暴言などパワハラを訴える記述も 徳島 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBPSm9sakNZUi1zUU8xUUZhUG1BVi00VENxdDV6VERJb04wdHh2WnpKRTc3eDBpeVBJNmZfeDlGYTJBSWhjQzdqenFfbnZ6Qm85NTVoNkp3a1Y2VzdCNWN1MUZhcENXY1hnLTdWVEYtRnRnZWoyOFJvazBRcXVHalU?oc=5
-
-- 【速報】「遊び感覚でまいたら、おおごとになった」高2男子逮捕 催涙スプレー噴霧した傷害の疑い 生徒24人がのどの痛みやせき 大阪・堺市の高校 - TBS NEWS DIG
+- 【速報】「遊び感覚でまいたら、大ごとになった」高2男子逮捕 催涙スプレー噴霧した傷害の疑い 生徒24人がのどの痛みやせき 大阪・堺市の高校 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GQ2V1ZDItdnNEa1ZQemZKLTBQUnRJMEZMenZmRWtjbWx4cFMxX2N2S2kyYXpNdjA4SVF0WVZZT0NhQWRFSEpYR2pZbmNVLTZvM2ttbURubw?oc=5
 
-- 伊豆大島の高校教諭逮捕、生徒とともに窃盗未遂か「仏壇のおりんは高く売れるから探したほうがいい」 警視庁 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1NN1QzLWRsemlDQUNPSkxfR3VuNWYyZzB3UlphUnRZdU9HRUs1OWpfRG05ZXdrckRnM1V6T2VoMEZFMnM5SFR5VnhXb2VqRm5LRGZmcUI0N1lRQTRTV2xoRWRKdGdPaGY0TEVocy1OS0s1dU5WSU9YZGVUeFM?oc=5
+- 【速報】サウジ西部拠点で石油積み出し停止と報道 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE45Ul9jVEpyVmM5UW10MGsxTEx0b1BwODRCcy1hUldOY0VoNGFxQzFQRUpEUkN5cFp0MFI5UGZXc0ZhazVjcTRWNmFhQQ?oc=5
 
-- 信号待ちの神戸市バスに大型トラック衝突 運転男性が重傷か、バス乗客も複数けが 積み荷の土砂など散乱 - kobe-np.co.jp
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE5NMjdNc0R6MU9EYkQ5d2x0R0NhMkxZM0FFTG9vTVZUYi1pWEtuZ0NNN2dqcHdKWWo4blR2M0dUU29yY1ZJRC1SWWNPSDRVVEMzMUtlYTZiX3ByUWNLNXAwblhEVVV2OTZRWmVjUU96VjRuYzVrOVlKMlZJWXo?oc=5
+- グローバルホーク「制御不能になるようでは、おもちゃ」自衛隊に衝撃 - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JNzZtdHdkcEt3cWVjRVI1WW5VdVFCbHQyNGx4czV6eEJjbFJZVHFRaW5nTFY2WmZfWmUtNjY5bVNnN1hjZS0taElRMkg4YXZKWWZB?oc=5
+
+- 都立高教諭が生徒と窃盗未遂疑い 住宅に侵入、伊豆大島（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5tdjVYRDhHWFBOaF9BVlVyZGRfNXlROGRXNEJtdFNYcTFZYllfSFhvMHpTRVMzWHJySF9oVmZvYzNWZDhDc1QwWTBGZHl1bFM2a0sxbzNSNHBQdjVQM3lhbWVoR21MOXQtdGZkdXNSZVpHVlZxZ0h4U296QXU5LVU?oc=5
+
+- 中国国防相、日本念頭に「軍国主義の兆候に高度な警戒を」 - Reuters
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTRCRTh2Mm1QUEY1dWZiMWh6UWhTNmZvWk4weDE2cnhZLXQtcWNKaUJqZG9leVRDdU80R3NibEdyUmx4bDNycE1JNDJIcno1bEgzSTFhbTRiS19xaktkQTgtQTRNYTJNbjBLeTduTnU1c0NMakxjdG81NGVJa3R2WDNfMlk?oc=5
+
+- 福岡県議会のパリ夕食会１００万円、費用は県負担…参加の県議「日程タイトでパンや前菜食べたぐらい」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZERCXzJBVXM1bENGZFJ6eFBCcTNyLTI4RHJkQUoyRXFsYlExRFFINGVUU21OVWtBM3VDZVpnVG1pVnRrb2xYdXZFTkh3ZnNORVZZWk5nemk2NGJQRmQ4VHRNRG9sdw?oc=5
