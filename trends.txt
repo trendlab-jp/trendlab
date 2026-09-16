@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 大型台風25号(ドゥージェン)発生 シルバーウィークに東日本へ接近のおそれ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQ3VQUUdUODBKbUhabllqWUE2YzJVWFM0S1ZqU09IZ1NfdUdQMWw5YmRkWTQxU0NXdlA3M0gydnNoOHJkTnhzZkpteC0zYXZjOUFrWg?oc=5
+- ＥＵ、子供のＳＮＳ利用制限へ法案提出を表明…「子供には退屈する時間も必要」とフォンデアライエン氏 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nWmIzSUMyVG9Ob24xUVlQQU44SXIxNXpSM3hQQmkzNGlGM01uR2xJRlZGbEk3bDJrU2Q1MDZOSkZ4OTIzOXlSUEVQNTNDR3puZUxmbFhrZ2RqREVTaDNONlNn?oc=5
 
 - BeMe：高市氏は愛憎入り交じる「姉妹」 初の女性首相に映る格差の構造 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSllQTW83eDd6ZFNObVpvNExsZmZZaEZaZDFfUTA1V29teU9RdFVNeUFJNGJzT2JDWXhoMlVGQUM3UTBRNG9JVDFmb2RvVVN6OEg0ZkJWckZMOGZ2OE5MajhhMk9oNUUx?oc=5
 
-- 「石井氏はやりすぎた」 聖域・参院にも高市色 焦点の幹事長は青木氏に交代 自民新役員 - sankei.com
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBzV3VFcVlmZVZxR1htLVFxZjUxU0d2VC1mZVV0N0VUQU5XT3hLNHdSZlBQa2lmd0hId2dFaDQ4UFh5dWRQZ3pBZzJSdm9PRzhNQjh1NVNPaWpPbUliR2dmUUdWU0xPRHpPWUFCX0QxdGp3bThOTFE?oc=5
+- 参院自民党 人事を発表 参院幹事長に青木一彦氏 石井氏は交代 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HdHVycDhVZy13YkZJWkJqeDdrUVRMQjFmMmVWNHM3alpfV0Z3WElfQzNyUjJQTEVManRCODBGMzhUN0FuRTVraENYQTcweW5Yc3lnNGdhUDlveFhMRDJV?oc=5
 
-- 中国人元労働者の遺族ら５０人、ＩＨＩなど日本企業６社に４億円の賠償求める訴状提出「過酷な労働強いられた」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjcXJyNmxoZUFkclYwSmhEVG5WakRKNjFkOFNzYkNMNDdUVVRQVUFTT1U1aTJta0JiNmRidHlWUDJsZzNHVERWZWlYRHltUHIzMmhkQmtCdzhuLURVQ19qaDVn?oc=5
+- 大型台風25号(ドゥージェン)発生 シルバーウィークに東日本へ接近のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQ3VQUUdUODBKbUhabllqWUE2YzJVWFM0S1ZqU09IZ1NfdUdQMWw5YmRkWTQxU0NXdlA3M0gydnNoOHJkTnhzZkpteC0zYXZjOUFrWg?oc=5
 
-- 立民系新党は「民主改革の会」 中道から48人離党、渡辺創氏が代表に - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE80S2ZLZFE3bzVMdFVkcWZLUGstWGNWNmpFVzFzRkdrbzBGdjRVa1FjaXhZTHJFaTQyY2MyNVp1dlQ3cHZGX3o5a0JzWjgzb2ozdTVGQjFTRVdaeEhaUGt4cWxDWVctRmJTam15Zg?oc=5
+- 強制連行、中国で日本企業６社に賠償請求 元労働者遺族５０人、訴状提出 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yVWVIVnNOcWpubUZXUk1iRTRQZzVNbTZGQkN6VUluTVRrRFdnamRrclVTLVBLUmN6cENwNjkyTmRCM2NDLWRlSG9iNFZPcDFYMElUTlpEWlMyVC1ldzV4d3NqZw?oc=5
 
 - 山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5
 
+- 茨城県、栃木県、群馬県などで震度3の地震　津波の心配なし(気象予報士 日直主任 2026年09月17日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZjVYZUEyeVdlRDlDcWlucXBGSVZHWUpuWThmR2NxSGJ2aWNkakx6Tk9mcWhxcUxsQkhNaGFJems5N0FJV2pLNEp1cWFBd2owcmxobVBJSDdIRlJIQm5MU3poZGRuZkpEQ2fSAW9BVV95cUxPd2x3Zng3bXZhZjJsYWY4OHFhWW1ieWlESWhnWWxscXVGNEZTZTJ6R3Njek81ZTVDbHU5d0hJQk5BcGNmOXkyb3hjXzNpTU5xNkJaejhzS1c2aTRoQjlBS1VGTVlXUGdaUWxhVEcya2c?oc=5
+
 - 19歳社員が転落死、パワハラを訴える文書 四電送配電が第三者委 [徳島県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54NDkyY2pJZzRPZmdDdHJZanpPd1ZxM3dXb2ZqeWNXci1aalM3YTZZRXE2a1JqWUlHbGpvb0stVi1XUUVURFg0X3E5aW9hTXdndE1vUldEQmxSbVV1MkNSdnp6ei1icHc?oc=5
-
-- 辺野古抗議団体・学校側の刑事責任はどこまで追及できるか「検察の熱意と能力試される」 - sankei.com
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5STG80QVNPc2ExeDhVWnNIOVNyRXNjTU00MkRSUnJlVXRhN215N0dmSHljbXF1eVV5d0hUVGlzQ3FHbkpXMzFMWmowQjVwSktxRUhjdTNyNDVYbWxKV1ktUW1LdmU1Y01BdmdmZWctTEpyZEhnaVE?oc=5
 
 - 「グローバルホーク」墜落事故受け三沢市、運用と飛行停止を要請「基地周辺の市民に大きな不安与える」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HOVVnQ1ZlT0JKTlFmcGdBR1ZNcHlYdm85anFneU91MmoxbnE0MGZ2aU9UTHlEcURMdElDam5sV1NRbXUtSGRJU1hjNlJxUVg4NklhTS1FZE1iNHFoTEhfdnd2VmJLZw?oc=5
 
-- 堺市の高校で催涙スプレー、傷害容疑で逮捕の生徒「遊びでまいたら大事に」…貝塚市の中学でも生徒が「遊び半分で噴射」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1seVN0Zk5GZkRuZ1lhYzA5NGswRFU0b184N25qc3BTTVF4SFpjVXdnSVdWUDJkNUIwc3JQVl90OEV1d3d5UktSWXlxS2trNFYtd2hlTGdGZVZ6ZFc1bTNFLUR2VGlYZw?oc=5
+- 辺野古抗議団体・学校側の刑事責任はどこまで追及できるか「検察の熱意と能力試される」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5STG80QVNPc2ExeDhVWnNIOVNyRXNjTU00MkRSUnJlVXRhN215N0dmSHljbXF1eVV5d0hUVGlzQ3FHbkpXMzFMWmowQjVwSktxRUhjdTNyNDVYbWxKV1ktUW1LdmU1Y01BdmdmZWctTEpyZEhnaVE?oc=5
