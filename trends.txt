@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 維新「閣内協力」で正式合意、内閣改造は赤沢亮正・経済産業相と城内実・成長戦略相が続投へ - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4teFpmcDRPbXdfVDhjNXlVZGpoZGV0WVFjX016dGE5UkNMSDZZcVlCWnZUejVycGNYNVhMN0dqYVZQaFE2TzVxVXBkdTdHMkdCbHZ4UHJkZXhnc1hZRVdVamx3WU5hQQ?oc=5
+- 林芳正総務相が閣外に 自民総裁選に過去3回立候補 閣僚名簿を発表 [高市早苗首相 自民党総裁] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqS2czYTdpb1V4TWw2OW94ckhHcmV2WGVrc1J0NXh4akF6S3R4NFZZUHVLN2lHcW1LeTVPRWJhV1BITzJrZ3ZhSzQ2VF9BNzdKQW5hUWpDcUpSdlZJWTRVdU1oV09tRVE?oc=5
 
-- 台風25号(ドゥージェン) 明日から小笠原諸島で荒天 21日(月)頃関東接近予想 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE45M0I4bWdrUjZXQ0hYN2U5RWdGUmlFV2c5VFhtaHZ0b1hjNUVvMXU0S0ZpVlBzRllIOGhxOERnM1pFWG1GTE9uZEZId3JKNzMzZjJGMw?oc=5
+- 【速報】東京・北区「女が刃物を振り回し2人の胸を刺した」胸や太もも刺され男性2人けが 女を傷害の疑いで現行犯逮捕 JR板橋駅近く - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CcDU5VEt2S25odU55dVdNWEJrUmZoSWo1cVF5U21IbFhRbmZyYTNBN0hrZ25MSnpBdHd2VFVqMC1WN0hveFFfS0NJMlJwOFA4Vl9EZFQ2WQ?oc=5
 
-- 経営難で閉院決まっている市立病院、課長補佐「両替金４００万円を置き忘れた」…業務上横領容疑で逮捕 - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjM2V0NG1nTHpPTGN2R2lGVUpSbFl2cmpsQ1AyTlhPWE9rZC1kSXAtVnZtcndxRmdBcmw4VXFDRmk3Vk45cWI0YUtWRmQ5Uk5vVFBVMGZZTnZDZ0R1SzQteFlnYWl5dw?oc=5
+- 台風25号は21日ごろ東海や関東に接近　東海のシルバーウィークへの影響は?(気象予報士 竹下　のぞみ 2026年09月17日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE96MUdCUWoxLWhKMVUzWklPWFBlWTczSXVQdFpreFd5UVRkUEd0Uy1fZVBRVFhLbjZxSGxHQ2d4OGMtTzE5MXhqMGRjc1VnZS1xM2VkLUZmSGhJemk1cmlrM0lsX25VdnczX1g4dGh30gFzQVVfeXFMTXZQZ09YV01kMDBOSTNfY0V4bXlvVm5ta1V3NnQ4ek1pTTIzdm5aMGQ4MTNzTjBpVWowWjBPeC1GU0NPR1hWa3FLQVA2R21NZUJ6X1V4Ukp0UDNMMXhvOElabXE1M1o3SzQtVG9tNHN6TUpXWQ?oc=5
 
-- 共産「田村智子委員長」に“逆ギレ”批判が殺到…沖縄知事選は「高市政権の選挙介入」が敗因、辺野古沖転覆事故でデニー氏に「説明責任があるという考え方が違う」 - デイリー新潮
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE42SGd6Zzl0X2lfejc2QmVfX1YwbEhBMFBCZEoxMldDVW9mdjJ1Z01Ec3Zya2ZoanJJQzJZRUY0S0ZzUTgzZEs5b3RfQldBcWUzRjJ0ZUVjeURuUUhQaEM0?oc=5
+- 「イハラ」は指名手配の弁護士だった 1.6億円横領からの失踪 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DdHNkQWFoMS1WcXR2OUZYblZJQWlBMm9FNW8ySmJkMjRuQ2VlSHNJNHViNmFNXzBGeDhJRFl5c0d5cmI1Uk1WRUQ2Q2pLVzRfQzVlYXBuT2FPY2dWdlVLUVl3UC1Pa3NX?oc=5
 
-- ＜主張＞中道から集団離脱 国民の税金にすがるのか 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5SVThJWWRJLTFQTnJ5aGVSNy1aMjJNaGdocC1NNmZWOTl3OWMyTmxFdlJSVEk1ekFoTUEzb3h2TnJkNWpicVZMRjFJXzROV2NSTVlUUTdac2s5SGkzZGRicHRjVHZHMEpLWEIxOGlFVjNDRC1wT0E?oc=5
+- ノーベル平和賞のモハンマディさん、イランの刑務所での虐待詳述 「戻っても同じ選択する」(1/2) - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZlROMm9maXVIazE5N2FVNThjcU5VWFlPTmVLR1ZfOHpjU3IwUjBVbnhpNUh4TWlJTjVjcm44QjBBbEwyX2tHRjlIRWFGT05jb2ln?oc=5
 
-- 辺野古運航団体「責任全うする」 転覆事故で女子高生死亡から半年 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iVkdNWkJUYmRNVlFRWm5QRlBJVV9EQ28xeFlYME5FeG9OVTFwZzR6TVlrQzFMRVJyT01OUkIwSVlZeURlR0N0Vlc1cw?oc=5
+- 首相の隣に麻生氏と鈴木氏、自民党運営「今後も麻生派が中心だ」…旧安倍派は実務ポストを維持 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPd1ZGcVYtR0sza3hZRlVuNWQ1QUY2Nmc2M2VuMFpVV0JiaHpUeE1sSWt2dF9wWkVCeDE0OERFbG5KU2tBU1VJZWhwWXNkd2xLU1VMUV9mWTVvUG5ZeHA3c3Vwb2c1dw?oc=5
 
-- 近畿や東海などで急な雨と暑さ注意　大阪と名古屋30℃予想　今日17日(木)の天気(気象予報士 日直主任 2026年09月17日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaTNrX3k3M3FoQ29rNG8yRHljN2lwdlpYelJPOHRQeEl6WEt2SEJuTGpXUi1zamNUdkoxUDdDVnA4TWJOT2lHMlVlcEJxcmdzazkxYzhJR0ZNNnpaZDJoNU9EOV9NcmpCNWfSAW9BVV95cUxOV0JfOGtBV2dUN2U5d1NyeEc3YXhwT2owbFZsMGh4SER4YUxLN29XSmlDNlRiYy1vcVZ3MzlJUFQ4UVR0SDd3dEVuaTg0a05ZazJEclBIdzV0ajd4X0c4RnB5V0owSmx6YXBwaF9qVjQ?oc=5
+- 洋菓子店4人死亡事件 現場の刃物は死亡役員持参か 書類送検へ - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TakRQd29DSlNRNXc0bG9hNThWRDJrOE5SZ0wyZVNjREtHaUo2QzB2M2psM3I3VFpUYmFmWkFQS2R2Q2swUUJvZl8tWTJHZEhjbHNLX0F1eFM5RzVhMzJn?oc=5
 
-- 【アンダーパス通行止め規制】新潟西バイパスなど国土交通省が15カ所追加、全国で計22カ所に - 新潟日報
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE55Vzhyb19Od0tGYlIwZ1NjSGRRT0FzcklkYmZSWnFZaDhLWHpHbVVDYnJWVEJBT0d1SVk0VmRmZERONHJScHZQc0Y2dkpCT2hSeE1ILWFZdWo4UkxkWnc?oc=5
+- 第2次高市改造内閣が午後発足へ 安定重視、維新と閣内協力に - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Q3Y0YmZ3Z2xxMEZoZFRzVm1HbW1ieG50NzhXTDNCRjlSTnBIejZpeTJYZWQ1UVppQ2tjOFE2VzBMZzllU3FCOUZzSDQtZk1fd2RfXy01VEUtZmpmRDZmNzlJZGNNYlJs?oc=5
 
-- 自死した男性、仕事にやりがい 兵庫や広島の店舗で店長 元同僚「責任感が強かった」|社会 - kobe-np.co.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBwSWxtc2tqeksxVE5jNVlWY3dxVDFNM0lDN1BkZzM5WkE0UjJCWXlIUzBBRHN1VVlXRlNfd3poQ3EzQTE1elQ4bU5XQzlGb1RCaHlVbmZtSjZFTW5NSjR1c3Q4UnpoSmxyNllVYTRtQQ?oc=5
+- 沖縄知事選で露呈したオール沖縄の“陳腐化”と、共産党の“無責任体質”…田村智子委員長を縛る「自分たちの主張は常に正しいという自己認識」（デイリー新潮） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBCczFuZnJUWDJtdm9Pel9KVGJBdlFJakROeDBBbDRGWlViYkF2dE1zcVBHaE1Ic0pYeVVqNmpIWDZsREp0Rm5BUWdRLXNKV3AyUzlPNXdvb2JRYVJJaVd6R1ZHY0VLNWk5OG1Rc011T25YQV9MUTVmWU5ZVmx6WVE?oc=5
 
-- 高市首相地元で「与党対決」か…奈良知事が維新公認で出馬表明、自民は対抗馬擁立方針も高市氏はタッチせず - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbGdEQ19HWVNWQmlscXpPa0Z5amlmX1F2Zkh1b3pBcHp3RU1LTkJpSmdRNzFwRVU3TThFWDJJQVVXTnctSXRFVEhGa1N5c19STnJydWNFNGl6V3BId2Utc21rNXVnQQ?oc=5
+- 校外活動の自粛続く同志社国際 京都府の私学助成金の減額検討に保護者懸念広がる - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9uTFpJUXh3X0xXWDMta0JIcmJ0dFZjMGxHeVNvbmRqRHBVeUNFT1R1UWpxOU1KMXh6TElMbDJkVmxUMEVrc3lJaDRBZHJxRGN0RUVDbEViMXZFSVVVOUxUUDBRY0xjMDgzZ0pJbG9PRGhmRG5WUEE?oc=5
