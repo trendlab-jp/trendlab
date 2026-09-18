@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 台風２５号の影響により関東地方・東北地方では大雨の予報が出ております高速道路は２０日以降、広範囲で通行止めとなる可能性があります！～車での外出をお控えください！～（９月１８日 １７時００分発表） - NEXCO 東日本
-  https://news.google.com/rss/articles/CBMifkFVX3lxTFBiV0Vaa1ZzRDNLWHRPOE9KUmx4cFhvNzJENUFDdVVDUlUyMnJLMW5BSjNncWNiakhmUU90WElpQlQ2YUJnZ3IxTG1HYlg3Zk16QjZwVEdjOWpMMTJrc2xqbUJiYnRGUUo5UFp2bXYwTmMwellXcXhCX2R6R2FFUQ?oc=5
+- 第２次高市改造内閣の支持率５９％、改造前から３ポイント上昇・維新の起用「評価する」５９％…読売世論調査 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE55QUlXMWhTZnRSUHhOM1Viek9WY1JfXzVybkw0WWJ1Y05nSG1NTWRDX3R1SGpDV19lZHA3Tk4xRFVmNVdwVzlXOTBwOEhCZ1FqWWtUU3VtX050X2M4X2dPakd5R2EzdlpCTUpDa1RXMkVEVkFQdWc?oc=5
 
-- 高市改造内閣、本格始動 副大臣・政務官決定へ - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2aXBFSk1MRjJBNURrUWRHQ3h1WUV3RkdDaEMtcUNrcnJBdERNYlI1VlRzVWN0MTBPSjBtYXc5MXh6OTg3aGx2Rk85cFhyNVozWmFNdnhrQUhDbFNQLUFLNzNKSQ?oc=5
+- 出版取次の日販、米AI企業に書籍を大量販売か 業界団体が説明要求 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rQjN2Y1BZT0k5SGVpOWQxX2ZXVjlwMmVFX1h3VEJNUW1qdHU3MjlKa3RCTDNmS2tOMjV1ekc3WTRuVWpjMmw4VXJaUDAxdDBXUHAyNGpuM2V4Nk9FMXp4QUlqZ0VDREE?oc=5
 
-- 【速報】裏金議員起用、選挙で審判受けたと首相 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MajMxYnRDVnZqYy1SOWNQT1BzZkpYZ0N3SEJxZ19tMmhNQVBELUxab2Vrb2xrWE8yX25PdUZJcWdRSHpuRE9Oc3g0UQ?oc=5
+- 米、サウジへのF35戦闘機売却を承認 野党議員「中国に技術流出」警告 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFB3SXBNVUhlMGd2aHdIZW5hbGZLWTRzelZxTUV5UUFnbzFWWmdnUS1NcmFxRlVnOGNVcUg5YnloY2wwWDdxbDJ2VlBLa1hsdTB4eE1md2gtZzhwY0pOdU1yTTlXb3paN3JkYVdKdg?oc=5
 
-- 気象庁3か月予報 冬の訪れは遅れる可能性 エルニーニョ現象が影響 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VT1owM21RUUhQaGhOazhTZFZLMkZZdkF6cG5kSTVoNHlFbzM1RndWazBVS2w4aUlGR3htdWNIQ1MwY0tpRzdNNzZtbG9fdW1pejh1Mg?oc=5
+- 台風25号(ドゥージェン) 21日(月)に強い勢力で関東接近のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DNWtKRkJDTXJNVjdtMGFDeV9OQ2xRYjhrUDZPYWthbV9WRzI1UHU5QndmdERpakMzTDVpeFg5TEtYeWh5YjNfYWdOb0NYLTc0UzNMbg?oc=5
 
-- 沖縄県知事選挙で当選した古謝玄太氏、米国事務所「県単独で設置する必要あると思っていない」…再設置に否定的 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdG80Q1dST0RyQ1JBYTlkRXVfRVg2NzFHVmdUaVpYVWlQcWdaQUJrZFJPN1FPT0xzelBGQW5FYnBEOWdKaGNKUHk5Wmp1cjlOaW5jM21oTU9leG1lYVVRQjhWZkZYNTNQc212T0hwZnM3V201X2lYWURNY2VtbE0?oc=5
+- 鉄塔から転落死 四国電力送配電が遺族に回答手渡す 両親「納得いかない」【徳島】（2026年9月18日掲載）｜JRT NEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDhENHJhQzlvMll6LXF0NUJOeEtTc1BMTVVNeE5LazlIMXJHNnhObzRuakpnbGpVbzE5MGozc3BIWkk2blRuSk9zQ3EtT2VvYTBvSmN4WWtsZVZlbEY5cHNfelA4enJOMjZLOGRBdkxpbC1DTUU1b2ZINjhlczFMWEdjb0RjQm8?oc=5
 
-- 欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqNUY2cVlpNU5halRQeVoxTVhlbHR5ajAwZnRLbVBubkxPcEg4M01pLVFIZnZTM203MkNhRmtxcFhobmUxWG1Md1dyd2JfWnd4cllsTVFpNzZXNGFFS19TadIBZkFVX3lxTE8xUHh4bUpXY1NzQXZhY1dsbEhDdGN4RVZvWGRUZ2VVTFFJXzVERnMzTnN0WVdyOUhwQWZ1VEZsbzA3RlRZYWp1LUtMVzhEVkhBd1Z6MDdETnUzR3FzUjFGWHhnRGx0Zw?oc=5
+- 高市改造内閣の今後は「そんなに甘くない」...林・石井は「冷や飯組」、田崎史郎氏「2人が組んだら相当強い」（J-CASTニュース） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Z3h3bEVxTW9UbFBlSHBZNjBrQk9rTnVNSUJiaThVQUlOQTdMNmY1c1pERHM2XzZWQ1VPU2FnbllaeU5iYV9zZGllZl9UUVZpS0JKZjRSUHFlOWtWNmpXZmN1QmRhcDh4ZVNSazAzOUo0Zl9JM0ZpZ2RETTFzWG8?oc=5
 
-- 転落死 会社の回答書に遺族落胆 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JQVhfa1RwbjlKNThCd2VNc2lMNklNQ2lVd0Z1VFlZTy0tdEhsUUVWVFZPTjkyWThYWUFkSlYwT29jT2s3a2Y1WG1ROXJOd1pG?oc=5
+- 高市首相、副大臣・政務官も専門知識重視か 中堅「アンケートしっかり書いてよかった」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE90OXQ4Y0pJRElzYXhQS1pLWHFtSkpxRFhUSlQ0UVFNUVRmU1p0bGZwVEdNQzJ4Y3lwWVFtaDBiak5ONDVISUlieDVBUDd5R0gxVzhUTXY3LTg4Z2ZNNDZ3a3g0bHZJUUVzTE9LUEY2YXVoMlFZRXc?oc=5
 
-- 無人の軽乗用車が動き出し、幼稚園児らの列に突っ込む…新潟・十日町市で園児５人搬送 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BdWRnZURzbTV6SEgxRzZUOGZPbkJ1bkQwNGlEQmFrT2RwcHZRQi0yTWh6RzBFbVFRb3BBVlRYOVI5X0xKZEJpLTF6RG5XN1ZJTFQ3cE5ZRm0ydTBEbU5ydjU0RkVuQQ?oc=5
+- 宮崎・日南市で土砂崩れ 住宅に土砂が流入し50代女性が巻き込まれる - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFB1akZ2QTI5NWVvYWJPZVEzb2NjMThHV3VJbXhNVnNQNm9lTm1KRkFVLWlOV3o1NmR5dTNNWlZyUXZoYXlFeXhrYnhKc2Fsai1ubHJRY1dRaDhlQkp3bkdiZmxKckE4T1dhalkwT09nWXl3UQ?oc=5
 
-- 国が申し入れた核のごみ調査、茨城・常陸大宮市長が判断の表明見送り…「国の考え方を確認し改めて判断」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxWW1FazkxMVdsRExNSDNpS2ZZaEd4SzlqSUxTd2JESmRFQWJDWnBzajQ3OW0zMHp2OGJFSVVSSy02UmVlaFd2YTdWdTJRVlppT0xjUERZN2FIYkRvNDMwSTJxMVNIUQ?oc=5
+- 沖縄県知事選挙で当選した古謝玄太氏、米国事務所「県単独で設置する必要あると思っていない」…再設置に否定的 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5CdTMzd1FEWjJDdDVFQ2ItTzFHY0ZwLUNOMUZ2SjZScEZkemlpeDhZMGhUWFdVRDRud2luTXVrMWtiUl9HSG1SajJNdU1mRkJDODhhY1p5OGVOTlVJSUFXb2RCTERVdjFuN3VZQmxKSWZwUQ?oc=5
 
-- 明日9月19日(土)の天気予報 5連休初日 秋雨前線の影響で関東や九州などで雨が降りやすい - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybWJMTVN1Qy1GXzlEYU9LdzBqcFFIZjlScHFST2REUHZVSkN3M3NnWGZVNUpxTnByT05GRlJydWJpeVFDckpNNkN2TDNESThvTHhwVQ?oc=5
+- 空自の大型無人偵察機墜落 機体の一部の写真 自衛隊が公表 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRmxURVJtNDQzWDF5RGd1Q0lmSXpkSDlKNnpndmJ0cDhudjEzUGdPZzRpUUNpZjVMaGlzbGFtaWNQdlJwVGF4RHUyR21nYUdQN0t6NTBWcVNJQ01mWVE4?oc=5
