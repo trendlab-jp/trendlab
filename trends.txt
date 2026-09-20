@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米、対露制裁法案が成立…ロシアからエネルギー輸入多い国に最大１００％関税可能 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE43cDVmeXN3a2hQOXBnZHhvQW9CTW9KU016SGlrVEg5ZThXc3hCdmswR0FTY09GTkY1RnZzV3dPR1laS0NRYVI4cEN1WEdRMzRTanFHMnR6Nnl6U1NwdTJMa3dB?oc=5
+- トランプ氏、新組織「ＡＩフォース」創設表明…規制強化に否定的な考え「悪も探し出す」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IR1Q2VGFxN19yZWRlU3Yya2tZNFFkVjcxNHM2UUkyUm0tcElSR01uODhfa2xkLU9hTEotVlBVamdWcDRQR2RmdTZidGVzcG5xYm9IeDJHdmRfR2t3TDEyYUl3?oc=5
 
-- 中道・小川前代表「極めて分かりにくい形になった。強く反省」分裂後の政党交付金受領めぐる批判に「透明性もって説明していく」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1wejBhVUo4TXVMZUNka2w3RnVyWW95dEdkRU5ZaThNMXFNSjFBc0ZlNTMzOFpIZlZhMWJvV3J6aHVaWjV5Z3VmMllWN29kQkRpMlR0RTJVeGx6SHY1blpQeWhYR1VXM0MzcGtjaXdRc2ltRnVZNGhCa3hfMmdBMHc?oc=5
+- 道路気象予測　明日21日～22日は台風接近で関東や東北で影響大　予定変更も視野に(気象予報士 伊藤　杏子 2026年09月20日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WM0kxeUstYkNnZVhSRjlkTTdpcFVCYnc4WFNYNU1OV0VaLWxNUTNMVXZPdlJFbkoyWEpiM0w3UG56a2RjRS0wYmxWT1BfVzlDWk9QQ205alBCdzNMRml2RlVGT2pEYTDSAWxBVV95cUxNakpWbnZ6Q0JXREtKdFFaOW5kZDZ3d1hWRW80Vy10ZVhsOHFwSnp3bURLTUk1d1VjQV9tR3NRN0I5UGRMYXNqVFFFMjZsR1BQQ3RFaWVHZndHMU9MNDFTRm5DWkE5WUtQbUVpMkg?oc=5
 
-- 強い台風25号(ドゥージェン) 明日21日(月)に関東に最接近 大雨災害や暴風雨に厳重警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oWGJXWlVBSUU4RjlZcmQtR0RNNmUyTGpTZy0xSjFTWFQwT0g3c3lzZEszcmFIUzdsbEdVd2VTakEzajRyV2s5Nmhyd1ByZWpKNlpTOA?oc=5
+- 「民主党」はもう使えない？中道解体後の新党名巡り続くドタバタ - mainichi.jp
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvMWxUR3pjb3lZUXl6RnNhelBsbEtkTGVOSzZ6LWJCREp1QktBaUFsaU5nUWJSRXRxZHdNT25mbkVUdFZ4YWsxYW82eEpJZjNDYmZRM2x4TThnUEZJWVVtaUd5NlUxWFhY?oc=5
 
-- サウジアラビア、首都リヤドで異例の空襲警報を発令 - Bloomberg.com
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE9UN3UtREVwZHdIZEVGM3FsaVNfb3Y4V3NMMGY2NUdVWHRSeWtaRk1oZlRFT1hxQU5ZX2xBeXdjOFoyQVc3aGVCcTExUnlPRlJURERMZlFNUkpvcEUwQnJhTk5WSkVhUkh4Y29YaUZDSkw3WVp0MjdR?oc=5
+- マグロ漁船に乗り込み"居座ったクマ"海に飛び込み姿消すも1キロ離れた場所で目撃される 宮城・塩釜市 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ydnRIWjY2OHJMX0poRUQwUVdVbzhJYU1uak5nSDFBVk1udXZqRlhfUXFYRjZwekJZcFg0bEhoQmowQy1kX2t3S09TVDFOWEktVUZmSnQ1VQ?oc=5
 
-- "マグロ漁船にクマ居座る"クマ目撃多数の塩釜市沿岸部でまたクマ発見も 岸壁からマグロ漁船に乗り込む 宮城・塩釜市 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qelNrejk2NF85M3RMRU9DM0l2RFVfd0o3Ri1BbnZuMl9EMmJqNTVWM3pwdXRrTFJHOWNMWDQ5eGZQMkMtSUxzTHltT05EVnI2LTUyR0dWZw?oc=5
+- ロシア下院選、ウクライナ東・南部「併合４州」不正懸念…監視カメラ禁止・口頭申請で投票可能に - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oUWFlSm1jaVBIaHh2QXJ5WjZFbVlZUExVSHg0TW5FY3NheXFtMHExODgtSW03NW5PemMyYkZVSUE3QVE0eG9aRWVTMXQxeTk5VDdVWFZHLWFyaUd2eWQtWGJB?oc=5
 
-- 爆破、殺害予告のほか「事業所に危害」脅迫も 沖縄知事選で初当選の古謝氏に辞任要求 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE8zSE5RTzdnWGdFSkZVNEZEOU5zSUZuZzJISFNHQ1ZaSkZXVGptUERPUlNRb2FhdmRGdm1xM1l2bjZDYVNvbURLcWZRdTI4UnhfRTVTaGpMYjRSTmswNDdzRG95LW5TYjU2NFEtT2tQelhPcUtwWlE?oc=5
+- イラン、米に戦闘終結条件提示 賠償請求に触れず：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TmpBOUdwNFhtQTdWWWhWd0V0ZFZtQm1vXzJuOFhQbUE0NlpXQ0RUT0dTa2pveGNPVmxMSTF1Y3dJR2ZMaXBNYXB1MkV3UnBqQTlNU1gycjdxdHJZb09kVmxMRQ?oc=5
 
-- 【速報】クマ衝突で見合わせの常磐線運転再開 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVTDVIOGdqZEhfd0xpTFlMOWZwckVtUWNYYnlYNkVJSW85cmFES2JoUHljVGxyalZvR3VaR1J5MERnTzBJdzh2U3BBVQ?oc=5
+- 相模原で高２男子殴られ死亡、１６～１７歳の少年４人を殺人容疑で再逮捕 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzdWxrZVJJY3dXWWNiTmJQcUNDWkZYZG1uLVNYZDF6b0p0T2Nnb3pMVFBUcENvX2dvR1MtbU1xTXM3aVN6M0xscHZNckM0dmRYcUVqU0xqMUozNWhwZ3c5QlRpOENlZw?oc=5
 
-- 天草灘でM4.4の地震 鹿児島県と熊本県で震度3 津波の心配なし - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMWxnMFFMMEhhUHFQNHhRSi1oX3JvNlpqaTNKT2l1T1ZkdFlBWHpMNGlKZEp0WTdIdzhGRXlTNmQxaG5ON3pDTFl0M1FzYVg5SU5LRkZ4Ry1rZm8?oc=5
+- 閣内協力実現した自民・維新、関係深化が焦点…維新の租特廃止主張に自民及び腰 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KWWU4V0JxaHhCcUd0TnlKSFVwdVdNZGpTdHFIakVZOF9xcTdjQy0zWi12dDh2NlU4SnhISHhxYTR6eFhFaWxNZjF1X194d2NVeUlVbHBSSHU4M29BeGZzeks0TlBWQQ?oc=5
 
-- マレーシアで日本人6人拘束 特殊詐欺に関与か - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PNmhVQkFUR1dteWVrZHhmQ01BUTY4bUJsck9fX3E2amQ5WGdEZ0VpVnVFbGY1TzR6YmRkbDk0NWtGekg1SFJDbWtqaUU0aU5TR1ZYcE5OVDh0NHhMTlpB?oc=5
+- 安保法制成立11年、国会前で反対集会 ラサール氏、高市政権の発信を「ナチスそのもの」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5nR2RqR3JQZ3BJMVNjS3hKQ3llSnFUeDB4cDJEZXo2bWQ5c2hkSktmWGV2N09GRWF6YzdUeXJWY0F3ZnpSLXpiVkJhU3puc2QxVG9ZU09WR2xOUFd2Tzk1MXMxVWVPSnd6T24xRkVncHlZV3Q4Zmc?oc=5
 
-- 交番内で拳銃自殺図ったか 男性警察官が意識不明の重体 東京・八王子 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBfY0tXaHNRbHYza0dQdWdiV3gtVk1PS0tIaGhNQkhQQ0pOSlZ0eHRFWm0zb3dMRzF4SzJYSmwxaG95b2pEelF2Q052aFp5a01rR2ZFMnVhWTNTOU1wYk9RS0JqcTdRTjVtZXlXUWNSeXdQUQ?oc=5
+- 【速報】沖縄知事選初当選の古謝氏に爆破予告 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiZXlqcjZlZWhpRjdFdkpEb2dBRUY2MXk3NFpRVUF2Y3NwUmg0NmIxQ2t2TXA0MHVEdjktV244WXpPWE0tODFLcW1pMA?oc=5
