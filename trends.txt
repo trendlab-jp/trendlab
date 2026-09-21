@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 今日9月21日(月)の天気予報 台風25号接近で関東は荒天 大雨・暴風に厳重警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ObDVMeUZBcmdrUFlQenFpNkFMN0lMbzAwYnM3SF80WXlHbXRvaVh6R0ZiM3F4RXJNMVo5SWllREZZQ1F3Z2Z5dTlTR1AxcFUzTkpYWQ?oc=5
+- プーチン政権与党、第１党へ ３分の２議席維持か―ロシア下院選 - jiji.com
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Uc2w1WlEzclZoZ3U0MUxrREM1eEswMjhRZjhWMzFza0V4bjhGcFhqRU9FSjA5YnIwQkYzTk5KRGp6b1g2OGN5bUFINm1sZXVXd2h2cFMtdml6SkRyOUxxNGVqOA?oc=5
 
-- 【速報】米紙ウォール・ストリート・ジャーナルによると、トランプ政権は国際刑事裁判所に対する広範な制裁の準備に入った - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU21hM2RJdm5kbUU5b0dfcXBwSU8yVUpNWGpqOEd4Rl9yVk1iaEpVUFVlMWJmVmtwTmxsZGNSaGR4cmhvMnluWnVsdjBRQzFvVC1RVm52Znlwd09sQUVMMVJqSms2dw?oc=5
+- 酒酔い運転の事故に巻き込まれた男児死亡…６８歳容疑者「酒の影響でアクセルとブレーキを踏み間違えた」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EZ1pUSGZVTTE5Vzlsem1nN2wwUnl3b1pPaVozLWx3VWplY2xzZjRyV0daU2FkVlE4dXZmZDNoaWpYT3R2elFXdnBMMVk5VW56SU9hc080SlIxRlU0XzlQOWpIYkw2Zw?oc=5
 
-- 富士登山者「ご来光」目当てで殺到、山頂付近で転倒連鎖の恐れ…規制導入後も混雑解消されず環境省検証へ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNQ2xFUF9wb0xDLU5jNkdseTRDMVgzODVrUmRmZV9vWllyM3FXbmdPY3VZR3NMZUUxUHNZc21nVzZNSlY1OGM3WF9MVzZDaWktZGtfaVBWLUtDYkIzRXVtRlpveVB6QQ?oc=5
+- ドイツ東部2州議会選、左派党と極右AfD躍進 メルツ与党は大きく後退 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE83cnpENFk1aVRpWU41dEpfZVhhaU9zbHRIM0kzbGNTblkyZ2NORHN5UTRBU3o3M1ZjT2RzbkhlRkFFMWdKbEsxOGR0enVZY3RiaGt2eEM3TldIdUhYOUxWajZLc2VEbkdQVkNEUg?oc=5
 
-- 東京 善福寺川に「レベル4氾濫危険警報」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JRFVvODFQSDVVR0VVSjVTeEczSW0zdnBtN0szUHA3UjJvYjQ0eThUd0ExR0ZwV1ZKNWU5eWNJVTA0cy1KSkIwTl9fOExMbmVCbjNjeDg5emh1ZHBSb0JV?oc=5
+- 【速報】米政権、ICCへ広範な制裁準備か - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VEVQSnp4UnRrOVRSWkhQX0kydVhzM1ZYT05iQURlWlBDLXRVaDQ0cjN2Ql9hXzA0R3RhODkyMG1fY1FtNGRWOVRPUQ?oc=5
 
-- 東京、千葉など6都県でも線状降水帯の恐れ 気象庁が半日前予測 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObWxxRjlGcjhMZnNBVzd4XzU3SjRKTG80dDJnWU12TmkwV25wVi0zaUJycDZBQi00NzJNUUdzdHNwU2ZnTDM1OHhWY2xzMzFweE4wUl93TXJ4cVlZWjZXQ3NCTEhDSEt3?oc=5
+- 大型で強い台風25号(ドゥージェン) 今夜関東に最接近 大雨・暴風に厳重警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oT1RXVWRTc3J1TTFWTHlVdzhtQ01CVWFQVTY3Tkppc1ZLRzlkTFpoZ2pTM1d3VVFUZHBHekY3elJGc3JTM0JqVE1SVjRBbjN3TUljQQ?oc=5
 
-- 露下院選の最終日、首都周辺をウクライナが無人機で大規模攻撃し死傷者…厭戦気分高める狙いか（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3lOaWdya2g3R1BFOGhHSTBxN0w2bmpPX3RsYnl3M3pFOUNSQVV6R3NaNkIyOU9DSlJmTUdNMjhtamRBSUFtOHRUUU93U3pteldlT1hxUjZ2S0txUzhyMXpmN2Nkck05a1JDREN4ckZoWFZBSjVTQ2dWeWozLVU?oc=5
+- 内閣改造で「高市一強」はどう変わる？ 首相の思惑と性格が呼び込んだ政権のもろさ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wTDdpMXJPeTJ2eGxCUDV2YU1DUElJbTM5OE8zR2NscTJyR25pYjBMR09meWYyZUNqeVJ2ZGtTek45cnZ0UEVYdkgzei1BLVVIUEJDVW5VQWRNanBUd0NzUTlnOHUzQQ?oc=5
 
-- 【速報】埼玉ほぼ全域、台風25号の強風域に入る 避難所など開設へ 橋が通行止めに（埼玉新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVlVkTTJlSjRtb0ZGQjZ1bjlZM0FRNkxzS3E5MWt3dTF5X3B0UTczZGc5QlJXSVc3N0daMV82RGpCN1k1RmxhSzVEekFoM3VlZWdwVDZVa1RzUkxuMlRpOUk4UlJOM0hFTjkzTEpnQ2tLSEpObW85V05FNklYMkE?oc=5
+- 【速報】埼玉で通行止めが相次ぐ 道路や橋、冠水や河川増水で 避難所も次々開設（埼玉新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeUF4c0xyU0dBdlFXSHdXZFlHblY2YldzOV8yd0Rueks3X0VzcE5lMk45NnVJZDhkai1WZ2luTjlxZklHT2dHOEo3OHp1bHp2MlRCSFUySmNXNXhta2ZnbnVQcmxucXNNbmQ1aEJMSm1rU1luaGdkNWRMQ1hZdnM?oc=5
 
-- 千葉県佐倉市に「緊急安全確保」発令 警戒レベル5 命を守る行動を - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wM0ppaVl6RUpCenZrUGoxb3pqSzdfejBGVk83cEt4VVVmY3ZMV2cyY3FxNDY0OTZLc053OWRVUEhEQkxiMUtweTRkaE1Xbmg1MlN5Mg?oc=5
+- 「明日は気をつけろ」伝えていれば 能登豪雨で奪われた14歳の命 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE51TEhGTkctX2NkTjBrd0ZqeTNqWno3eHRYb2d2WkZzM1RIMjg0MjhfSDlpeC0xNnZ1X1VfZ0FvcEFPSGtwMjBUTnA4UEtTbXFlWTYxSWhsWnA3MGV1azRSa2RUQ3NtcHpj?oc=5
 
-- 高2男子殺害疑いで相模原市の少年4人を再逮捕 バイクを巡るトラブルか 神奈川県警 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1mWGcya0wyQ0V0UlJWV21VRld6dlJndTFqY2YzbnJKNW1TOHgzbkVQN2NmcUp4Q1h1c05vVDM5b3daUXJQUGpLMUUwMTlHSnEwbjJNb0lvTlZGOHVYYnBlZW1xTnhkdVY4clhfSXhjSmtmWlVLMmc?oc=5
+- 台風２５号接近、神奈川で大雨 横浜で土砂崩れ相次ぐ、土砂災害に厳重警戒 - カナロコ
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZSmw4ZVZ6WElaVlpFUXlUZXBkZ0RMWjNfSUVsRDJXYm5Nd25WUTdxU1lHS0liNml0RWo1QUZ4aHZNb1dLUnpWYlFTbzJBS1pmUm95Q0Z5c01kSGEwSVJWWV9ZTmVNMlU?oc=5
 
-- 福岡市で飲酒運転事故 男児が意識不明 容疑者「酒の影響で」 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMbTBkdmJZNUVWVk8xU2s5UlRyWVZxekJlLU5VYl9BSUFDT01CbWNEWHFub1hmdnBqZDJfZUd2WTRhT2pNb2hNV29rUkQyTlM4QnVCV011ZVY3SkNCeXdfc3FRU2lBTzh6?oc=5
+- 相模原17歳殺人〉「刺青いれたワル」「話すと怒りを買って殺されるかもしれない…」ついに殺人の疑いで再逮捕された“少年グループ”…地元同世代に徹底されていた“口止め”（集英社オンライン - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydWlCRnFRRWt6V29MOVdjSTNRWUdmX0dkU1hELWZFQ3d4SHppQldIVVFMNTBRT0xmS2YydTVFSHd5TFRDVVFjMWx2S3h2TllLaS1DalJXWDM1TWhGbEdIdXJhMndhUTE5R2xKWk00NXFwTWxkMEE1Z0pVM3R3eVU?oc=5
