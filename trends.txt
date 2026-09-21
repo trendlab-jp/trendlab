@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 【台風25号】関東各地で被害 神奈川 横須賀では60代女性死亡 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE82WVNEamFCbW9oZGxVaTZSUVpmbTRxaUtpQzFLa1Q3M2gyTVNjTmZZZWQ1NmhoT3JFTVktcDIwc0tHOEJrb0w1bDd4NkJkelVnbXA4cWpUbHFSS3lCN0Nr?oc=5
+- 土砂崩れ相次ぎ2人死亡4人不明 神奈川と千葉 鉄道なお一部運休 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wNnBUQmY0blBxZFBOeG13NHZEd1FrOWlvREdDRFNLVTBvZFNnSFB0NUtFYk90VWp4cnVlQmdmU2xHbDFzeDVJSHVOXzVWSGFLQWx0OW1jU3FTTnQ0dW9oa3QtcTE1bGM?oc=5
 
 - プーチン政権与党が下院選圧勝、７割超の議席獲得見通し…ウクライナ侵略「信任」アピールへ - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyX2NTRUUyaUFuU21jd0Nxclg1M0U5WnBQMGxGX1RoWFNFbU1UT3pLYXJPS3poX0lKYWs4OUx1RWU0SGY1RmdLU2ZKNHF4RzVpYWNBR09OYk9Sbl94UzQ2TFhR?oc=5
 
-- 千葉で「またか」の嘆き 8月豪雨に続き、台風25号が連休直撃 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TeHZXRXVCWm9FNG1mQUhrYlpOTnNaZ1EyMzVfbmJ4MXFBVzJ3ekZVRjNmdVFwb25CUEd4Yl9QOHdobEJ3RjdRWTVKSUVQLWtXZWVOTTVLakVTYmpOSUJkbEFPMXkzWFVn?oc=5
+- 奥能登豪雨２年の日に献花に訪れ…土砂に流され亡くなった母の携帯電話、自宅跡地近くで見つかる - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6eUJEVmljOUJ6X1U4dy1qMjhseDBkcVVfSjJlT05VN29zQlZnZlZYelRnMnJvRk9WM29kRXNnUVZEcGlRT180TzMyWVNnNEp1d1VOTWF6SG9zNHlHLU5QOWUwQ0xwZw?oc=5
 
-- 【速報】琵琶湖で男性3人が行方不明、うち2人を湖上で発見 日没で捜索打ち切り - kyoto-np.co.jp
+- 首相、エネ・資源「恣意的な輸出規制懸念」 中国念頭に国連で言及へ - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVUxRZVZjcl80U25vVUJlRlhsNmp0UmkwUGpUSHBBNEVlYWhUdndSMnliaXZMT3RaYjkyUlZmQ1JRWHRPRnlqTlAzV3VBZlNfbHlzLVhLRklmZDU1Qmp4Z3ZQSTFQNTlKVGcxZA?oc=5
+
+- 【速報】米中協議で「休戦」延長の合意なしと報道 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vbmNEaHh6ZGh2RXI4eDd4STZYbWVodmttd0ZPV29EcWJiUmotUmtPVGRRS05nck1qTjZ2bjhkUURXdVJjanlvR0VVWQ?oc=5
+
+- 千葉 佐倉 市内の一部地域に「緊急安全確保」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LbmhVb1VsbTdsZmJVRDU2eWZsVzJJOW5HZVdZUFB0cmlnUWFKZEdnelBHNEd0LU5CZjJ6NTd6elA4SUdzdE0zdGpVdGJFTVNGSTQ3WVZHNjNMb3pmaktB?oc=5
+
+- 台風２５号シルバーウィーク直撃、「観光どころではない」「ホテルに籠もる」…避難所で不安な夜も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0Y1dRY1VwbFBTLWlaWmZPMEIyT3l5Qjl0eWp6cjNZaXh2QXBtcVQyY2FnY2hsZjZwajNfalZlTmdqcEIyVTdualowSDZqeVQ3aElscW5xZkxhejFmdmdBUk05Nk9zQQ?oc=5
+
+- 【速報】高滝ダム緊急放流を見合わせ 千葉県 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuN0VyeF9VQWpocGlIWWRKTVVrU1FjWjVqenZDNExWQ0JDUWVpRWhXYTJCbk1uN1UxTUdCM0RvQ2FaN19IaHpQNjhPa2ZSMHZUNGMzNEtSR04?oc=5
+
+- 【速報】琵琶湖で男性3人が行方不明、うち2人を湖上で発見 日没で捜索打ち切り - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSnNRM0J0SmJwTEE1YjI2TGVPNG9zUTlnLWN6bXZfQU80WjBmTGE0X21pOUNiZHV0MnNSM1BNaUZSbl96WHI5aXhUUmRoRmZxaXphekNZaW0?oc=5
 
-- 台風２５号関東接近、土砂災害相次ぐ ３人不明、１人重体―伊豆大島に一時特別警報 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtQnU2Q0Y0U3V0cm1HdEtrNVdvR1FPRzQ3R2lYT0VZRm5OMzZUbXQ4Sy1FZ0pGcG9aQk5rR0FXSmdJb3ZXYm90NnBFOUs3WVVDVmI2LVR3eEhZUTZ4TDZYeHgtVQ?oc=5
-
-- ロはディーゼル産業の統制失う、トランプ氏 ウ戦争終結を再要求 - Reuters
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0dCMnVuWkZLSE1GS2hWSG1DeVV2RnRicE9rRzNzc05SZU1pMjlGOVVKY1lxUVFBRzRral9EdERHamdhMWtLSEdNUVBLMVY1ZFdXaWhkcmJXMmRTNFVhdWM5S0RSMWFMYklWNE5scmhzb0FaUHBueGttcWR4aW1DaFAyd0xnQQ?oc=5
-
-- 警戒レベル5「緊急安全確保」 千葉県市原市 袖ケ浦市 君津市 佐倉市 山武市 大多喜町 命を守る行動を - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cldhU2QxMjFxNWM1Yjk3WlBMX3lMWUxTMXh4RlUwdUFuT3BpQkJHZ3N0VTdjaDJ0em8za096Y1lDQ0xRVnRmcGpDSkJRMnV6bUpFVg?oc=5
-
-- 日向灘でM4.8の地震 宮崎県・大分県で最大震度3 津波の心配なし - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRzg1MDdIcnRJQVg5UTRVSTNOZEhLXzV5by1FTjBUVXhQZDBvUzJxM3ZuRE1YaEFTTkJUazkyTmRvT1hHa213ODg1SmlQbFh2YUpBUFNNcGNLTEE?oc=5
-
-- 【速報】埼玉に避難指示 河川氾濫の恐れが高まる 警戒レベル4 埼玉で停電1000軒も（埼玉新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGZxODQ0VERKV1BjSTdabVFmNnRYNVFvR3hlRUhrbUJzS3FCbDlmcUt0NEpEWThtU2lqUFFOSTllS21VekdIem9vVVNBUnVmejF3SS12Zm81Y0FjX1NRTDdVVE9OcExETnFXNEtPYm5MYUI2ZGtWWFcyekxTdEk?oc=5
-
-- 【速報】千葉県内４０１０軒停電 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tNEx3ZUl3SlpQbnJFcHF6UkpvMmVsLWFjWnhGZTJrN0dycUprSXFIaFFEbUpyV1lGLS1fdDhIdEFpNG85eDd1ZXFUSFNJLTQyX0pzLWgxelc?oc=5
+- 台風25号 土砂崩れで心肺停止も 190万人超に避難指示 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE44ajdkZm1mOVdFMG9HN0RQUjlZYlVYZjdmVVpsUUFsRi1EZGFaQkdMX2o2VzlGQldkTl9BRngwZ3JXdklNUHF2VzVkSHZnVnp5b2twZ2stXzE4MUJpZkpUbWo5SXNqc3ph?oc=5
