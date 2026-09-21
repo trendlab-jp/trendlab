@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 「裏山が崩れて、妻が生き埋めになって返事がない」と通報…横須賀市 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vRU11RXZMS2pxM25UcGJiNWZSMXNDcHhsREd4T1h0M1ZZTXNOZVhNOHA3OWRfY3VjTlFDTHY3LVZmOXpjYzRnakpYTUxHMlYtNHEwMzloNU5MLWFwckN2TVVnTW9ndw?oc=5
+- 【台風25号】関東各地で被害 神奈川 横須賀では60代女性死亡 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE82WVNEamFCbW9oZGxVaTZSUVpmbTRxaUtpQzFLa1Q3M2gyTVNjTmZZZWQ1NmhoT3JFTVktcDIwc0tHOEJrb0w1bDd4NkJkelVnbXA4cWpUbHFSS3lCN0Nr?oc=5
 
-- プーチン政権与党、３５５議席獲得か 過去最多で「圧勝」へ―ロシア下院選 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Uc2w1WlEzclZoZ3U0MUxrREM1eEswMjhRZjhWMzFza0V4bjhGcFhqRU9FSjA5YnIwQkYzTk5KRGp6b1g2OGN5bUFINm1sZXVXd2h2cFMtdml6SkRyOUxxNGVqOA?oc=5
+- プーチン政権与党が下院選圧勝、７割超の議席獲得見通し…ウクライナ侵略「信任」アピールへ - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyX2NTRUUyaUFuU21jd0Nxclg1M0U5WnBQMGxGX1RoWFNFbU1UT3pLYXJPS3poX0lKYWs4OUx1RWU0SGY1RmdLU2ZKNHF4RzVpYWNBR09OYk9Sbl94UzQ2TFhR?oc=5
 
-- 【台風25号】被害まとめ 千葉県や神奈川県で住宅被害 - news.web.nhk
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE83OEJVQlM3aVBTQi12bHFpUkhzTDM4OHlseVpSYUxIZlpEZHdnWDlQMUNicXNiMkQtTWRNWlozX2lLUWdqa2FMdEMtN1pfMEtSYUFSQWs4bDZpTXI1NWZr?oc=5
+- 千葉で「またか」の嘆き 8月豪雨に続き、台風25号が連休直撃 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TeHZXRXVCWm9FNG1mQUhrYlpOTnNaZ1EyMzVfbmJ4MXFBVzJ3ekZVRjNmdVFwb25CUEd4Yl9QOHdobEJ3RjdRWTVKSUVQLWtXZWVOTTVLakVTYmpOSUJkbEFPMXkzWFVn?oc=5
 
-- 台風25号で政府、官邸連絡室に格上げ 線状降水帯発生の可能性 東京・大島町に特別警報 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE50SGhQMXNFWXdaYnlzR1VfeTdkT0o1WTA5Ql84Z3NjQXJWbGZEVVI1b080UUFrRmMtSlhQb3ZFZktVbExPaFJ6S3lvcGJYX01VRVNSR2x4WjJsZVJZaGg5RUUzNUJVakNiSlhadThRSEF4ZHVsV3c?oc=5
+- 【速報】琵琶湖で男性3人が行方不明、うち2人を湖上で発見 日没で捜索打ち切り - kyoto-np.co.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSnNRM0J0SmJwTEE1YjI2TGVPNG9zUTlnLWN6bXZfQU80WjBmTGE0X21pOUNiZHV0MnNSM1BNaUZSbl96WHI5aXhUUmRoRmZxaXphekNZaW0?oc=5
 
-- 大津 びわ湖 水上オートバイの男性3人不明 2人見つかる - news.web.nhk
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WE1paXlIaHlFWmg3T2w1Sl9vREZVV0VKTDZfeGFlRUp2VU1vY0xQQXpicDNoVC1xM2k4b05XNC1sVFdwMkNzR1RVR3JNWVBBQU42dWFtbEYyZ0lFYmsw?oc=5
+- 台風２５号関東接近、土砂災害相次ぐ ３人不明、１人重体―伊豆大島に一時特別警報 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtQnU2Q0Y0U3V0cm1HdEtrNVdvR1FPRzQ3R2lYT0VZRm5OMzZUbXQ4Sy1FZ0pGcG9aQk5rR0FXSmdJb3ZXYm90NnBFOUs3WVVDVmI2LVR3eEhZUTZ4TDZYeHgtVQ?oc=5
 
-- 【台風最新情報】神奈川県に最接近、大雨いつまで？ 三浦で24時間降水量が観測史上最大 - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuX0RkRFVsRjRYT3NXcmIwLVdudlNKeVlLMjdNNmZ3cFd4Zks0VGdTbDBnZXJGSW9OSzBkVzRpNG1kSlZhNS14YzZOVmFscGU5VG9iNGoyV1BlU3JDSmc?oc=5
+- ロはディーゼル産業の統制失う、トランプ氏 ウ戦争終結を再要求 - Reuters
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0dCMnVuWkZLSE1GS2hWSG1DeVV2RnRicE9rRzNzc05SZU1pMjlGOVVKY1lxUVFBRzRral9EdERHamdhMWtLSEdNUVBLMVY1ZFdXaWhkcmJXMmRTNFVhdWM5S0RSMWFMYklWNE5scmhzb0FaUHBueGttcWR4aW1DaFAyd0xnQQ?oc=5
 
-- 【速報】埼玉に避難指示 河川氾濫の恐れが高まる 警戒レベル4 埼玉で停電1000軒も - 埼玉新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vdXFzN2dFaXhqMmRBQWRoNmstWFluc3ctT3BhWWpNU254d3c3ejVxT3hMQmM3bXhManN5SUF6WlhDWVZWbmc5bzFuRnlBNlpnLVNmVmphQQ?oc=5
+- 警戒レベル5「緊急安全確保」 千葉県市原市 袖ケ浦市 君津市 佐倉市 山武市 大多喜町 命を守る行動を - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cldhU2QxMjFxNWM1Yjk3WlBMX3lMWUxTMXh4RlUwdUFuT3BpQkJHZ3N0VTdjaDJ0em8za096Y1lDQ0xRVnRmcGpDSkJRMnV6bUpFVg?oc=5
 
-- 【速報】千葉県内２１７２０軒停電 - chibanippo.co.jp
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QNXBnV0tNR1lONjFpR09XS3dzRVdzREhkMG0wbHZYN2JtUEJxdWlmNDZBQmRlN09VYkhyLXoxZGtQTlhGbGpLQXpkbG1fUHNXZmYtV01zRlI?oc=5
+- 日向灘でM4.8の地震 宮崎県・大分県で最大震度3 津波の心配なし - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRzg1MDdIcnRJQVg5UTRVSTNOZEhLXzV5by1FTjBUVXhQZDBvUzJxM3ZuRE1YaEFTTkJUazkyTmRvT1hHa213ODg1SmlQbFh2YUpBUFNNcGNLTEE?oc=5
 
-- 福岡市で飲酒運転事故 男児が意識不明 容疑者「酒の影響で」 - mainichi.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMbTBkdmJZNUVWVk8xU2s5UlRyWVZxekJlLU5VYl9BSUFDT01CbWNEWHFub1hmdnBqZDJfZUd2WTRhT2pNb2hNV29rUkQyTlM4QnVCV011ZVY3SkNCeXdfc3FRU2lBTzh6?oc=5
+- 【速報】埼玉に避難指示 河川氾濫の恐れが高まる 警戒レベル4 埼玉で停電1000軒も（埼玉新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGZxODQ0VERKV1BjSTdabVFmNnRYNVFvR3hlRUhrbUJzS3FCbDlmcUt0NEpEWThtU2lqUFFOSTllS21VekdIem9vVVNBUnVmejF3SS12Zm81Y0FjX1NRTDdVVE9OcExETnFXNEtPYm5MYUI2ZGtWWFcyekxTdEk?oc=5
 
-- “今年一番危険” 強い雨で鶴岡八幡宮見えず 雨水が川のように流れ道路冠水 水没した車も 渋滞や路線バスも迂回 神奈川・鎌倉 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE16djFiTDd4MEhqQU1pR1hEVTdDWS1GQmtjR3hYajBlUnJqS0lCdlBvU215OWtxNHJOdURLMkFvdTc1eHc4dE1BZHZqc193QQ?oc=5
+- 【速報】千葉県内４０１０軒停電 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tNEx3ZUl3SlpQbnJFcHF6UkpvMmVsLWFjWnhGZTJrN0dycUprSXFIaFFEbUpyV1lGLS1fdDhIdEFpNG85eDd1ZXFUSFNJLTQyX0pzLWgxelc?oc=5
