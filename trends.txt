@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 土砂崩れ相次ぎ2人死亡4人不明 神奈川と千葉 鉄道なお一部運休 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wNnBUQmY0blBxZFBOeG13NHZEd1FrOWlvREdDRFNLVTBvZFNnSFB0NUtFYk90VWp4cnVlQmdmU2xHbDFzeDVJSHVOXzVWSGFLQWx0OW1jU3FTTnQ0dW9oa3QtcTE1bGM?oc=5
+- 千葉県佐倉市の高崎川氾濫、２８００人にレベル５緊急安全確保…周辺には住宅街 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcjBUY0lMbHBPWU9RMjNQOUpvU0RUczlRX3l2V1lqR2Zja1d1T3E5OVdWcFRrSjNYUmpucXl0OG9jOGRPcDhCR2ctbWRETl9CSWc5SG5aYXZlS1l1RWtFQlNqRUFBdw?oc=5
 
-- プーチン政権与党が下院選圧勝、７割超の議席獲得見通し…ウクライナ侵略「信任」アピールへ - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyX2NTRUUyaUFuU21jd0Nxclg1M0U5WnBQMGxGX1RoWFNFbU1UT3pLYXJPS3poX0lKYWs4OUx1RWU0SGY1RmdLU2ZKNHF4RzVpYWNBR09OYk9Sbl94UzQ2TFhR?oc=5
+- 【速報】約12時間、何にもつかまらず琵琶湖を漂流…46歳男性がライフジャケットだけで湖岸に流れ着く 「昼に転覆した1人です、10分前に流れ着きました」と自ら通報 救助に向かった48歳男性は行方不明 - ktv.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycnJ4V05teWp1Z1BFQUg3OVBzRjJYbm5ieUFya2Y3VlZUVW9lUDFCd3hzY0s5X2g2c3BhcjYtZEl2LXlKVUxKekhqS25ad1NGaVFlbg?oc=5
 
-- 奥能登豪雨２年の日に献花に訪れ…土砂に流され亡くなった母の携帯電話、自宅跡地近くで見つかる - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6eUJEVmljOUJ6X1U4dy1qMjhseDBkcVVfSjJlT05VN29zQlZnZlZYelRnMnJvRk9WM29kRXNnUVZEcGlRT180TzMyWVNnNEp1d1VOTWF6SG9zNHlHLU5QOWUwQ0xwZw?oc=5
+- 能登の豪雨災害2年 仮設住宅の転居求められる人も - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0R3RDRDd3V0U1dGFBem1FbzU2aWFGUkxyZTVyUkpWc2M0VFNEd3ZGY21fSnRyRk9xMnZ2YTJwMjlpZG1tZGY3eFRPOUI0V21uTWxlZ2dBNnBLM1NwQ1hr?oc=5
 
-- 首相、エネ・資源「恣意的な輸出規制懸念」 中国念頭に国連で言及へ - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVUxRZVZjcl80U25vVUJlRlhsNmp0UmkwUGpUSHBBNEVlYWhUdndSMnliaXZMT3RaYjkyUlZmQ1JRWHRPRnlqTlAzV3VBZlNfbHlzLVhLRklmZDU1Qmp4Z3ZQSTFQNTlKVGcxZA?oc=5
+- 【台風25号】道路冠水…現在も水引かず 千葉・松戸市から中継（2026年9月21日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBWeWxwcHBYNnROcG5xZWNmU01GOWkwOFR2LUhzdGVkc2VIMENaTThUT1JfVHFLZlMwUVZQYmpqZ2JpcWxibGwwcTdfRDZIa3Z5RUhmZ2dqOWxVWlZMT2pvV2p5WnRURzNzT3M2ejZiS2I4c3ZfcXE1dGhxOGc?oc=5
 
-- 【速報】米中協議で「休戦」延長の合意なしと報道 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vbmNEaHh6ZGh2RXI4eDd4STZYbWVodmttd0ZPV29EcWJiUmotUmtPVGRRS05nck1qTjZ2bjhkUURXdVJjanlvR0VVWQ?oc=5
+- 絶頂期に偏見乗り越え独立したあべ静江さん「自分の気持ちは自分の言葉で伝えて」…みずいろの手紙・今を生きる女性たちへ - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EUjNyT1VKYlJZM1E2eGZEbjNhSUQtcHdLZ0VKYnd4b2tYVmpNdkgxY0o3NWgzcGNMMEJHZ1g1WVdwUWVHUkU5Y3diMmE4VU5JSnVucFpGV2VVWEVuLWs2UjVlalQ?oc=5
 
-- 千葉 佐倉 市内の一部地域に「緊急安全確保」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LbmhVb1VsbTdsZmJVRDU2eWZsVzJJOW5HZVdZUFB0cmlnUWFKZEdnelBHNEd0LU5CZjJ6NTd6elA4SUdzdE0zdGpVdGJFTVNGSTQ3WVZHNjNMb3pmaktB?oc=5
+- 台風一過の関東は青空の朝 午後はにわか雨が心配 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tOW1wNXNZV0VEX2lkeTJnc0VIWDJmVzFHU0hBVzdhTnhYc0NlMGhURjZhSUJ3aHVMZ0VaeWJUcUVtX244LUdpRElrRnFyMFZGenB1dA?oc=5
 
-- 台風２５号シルバーウィーク直撃、「観光どころではない」「ホテルに籠もる」…避難所で不安な夜も - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0Y1dRY1VwbFBTLWlaWmZPMEIyT3l5Qjl0eWp6cjNZaXh2QXBtcVQyY2FnY2hsZjZwajNfalZlTmdqcEIyVTdualowSDZqeVQ3aElscW5xZkxhejFmdmdBUk05Nk9zQQ?oc=5
+- 【速報】千葉県内は２２日朝も5万軒停電 台風の影響残る - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wXzBiZjR2a2NEZFdVYm8yUGJCYzEtSWNxb0Y0blp3bUh2SmgyN3JFNExaRHJwel9yU0ZyRndwR1BWMUlBVDQ0N05IdmFZcE1wYWNVc0pNcHQ?oc=5
 
-- 【速報】高滝ダム緊急放流を見合わせ 千葉県 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuN0VyeF9VQWpocGlIWWRKTVVrU1FjWjVqenZDNExWQ0JDUWVpRWhXYTJCbk1uN1UxTUdCM0RvQ2FaN19IaHpQNjhPa2ZSMHZUNGMzNEtSR04?oc=5
+- 神奈川県、自衛隊に災害派遣要請…三浦市内で複数の土砂災害確認 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zWGdFY2paeC1BY3M0S3lseUpxVEpkdndMWUFOQk5CTk9CWHZIWnRDODhKR08wQTd6eHNZVzl6aVNmMmI1TElBY1AwSlFXQnJ3M0xtdE9mXzAyVVRCTFNvQVJXakFoZw?oc=5
 
-- 【速報】琵琶湖で男性3人が行方不明、うち2人を湖上で発見 日没で捜索打ち切り - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSnNRM0J0SmJwTEE1YjI2TGVPNG9zUTlnLWN6bXZfQU80WjBmTGE0X21pOUNiZHV0MnNSM1BNaUZSbl96WHI5aXhUUmRoRmZxaXphekNZaW0?oc=5
+- 「これが沖縄。できあがり」？ 求められる開放性としたたかさ - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGcl9JQVFfR3F5eTZQdjJPVV84R1lKejlfNURNUmFMb2ZtcmRXZFN4c1FfZl81VTIyYWFoZ0xaTkE1WXI0LUtrSGNTNF8ydGw3V0V2azZjR3ZrOXZ3dlVfamc2Q1ZBdHRT?oc=5
 
-- 台風25号 土砂崩れで心肺停止も 190万人超に避難指示 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE44ajdkZm1mOVdFMG9HN0RQUjlZYlVYZjdmVVpsUUFsRi1EZGFaQkdMX2o2VzlGQldkTl9BRngwZ3JXdklNUHF2VzVkSHZnVnp5b2twZ2stXzE4MUJpZkpUbWo5SXNqc3ph?oc=5
+- 【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1HRGh3SlRWNE9NT3Y1NW05Tkl3V3BVdXNsZ0U4eWc0U05ublo1a1F5ajhlX0l3WXJrLUNSN05xcjEzTEpUV19VakdTVG9QRkhpaWZDdGN3S3FjUmJnUHByYmJyTFkwaEtXUzhoZllQc2tDVXBuanpJc0RPRkg?oc=5
