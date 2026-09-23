@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 高市首相とトランプ米大統領、約３５分間会談「日米同盟の強固さを世界に示せた」…ＩＣＣ巡る率直なやりとりも - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ESzNBckJlNjRhZE5vYTlKS2N0THg3SThzdWhJMFRxeVpXWFlzM3RmSV9IWm9CeHdIUDd5UVdiNlZCTjZVLXdGU0RqTmhuWDFFMHNoNFE2d3hKOUhJV2JubmlsblZLQQ?oc=5
+- トランプ大統領、国連演説で「ならず者機関」とＩＣＣを強く批判…ＡＩの安全性に対する懸念は「デマだ」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE55SWdaRExvdnBWLWhlOWZwS2dWelJCeG14TlVfN1RRM3paNmxJY0d3dVh1Sk9tVTJPak1WYjdZdnc1US0yRWMyX0tIZjU0aEFqZ0p5LXhhNm9ZbEE1VjJqQkh3?oc=5
 
-- トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ | NHKニュース | トランプ大統領、国連、アメリカ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nS0lpR3FpcTFtLUFxSHdlSWNGdjNYSE9tOGVpN1M4YTU1T3p0WnNBbDhqeFJ0MFJkSzRuTzRxQUNVMU81V3dUY0ZGUm1IRXk5ckdVNm1fNnpJSjRaY1d3?oc=5
+- 福岡飲酒事故で３歳児死亡、両親は声震わせ「もっと一緒にいたかった」…好物のソフトクリーム食べていた時に巻き込まれる「びっくりしたね」（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE82bmppNm9oR0Y1cEt4TmlQV3ZKRDVJMl91RmtDSThuMHV4U2oyRE5nalhoZVZITkFUazRMTDMyWGREZm15TTFqTlY0R0RnMER4dDlPX2VaZUtjVjdPZkM0Tng4T3NOQi1tOEYtd05ZSjFEYmllWVkxdWQ2VkxHM2c?oc=5
 
-- 「ソフトクリームください」が最後の言葉に 飲酒事故で3歳死亡（毎日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE15NTI5RlJQdjJIclM2MmxyTVFkNzJtT2F2LUJ2T0hKdmh0SVlSb3lBWFlfYWY3MEVKZTc3bW1WempKOE9GZmZKSlVCS045WWtEWGZUVmxTdl9EbUlpQTZZVlFEY20wSE1VTHg5c3dFUm1tUVpDZTlsaTR1cmNxSE0?oc=5
+- 高市首相とトランプ氏が35分間会談 米中会談を2日後に控え、経済安保で対中連携を強化 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1SNjFJbVdCTE5ZcjlwMldfeWI4VU8xaWhpdTRYU0R5bWpMSDEyZy11ZGhpdlBJWVRRZWc3YUNfcDVrcVNzUW1wcHVFVmJQX0JEVjdRMFo4OEdoU28tYnpyUjlOTTB6M2hKanVoN2RZT1g5MVJwakE?oc=5
 
-- 【空撮画像】千葉・鴨川市 複数の場所で土砂崩れ 多くの家屋に被害か - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE00SFctZ0lsZjJrUEtzZXlBVWxha3lLWmlVT2tGeG9MVkNfQ2ZBcVVrOC11OTROMXpUbDFudVlyMklZNVdiTGs4WWRodVEtamExMkxkN0Nxa0ZqM0FOZHJucEgwdDZHLVRDQ1VGOEJwM1pfUQ?oc=5
+- 道路寸断、住宅街浸水…今年3度目の大雨被害、千葉に深い爪痕 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaWGg5Vnk2dzZqYUhRamY1eW1mNHRLNmliU25yOXRYTjl1TWJ5ODd1V1BaTC1PRWdNMmluV09xQzBtVUZkNVdaY2s2V3FnYWZ1MjFIcnZxYTZ4OFEzbmZJX2FGU1dwVmRJ?oc=5
 
-- 国連安保理は機能不全、だが「いかなる大国も単独で課題解決はできない」…グテレス氏最後の演説で協調訴え - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zYnA1OEFYT0E4bThQanA3Y25pNXJhakZsWGN3bE1hSzlHVmdRVk1zcTEwZkdWNXFjdEJJMUpaU0VWSE1mSHBCd09ZZENzLTdsOTd3Z3N3VGhZVW90LTh4MlVR?oc=5
+- 台風25号で関東の6割が連休の予定を変更 「2日前まで」の早期判断が多数に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE80OFZZa00ycUlxSXFOTy1SLWs4eHJ4RUdCYnd6dTVZSXBhX1dMRy1sMm1BRE90V2J2YnF5MmszWDhXeHdiV3hmUjFXZUV5OXNNTUFXRw?oc=5
 
-- 琵琶湖で男性の遺体が見つかる 水上バイクで知人を捜しに行き 行方不明になった男性か - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVFXMEVzRkcxNDBjZ0huTjcxOGVhaWtsRkRjSUZkSDhTdERZeVoxUTNGYVBzQm96N1oybUQwNTBLREVqRFV5MWRuVmFIS2ZEUk5VUnZTTUp2bEFWM0Z5bE1pSzVhM2U4U0lkeVR0R0VvSk9oOEU1RWdUOGpRWF9WdmRsTEdmc1E?oc=5
+- ゼレンスキー氏、軍事支援要請か 高市首相、就任後初の対面会談：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbGRPOVg4bF9LTXJ2bUl2S1daUXdVLUdaOW52UGM0dzFRSTVKRGlWUi1NaDBPeUpnWkhiUHBwUU4tQi03T1FYWVRjMjYyMmlEaTF2SXFmV0g3Z2FLd3prQUpyUQ?oc=5
 
-- 台風発生予想 暴風域を伴い沖縄の南へ 次に発生すると「台風26号」 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uOXowb1I1U3BCR01qdG5yNFFDRWRvUFBaNXBMT0lhOS1zWHFuVEU0eUIzZXR3YlVRNHN4eGJpdjhFa0FVeV9yelBEaXdhQ3RiWG03Qg?oc=5
+- 【速報】「ダチョウが徘徊している」滋賀・守山市で複数の目撃情報も約2時間後に捕獲 逃げていたのは「エミュー」だった 移動動物園の経営者宅から脱走 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBMV210Y2FiRTlONTN0aEJTa2w2YTBVdHlhMUF2ZHB3Wnlzc3pNUGpwT2VCcGRQemZXWWxaai1iMmFlU2sxbzdYS1R6T2k5R3JybHYtX2ZjdElqMDJFblRBN1Nsd1doX2NtOVpkMlo3c1cxTnV5ZS1mc3M0MFZLMFU?oc=5
 
-- 台風で停電、ろうそくの火で民家全焼 住人2人搬送 千葉・市原 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE92VjlhQkkyWVN5Tm9mUm8xSTVIYkVIckh2UlRIX2lmcUMtRjBSRFdGOTJzRFM1OFYxWDNlYWhtTWk4aEp1dTNycTl0ckhCT2N2SklnZVRXOTVqS2NVa3E3V1JrZkRRZVRI?oc=5
+- 関東や東海で雨　降り方が強まる所も　北陸や東北も次第に雨　今日23日(水)の天気(気象予報士 日直主任 2026年09月23日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5GQ29XcXBBQjNER0tUb2cwbmtoY3pULXQ3Uy00V0hldFpMT0pFb0tnaEdYS0tvV3VVM19IenppbDgtVU9STzJrWUswdXowQzhWUDA0ZWJUemZMeVV2U0RSRGI1LS0zQ00zd2fSAW9BVV95cUxNRVRQOTlaYkc4eU1oWUhFaDFFbzR1aEFjMlR0ME1xV2NocG5EY3ZFdEpFMVdPNVJwa1VLQlRIWGRWVjNTTlhua1djMkRfMFBVMWpBcjREX3ZpVmFCQjBYZGc0ZklmUFAtV2RXVDdYdWc?oc=5
 
-- 【速報】台風25号は温帯低気圧に変わりました(気象予報士 日直主任 2026年09月22日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE95Zy10Yjg2TzlSakJvNFgwVndXNUMteXR5b1QxU0xaMDR0TjNsbG9nTGpoRng0UkxsNEtDbVBKU2RRQjVLUE41SzhXWk1VNGNaUHZnbjcyT1pqVi1NVWJaNHAzUFNuNHJHR3fSAW9BVV95cUxNVWc2MUhXOFBCZFl3akhsQVdWYThxc29ra1lPajhockNZYlBRTFBORExwaGxGaEhxakZ6MFNJLUdmZS1WcWtPUmw0SGVsd2EtdXJBa2h2SlEta3dhNFV5a2w1VXRkemJoTGtUbWVsTXM?oc=5
+- 二十四節気「秋分」 秋分の時期に咲く”彼岸花” 天界の花？地獄の花？ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUVdkRlRWR1ZUVS1zRTBXN3ctUlNtdllfU1VEYWxRYnpxcGVHN09iM2NmUnlwaXZweC1jaDFzMmdJSnEwNlE4cEtkdi01SkVPcHFVLQ?oc=5
 
-- 「怒られると思った」…同居父親が不審に思い問い詰める 自転車ひき逃げ事件、漁師逮捕 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1FclBIXzFKUVVqRUdPOWdLd2UyczZXOWF2Qy1WY2E1ZVZSaXRvNjAzdFB1bEpzdks1THRkb3pfeUJsY1lDQVdaUlktTWlNUmpkbzc3ZnBuZE5XdFk4X3ozSUNCWkF6UGx4QUdwUUJRUEhxeVczUnc?oc=5
+- 「同化と異化のはざま」の葛藤 「沖縄の心」が行き着く先は - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE90MVFEWVFweFMzdGNWRnFiTVlvV0RSQjZwWmNoMXRvY1RUREZhZjZBaGl5VG43OEtXNzQwZ1hsTzNzcERaeTdrNjlBU0VPMENMUVFvVHZGMEpRVTg3NThKbEJSYWFRSk8z?oc=5
