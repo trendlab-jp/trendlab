@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ大統領、国連演説で「ならず者機関」とＩＣＣを強く批判…ＡＩの安全性に対する懸念は「デマだ」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE55SWdaRExvdnBWLWhlOWZwS2dWelJCeG14TlVfN1RRM3paNmxJY0d3dVh1Sk9tVTJPak1WYjdZdnc1US0yRWMyX0tIZjU0aEFqZ0p5LXhhNm9ZbEE1VjJqQkh3?oc=5
+- 高市首相、国連で削除訴えた「旧敵国条項」 中国も賛成したのに…昨年から対日牽制に利用 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZekVjLS1OOUJNZFlkV29ac3d2WllGWFZWNXlDNlJ6eXJKaDhrb0VBYlNUTmdBcW5NZ2F0UTBkeEpjNVlmOEZNTDJnM2F6NE9zdjBKZkVFbWl3ZTJTUG1UeHdSMjNvWjE4a19aQ0ZhQlBlT3Q4WWc?oc=5
 
-- 福岡飲酒事故で３歳児死亡、両親は声震わせ「もっと一緒にいたかった」…好物のソフトクリーム食べていた時に巻き込まれる「びっくりしたね」（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE82bmppNm9oR0Y1cEt4TmlQV3ZKRDVJMl91RmtDSThuMHV4U2oyRE5nalhoZVZITkFUazRMTDMyWGREZm15TTFqTlY0R0RnMER4dDlPX2VaZUtjVjdPZkM0Tng4T3NOQi1tOEYtd05ZSjFEYmllWVkxdWQ2VkxHM2c?oc=5
+- 【更新中】山形・酒田市飛島の海岸で身元不明遺体 不明の6歳男児か 発見された際に紺と赤色のスパイダーマン用のつなぎを着用 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE94ZEtPUXRCVzU2OEZqSGdYN1RsdFA1SEJxRjBpakRKcjJzSE5oRWRjWkJhOC05S2IzSzE5VVNsa2JKNjFvRmxFUVFrMTFndXJrak9saVhxS3JqRFZ3V1RNcWlSUGlWYWI5MllWMF9GZ3EyUQ?oc=5
 
-- 高市首相とトランプ氏が35分間会談 米中会談を2日後に控え、経済安保で対中連携を強化 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1SNjFJbVdCTE5ZcjlwMldfeWI4VU8xaWhpdTRYU0R5bWpMSDEyZy11ZGhpdlBJWVRRZWc3YUNfcDVrcVNzUW1wcHVFVmJQX0JEVjdRMFo4OEdoU28tYnpyUjlOTTB6M2hKanVoN2RZT1g5MVJwakE?oc=5
+- 千葉・印旛沼で堤防決壊 復旧見通したたず、利根川へ排水続く 管理開始以来最高水位5.04メートル観測、90人近くが避難 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1WFdDYmw5VHpaM2czcUF1QkVMUGk0bjNFYzVqSkxYZjdCX3N4eFNJV0pickV3eEQ0ZHNVT0RlSF90WGstQXQ1VnlnYlREUQ?oc=5
 
-- 道路寸断、住宅街浸水…今年3度目の大雨被害、千葉に深い爪痕 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaWGg5Vnk2dzZqYUhRamY1eW1mNHRLNmliU25yOXRYTjl1TWJ5ODd1V1BaTC1PRWdNMmluV09xQzBtVUZkNVdaY2s2V3FnYWZ1MjFIcnZxYTZ4OFEzbmZJX2FGU1dwVmRJ?oc=5
+- 台風２５号で千葉のラーメン店また被災…１か月余りで３度目「再開しては被災繰り返し、心身ともに疲れた」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE90dUctYnpDMW91WE9WM21xWjdsTGM5T2JnV0xDckVmTDVNOHUzMXJ2WkM0SlBrQVNURnNKb2xld2I2bVZxSUViUGNZZkF0OVVaRzVSOE1uR0ltVndkcmJMN2FOT3JFUQ?oc=5
 
-- 台風25号で関東の6割が連休の予定を変更 「2日前まで」の早期判断が多数に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE80OFZZa00ycUlxSXFOTy1SLWs4eHJ4RUdCYnd6dTVZSXBhX1dMRy1sMm1BRE90V2J2YnF5MmszWDhXeHdiV3hmUjFXZUV5OXNNTUFXRw?oc=5
+- 台風発生予想 発達しながら西進 週末以降は強い勢力で沖縄方面に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE83SmJ0RmRIdURFeGVwT1RFZHNSdU1wRVgwLUZsSkJJWHFnREU2OExvLV8wb3FIR0dEQWpNUzUtYzM2MGptWmU2TTZ6QlptMVU1dGlRdA?oc=5
 
-- ゼレンスキー氏、軍事支援要請か 高市首相、就任後初の対面会談：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbGRPOVg4bF9LTXJ2bUl2S1daUXdVLUdaOW52UGM0dzFRSTVKRGlWUi1NaDBPeUpnWkhiUHBwUU4tQi03T1FYWVRjMjYyMmlEaTF2SXFmV0g3Z2FLd3prQUpyUQ?oc=5
+- アメリカ、グリーンランドの2カ所に軍事基地建設　デンマークと新防衛協定 - BBC
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMFk2anBQVWZsamlMR1V3bldUUmtGTk1PSjBIbDNSNzFJakZzcnhPbGZaY1BUM0pFbnR6RmdQNWFkeUE1R3l0S2cxYWhxTUpyLVYydEFTeTNIQ0hoQ3VFN9IBZkFVX3lxTFBCd2YzT1FaaFd6dTZrOTB3Vkg2VHFJR3A1OFBUTDItclBMVFdUVmZEeTlGTjI2U0w3Rnk1Wk9YU0FWQjE5bWlpcHpGUks1M1pCeEdOaVdJMGZFb0FIRy11dHFHc3Vjdw?oc=5
 
-- 【速報】「ダチョウが徘徊している」滋賀・守山市で複数の目撃情報も約2時間後に捕獲 逃げていたのは「エミュー」だった 移動動物園の経営者宅から脱走 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBMV210Y2FiRTlONTN0aEJTa2w2YTBVdHlhMUF2ZHB3Wnlzc3pNUGpwT2VCcGRQemZXWWxaai1iMmFlU2sxbzdYS1R6T2k5R3JybHYtX2ZjdElqMDJFblRBN1Nsd1doX2NtOVpkMlo3c1cxTnV5ZS1mc3M0MFZLMFU?oc=5
+- 26日頃から再び秋の長雨　関東～九州は明日24日が洗濯チャンス(気象予報士 堂本　幸代 2026年09月23日) - tenki.jp
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE1iS2lEWkZmYmk4bXJFdzN0djhLcHhRRnRNOFdsTklDeS05V0FScVNqLXc4NjNPUUZtVldJSVVocmdrdmp5Rjh1UDNMWkYzOW1aS09xcWdWM093RGxQa0doNUhDOXJvRnhkNVNYTEVxRTnSAXZBVV95cUxQTlZUbVAzUzAyaXVsUm80VDhKcGtNTkpuX1BGb19BYkMwenktZjJfNlN2UmlwQVNwQTAyZ2R2SVJmeXc4dlZuY2F4MVlfNnBuOFpGR3BFRGtiNVd3aGt2d0RDQURZcHB5WDRfSVpxV2JpNmp3cElB?oc=5
 
-- 関東や東海で雨　降り方が強まる所も　北陸や東北も次第に雨　今日23日(水)の天気(気象予報士 日直主任 2026年09月23日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5GQ29XcXBBQjNER0tUb2cwbmtoY3pULXQ3Uy00V0hldFpMT0pFb0tnaEdYS0tvV3VVM19IenppbDgtVU9STzJrWUswdXowQzhWUDA0ZWJUemZMeVV2U0RSRGI1LS0zQ00zd2fSAW9BVV95cUxNRVRQOTlaYkc4eU1oWUhFaDFFbzR1aEFjMlR0ME1xV2NocG5EY3ZFdEpFMVdPNVJwa1VLQlRIWGRWVjNTTlhua1djMkRfMFBVMWpBcjREX3ZpVmFCQjBYZGc0ZklmUFAtV2RXVDdYdWc?oc=5
+- 【速報】クマが海を泳ぎ無人島に上陸 漁船に居座った個体か 宮城・塩釜市（khb東日本放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5wRnFYZHZXSjgzTHpzTlh4ZWRvTHZJc1BfTk9qTkVHb0VlNUlxQTNvZXgzOVpac1N1SnFJcnFFZk1WRnFSdkZXa1NqOHU2Rkw4clJTZEJsR0FLMW9VUEpNN1ZGUWdUZ3NiNEFSRkdSYWtJS2tpNmFZZkhyTHd0V3M?oc=5
 
-- 二十四節気「秋分」 秋分の時期に咲く”彼岸花” 天界の花？地獄の花？ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUVdkRlRWR1ZUVS1zRTBXN3ctUlNtdllfU1VEYWxRYnpxcGVHN09iM2NmUnlwaXZweC1jaDFzMmdJSnEwNlE4cEtkdi01SkVPcHFVLQ?oc=5
+- 福岡飲酒事故で３歳児死亡、両親は声震わせ「もっと一緒にいたかった」…好物のソフトクリーム食べていた時に巻き込まれる「びっくりしたね」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2T25IeWV0QS1MekZVN24tSUxULUhwQTRUeEw3bzBNelJkSHhGamRlWFZCbUdzb0JtQ1dFNXVNdjIwdEkxcnFUdktNZkRQTHlUWXd3d0lidFVZODZXS0xVUk0xTGpVZw?oc=5
 
-- 「同化と異化のはざま」の葛藤 「沖縄の心」が行き着く先は - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE90MVFEWVFweFMzdGNWRnFiTVlvV0RSQjZwWmNoMXRvY1RUREZhZjZBaGl5VG43OEtXNzQwZ1hsTzNzcERaeTdrNjlBU0VPMENMUVFvVHZGMEpRVTg3NThKbEJSYWFRSk8z?oc=5
+- 「逃走ダチョウ」はエミュー、住宅敷地で捕獲 私設動物園の施設から脱走か - kyoto-np.co.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5TFJySFlKaFhiQXFzZ21QQm42ajExaFJBLUduaWRSZG5ia3ZNRmthMU9vMzZOZFl3OFZYX1JKaXBZcGM3NzFaTDV2QUQ5Z3pYV1lzN1dmNXo?oc=5
