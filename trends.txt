@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米国到着の習近平氏、出迎えのトランプ氏と握手…習氏は書面で「ライバルではなくパートナーとなるべきだ」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zeWhlMVdxMDJKbEdNa20zNmt3S1VIbVJFLV9YbjA2WHA0aGZmZFRHZGlQQ1g0ZEFXZXlOWDhmQVBJRDg0cTVwbWpoMDVuT2NORmEyTWZvV0wtQzdCQW15ZmJ3?oc=5
+- トランプ氏、習近平氏を自ら出迎える異例の対応…「対等」にこだわる中国が厚遇要求…水面下で日程巡り攻防 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE00cDhnajhpZnRtRkgtbGt1ZG00YXRLYjBYVmVwZlA0d2MxdC1abjF6UXBIOG9NeFo5eUpSSGl5NjdDOTFqYmg5TlhGSDI1V1ZSREY4QkdoeDdHUFA3X1BfSnh3?oc=5
 
-- 台風25号 千葉 印旛沼付近 水につかった太陽光発電施設で出火 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtWlhMSjFwTlpLSmE1NjEwYks3MjI5QVdqM0lEZFpCMGh5MG9JX05ZWXhLWUFYUlB3cnJyOHA1TkJUMlBSZkxaNGRaYWRXTVNCaTlaZTJNSFp6RGY0cWZF?oc=5
+- 第二神明で乗用車8台とトレーラー2台絡む多重事故 男性が救急搬送 影響で須磨IC－月見山IC間で通行止め - 神戸新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBEQ0RrVGs3dDZOTWVsZ19yd01qVmxMX3lBU0RIeFFhUzRRSy1KZXA0Q1hVZmJxZ1Q4eFQ4UmpLd1VJb2d0ZTRaUVYwckcyd1NtN3d0bkpkTXNlRURKLUlPdFFaVnV6YVRVTEJ5WQ?oc=5
+
+- 台風25号 千葉県内残る爪痕 印旛沼で堤防決壊 各地で土砂崩れ - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1paVJzTDVTNmM4MGZJS3JGMnBRV2hCWHg1S3Q0eWxFRno5S3hrYW1pOUdMblhFRW1hcjM0ZV96aWpKcU9RUzMwakJxa2VQbWJ1d1ZQekVKUzN0OXVfR3VN?oc=5
 
 - ゼレンスキー氏、プーチン氏は「患者第1号」 国連演説の主な発言 - CNN.co.jp
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xeGNTQlhXY3BCOVA0aEJfZ2hGNklUSTlwSjlyNXVfRTBpdFUyWTdndU5CMHVnM2EwemRlaU83NkZvMWFtT2NuQXVTLVBDUjJ0T0Jr?oc=5
 
-- 高市首相、国連演説でＩＣＣ「一貫した支持」表明…国連憲章の旧敵国条項「早急に削除されるべきだ」とも - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXMjNWXzk2Z1k1TkI4WFkzd3JDNUpVQlBzNWd2UXZwZEJtRkx1eFJZZ1U4RkJUTkV5SWlxVG55QlJQbmNGN0hhbFh3Nzg2LVY5SXpNLXpsdXlXNnpURmRGQ09abVNCZw?oc=5
+- 台風26号(スリゲ) 沖縄に強い勢力で接近 来週は本州に影響か - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yVUVFWFVlTFFSbGpReHNfRWY5NF9KTWJKaDVraHlDQllQU1laR3dqLUY0OFdhZjlqaUZyNVlFaE8wdW4ycGdwNHhhZ2pncnY2NnYwcg?oc=5
 
-- 台風26号(スリゲ) 週末は沖縄の南に達する その後は北上の予想 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqWFB1SDVkNlJKaDVmVVZrY1dfUGtkSlQwNmFiNkNzdHR6MmJiT1N4aTVXV3lXNjlNS1Z2RXRYOTcxbmJROGpkWWZCYmRMZEVQMFRndg?oc=5
+- 【速報】ホワイトハウスの記者排除に差し止め命令 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3eWhsUlhjVnNnbjRYUk85bENTUEZ0b2tzdUNyZExucXRPTHd4eFpjSGR2N1FHVjZpaUVGM2tXdVBwRmFMa1llUXg1aw?oc=5
 
-- 高市首相と初会談のゼレンスキー氏、改めてウクライナ訪問を要請…「日本には防空分野における先進技術がある」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TFBGZVdYYnI4b0FKcnFUdkpWbHNhOWtFMTB1RkllU0Zfd1BabXN1RlpIbkNEaGlLRlQtdkJzOTdEbXpGYnR0SGhnMm84NUN2VkFFdGQ5X2Znc3ROb09CTmVkamlYQQ?oc=5
+- 台風２５号 市原市内４小中学校が臨時休校 土砂崩れや停電、断水で - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zcUNrUGZOZ0NVVDJOTXU5ZExURDFJdFBreDdtVU9FWjh3MmRxMjBBQlJNOGFHNnN4eVZ0b3dELUlmNk0zeEZILTdqV1RMM2VhUC13YWgwcGc?oc=5
 
-- ＜主張＞日米首脳会談 強固な同盟を示し続けよ - sankei.com
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFByMWtSWm1adWY3WU9BenNnQnIyVFRHV2ZXS3RtRXUybXE2LUtadjd2NjRuSE9NU2Jpbk9SamI2V0tNRGxrUkRtb21ueE45WUU3SWd6SjJMaUV2R05WU1J1dy1tSmpNUVVSdlFUTkk2UloxYTRBX1E?oc=5
+- 5日から行方不明の6歳男児か 島の海岸で身元不明の遺体 スパイダーマンの衣服着用し岩場でうつ伏せに 山形・酒田市 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iclVhZ0d6TzA5SGx3N0xubWxjejNCd25YeDAwMjhIUW9iMXF0cGZBSXdCeEphcGRiZVUyMTNZc05LUG05WXBIRjJHM2FsZw?oc=5
 
 - 気圧変化による頭痛やめまいに注意　25日は東京で影響大　関東など寒暖差にも注意(気象予報士 吉田　友海 2026年09月24日) - tenki.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFB2MTllYXFsazVreFhXTnAtOGF2Y2huZWtBSWV2WFQ3MHdlMmlWenBBZFpGZFRveklvUDhaWVh0UktoaGlSMTIwbjVMcVQwdjlFLVIweTJ2cmdUeC13VUZrNDE4RlZ3WXVEREQ00gFwQVVfeXFMTktqeVlqeG05T1IzNkNyQnVRU1dBQW9rc0l4enBjTzRsWGY0UnRSX05pU0tpcTlvR0IycUdnRWpoS2pPbDFucmRyTUEzNnQzUXFLQno4WXEyRWJCVzB2eW1vM20tbl9LTnU5ZTlFT0xaaQ?oc=5
 
-- 【更新中】山形・酒田市飛島の海岸で身元不明遺体 不明の6歳男児か 発見された際に紺と赤色のスパイダーマン用のつなぎを着用 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE94ZEtPUXRCVzU2OEZqSGdYN1RsdFA1SEJxRjBpakRKcjJzSE5oRWRjWkJhOC05S2IzSzE5VVNsa2JKNjFvRmxFUVFrMTFndXJrak9saVhxS3JqRFZ3V1RNcWlSUGlWYWI5MllWMF9GZ3EyUQ?oc=5
-
-- 週間天気予報 週末以降は秋雨前線の影響で雨 台風26号の進路にも注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZFhFbXNyYTF2RVF1Qm8tYngyZkxTcnVRaTlBZXlXSk9CQ2N2SGxkRC1Fc3FrSGhkMEpoV3BvMEpYSFhFWVdMOTUwLVpRX1Z3OTVxbA?oc=5
+- 秋雨前線の活動が活発に 週末は西日本、東日本で強雨のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5laEtkWnhWQ3BhWndJY253MFU5Qi1PLUtUWnU1RDl6TElxbE1NczItVzBQVVJ1MFpLZUZETy1NODM3Q3lXVy1IaDFmMFFFMTVnc1BiZA?oc=5
