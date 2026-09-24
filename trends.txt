@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ氏、習近平氏を自ら出迎える異例の対応…「対等」にこだわる中国が厚遇要求…水面下で日程巡り攻防 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE00cDhnajhpZnRtRkgtbGt1ZG00YXRLYjBYVmVwZlA0d2MxdC1abjF6UXBIOG9NeFo5eUpSSGl5NjdDOTFqYmg5TlhGSDI1V1ZSREY4QkdoeDdHUFA3X1BfSnh3?oc=5
+- 米中首脳会談…トランプ氏「両国が直面する課題解決に向け大きな前進」、習氏は２頭のパンダ寄贈を表明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PT0NOYzdxZHNQZ095Mm14UmhjSU1TZ0EwT0dYT3RLUnE5NTFQQzA2aXU4dlFVb2lvOUN1S2J1NDZBRGdEQXh6VWZiZDV3aE0wcE9CQkdzdF9QbzV6REVvMVl3?oc=5
 
-- 第二神明で乗用車8台とトレーラー2台絡む多重事故 男性が救急搬送 影響で須磨IC－月見山IC間で通行止め - 神戸新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBEQ0RrVGs3dDZOTWVsZ19yd01qVmxMX3lBU0RIeFFhUzRRSy1KZXA0Q1hVZmJxZ1Q4eFQ4UmpLd1VJb2d0ZTRaUVYwckcyd1NtN3d0bkpkTXNlRURKLUlPdFFaVnV6YVRVTEJ5WQ?oc=5
-
-- 台風25号 千葉県内残る爪痕 印旛沼で堤防決壊 各地で土砂崩れ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1paVJzTDVTNmM4MGZJS3JGMnBRV2hCWHg1S3Q0eWxFRno5S3hrYW1pOUdMblhFRW1hcjM0ZV96aWpKcU9RUzMwakJxa2VQbWJ1d1ZQekVKUzN0OXVfR3VN?oc=5
-
-- ゼレンスキー氏、プーチン氏は「患者第1号」 国連演説の主な発言 - CNN.co.jp
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xeGNTQlhXY3BCOVA0aEJfZ2hGNklUSTlwSjlyNXVfRTBpdFUyWTdndU5CMHVnM2EwemRlaU83NkZvMWFtT2NuQXVTLVBDUjJ0T0Jr?oc=5
-
-- 台風26号(スリゲ) 沖縄に強い勢力で接近 来週は本州に影響か - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yVUVFWFVlTFFSbGpReHNfRWY5NF9KTWJKaDVraHlDQllQU1laR3dqLUY0OFdhZjlqaUZyNVlFaE8wdW4ycGdwNHhhZ2pncnY2NnYwcg?oc=5
+- ニシキゴイや金魚10万匹全滅か 養魚場が浸水 印旛沼堤防決壊 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTGFTMnNOZU0zbWd0bTlCT1FNRy1ZaTlPc3lJYi15SGYxUWs2VkZaSXM4U0pWTGZXME5fb1VReFpGMml1SmZiT3NWdkQzekxwMm5zLW9MZVI3Sm00OU5MbHJUVGNKZWJs?oc=5
 
 - 【速報】ホワイトハウスの記者排除に差し止め命令 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3eWhsUlhjVnNnbjRYUk85bENTUEZ0b2tzdUNyZExucXRPTHd4eFpjSGR2N1FHVjZpaUVGM2tXdVBwRmFMa1llUXg1aw?oc=5
 
+- 台風26号(スリゲ) 沖縄に強い勢力で接近 来週は本州に影響か - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yVUVFWFVlTFFSbGpReHNfRWY5NF9KTWJKaDVraHlDQllQU1laR3dqLUY0OFdhZjlqaUZyNVlFaE8wdW4ycGdwNHhhZ2pncnY2NnYwcg?oc=5
+
+- 神戸・須磨の第二神明道路上り線で10台絡む多重事故 10人重軽傷 [兵庫県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlaFV4c1RwZmFhUXhiVU1wZnFBOGNBRGRWMm85Q0RqeV9xUl93LUVvZWVhRGhFdlBFa1gwVXZIQnBZRGMtMF9OU1dmcHJOdjU1dHlBTmhKSzhWRl9feDFsZUVBT3JtYk0?oc=5
+
+- 新党「民主改革の会」参加議員は18人 人事も固まる 【全議員掲載】 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBreklDdklCZ3poV3JZamtyZnJ2S0h6SDcxQWg4OF8wNTFyeWpidUdCT2hhbmozZHNUVFVGNlc3YV9XbENiZElEdE8xakR3Zw?oc=5
+
 - 台風２５号 市原市内４小中学校が臨時休校 土砂崩れや停電、断水で - 千葉日報オンライン
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zcUNrUGZOZ0NVVDJOTXU5ZExURDFJdFBreDdtVU9FWjh3MmRxMjBBQlJNOGFHNnN4eVZ0b3dELUlmNk0zeEZILTdqV1RMM2VhUC13YWgwcGc?oc=5
 
-- 5日から行方不明の6歳男児か 島の海岸で身元不明の遺体 スパイダーマンの衣服着用し岩場でうつ伏せに 山形・酒田市 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iclVhZ0d6TzA5SGx3N0xubWxjejNCd25YeDAwMjhIUW9iMXF0cGZBSXdCeEphcGRiZVUyMTNZc05LUG05WXBIRjJHM2FsZw?oc=5
+- 「守ろうともしない首相」「空っぽな言葉」高市首相を痛烈批判の2世ミュージシャン 海外アーティストにも苦言（女性自身） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TaXd3c1paYUdLZjB6RmEySk5sV1RIYjRHb0g1SXdoa2hfa2ZvOXVMNU03cEZwTVpOSzNnYnUtaGNoNDc0NHg1TWZtZ01fWUtKLWU1eFU0MmpjYjFZZGxHUFZ4bERVOUVaSHdvS3RPZFNjZ0pkMWh1V1Z4N1dOcTg?oc=5
 
-- 気圧変化による頭痛やめまいに注意　25日は東京で影響大　関東など寒暖差にも注意(気象予報士 吉田　友海 2026年09月24日) - tenki.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTFB2MTllYXFsazVreFhXTnAtOGF2Y2huZWtBSWV2WFQ3MHdlMmlWenBBZFpGZFRveklvUDhaWVh0UktoaGlSMTIwbjVMcVQwdjlFLVIweTJ2cmdUeC13VUZrNDE4RlZ3WXVEREQ00gFwQVVfeXFMTktqeVlqeG05T1IzNkNyQnVRU1dBQW9rc0l4enBjTzRsWGY0UnRSX05pU0tpcTlvR0IycUdnRWpoS2pPbDFucmRyTUEzNnQzUXFLQno4WXEyRWJCVzB2eW1vM20tbl9LTnU5ZTlFT0xaaQ?oc=5
+- 維新・国民で国会改革をリード 臨時国会で改革骨子案とりまとめへ - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE8weXhpTHJYMlZISFcxY0VwV0FYU0VBc1hrYXBuSGE3cWRTT3ZVVnFyTzE2SVY2cXBSZWRzdHc4dmVxczdicWg0OVFFX0VEeEFhTFphaENzNkdMeHZzR0VFSURSam5ua3BvdGNxbERrM05qNUk?oc=5
 
-- 秋雨前線の活動が活発に 週末は西日本、東日本で強雨のおそれ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5laEtkWnhWQ3BhWndJY253MFU5Qi1PLUtUWnU1RDl6TElxbE1NczItVzBQVVJ1MFpLZUZETy1NODM3Q3lXVy1IaDFmMFFFMTVnc1BiZA?oc=5
+- 成田の太陽光発電施設火災 感電恐れで消火活動できず 専門家「審査の厳格化必要」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE90T0hEV0hxay1SWGs2TldxU1BlQy1JaHdsVElyR3VsY1ZvSlJiU3R5czRlRUtMR2JyajVnLWthZ0QtTlFBcE1PbHZNajFISFZXMVZXOUxoUWNsRXY5d0ktZnVMVVVlR08yS2JBcjZLRktQSmVLY1E?oc=5
