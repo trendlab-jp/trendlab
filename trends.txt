@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米テレビ主要５社「米中首脳会談」中継せず、ＣＮＮなど「排除」に反発…トランプ政権は没収の記者証返還 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2UGsyRXFqdF9jVGhHQVZJQ0p4cDc5cE1sNHFKQmpBcGV3ZkRNSjZ2WFpkS1pDNDlNRkpxN19pYkFRZmdNYXo4Z0hGc21yNWQ3bm9DY1c0TFcwYXpxMkN3c3Rn?oc=5
+- 米中首脳会談、日本政府は情報収集・分析急ぐ…トランプ氏「同盟国」発言など利用した中国の「宣伝戦」警戒 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMnItci1nQVA4QnlET21sdWZPNkFNT1VnNlE4cVNaSktIUHBMS2VYYVpVcWRxVHhPcXBHWmdQanNJbUd6ckJ3QmVTZE9NQXNPZGJJLXZDYmsxOVFqTFZCakxQRkE0UQ?oc=5
 
-- 【台風情報】台風26号 急カーブで本州南岸を進むか 台風の進路を左右する「太平洋高気圧」【雨風と太平洋高気圧シミュレーション10月6日（火）まで／全国の週間予報】次の「反時計回りの渦」出現 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHQ194Y1RXb3Z2QjBFSTh3dVZZTm5fVDhFLTUySmRUU0ptd0ltUG1ZQ29DSmZQbWYyTTc4bjhtUmlVM1c4a293WkhtTDFMMVhNdW9lT3owRGpUNXJOdWZTQ2NZdDI0Rlk?oc=5
+- 台風26号(スリゲ) 沖縄は影響が長引くおそれ 来週は日本の南へ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tWWRjVlNER0RkQkIteVBNRnF2WUI2MmFNNHMxbDNMLW0xSzFfYXlvUW1ILXVjeVBqcVVySHNtdk9MYzc0X210cHBFajFrY0FXbF94WQ?oc=5
 
-- 秋雨前線の活動が活発に 雨のエリア広がり強く降る所も - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kUFVVTWNxTlR3bkFUQVZmZTR4WFZHNURVaE1ESHktRUpDZ3dPcDZTVEpjUGlTNURLNm01R3g0cVY2bmNXd1VxYlktMFVRLWdTWmpGUA?oc=5
+- “イラン外相 米側に戦闘終結に向けた提案”欧米メディア報道 - news.web.nhk
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFN0R5SVZxcUtZMVM2MklzRVFCVVRyQ2hKRmdaMmRCMmJiQXRFajFBRlh6dzBwSXRJTTM1OVE1NE0wQnpsa2Vjc2F6a3FtTXh3REtta01HMmF1VjhfLUhz?oc=5
 
-- 無所属・泉健太氏が会派結成へ「現実路線勢力を」 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE1ob3I3UUJEZmdRdV9RYTJFUlBBQmd1VF8zbUhhdmFUVVZDeHZoaGhjV0VDS3FqRi1td0Q1NXBkLXFVUktYd21OTU5MM3EtZDg2VHNNUW4wNC12QkQteUliSkstMi1lUDZJdXRwYlRmX3lzQ1k?oc=5
-
-- 18歳未満の選挙運動、一律の禁止は「憲法違反」と判決 東京地裁 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GU0M0R2N0Tm1COFFfQm1jaUFVNlNsdDMtQk1WeEtUa3lFY2tHX2FKTFhHXzBUdDFzNVk5clNleERPV3RyakVVaUVOTDNGV0VLWlhieHFNd3l1MXA3cUdtcTBFX19wZjA?oc=5
+- 印旛沼決壊、養殖のウナギ「全滅だろう」・４代続く稲作農家「廃業も考えざるを得ない」…農漁業に大打撃 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fNl92Y0VCRnZCeUZ0MmxJcTNVOEl1eUVrMFVGbnJ1NllwcERsRnlTZHRibWV5RHRtY0szU3dRaGRyM1c5SXVUYXlMZHRxOHhINnc0TFZoRzV4bGpIdWxrVHI5VjRKQQ?oc=5
 
 - 民家で５２歳女性刺殺か、男逃走 息子も鉢合わせ負傷―群馬・太田 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hbDVTeUhMcXB0Y2ZuYTJsUG1KV2oxcXFFVF9LVDdqdzk2dFJRTlVwbFByX1RTVWV2cmZnS0J3eFpDQ1ZGa2lYbHZDdTNEemsxc3BsenhHYjNNZjBZVmxkcUhNbw?oc=5
 
-- 墜落の空自無人偵察機 海底で機体の一部とみられるもの発見 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzamxJVFZTeTJNMFhISFdiRk0zTXAySktBZUVhUmhja1h6akx2YU90TXQwWWk3MmhnaEFYb0RFRUlCODNXOEFVaWdYX1dNd1ZVb3Q0ZEZYOXU0d0lQN1hz?oc=5
+- 無所属・泉健太氏が会派結成へ「現実路線勢力を」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE1ob3I3UUJEZmdRdV9RYTJFUlBBQmd1VF8zbUhhdmFUVVZDeHZoaGhjV0VDS3FqRi1td0Q1NXBkLXFVUktYd21OTU5MM3EtZDg2VHNNUW4wNC12QkQteUliSkstMi1lUDZJdXRwYlRmX3lzQ1k?oc=5
 
-- 福岡県議・林氏の問責決議案、吉松氏が提出 匿名の攻撃的投稿「議会への信頼損なう」 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HN3YyNkNnNW1JZVlkb2UzZ0xzM0ZEVDVFNm5RZmNHOG9KVFRhdWVURnFBNjJSYkZscERManVLeUQyZXc0UnN6SXlMc1c5VHN2b216MU53?oc=5
+- 〈社説〉ICCと日米 首相演説に足りぬもの - tokyo-np.co.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwUFVHZWszZUFWN2FtdW9obnk0eENWTTBMclNCNlJLTlc2SXRidDJiMTlSa19UV29sb2tra0RlLW9PRk94QnNhTmZoNjlCZFdjd29B?oc=5
 
-- 行方不明１０年、娘の帰り待つ父「おかえりって言える日が来てほしい」…友人とのＬＩＮＥ最後に連絡とれず - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wYTlFWW5BZjhxeVpDUjV1YXZsaVZmakJYRUowZjhFVkhKbHdmNUp5eHdhU1Y5SGFBaHhyMExxMzdDdVFWb1JncnF4UTZUeF93VEttTHd1UnZBdTRUVE9tYi1XLTdMdw?oc=5
+- 福岡県の服部知事 県政めぐる責任とり給与3か月間ゼロを表明 - news.web.nhk
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mXzZsSmZkODkwbm9sbXM4MEduWDNyUV9GeEFZdnRBR0R1TFhuQm1TU3JObThwUGJDXzI0Z2wtQzZnTHJsbUZsalJBVHBVbTd1WG15dWNEUFV4Yi1BNVMw?oc=5
 
-- 愛子さま「医療・健康支援や被災地の復旧作業などに懸命に取り組まれている皆様に心から敬意」台風25号被害案じられる - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE14QzdiblhYVmNxUGJrN1NOdmtEQm5RVkM3NkVaV0g5Y25qU3VyVF9WOHgwNDUwbmdqTTU2R0ptWXp6TDNOU0dWaDI4cEEwZw?oc=5
+- 関越道で事故、作業員の男女2人が死亡 工事現場にイラン国籍男性運転の車が突っ込む - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5DcWdoNkJ4NjBCeUNrd3ZoTWFwdW5Xa0xuZHhIbk1XYUo1QXJjTE00LVZUVGppM09SMGVDSjZUY0Y1THlyczhlbDN1eDA2RUJlaDh0QlFGUlI5OHRDck1oaS02NWVDaDRfS3l4UkkzMjN4TFNQd0E?oc=5
+
+- 墜落無人機か、海中で発見 空自、引き揚げへ - NEWSjp
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVRzc4dGxNbXZyRUE5bXNFQlp4YmJQTXMtZXh6T0Nmb21uZ09KeGJpLVctaEQ1Sk1rZld1M0RpOXBEb0pDeWd0bXlKY29sZw?oc=5
