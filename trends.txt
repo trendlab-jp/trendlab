@@ -3,29 +3,29 @@ TRENDLAB 自動取得ニュース
 - 米中会談「８項目の合意」を中国政府発表、第２次大戦で「肩を並べて戦った」と振り返ったと明記 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MaGdvSGxiT0dCWHphV1hsTDZndlhMbWk0TVUxYlRpVUFSVFR6ZjhsdHJmRDFhNHZZbFdNZThqVkQ4ZEZ0MDhJcVdKX3YtdzFSa001blY4SEc0MUVIdGRvVjBR?oc=5
 
-- 【台風情報】台風26号の進路予想 沖縄に最接近へ 大雨・暴風・高波に警戒 30日以降に近畿・東海・関東で台風による雨のピークか（テレビ静岡NEWS） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE91VTU2anExWnU1YUJXSnVpTHU0TFVqS1BXb0pEV0hXaWNmTTJCS2szUHNWZWlVOFI2d29OT3BybEhQcE9KM2pUdWVIRUVMRllnMzh6c3JzcWtMeDBSYjl1cUFDUDVkYU5ndHhSRzhKdUVTZmlUc0lOZGdLTHFzaHM?oc=5
+- 台風26号(スリゲ)は強い勢力に発達 沖縄は強風や高波 来週にかけ動向注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE10aG5mLWdlbzVuUGdaN0kyMUZwdEpzMWZoTlN4ZXhNXzkxTmZ0dTQ4eFluWmR3eUlvWUlOekhSTm55aTc4MzFaYWtab2ZhdVBiUjh4aA?oc=5
+
+- ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案 - BBC
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE41M0hoaUlxR2R4M3g1SHVGUXBBeFhtb1BJTUhmaWo5UzRUeF91Uk9Ecms3bTc4M2owZjRDQTNyYm5yRlpRSDdQV0NSNFh6bUlkckV5Tk5Fa09qdGE2VEVINNIBZkFVX3lxTE51aXJvN3JBcFQ4VzUwTnU1YnE4OEZldUI5cUxsdUxrVmZDaVVWUnQtLXdvMDVMYnFGbnFWNUtJYzFWSzZIR3dxbFllcFdfQklMT3N5dkFZcWIyLUx5MHVxRXJwMFpxQQ?oc=5
+
+- 数百基の光通信衛星で大容量通信を実現へ、ＮＥＣが整備計画…日本独自の衛星網で経済安保強化 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDaUNWZEFYMXM2LXduUVpESXFwZy1NNTFYMkdqS1h1TjIxeFFlQmdDNGNkUnhjenA4dmVWR3g4YnJkZGhxZDhvMDRxOS1EV0RrM29TUno3OW9kNU5IQ1I2R2FwSW8?oc=5
 
 - 高市首相、トランプ氏と連携確認 「米中」受け電話会談 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQ1hsaWNaUk5RQU5tTnJGeWZuejlfcDc1eTN2bThYTlN4OXFpWGVNTy1PckZLWE9Dd3VnOEUxSU5SWTlkZkw5TzlWdzRCZG8xRk8zNFdVSGxwS1dXdWtRMXdPMA?oc=5
 
-- イラン外相提示のホルムズ海峡開放への「７日間の計画」、トランプ大統領は「断った」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGb01uWXI4YjljYy1HMk9vOGxCbTJaZE9SQWk0TXlySFJlRmpfNjVlQWhqbHhDOUZUMGlnUG5FRmcwRlNPS2JWRG5Ea0RMTWlValRlcEloc1RkRXNiSHNWUWNB?oc=5
-
 - 群馬女性殺害事件 長女の元夫を公開手配、長男への殺人未遂容疑で [群馬県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meWU0c0F3U0lKemgtVmN4RU9PaFJSbFhiOEFDUVczQmFCTDIxaDI1TFFRRjgtQ1RIU3J1Y1pxMFR6TGxtVTZaVUlrcDNIcEc1YkE1WTlLR3lzWjMzTHpORGVMVE5FQnM?oc=5
 
-- 娘2人を6階から投げ落としたか 殺人未遂容疑で父親逮捕 岐阜・各務原市 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE15Zzk0SkloUDNvdzdmUmtRTmw4R01QdEgzM20xNE80TFlOLTRIc254aERWb1lDaVpFdFl0QXlKWi13ZkJnVkZvYzFxM195TDhZbGpjdVF2clo3REpXMHBfR3VMcEw0UDVNamRERFZtOUtBZw?oc=5
+- 福岡、佐賀、長崎、熊本で線状降水帯が発生のおそれ 大雨に厳重警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE94T1FQY0V2Y0xERmszRkktNFlNTDRsbDhDb2Jud3dDZ0dlT3NGNi0wWmVhRHhKT1p3WEVQTWhrWHlFZUJKRWhFMXJvYUF0emRJYzJacw?oc=5
 
 - ネパール土石流１か月、５２００人超す不明者の死亡証明書は原則「１２年後」…残された家族の負担に - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Nd1p2X2tQQXZTWGVGcjFQNG5Qcm1xM0ZPellNOUQxeGtmSXRJeUtHdTF2RWc5NUFuZEZzUENteTNCc2h6OVZvTFloaUJhdTVIbk5OV29vc0Q1bkI3WXBvXzR3?oc=5
 
-- 週間天気予報 週明けも前線停滞で長雨続く 台風26号の進路にも注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zS25oSnJJRkJhRnNQR3FwLTNDTk0wcGhiMEtDUFltOTBCMkl5VmJhMFF4bnNwVkM2Z3FrRlY5T0U2eklZZzRHeHRydi01dnZ3RWpCNQ?oc=5
-
-- 米の中距離ミサイルシステムが嘉手納へ 中国射程、長期配備の懸念も - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Dc2F0ejlIR29EVHl1eUhsenRpcjFCYUJrRVRka2cwclgyQzVuY3RkdmdKRm9ON3pxOUM0d0FJdzREZ2JUVXdPQURyWWNYZEppWU94OUx1NC1NLVVyUGt6UG9YOXIwNGs?oc=5
+- 娘2人を6階から投げ落としたか 殺人未遂容疑で父親逮捕 岐阜・各務原市 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE15Zzk0SkloUDNvdzdmUmtRTmw4R01QdEgzM20xNE80TFlOLTRIc254aERWb1lDaVpFdFl0QXlKWi13ZkJnVkZvYzFxM195TDhZbGpjdVF2clo3REpXMHBfR3VMcEw0UDVNamRERFZtOUtBZw?oc=5
 
 - 成田・印旛沼 決壊堤防の復旧工事開始 ２６号前に仮施設整備へ 国交省、現地対策本部設置 台風２５号 - 千葉日報オンライン
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YTXpDYXhleEJuOE83R0xWWVRmRVhSamZ6eWNrRkNRRnRBVFBqM3FId0wzUGktSHBYTWFvZkphVmVyVW8tTkRDSVU3TU45TDJMcG9lZWpmNkM?oc=5
