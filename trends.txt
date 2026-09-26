@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米中首脳会談、日本政府は情報収集・分析急ぐ…トランプ氏「同盟国」発言など利用した中国の「宣伝戦」警戒 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMnItci1nQVA4QnlET21sdWZPNkFNT1VnNlE4cVNaSktIUHBMS2VYYVpVcWRxVHhPcXBHWmdQanNJbUd6ckJ3QmVTZE9NQXNPZGJJLXZDYmsxOVFqTFZCakxQRkE0UQ?oc=5
+- 習氏厚遇「やり過ぎ」、共和党議員もトランプ氏批判…民主党議員ら「圧政に立ち向かわず豪華な晩さん会選んだ」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0tY2x2bVdQZ2c5bjBlQzF0OGZwdFZjWkx0TlBhX2hEaU1VcU1hN2ZlQkU2LV9wai01eWNlbEl3MGx3b3dLRlg2ZjJzenh3TDlBV3dWZjBNc0JPVzdzbDFROEVUTUdPNGdaTGFUMlJOQ1VablZVeXVtSHhObGJXekk?oc=5
 
-- 台風26号(スリゲ) 沖縄は高波など長引くおそれ 来週にかけ動向注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZbEQwUFJPdGJBRU5UZjU1VldoWTgtc0ROckowNW4wSTA1MUExUzZYLXJiMVBtanktTDdrcXE2TUJnMm4zNDZIdGFwZS1zbnE2Z0d3Mw?oc=5
+- 関東は連日の雨　10月はじめは台風26号の影響を受けるおそれ　最新情報の確認を(気象予報士 青山　亜紀子 2026年09月26日) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUlo3aEZ6ZWlxdXhxR3I0VU5IOTZ5NzVyR2VXSWlXUUFERkg0WkpIWTBKdVJqUFFqU1p1Wk5kTk0zUXdYcHRuM0xIbVhGLUNpNVhZSFJrdWdfN25xT1NCbDJzbFJSZjF0RFHSAW9BVV95cUxOa2RWVzJlS05zVTlmeXFEMFgwZ3hlWDFLYThqbElyX0xzOGY4bUZTd0lfQVl0dXJyYV80VFhvOF9ZVlNmeVJPRmZEd2U0WTdyVlEzWl8wUHFmNWdVY0d3dGJDWGdaa0JkanBJTXdOdkU?oc=5
 
-- 【詳報】群馬･太田市で女性が刺され死亡 逃走した男は長女の元夫か 群馬県警が行方追う - 上毛新聞電子版
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RElFakZRR2ZnYzdvTjZnU1NqMUxZM1VWY0RIYWFvSF9qd3FMQ1dvVG5OMnY4dEVFa2xxa0ZJOEVET080d3ZpYTFZWGVKRUN3S3VSd054dnJLdw?oc=5
-
-- シジミ漁場へと流れる川に大人用おむつを大量投棄、容疑の男書類送検…漁協「発見遅れていたら甚大な風評被害に」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE12eFBRTE5xTlhBcDVkanJhcW90Y29qMTZkZk05ektJdGF2cXdrb0xfZ0o5a0U0NFJEeGZaWFZmMlVUdnlkbl83em94NFhULW9tTUs4YndtWl9PVkF2ZjhSZjRrUURtdw?oc=5
-
-- 【速報】4歳と１歳の娘2人をマンション6階のベランダから投げ落とす 25歳父親を殺人未遂の疑いで現行犯逮捕 岐阜･各務原市 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBN2I5WmM3SDd6NHNqQjVXcDlES0tkWExHUDJYMTRmWURPSTQ2TUhOMXhKQnAtNHVJT3NKVFFaVVktU0xXTzBFZDJEbl84SVhCVmoyR3dGdw?oc=5
-
-- 台風で土砂流入 20代女性連絡取れず 夫「妻の姿が見たい」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zSV92elljQTZ6UGdtb1Y5MTB2akpMWDV0d2UzcUM1S1ZmelkxYjhhS0pEQWlwZldOYzJOUUdTV0hoUzdfUGdYWmZFbF84cjFsajNJQWdxRzFtYkxxQ1E4?oc=5
-
-- 九州から東北南部で広く雨　関東は新たな大雨災害に警戒　今日26日(土)の天気(気象予報士 日直主任 2026年09月26日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE41Y0NZa1hPU3RneVFUNXlTNm01Zno5V2xfLUxtcTdFbWk5ZlBmUnVRUnNTcFJFQlBJUHVyRVl6enFKN3FqWU9YcEZGTExpZGdtWlItVXFsNkdsQWNxU253MWpUdmlEc0lIb3fSAW9BVV95cUxQNlpXMklUd0pfYzNEV2h3OTBHSHN2OEJkeHhWdjEwRW9zNVJMZjdqMUgxdVZncnlwaWJpdFBtVGMwbEpfWlAtMWVMUGh5V1I3MWEtQjhubzNIcER4OFJLaWNDOGhleFNmMVdMdHVKdGM?oc=5
-
-- ネパール土石流発生から1か月 生活再建踏み出せず - NHKニュース
+- ネパール土石流 1か月 8万人超の被災者 生活再建が課題 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNzhUbGw2alFfaGRLSnYyblg0aTZkM3A0cjBYZFBTZWlhQXg0ZFpaRmNRY3NtUVNZcWpLSG0yTjhMOGtuM0dyeVVxSjF0SnY1NnVtN21DejdpVldjUHE0?oc=5
 
-- 熊本県で震度4の地震、福岡や長崎でも揺れ観測 各市町の震度一覧、9月26日午前10時31分発生 - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFdGZiVE16dkpyV2Nza2JYdUR1bmpWOVdkV0NSYmhJS0NsNnJfT2lGQnVEZHA5NXlSc2dRU2IwQ1RhamZnbWRkTExHODRTY1IyTkJ6RWVtdGN1UDNDRHc?oc=5
+- 群馬女性殺害事件 長女の元夫を公開手配、長男への殺人未遂容疑で [群馬県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meWU0c0F3U0lKemgtVmN4RU9PaFJSbFhiOEFDUVczQmFCTDIxaDI1TFFRRjgtQ1RIU3J1Y1pxMFR6TGxtVTZaVUlrcDNIcEc1YkE1WTlLR3lzWjMzTHpORGVMVE5FQnM?oc=5
 
-- 《結局、誰に手を振っている？》高市首相の“エアお手振り動画”で露呈した広報費の“お粗末な使い方”…世界的美術家も呆れ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5VMlVDRmJ2LXNvNThnUF9OUVlOWm12M1hSU2ZJc0NpdVo4TDBLcGFKT016N3NWU3NUVTlOUi00Nk9CSjFyVkMzQ2t5SjFnN0U0SG9UdzJoLW0xMlJRel84U1hkbTdNeFBCVFM5RU5JNVlJMkNKWEJyZEx3dUpITWM?oc=5
+- 米中首脳会談、ＡＩではなく「ＳＩ」・双方の関税優遇を合意…ホワイトハウス「ファクトシート」公表 - yomiuri.co.jp
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwUEtVd0ZRa09YU3RzaFZuaDk3VXV2Q0RzTWk2WDBvUWJJR2puSzZsTjNack1ZSlczMnhmQVljX1dlNlVhU1RHcWc3THJNbUZBd25hQzFRTThKOXk5dVVXUHRB?oc=5
+
+- 名古屋・栄の中部電力ミライタワーで火事 約30平方メートルを焼き鎮火 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MMnlCYVRYWjc1Qmc2LWRoTXJTTWlTOUVCUWl5WHhLWDhfcHp4V1Z6TGtuOGlNN3Q0dVNJMkdVbGVRcVU1X0RXS2RiTzV1d1lGZHBveg?oc=5
+
+- 6階から娘2人を投げ落としたか 殺人未遂容疑で父親逮捕 岐阜・各務原市 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFB5RlVLMkpVNWJPVGplOVVDOWNHYndwb2tvc1RvNjd3dnpNZlZjb2lIQ0NHVU54XzJ5cEVmMWJCVW5nb2syRVRlSmJKZW55Z2sxNHNhN2pfNTRHWnhBaDhTOEw3MFZjUmZMWXZaVUEyQmRwZw?oc=5
+
+- 白山高の野球部員乗るバス、高さ制限バーに衝突 8人搬送 三重 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE83alRiZVJIMEt4VUFQTHZRMUtUdlZJbGVUcHlBMzN0Q2dZaDhnYzZiZS1MQ3NSM1FRWk1vdEpEdE1MOXhGbHRYelVZWktNdngtYjhjdXhVWjlCMndmTmFmQmdNRUU2UVhT?oc=5
+
+- 米中トップ「老い」感じた首脳会談、高市首相「旧敵国条項」削除は脅しも選択肢 平井文夫 - 産経ニュース
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxQNExxZnBjS2UtWkJDZVRxdWpSQ3hYV0xQRXdDd1VDdG1rYWNRaFpVOU5fckthYjRNOVdESExmOXpRU2l1UWxDdVd6blRfSGFGbDJzY2h0MWRJNVZEU0pHaVZCTmtLRVB0MWplWjdINTFtQXVOWXNWT1p1b2hwRVpJeHZZUzRWbHlTX3N6ZnFTR3RCdG1oNkE0dVNpYTg?oc=5
+
+- 熊本県熊本地方でM4.5の地震 最大震度4 津波の心配なし - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOGFsN2Y1bUQ3NHFKMHpFZXFtTnlBeWNkaWh6ZkZRT0ZZZ1BMelhvcDF3cDdqd1ktVlhLek9tamRjYlRRRkpLaHhyVDlDRjR2dnN0NG12cVdJaGs?oc=5
