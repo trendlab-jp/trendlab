@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 【速報】群馬・太田市女性殺人事件 逃走していた長女の元夫(30)逮捕 長男への殺人未遂容疑で公開手配 群馬県警 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wTWZqMkVKUzlqZTc3Y3d6dzZqM3NLcmRxaF9ZVWN4M1o2ZmE4VlFfckJXM3NwNmRkV2pwY1oxbVVLRVpoQ1IwSTIxQjdTd3RRSGIyQll1Zw?oc=5
+- 横浜市長選挙に山中竹春前市長が出馬意向…これまで５人出馬表明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHQWluUERuUU1OWUlzSC1DcWVmVHVCdDFIOEtfRTZELVFsRFlRMUE5alVlMmgzcG81OG5LcXBRTGJZaUxtRjJfOUpha3FBakRqQXg1SXBVRFhuT3c0aXphdXlqa3FCUQ?oc=5
 
-- 【独自】「日本語能力試験」の応募者急増 文科省、代替活用を初要請（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZjIwV2JfZHNDQWpVd2lOeVBKUlk1X3FOTXNnLWVJOThaVVpLT19YalZqSWpKUk1JYUtSRjFuWVpYMW1qbW1XLUcxWFg2SFZ3WEdrdnktNm1MeVhyZFVTaVBFN2NacVUzUHV4YVVaZkQzU3kxRk5QSjI4el9Tb3M?oc=5
+- 非常に強い台風26号(スリゲ)は沖縄本島の東へ 急発達し台風の目がくっきり - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rY25vMnUxQnFKSkt0dUllWV9oOUh5bTJ0Ukt5YlFQTEhBakRaTFkzOEFRd2xRUnVYWjRpR3NaUVRrYW9ZUXhmc3NGR0RmVi1ZQ1FjTQ?oc=5
 
-- 台風25号 土砂崩れのアパートで遺体発見 住人女性か 神奈川 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1paFpiSDNYZUNsYVhZZGFXdXliUzZpcWVYUFhJZy1kbG5SUGxLcHI1MkxuQ290UXU2SnVPWGhqNldhdGE2eXhMZ2ZzVl9HdnRWZkdFNzEybml6djFZdnBZ?oc=5
+- 群馬・太田市殺傷事件 公開手配の容疑者を逮捕 殺人未遂の疑い（2026年9月26日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE11cXFfT2dMUEdrMFVYaW8xT3FEVk83Z0xJRDBRbjVsWHBIQ1pVZVMyVU5UNWZDaWpSMHFDendGQzk4Rl9FMC11cEhtWnFHbDZvT2hVTGpZOTdTM1RSMkprMWMxbDFpQzMzZXBSLVQ0OXhoRWpzbGZuUlowclg?oc=5
 
-- 台風26号　28日にかけて「非常に強い」勢力で沖縄地方へ接近　高波など警戒(気象予報士 藤川　徹 2026年09月27日) - tenki.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBtY2laUk10MWVTQ3NmMUJ5V3dxbzBNU2M5a2cyMXo5amFkZVdXS2Y1M3JMek1QaUFaSEZZTEo3R2xmNTYtTkFqb3ppME91WEZBSzcxSzBEUG45TW9naGRUWjFyN0h3dzFuUDNvZNIBckFVX3lxTE5MYkRhbnlIWHYxQnA0SExYME5Ua25kOVNmNTlFODAybHNkZ0VaZlVGZExHNU1SY0pNYlZGclZKX2NyVGxTZXVzT1VXclQ2QmdFOGNjajg2anZ0elFxaENmQU1NUG11TnNDOHRXajV4Skx5UQ?oc=5
+- 内閣支持率45％、3カ月ぶりに不支持率を上回る 改造の評価は - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Hb2xqbGc5QXRKUXYxb0tYY1dqZHh6VXJiTE9tbUs0bTZUakNXMmdDZkdmeDN6aUFBVHY3b2c5bEE0TXZfQlJTaTRyN3QtQ19KY056UUlvMlZOck5OeE9BTF82UFhmS08z?oc=5
 
-- 禁止薬剤使った中国農産物の生産・加工、見逃した当局に官製メディア「職務怠慢者は責任を追及されなければ」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlaE5tWVFHMUNfb1lqZlBta3l2VTdTeDZOUm9HRVlHV1M4NGI4Vm1KTDNDT3NJYXNmZ3ZhWFBzTjF2YVBuc3lKNzBjNUwtWVh1ZklrWjRTTm4tRU5BbFQxWU9B?oc=5
+- 上流から相次いだ「警告」 ネパール土石流 生死を分けた判断は - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEN1ljb2xCMHdkMnBUT1V5YWVfZWZ3bUt5Y2Z6UjZZQXoyRUJNSzJNa0ZxX1JCMEg1SnpYNTh5WDdXVE1XSHlBcDl6ci0zS09nZWt1RVIwQl9iOTVYVEZONmo1aFdELWFY?oc=5
 
-- ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案 - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE41M0hoaUlxR2R4M3g1SHVGUXBBeFhtb1BJTUhmaWo5UzRUeF91Uk9Ecms3bTc4M2owZjRDQTNyYm5yRlpRSDdQV0NSNFh6bUlkckV5Tk5Fa09qdGE2VEVINNIBZkFVX3lxTE51aXJvN3JBcFQ4VzUwTnU1YnE4OEZldUI5cUxsdUxrVmZDaVVWUnQtLXdvMDVMYnFGbnFWNUtJYzFWSzZIR3dxbFllcFdfQklMT3N5dkFZcWIyLUx5MHVxRXJwMFpxQQ?oc=5
+- 禁止薬剤使った中国農産物の生産・加工、見逃した当局に官製メディア「職務怠慢者は責任を追及されなければ」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9JZVROWTlaeUJsVXFVN0M0T1VtZVFBZEwyV0pKQ1d6c05XTUdKaDRnOW9zSzZBcnlOY2JfUjZGdmNXeHBGZ0Rlb0ZTbkNjSmZRcUlmXzdqdnRlLW5yUGpNMFFiUVRNTmQ3bW1odTU5TEVqWWJGSmREMndIWWZfYUk?oc=5
 
-- 九州で雨が強まり冠水も この後も局地的な激しい雨や大雨に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpNnpxbEZFbzRsWFJyR2QzdE9pa0Jac09BbmNlS0VwYktXcTV2Y0N6UGFhNklSS2RnQTBYcDZSNUJ4WnQtRWlBZjFlT0lpTXZNc0ZLNA?oc=5
+- 長柄の山間の町、土砂飲み込む 車水没男性受け入れも自宅浸水 台風２５号 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1dTZqcDhPY3JETWNQZDY0UXBqZWxHWVRONzhteDdQZFR3VVVtdUNuTVp4N0NKQlgzWUNFcmo5Y1ZFNHUyUXRXMUUxb0hHb3VPNHlTbDBKRng?oc=5
 
-- 関越道2人死亡事故、作業員に突っ込んだイラン人男逮捕「今話すことはありません」と供述 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5xcG5LeWpiYS1QZC0wckZTRXpTNC1Pd00wcGxwSUVrTXFWTFFjY01KcTF6OExyY01UTEpNUWZCSWdRaXJMYUF4RGJFS0djMHZTWVdSNlB0VUlMbG5VcExvMjNfbWZkZkVrb0dKSTdYN185SHhEalE?oc=5
+- 大阪 箕面 不発弾の撤去完了 信管が残った状態の「1トン爆弾」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zWmxna0pHSXNrdVg2bi15WXRMemZBMldRQmtGanpkMUFBdG1NZDZDZ1FuTWxsb3cwUUdmMjJfQ2doVmdJQlB3TWtZWldDcFlmc09FRWFjUVJqcVhqYlI0?oc=5
 
-- 岩屋毅前外相ら貿易団体代表団が訪中へ 習指導部との面会希望 日本企業役員ら50人参加 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1kWVR6UHVJc2VQS0pTOXJiNGtTbW50ekgzNjhYVXdTaDBOcUc3cmN3SEtvSW5NQ3EwSTA4WVplU0xwS0RKOXpzYWRKNHJlTEhlaWlud2ZkOWZjXzBqbUxlWXpmYmM0VHhzaHpBNWVReTI0VmN3QXc?oc=5
+- 石垣島沖で中国が海洋調査か EEZで調査船「科学」がワイヤのような物 海保が中止要求 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1QaFZVWC1SckNXcDdaMjNPNGNsNU5XdTFqNmxoQzUzZmRhMl80X3ZQb0JUQzlTaUxhSVRWc2RYaFZxYjlkQUxiZTBCbVRyTU5fQkEyVFpDeHFFbTVBT3owYlJ0ZUtQd3NmU3dHNU5ja2s0eGxPWmc?oc=5
 
-- 高市首相、トランプ氏と連携確認 「米中」受け電話会談 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQ1hsaWNaUk5RQU5tTnJGeWZuejlfcDc1eTN2bThYTlN4OXFpWGVNTy1PckZLWE9Dd3VnOEUxSU5SWTlkZkw5TzlWdzRCZG8xRk8zNFdVSGxwS1dXdWtRMXdPMA?oc=5
+- 【速報】京都府、あす28日にかけ警報級大雨の可能性 秋雨前線影響、大気が非常に不安定 - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1USzNRa0k1WHNqU3F1dWtubjBPZGE4VGhkb2dTSkZpQVVLQTAzU0tQTkExOGwxTGRReDJyZkhHMmZ4NE1Oc0hIdkM2Wm9wUGJQbUZ5SGV0Y08?oc=5
