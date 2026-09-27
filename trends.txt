@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米中会談「８項目の合意」を中国政府発表、第２次大戦で「肩を並べて戦った」と振り返ったと明記 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MaGdvSGxiT0dCWHphV1hsTDZndlhMbWk0TVUxYlRpVUFSVFR6ZjhsdHJmRDFhNHZZbFdNZThqVkQ4ZEZ0MDhJcVdKX3YtdzFSa001blY4SEc0MUVIdGRvVjBR?oc=5
+- 【速報】群馬・太田市女性殺人事件 逃走していた長女の元夫(30)逮捕 長男への殺人未遂容疑で公開手配 群馬県警 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wTWZqMkVKUzlqZTc3Y3d6dzZqM3NLcmRxaF9ZVWN4M1o2ZmE4VlFfckJXM3NwNmRkV2pwY1oxbVVLRVpoQ1IwSTIxQjdTd3RRSGIyQll1Zw?oc=5
 
-- 台風26号(スリゲ)は強い勢力に発達 沖縄は強風や高波 来週にかけ動向注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE10aG5mLWdlbzVuUGdaN0kyMUZwdEpzMWZoTlN4ZXhNXzkxTmZ0dTQ4eFluWmR3eUlvWUlOekhSTm55aTc4MzFaYWtab2ZhdVBiUjh4aA?oc=5
+- 【独自】「日本語能力試験」の応募者急増 文科省、代替活用を初要請（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZjIwV2JfZHNDQWpVd2lOeVBKUlk1X3FOTXNnLWVJOThaVVpLT19YalZqSWpKUk1JYUtSRjFuWVpYMW1qbW1XLUcxWFg2SFZ3WEdrdnktNm1MeVhyZFVTaVBFN2NacVUzUHV4YVVaZkQzU3kxRk5QSjI4el9Tb3M?oc=5
+
+- 台風25号 土砂崩れのアパートで遺体発見 住人女性か 神奈川 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1paFpiSDNYZUNsYVhZZGFXdXliUzZpcWVYUFhJZy1kbG5SUGxLcHI1MkxuQ290UXU2SnVPWGhqNldhdGE2eXhMZ2ZzVl9HdnRWZkdFNzEybml6djFZdnBZ?oc=5
+
+- 台風26号　28日にかけて「非常に強い」勢力で沖縄地方へ接近　高波など警戒(気象予報士 藤川　徹 2026年09月27日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBtY2laUk10MWVTQ3NmMUJ5V3dxbzBNU2M5a2cyMXo5amFkZVdXS2Y1M3JMek1QaUFaSEZZTEo3R2xmNTYtTkFqb3ppME91WEZBSzcxSzBEUG45TW9naGRUWjFyN0h3dzFuUDNvZNIBckFVX3lxTE5MYkRhbnlIWHYxQnA0SExYME5Ua25kOVNmNTlFODAybHNkZ0VaZlVGZExHNU1SY0pNYlZGclZKX2NyVGxTZXVzT1VXclQ2QmdFOGNjajg2anZ0elFxaENmQU1NUG11TnNDOHRXajV4Skx5UQ?oc=5
+
+- 禁止薬剤使った中国農産物の生産・加工、見逃した当局に官製メディア「職務怠慢者は責任を追及されなければ」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlaE5tWVFHMUNfb1lqZlBta3l2VTdTeDZOUm9HRVlHV1M4NGI4Vm1KTDNDT3NJYXNmZ3ZhWFBzTjF2YVBuc3lKNzBjNUwtWVh1ZklrWjRTTm4tRU5BbFQxWU9B?oc=5
 
 - ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案 - BBC
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE41M0hoaUlxR2R4M3g1SHVGUXBBeFhtb1BJTUhmaWo5UzRUeF91Uk9Ecms3bTc4M2owZjRDQTNyYm5yRlpRSDdQV0NSNFh6bUlkckV5Tk5Fa09qdGE2VEVINNIBZkFVX3lxTE51aXJvN3JBcFQ4VzUwTnU1YnE4OEZldUI5cUxsdUxrVmZDaVVWUnQtLXdvMDVMYnFGbnFWNUtJYzFWSzZIR3dxbFllcFdfQklMT3N5dkFZcWIyLUx5MHVxRXJwMFpxQQ?oc=5
 
-- 数百基の光通信衛星で大容量通信を実現へ、ＮＥＣが整備計画…日本独自の衛星網で経済安保強化 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDaUNWZEFYMXM2LXduUVpESXFwZy1NNTFYMkdqS1h1TjIxeFFlQmdDNGNkUnhjenA4dmVWR3g4YnJkZGhxZDhvMDRxOS1EV0RrM29TUno3OW9kNU5IQ1I2R2FwSW8?oc=5
+- 九州で雨が強まり冠水も この後も局地的な激しい雨や大雨に注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpNnpxbEZFbzRsWFJyR2QzdE9pa0Jac09BbmNlS0VwYktXcTV2Y0N6UGFhNklSS2RnQTBYcDZSNUJ4WnQtRWlBZjFlT0lpTXZNc0ZLNA?oc=5
+
+- 関越道2人死亡事故、作業員に突っ込んだイラン人男逮捕「今話すことはありません」と供述 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5xcG5LeWpiYS1QZC0wckZTRXpTNC1Pd00wcGxwSUVrTXFWTFFjY01KcTF6OExyY01UTEpNUWZCSWdRaXJMYUF4RGJFS0djMHZTWVdSNlB0VUlMbG5VcExvMjNfbWZkZkVrb0dKSTdYN185SHhEalE?oc=5
+
+- 岩屋毅前外相ら貿易団体代表団が訪中へ 習指導部との面会希望 日本企業役員ら50人参加 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1kWVR6UHVJc2VQS0pTOXJiNGtTbW50ekgzNjhYVXdTaDBOcUc3cmN3SEtvSW5NQ3EwSTA4WVplU0xwS0RKOXpzYWRKNHJlTEhlaWlud2ZkOWZjXzBqbUxlWXpmYmM0VHhzaHpBNWVReTI0VmN3QXc?oc=5
 
 - 高市首相、トランプ氏と連携確認 「米中」受け電話会談 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQ1hsaWNaUk5RQU5tTnJGeWZuejlfcDc1eTN2bThYTlN4OXFpWGVNTy1PckZLWE9Dd3VnOEUxSU5SWTlkZkw5TzlWdzRCZG8xRk8zNFdVSGxwS1dXdWtRMXdPMA?oc=5
-
-- 群馬女性殺害事件 長女の元夫を公開手配、長男への殺人未遂容疑で [群馬県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meWU0c0F3U0lKemgtVmN4RU9PaFJSbFhiOEFDUVczQmFCTDIxaDI1TFFRRjgtQ1RIU3J1Y1pxMFR6TGxtVTZaVUlrcDNIcEc1YkE1WTlLR3lzWjMzTHpORGVMVE5FQnM?oc=5
-
-- 福岡、佐賀、長崎、熊本で線状降水帯が発生のおそれ 大雨に厳重警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE94T1FQY0V2Y0xERmszRkktNFlNTDRsbDhDb2Jud3dDZ0dlT3NGNi0wWmVhRHhKT1p3WEVQTWhrWHlFZUJKRWhFMXJvYUF0emRJYzJacw?oc=5
-
-- ネパール土石流１か月、５２００人超す不明者の死亡証明書は原則「１２年後」…残された家族の負担に - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Nd1p2X2tQQXZTWGVGcjFQNG5Qcm1xM0ZPellNOUQxeGtmSXRJeUtHdTF2RWc5NUFuZEZzUENteTNCc2h6OVZvTFloaUJhdTVIbk5OV29vc0Q1bkI3WXBvXzR3?oc=5
-
-- 娘2人を6階から投げ落としたか 殺人未遂容疑で父親逮捕 岐阜・各務原市 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE15Zzk0SkloUDNvdzdmUmtRTmw4R01QdEgzM20xNE80TFlOLTRIc254aERWb1lDaVpFdFl0QXlKWi13ZkJnVkZvYzFxM195TDhZbGpjdVF2clo3REpXMHBfR3VMcEw0UDVNamRERFZtOUtBZw?oc=5
-
-- 成田・印旛沼 決壊堤防の復旧工事開始 ２６号前に仮施設整備へ 国交省、現地対策本部設置 台風２５号 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YTXpDYXhleEJuOE83R0xWWVRmRVhSamZ6eWNrRkNRRnRBVFBqM3FId0wzUGktSHBYTWFvZkphVmVyVW8tTkRDSVU3TU45TDJMcG9lZWpmNkM?oc=5
