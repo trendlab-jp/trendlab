@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 群馬女性殺害、長男への殺人未遂容疑で逮捕の容疑者「間違いない」…事件当時とは違う服装 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tczluRG4tVjB0MlV2Z0tiRzJuYkJPSEpCSURKNGU3ZC16YjVkWjFNdUNwYjZ1c3NlblZYc2Ftcm8xbFhwYU1DOE1EeHlULU1NY2pSX1lRdHJGbE4tbUwyMHRaWm51UQ?oc=5
-
-- 非常に強い台風26号(スリゲ)は沖縄本島の東へ 急発達し台風の目がくっきり - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rY25vMnUxQnFKSkt0dUllWV9oOUh5bTJ0Ukt5YlFQTEhBakRaTFkzOEFRd2xRUnVYWjRpR3NaUVRrYW9ZUXhmc3NGR0RmVi1ZQ1FjTQ?oc=5
-
-- クビアカツヤカミキリの食害地域５年半で５倍、２２都府県３１１市区町村…農業・観光への打撃懸念 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HeUtNUHk2Ui02dWI2ZDBUWnh4S2N0S1pITnA0Z2tDNXZ5LTF3N0s1WmZxUmZNUmlvYThObmR3Y2xua3lDYlBuS0w2QzdfZTFGR3R0WVB0T3V4YURTZGZ2S0NFbllVZw?oc=5
-
-- 【速報】外国人とみられる男性死亡 刺されたか 神奈川・横浜市（2026年9月27日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYkJkMVVjeUotSjFEbmhJYW1ZRFdTbU1BbVNhNl9kUGpKWEY5Sm16cUMtN01RR2MyQ2VRVzZLS3JuQnJ2M3EyUjd5cXFONlEtUzJINjVRZHdKcnFqZ3VCM1RKR0dtSkhsLTRRVUlVOWIxMGpsdHJzaGZDc2g?oc=5
-
-- 上流から相次いだ「警告」 ネパール土石流 生死を分けた判断は - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEN1ljb2xCMHdkMnBUT1V5YWVfZWZ3bUt5Y2Z6UjZZQXoyRUJNSzJNa0ZxX1JCMEg1SnpYNTh5WDdXVE1XSHlBcDl6ci0zS09nZWt1RVIwQl9iOTVYVEZONmo1aFdELWFY?oc=5
-
 - イギリス空軍基地周辺でテロ準備容疑、５人を逮捕…米軍がイラン攻撃に使用 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vVEZOTFNtRS1oR0gwVHRGVDVQbDBYTEZpVU8tMF83N0VzM0VQY0tKazc3bVVnZHR6U2pCbk1zTF9INkFHa2ZqbDM5OEpBYnNMcWZUNWZGaHZocG9uSlY2emRR?oc=5
 
-- パワハラ認定で辞職の前横浜市長・山中竹春氏、市長選に立候補へ - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVnNrNzhFc19fR2ZzMVNndEVueDBieGY5Z3FsQlhOZGlQb1ZYV3daVjJFenNZaENucnMwOXZZeFJiUGVYdjJzY1NDUEhtVWwyRnUtNV8zc0kzMEtpMmhQeHFaWEhodUVp?oc=5
+- 非常に強い台風26号(スリゲ) 北大東で30m/s超の暴風 関東の南を通過予想 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZZnFMUG9lSG1NU3duUG9SVnpQRlVieFNNQjlzSkEtMkRuZWp6YkJKcHpic0htejVneWZCMktCUWZCNF81bVJMWEwzWkpPMVRncC16Qw?oc=5
 
-- "見えない避難者"約2000世帯 熊本地震2か月 八代市調査で判明 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YM1FvMmFsbGlIc1VhM1MxMnNJbHFXZDFsNS1hYlM4ZXJORFhkemdVTlAzS202NVBWZ1owU05SQjJubW5YX2YyUFNNb05NcDdTZEJwS2dWb3ZqTHBieFNn?oc=5
+- 台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ3lZa0lQb1BkVjBoYU1pZlBKaXpfaXdiTjhkVHlsR0dLTUxtN3pGYkxxRURjX0x5S2N5NUhlM1FVS2FwWXpta2VrVmhOeDVlSEVwVGRGanY0eHJidldF?oc=5
 
-- 長柄の山間の町、土砂飲み込む 車水没男性受け入れも自宅浸水 台風２５号 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1dTZqcDhPY3JETWNQZDY0UXBqZWxHWVRONzhteDdQZFR3VVVtdUNuTVp4N0NKQlgzWUNFcmo5Y1ZFNHUyUXRXMUUxb0hHb3VPNHlTbDBKRng?oc=5
+- イラン軍、米国の再攻撃に「備え万全」 ホルムズ海峡巡り警告 - Reuters
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE96WDVrZVhkeGdzVEhzQmhqSnRYQ2lPc0VjY3NFUDNLQzlYUlJUZXZscFpKdmtIWldxc2J4c3FkNlBsZUwxX2dLOVVkdTN2b1otUzhEMm5NWlhUaTFoSDdGUW5mQmJOT1J6TXhUQmxwS0cxZ2FlcThnMkY5aEdhenM?oc=5
 
-- 大阪 箕面 不発弾の撤去完了 信管が残った状態の「1トン爆弾」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zWmxna0pHSXNrdVg2bi15WXRMemZBMldRQmtGanpkMUFBdG1NZDZDZ1FuTWxsb3cwUUdmMjJfQ2doVmdJQlB3TWtZWldDcFlmc09FRWFjUVJqcVhqYlI0?oc=5
+- 台風26号が秋雨前線を活発化 東京都心は33日連続の雨で観測史上タイ 関東で木曜ごろに再び大雨の可能性 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE43dkxVZUVGdmlJV2g1aDViOThNclhfRG15ZFBCb1FwTFJHbDVmSVVoUTJCdHBiTlk1QmJ0SmxwZGtadjhTdWhrMGxMcFdaQQ?oc=5
+
+- 熊本 合志市全域 2万6826世帯に避難指示 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IV29iYmgzQ2JJc3NwNXBleDc0X0F3UWlrMmsyZVhib2x5clptM0oxQnU2V2htTjd4Qlh6R1NqNW5DSWVrRkNVc3FDYmEyY1JjVkxOWE1hdk9INjBHUzFR?oc=5
+
+- 逮捕の男、殺人未遂容疑認める 事件6日前に栃木県警からも注意 群馬・太田の女性殺害事件 - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQa1JxZ1h6VlIwM0t3dkp1VFl5cHFsc3N0dkxRODJ6M3N1N0xpdHlmMVJrZ3BoQWhPQkRUWHNrLUJ6N01QSjgyVkZlaHkxUHJnZkp1RERveXZqRWs?oc=5
+
+- 【速報】生命維持治療終了に関する指針公表 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oblYtUThzekpINVFhLXVVMDFnNHVFYzVLaWlaS3VwZklmX3R0UEpQZTlCRVZuWG1rLUtvQjhDSVNqb3I2RjhmbUxoOA?oc=5
+
+- 沖縄知事選2026：変わらない構造、誰のせい？ 沖縄知事選の自民系大勝から考える - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE85OFE2RmM2VmhJZTVFdE9mTF93VktmZnkxRlhpZ1N4SGY1R0dCeGh1VFpXV2tEeVBrYVlxMWJRVFB6YVp6aHB6SE5Tc1ZFWHVLUWNDMGtCYk9qTTF1THpNTWw1WE8ycWRo?oc=5
+
+- 横浜市長選挙に山中竹春前市長が出馬意向…これまで５人出馬表明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHQWluUERuUU1OWUlzSC1DcWVmVHVCdDFIOEtfRTZELVFsRFlRMUE5alVlMmgzcG81OG5LcXBRTGJZaUxtRjJfOUpha3FBakRqQXg1SXBVRFhuT3c0aXphdXlqa3FCUQ?oc=5
