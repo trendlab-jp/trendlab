@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- イギリス空軍基地周辺でテロ準備容疑、５人を逮捕…米軍がイラン攻撃に使用 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vVEZOTFNtRS1oR0gwVHRGVDVQbDBYTEZpVU8tMF83N0VzM0VQY0tKazc3bVVnZHR6U2pCbk1zTF9INkFHa2ZqbDM5OEpBYnNMcWZUNWZGaHZocG9uSlY2emRR?oc=5
+- 非常に強い台風２６号、１０月１日にも伊豆諸島近海に進む見通し…東海・関東地方に接近する可能性も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE13M2hoSEFqejRfQzRaTjh1cFRHOTEyNlF6UFRnMTR0UDZDNGxQZXBaQXhkVzgtRmlIdWEwbi0tSjM2LVY4WkVObWpWaFAtR2NKRXpNa2NjWWtiTldXOS1WSk5lRnl1Zw?oc=5
 
-- 非常に強い台風26号(スリゲ) 北大東で30m/s超の暴風 関東の南を通過予想 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZZnFMUG9lSG1NU3duUG9SVnpQRlVieFNNQjlzSkEtMkRuZWp6YkJKcHpic0htejVneWZCMktCUWZCNF81bVJMWEwzWkpPMVRncC16Qw?oc=5
+- 東大学長に女性初・藤垣裕子教授、上位３人の投票で染谷隆夫副学長の半分…選考会議で総合的に考慮し決定 - 読売新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE4xVUM0RXBXZmhNcmlORHRrNVFCOFhGQWEtQUR4bnBRLUlkdGdxYWVPaklLT0xyUTBYME5XYTVHdVJEWFdISHdEcEx3MFd0anI3NGcyTmh4Rl9EZERkak14UUhlSGR4blJaMUI3ckVBejdMYjQ?oc=5
 
-- 台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ3lZa0lQb1BkVjBoYU1pZlBKaXpfaXdiTjhkVHlsR0dLTUxtN3pGYkxxRURjX0x5S2N5NUhlM1FVS2FwWXpta2VrVmhOeDVlSEVwVGRGanY0eHJidldF?oc=5
+- 印旛沼で堤防の応急復旧工事 住民は片づけ「全然終わらない」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zY0JSd1FjeWlqN0RhZTNMV2ZFQzlfQy1WdS1uaUUyYTgwSTFzYVdYSVBrdzM4MmdJdTMzUml6SGE0bVZ0dlRmZEJoZ19EQjFZMG5hMm1kS2trSU8zVEFZ?oc=5
 
-- イラン軍、米国の再攻撃に「備え万全」 ホルムズ海峡巡り警告 - Reuters
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE96WDVrZVhkeGdzVEhzQmhqSnRYQ2lPc0VjY3NFUDNLQzlYUlJUZXZscFpKdmtIWldxc2J4c3FkNlBsZUwxX2dLOVVkdTN2b1otUzhEMm5NWlhUaTFoSDdGUW5mQmJOT1J6TXhUQmxwS0cxZ2FlcThnMkY5aEdhenM?oc=5
+- 八王子の畑にツキノワグマ、都内初の緊急銃猟…イノシシやシカ用のくくりわなで「錯誤捕獲」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4aDhwb0ZfdXpkdi1ENHh5NUNFUFZlMXRRTHRhd2toQ0REVnpBQU1qRDVXQWxuSnZBck91YjNBREdLVFNIM2p4ZzUybGk3dV95RlRGbEV4S0gtbWZYbGk0a05rMHhXUQ?oc=5
 
-- 台風26号が秋雨前線を活発化 東京都心は33日連続の雨で観測史上タイ 関東で木曜ごろに再び大雨の可能性 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE43dkxVZUVGdmlJV2g1aDViOThNclhfRG15ZFBCb1FwTFJHbDVmSVVoUTJCdHBiTlk1QmJ0SmxwZGtadjhTdWhrMGxMcFdaQQ?oc=5
+- 英空軍基地付近で男5人逮捕、テロ準備の疑い 米の対イラン攻撃拠点 - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aNlFENG5JZmVQRDBSV0llekZiN1gweGppTl80SVM5UFVWQnBVbWRiRTl5VWExSWF2V2pGYUYzOUhoZ240cVRRVmJLM2RBbVZHclhF?oc=5
 
-- 熊本 合志市全域 2万6826世帯に避難指示 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IV29iYmgzQ2JJc3NwNXBleDc0X0F3UWlrMmsyZVhib2x5clptM0oxQnU2V2htTjd4Qlh6R1NqNW5DSWVrRkNVc3FDYmEyY1JjVkxOWE1hdk9INjBHUzFR?oc=5
+- 明日以降も秋雨前線は停滞 関東は明後日まで雨が続く - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE54LXBaVlViRmVBWFN3LVpxNmFRXzNtVEkzLUFjanUyNU1Rd1dGVlpFN2wzOWc5OWVLZWc3TEpncHVhb0R3QVl0M0Zpd2VsUUNEMVNKSg?oc=5
 
-- 逮捕の男、殺人未遂容疑認める 事件6日前に栃木県警からも注意 群馬・太田の女性殺害事件 - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQa1JxZ1h6VlIwM0t3dkp1VFl5cHFsc3N0dkxRODJ6M3N1N0xpdHlmMVJrZ3BoQWhPQkRUWHNrLUJ6N01QSjgyVkZlaHkxUHJnZkp1RERveXZqRWs?oc=5
+- 群馬・太田女性殺害≫前髪クネっとした“ギャル男”、金髪ヒゲ面にボディアート…復縁を迫ったDV元夫（30）の評判は好青年で“凝り性”、元新体操部でインターハイ出場の過去（集英社オンライン） - news.yahoo.co.jp
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9zLTBJVkwyanZHTU1qZ2hpS3d2MllxM21EQWFucERweTBuYkpteDloTGx0N1JuY05mbEdNSFY3b21oYWd3dF9wRVVEcnZHYzVfZUxRQ05EcTFTWXRMU2hCVDlaZWl5bnhCZVV5aEZMaFF0Vm9peXFFdS1JT1I3NmM?oc=5
 
-- 【速報】生命維持治療終了に関する指針公表 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oblYtUThzekpINVFhLXVVMDFnNHVFYzVLaWlaS3VwZklmX3R0UEpQZTlCRVZuWG1rLUtvQjhDSVNqb3I2RjhmbUxoOA?oc=5
+- 飛島の海岸遺体、酒田で行方不明の男児と判明…死因不詳だが事件疑わせる外傷なし - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5MGRTMWx0Snltd3hYd3AtNmdlcVQwU0lBZmx4bzhELWFTLTBaQjlqbGlfeDN0TXJOemJmd0YzN05tVFMxaUpGUnRiYkRBbmNGYkxBbFQ0WFdtZW95WEtxYzZsYmg0dw?oc=5
 
-- 沖縄知事選2026：変わらない構造、誰のせい？ 沖縄知事選の自民系大勝から考える - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE85OFE2RmM2VmhJZTVFdE9mTF93VktmZnkxRlhpZ1N4SGY1R0dCeGh1VFpXV2tEeVBrYVlxMWJRVFB6YVp6aHB6SE5Tc1ZFWHVLUWNDMGtCYk9qTTF1THpNTWw1WE8ycWRo?oc=5
+- 【大揺れ福岡県政】議会の「ドン」辞職、第三者委員会…何が起きている？西日本新聞の調査報道取材班トップが語る - JBpress
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMajZ4bDBLSVdvT1hGcU85MkN3Z1JSNk5vYVVLUjZBdHJBdVBRSm95TlBIVHhNeExxN21uaUN3SldnYVlDNFAwclh4V2JOUXNPU2h3VVNn?oc=5
 
-- 横浜市長選挙に山中竹春前市長が出馬意向…これまで５人出馬表明 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHQWluUERuUU1OWUlzSC1DcWVmVHVCdDFIOEtfRTZELVFsRFlRMUE5alVlMmgzcG81OG5LcXBRTGJZaUxtRjJfOUpha3FBakRqQXg1SXBVRFhuT3c0aXphdXlqa3FCUQ?oc=5
+- 横浜市長選への出馬を決めた山中竹春前市長 後援会で陳謝「このままで終わりたくない」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9OQ1ZiWEVYd2VidXhEVlA1UkFULVJTVlN0YXhzT0w4SXBkdFNfdFlYdEhqMnppMVh2Zk8tLV9nODZyRkctbEt6VHE4WVpod0tta1Izd1hVWnB4Q0hqUnM0U2duTWRBWkdZYnFfTWJsa0o2VVZYZVE?oc=5
