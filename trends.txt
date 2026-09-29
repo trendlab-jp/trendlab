@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 茨城南部と埼玉南部で震度４の地震、東京２３区や千葉など広範囲で震度３観測…津波の心配はなし - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14V2tONzJFX2YwUlRZdFRyeFRnd05fRXJRS3BiR0N5YlVmVXNzRDZiUENRX1NQVkRCanBRT0x2VWF0RkVOek5sbXA0OUxRSzE0NVFBcDhOOGd1RHZmSVc0aTVyQWU3QQ?oc=5
+- 東京都心34日連続で雨　統計開始以来最長を更新　いつ晴れる?　台風26号の影響も(気象予報士 石榑　亜紀子 2026年09月29日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1Idy1WekJnZlp6S25TSm1Wb1FQWDUxZFhpVmlneWF5VWZHWVBKUWNTRzBXXzdNSlVCNTdiNUJQdGZLT2VKSUZBTndvY3BvWTZXM19FV2tlZ3laaGlub3BENEMySENEczJBcHFNWG930gFzQVVfeXFMT3g2aU0wSUk5bzBzS19SbDkyNXVET00wVmQwRkZrb2x1WG01QUFmNjNTdmUtbG5uXzFBQ3BzZU1QTG1xcndCRE5iSXd2Q0ZxWS1jOHJuNzFoUzVHb0J5djFUYnhOR214cldSWWlTOUJYQjJzVQ?oc=5
 
-- 東大次期学長に藤垣裕子教授 女性初、来年４月から任期６年 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxLVAwaHFIQU5sRjJSeGFocGl3RXFxVnd4M0o1UkR4Y0RoWlN4clVQLXRSM0hlcHFRRDRXSHFNNEducWRaUVI2Z1ZVNE40N2x4emxSa1RRUkhCZUc5eTVhX1E5Zw?oc=5
+- ＳＮＳでの誹謗中傷、賠償請求額の引き上げ検討…民法改正に向け法務省が研究会・死者の人格権保護も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE93RDBZMkdCNUdGU284c3JzaTV6QWZ6RnQ1dTBENUNhODJjVlQ5eWVGZFhyMVFUdlBLbjVGNkVySEpQTW9NN1hMem5VazhsNFhHWFFLZGxIYy1QYk9JUm5sZVU0RzhCUQ?oc=5
 
-- 台風26号(スリゲ) 伊豆諸島は荒天に警戒 本州はあす広範囲で雨 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZaXhCNzlOMkFHVlUtdmI0cGlSTzhHZ3RNLTZ5eF9XMDZobkdlVERIZEg2Ujk3T3VPUjZvWGphWDd0Y1RzVzd6X3dGQmxBYXd4bEFrag?oc=5
+- イラン当局者、米中間選挙前の合意に悲観的－米国との協議進展乏しく - Bloomberg
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE1jeFVaVjI1QTlSblgwcWllMnpwRkd1bUhCRlU5aWFyc3VaU0NmaWRLdnBNa0UtTXdrZkkwSGIwYUdOOE1FVkp0SmNWRmtiaWFkN2dMV2FxcFpuQm9LNEZEcGhncXo1eWtqcUtxWlhSTEVJaGJham84?oc=5
 
-- 印旛沼で堤防の応急復旧工事 住民は片づけ「全然終わらない」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zY0JSd1FjeWlqN0RhZTNMV2ZFQzlfQy1WdS1uaUUyYTgwSTFzYVdYSVBrdzM4MmdJdTMzUml6SGE0bVZ0dlRmZEJoZ19EQjFZMG5hMm1kS2trSU8zVEFZ?oc=5
+- 交差点で正面衝突、３人死亡 乗用車が炎上、２人搬送―千葉 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KYTlMTGhGN2FQNTBrNzRsTVM2aGdFd0Q2TTRUZXBUY01SYk52c3h1ODhZTWVxOHY4ZE9tMXQwSjhWLWNPdnI0WHF2T0V1M0JoOGo5QWVvZ29VVTRveFcxeUo0RQ?oc=5
 
-- 中国の王毅外相、岩屋毅前外相と北京で会談 高市氏の答弁是正を要求 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1KN09hNzBzcXd0VWdRTkNpa0t4TUhIXzdyS1hyMlJadmFmd0MzTlp3dkpYYndXOWlHNE42MW5oMk1WZ0VmUFh2cmlla2w3bEZPMVVnRTUzM25sV0x6bExoLUVkT01ObUJ1bTVwUw?oc=5
+- 台風26号(スリゲ) 伊豆諸島は荒天のおそれ 関東は明日まで雨が続く - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVTlOTmdmUDVxWHMzV0NrVldZT0pVd1F1TWYwREtPb1JseWdzdVdTa1Z3QmpmbDhvLXJqakNSRWtYbVJpUTdVSHYxUDRxS1BjWjQ1dA?oc=5
 
-- 東京・八王子市でツキノワグマの緊急銃猟、都内で初 人的被害未然防止のため市長が承認 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9tZ21wb3lxcGg3UGN6UGpQdlVGZXZ1aWRVSmlMQmV5bEROVk1fZnBqOHdoN3FkX2xxMkhmM3RpdGlSV0lRS3lyb2VrbTZzVmYyMEw2NG1rX1ZTMjNUMlp4V1FzZmJ4WEhnV2FmT2RhOU02aDVjdmc?oc=5
+- 中国・王毅外相と岩屋前外相が会談 「台湾に関する日本の指導者の言動 是正が必要」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1UVDRSV3B6eEtlMTk2dXB0b3oxRDFNR19JWXVjclp5YzcxUEQwSlNPX2FYUHhrYkhXTnVwMDQ5LVVyOVRGRzN1bTFsWGEwUFN1T2JLMjFpYy1Fc3cwLU9HM0lxRnlCZk5GWHR5OUdUTE9IZVZtNEdmcVNn?oc=5
 
-- 群馬・太田女性殺害≫前髪クネっとした“ギャル男”、金髪ヒゲ面にボディアート…復縁を迫ったDV元夫（30）の評判は好青年で“凝り性”、元新体操部でインターハイ出場の過去（集英社オンライン） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9zLTBJVkwyanZHTU1qZ2hpS3d2MllxM21EQWFucERweTBuYkpteDloTGx0N1JuY05mbEdNSFY3b21oYWd3dF9wRVVEcnZHYzVfZUxRQ05EcTFTWXRMU2hCVDlaZWl5bnhCZVV5aEZMaFF0Vm9peXFFdS1JT1I3NmM?oc=5
+- 「世代交代」象徴となった沖縄知事選 玉城デニー知事や「オール沖縄」の訴え徐々に希薄化 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFAzQUJkaVRwYnRrS0s4Q0tiTjhwaXl3X19tTmxSc1pGcHZSeVRQbk8xOHVLaWJVNHBSNDJMWjYtb0hSZmxtZmxFOGdYZ3dhcmU2R05oTlRnWnpXREFHTFB1RnpIWmhTM1RkazM0alhoX25tc2RqQ2c?oc=5
 
-- 飛島の海岸遺体、酒田で行方不明の男児と判明…死因不詳だが事件疑わせる外傷なし - yomiuri.co.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5MGRTMWx0Snltd3hYd3AtNmdlcVQwU0lBZmx4bzhELWFTLTBaQjlqbGlfeDN0TXJOemJmd0YzN05tVFMxaUpGUnRiYkRBbmNGYkxBbFQ0WFdtZW95WEtxYzZsYmg0dw?oc=5
+- 東大、次期学長に藤垣裕子氏 女性初 外部有識者含む会議で選出 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtMnNFNW1FUFVOUFZCT1ozY0E2YUlURDExWGZlWW92UmxPY29maEJ5Rk9oUXUzdHdYajZ5M2xMWXlyVkt6TUhONmFOOFZEaU1POF9fN3pFdnVGYTNxNXFZeEJKVUt5cGNW?oc=5
 
-- 札幌市に「レベル4」大雨危険警報 厳重な警戒を - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5MWjdyb1J1RUpCZlZLb0tnUWdJcXh3ZUdBXzZ1a2NsVXhXS2t2RXlFbnY5bmdkMVZDVUdNZWxuT0lhR2dOc0FtTHVxSHY3WDh4cU1OaTVjZ0tIZzR4eU1kUnozZkZuU2thZ1U4bW85am03dw?oc=5
+- 【速報】関東・東北・中部で地震 Ｍ４．９ 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度４ 震源は茨城県南部 地震が及んだ地域人口４６０１万人 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JUDc0aXNnYnBPY1NUVzRsc19pcUFKN1NrMGNoc21tYjBhRXlsQlZYbWQ1azR6QzZ1R0pQQUlUbWhiZk84YW5ydkR1SFhwMFVERXdtMWk3WDQ?oc=5
 
-- 北朝鮮捕虜の移送公表で韓国、ウクライナに謝罪と説明要求 「虚偽の発表した」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE84Y2t4LUlFaXFEaHE3azBTc2hIWEE0T3dCZDMtTUVpZkozZUhZNE52OVVyZTAyRVpOeW1xejgyYUY3QVJaclhiS1hXTVZCVEI5UEg1UmJqT2UyM2E2MnRZeEhVcGpjQ0Nsb0htanlUZ0RfdWpRY3c?oc=5
+- 日本が「戦争の雲広げている」 国連総会で批判展開―北朝鮮 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IMFd4Zk1NSjBLWEM0dlk0dFM3OHJ3b2MyVXYxVHFXSGxZQnlLWThBNGtqSTl1b2NmOE5aOTdHS0Q0LUdMOHRVMWZVVEdHTWNFMnVWZS1YSU1ic1MwMTBLekJjbw?oc=5
