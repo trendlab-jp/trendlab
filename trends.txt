@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 急降下のイスラエル行き旅客機、乗客らが「墜落させようとした」副操縦士取り押さえ…「テロの疑い」で捜査 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TRnBLQjdYOXpkZC01Z3E3TFdENUdLOXpQZ2Y1czNKVkV5M2xmVV84Ul9QTElIR0JwVGFYdEk1ejZOMGo0aHBxN1VGN202c2hlTmstcG1KQ3hyOGt0eVJyLTFB?oc=5
+- 急降下のイスラエル行き旅客機、副操縦士を取り押さえたと語る乗客「航空番組で見たように操縦かんを引いた」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GdkQ2VVdrbldCMTZhZ2JxR0lEdjVuY3Q4YVlGODBCeGxiY0dkN0ttdE4welVDOFhHUHF2ZmJrVW5mSEwyMlpsVTJseFlaTkU5VFJNRG1lZEM1UzVyQUZUWjBn?oc=5
 
-- 任命拒否が残したものは 学術会議に「下心」芽生える余地 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KcHNvbFZ3QUZjSDkwVWhWanEybWU1eVBORmJsd2ZsSWVDdUVSNjZQME9PSHhObmZ3NTdudFRkbjllZG15Smp3V1A1a3FYS0t6cFNfZ1NoTE5mVXg0M0xPYV9tRk4xT3Vl?oc=5
+- 歩行者が車にはねられる 21歳女性が死亡 4人重軽傷 神戸国際会館前の交差点|交通事故 - kobe-np.co.jp
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE0wNzYyZElKemZNVnBHaWNmZThHcDJQNjFmWEVnT2UyV1NybEh6ai1aUVQ2Q3FvZE5xakNpN0dVSkNaRkVvWXo2X19iSGw5cTlOdDM2UTQzOWtGWFZzTzBCV3dMZFdKcmdzZzU1Q1Zid1dteUw2T2V4UU9oQ0U?oc=5
 
-- 台風27号(チョーイワン) 来週はじめは強い勢力で小笠原諸島付近に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Q1docU51V0dMZ2Vkdm5KaFE5RG9FLXl4Q19FSENrdWFpbzlWckwyeEFOZlByVG5vZ3BFc2RMNGhoaWloeGR6YjlCaU5oVFd2ZnV5Xw?oc=5
+- 台風27号(チョーイワン) 非常に強い勢力で小笠原諸島に近づく予想 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE16cTJEeEdzNGJIaTR3MEJMTmNYeENTSzZOVWZHYlBSYWM2MXR4ZndOcTF0WjRCbk5SMFRzMzlud1o4Y0h4R1VVWGRCRE8xWjFwOXZZcA?oc=5
 
-- 9月は関東で記録的な雨量　東京都心36日連続の降水　異例の秋の長雨　秋晴れは?(気象予報士 吉田　友海 2026年10月01日) - tenki.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5YOXJVZ1ZjbGJ4c3JvT29BYzQ4Y2pqbnVsQVhXZlF6OGM3eC1aRzNwMk4xaW5lR3pRN2tiY08wOWZRZTJweXprYmpER2kwSWJyOHE5ZUlCSXRDYVRrQ1ZpYnhUbmw2ajJlcUQ40gFwQVVfeXFMTmpRMEUtamkwMkpvbWpWbU9COGhLQW1ib1RUV2lEdWt6c2tLTUxDSGdrNldlRENyeWk0TV9Nd3NWTHI3ZWZKQVVBcjBZZGJWekFkQUhQbzJuX1NlM2ZLYzBoSTBydHdGQnRYaXYwZFN1Nw?oc=5
+- 簗農相「回答は控えたい」、大臣就任前を理由に 那須烏山と那珂川の「予算大幅カット」報道 - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnMjE2WDFGNFJtQUJPZHVjMGhMT1ctU0drNXRfa2Vrd2twczF0Rk93NkxVMFBZbkw2Yzdqc0l3Wlp5SGs3Nm9jVXFzaW94c0d0SXlVUnplZ3hpeEE?oc=5
 
 - 神戸 連続発砲 現場近くで拳銃押収 元暴力団員が2事件に関与か - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMjlmbk1GWnJtNmUtc2ZyUkZrUVRtLURGaXliUHhMTnRvU2lGXzY5NWRqTW1YZ01oVGdGQmdSMDB2VEZnMXRuN1dXcElCc3ZLRmZaVEtpWGtTd1JaU2dZ?oc=5
 
-- トランプ氏「私は悪い仕事をしてきた」、経済の実績説明で…「大統領は中間選挙で勝てない」と弱気発言も - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jT2k5Zlc5N0RjVG1OZjFWRVJsSDBua0lJRkFfTE1WTEc2RWdGSm9vYVR3cmRQTmJqSUJwVUJTV1c4MEp4ZzFBMmZTU21QYkxBd1JPc0JkMmRfd0NhRnFVSHN3?oc=5
+- 東京都心36日連続で雨　最長記録さらに更新　一転して待望の日差し　27℃超え夏日(気象予報士 石榑　亜紀子 2026年10月01日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE9qMUVCV1l5eHpmUTUzZ1hSTlVVSV9aMzRydDlyUkJuRUJGNlllUnpzclktUE1IMjJROXI0MWZQd3pXMkxvMFhiR1AwY0RmVlB0MXpCeWVUX2U2azk3QzF3VHJ6WWJEcEhJNzk2dFJn0gFzQVVfeXFMTnJ0NU1OanI5bHlXNVJXYWdpSXBLZVhZM1dYWFlNRDhOZnpmQmRWTGU1RDloS1JlT214M1VXemdMUVd6bDRLc3ViOTBqR2ZiNHR3YURtOTVpX2p5cFl1R2I1SmFGdmQyUnBxcFBvX3ZFWUhvNA?oc=5
+
+- 東京都心は真夏日から一転　明日2日(金)は気温大幅ダウン　服装選びに注意(気象予報士 田中　正史 2026年10月01日) - tenki.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9RQ0ZvUHRSZVNzenZaRWF2Q3U0WDFjQU5fbHpzSmIzN2RLdmhFWmRsMGJEOHJBR0dQNElJMmJYSmE4QWlwZkpOd1hGWFF0bzR0dE5FdWFjNDdETU5MaFFnS3h2TTRHUFB2T2Z2bU4yOUxyQdIBd0FVX3lxTE50ZlFCZ2s3SHpaekFWZTdwNFRGS0NnWU1pN1NKWXJEX3ZWenFqMTFhbmpTemxkaFRacElXcjVuMmM5bVBFWWdia29feHdlNTFvNWJYUEExc1oxSUUyXzd0UEZYdmZ3QTVFWm5xSFVBS1RIVkFWNkZZ?oc=5
+
+- アクアライン多重事故2人死亡 複数車両が海底トンネルに取り残され - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xdUxLZUh5NG5BTEhSZTMyeFBzX1pjTmc1cnZLaGJrWjR6emJhaElDWWwybURvUW9yNmY4LUdSU2FzMHhFcnpSaEVRSzNuSXNPcG9QdV94dVp2ZVZYT3FrTlhLa0tuXzg?oc=5
 
 - 中国が岩屋毅前外相を異例の厚遇、高市早苗首相には批判 真意は日本分断か - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1BcWtJSjU4eHlndDFBQkJaMjAzRkhIUVJ0Vm1wclJnNkFUS3pXU3F2QzNzeGgwcDdXaU40TUJTNHhyT0xQYlpDWkVKSUpxMzRjWENLdEgzQnR6Qm5fM2RxMEVsWUtYMTFhZ2ZWMy1yXzN2UUtXd3c?oc=5
 
-- 東京湾アクアラインでトラックなど４台玉突き事故、２人が心肺停止で搬送・うち１人の死亡確認 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DclBXeHBGYktqOXl6UjZhSXlYbERidVFZWlFjeUpaV01uNDU4aTZKaFFZZUszS2Y5dXdJUURsbTFDYXFMSkxUWnR2RVd0b0ItQ0s0ajBXV2ZBemxNT0J1ZmZsQnN3dw?oc=5
-
-- 外国人の永住許可ガイドライン、収入要件など厳格化 1日に改定 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5vcDdtSVJ2LW1EbU9CWWQ2ZnZwbmVFb2lEX0hGU3FwZnFRUmx4OHpjcXVycWJWanY2NkpPN3BHTDVRaG1nWTZoblFWV01OUE9QcmV2cFlFU19GSWdjRUprSlNIV2FVM1VZaWNhaQ?oc=5
-
-- 世界遺産 二条城の観覧料 京都市が「二重価格」導入方針固める - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HQVJ2TjNPT0NhVU5CenhYWnNiRmx5dEdTWjJpS2tLcFcxd3ZHRDYyTTZwNlVlVVo4em1jY1dEX0wxSWhROEFtZGJRTi0yRnRBQWhkNHB4eV8wdjcyMklr?oc=5
+- 黒部ダムの世界を深掘り、小説の舞台「高熱隧道」や３４度の急傾斜体感…「キャニオンルート」あす一般開放 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qN1ZTc1c2ZEpJVUhubzFFN2prUWtPM1JieU16OEZXYzdLLU9LUlhsb3EwaDAyRHExWjZnU2tyemhLU1otdV9maW5oTFdsTkYwaHFETktJaXpHSEx3TU4xVnZ6ODliZw?oc=5
