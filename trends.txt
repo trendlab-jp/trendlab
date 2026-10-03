@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 東京・晴美のマンション２３階から９歳転落か、死亡確認…母親「ベランダ伝いに隣の部屋に移動」と１１９番 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zN3VQOXd3dE0zV0k4TWVjbWZySWgzUEowLWMzT1h4RWZBNVlwbmY4d25fZ21tVnVmQnd2M2lwZ3M3M1BIOGp6R0pVZUc5LXVoYkZCVnRmMEJMbE43YzFPQW5abEJadw?oc=5
-
-- 【速報】八丈島沖でダイビング客8人が一時行方不明 午後5時半ごろ全員救助され意識あり 海上保安庁 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUmJOX0V1V0EyaUlQcldpQlRXdFNua1dCQm5Dc2RLdjJHVndwSFktaWlNdG5aTEphcFBpYVQyeWlqTXRaVjZucnlld3dFUHV6S2YwY3EyMzBfV05IcFdINkN0VHpaR21OWHZoazFDVHg3UDBHbC1tNTRKN3VJbFU?oc=5
-
 - 機長襲撃の副操縦士、以前の勤務先・オマーン航空で過激主義思想疑われ職務外される…米報道 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lWUE3VjR2a0FsTENkQVg0VUZkY3FxbEVoT3FOY1BFb0wyLTVEOHlhcXh1RVlORTdTeGVjNTFXS3JzcjhMX2hKTXpVZmtBY1FzSDRTNVMtVjVRajU4UWxEMXNB?oc=5
 
-- 那覇のホテルで女性遺体 事件に巻き込まれたか、一緒に室内に入った男性の行方追う - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE90MTF1aDk0d1BCXzlVb3dHelVuYlpUS0k0Rkk4d0REX1p2QlY4U29lUDh3YnRfd0RUZDZZVTYwOFVYZHNKWi0tN0ZIWWxWYW1Fb2VSLTFYVmNNUlBPVUpJb2FuTURua25uV2lURFd1Zm1pMDBOWlE?oc=5
+- 【速報】富山県警が市役所に家宅捜索 富山市国勢調査 人口水増しの疑い - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvd2hFckptY3V0ZTRhbjMxTks1Sk9VcWNJb0lBbmwwSFdweEVSakhQV2FDMm1uNm1aSGtSTVNBUEFYRWJLaTBDZWFVT0FTYUdKdEtBMFNibw?oc=5
 
-- ウクライナが大胆な作戦、ロシア兵250人あまり投降 前線背後にロボット投下、「トロイの木馬」も（CNN.co.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9vc0JyQ2I5bURZeG5jbkJKQnRMWWkwaXU5Slh4bXFHS2R4aUxFNFJNcDVUcVdyUU0ta2NWZmRMMW1CS1B2eC1jSVVNVVMxY0NENGlzeF9ZQkJKOXpJaERVX2sydXE2LTJiZmVNRkw0eGJRaUVpRzNiYjYtMzlYdXM?oc=5
+- 簗和生農水相が再び説明回避 予算削減発言は「個人の政治活動」 事務方が質問遮る場面も - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1POEs3TGZPNGp3SGpwT3dPU3lVZzE1emdiZE51VlVfaDdTY0VaSEcwQmdtU3pBakl4SWJYX3lkaTQwOGg3UmdSbkJMQ1AzTGRkVU5POGlwZzkxdUVBMU1rNjY2Y1VKR2lrcGdudk44bjB4clZ5U1E?oc=5
+
+- 【速報】高層マンション23階から転落した9歳男児が死亡 東京・中央区 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5ldTFHMzhGVUhRdTBLWk5maUNjVGlwdy0zWXkxOTlEZWVMZXZRMWNtUVN1TW9qTWtrMUxSZFV4Y0FTMzhRVERnekVCbXM2WHhzZTNIN0x2elZBVE9rN3FXZGQwSV9EMkhYcVdlVGFKQ3F2Zw?oc=5
+
+- 東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RSWtOVnJ3SFdvcG9XWGRPMWdqSllDc1RyeTU3X1VBMTJsdjZCOWYtZklxRUU0MmM1T0syNkFIUjdKdFNPdzFiV3dIeFp1NTdfWExlWWN3dk5ZOUJCYzNR?oc=5
+
+- この先は各地で秋らしい体感に 朝晩と日中の気温差に注意 - weathernews.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vdndIeGpWVW1wcGRHNURxMFZYN1lURDJ1enF4bUJNX3YwYjdRaExRQ0gyQmtMNnA3Zzh2UDkyQWI2ZjQ5VDlOdUxLTVd4RmY4ZmR5cw?oc=5
+
+- 【続報】那覇市若狭の強盗殺人 外国人風の男性が関与か 県警が行方を追う - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jcy15WTV5YTRIYW52MXVkeXFYNnAtVlBCUHVtUm1XZ1JGaU0yUHNQRTlscXlFaWFIZkxVNGhpc3dTcDl2NlhVTGJuYVRjRENodEZYaDFYaUtKVjBqbUE?oc=5
 
 - 台風27号　非常に強い勢力で小笠原近海へ　925hPa予想　関東も高波・強風注意(気象予報士 吉田　友海 2026年10月03日) - tenki.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNk5ORjQtMWxRczAyYmpHc2E3SFBkSEw2cTJ0NGJFZG1wMDJGNTBBcEVkTUQxWmMzUjBwMS1mOXBrejl5U3Izd2xORzJYZzlWYjVTbF8xNHpZSWtkemhiVGUxOEJUQU5Gd1kw0gFwQVVfeXFMTm03c2NBVENFNXdyNURQX0Yzem41Ynp2LWo3YURlTEltSEs3b09vU05HLVRJdXg5TDgyY2RYWDFlYV81bXVVV3dtb3pjaDY1c3dNX2xtRUI1eG9vN3YwcGtoYVdNYVNtdkpJWTlyRXNYVQ?oc=5
 
-- 富山市役所を家宅捜索 人口水増し問題で 統計法違反疑い 富山県警 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1CN1lzcGY0a2tta3Z2T05lSW50eDJWQTRmMkhpbEthaWY5TUdCZXF3UDV6eEY4N1EwZG1wa2RiU3ZUcUpqSUJFbVNZbTVCTjJ2ckVHSUY0TDJKSEpwN3hfMGxzR3ZVMktEMy1sM2NnWk8yRFRGZ3c?oc=5
+- 堺の祭りでだんじり横転、乗っていた男性７人けが - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZa2RXYUliRDZZRkUyRS1sTGowY201X0dNMUZ4elBBdjhDQnJRMzBiUGdoV0hfYk00SERmdTZjQTJYNnpZemZXYWdFUUY0ZXdXSlBoNDJWWDFzM0sxZWRRdndQUUJUQQ?oc=5
 
-- 【速報】「似た従業員がいる」福岡市で起きた強盗致傷事件 公開捜査の男を兵庫県で逮捕 - 日テレNEWS NNN
+- 【速報】「似た従業員がいる」福岡で起きた強盗致傷事件 公開捜査の男を兵庫で逮捕（2026年10月3日掲載）｜FBS NEWS NNN - news.ntv.co.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGtsQ1ZyRTJ2WTM0TzhkVXBWV0plMHBrUExOU1BzMnFsbEt4cmhaSXZ4dklsUmNWbC1HVTg4MlhXM3dUcklLN1ZFRjJfQ09ETU4yTmdjeENwQ01wYXRleF9oRUpYeEFIaE8tdmpSZnNuRGRHYVFTZ3N0Z1VBS0VXZFhYYXloMms?oc=5
-
-- 長射程ミサイル住民公開 1000キロ飛翔可「反撃能力」配備後初、熊本・陸自健軍駐屯地 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMUtGVmxyT3ZNU2xuYl9FaU1LMWhzNFNiTzZDRE1WenFheHZ4MXI3VXdfMU41Ny1kSXBFLVV5MVZmU192MllvWGZsZWR0cUM2MXFSWU5vTWhNX2k3ZFFxMC02UlJUbXMxbFYxTkpTTERWaVJQQVE?oc=5
-
-- 福岡県議会の金銭授受を証言した自民・樋口明議員、議長就任祝賀会で「支払った金額以上の収益はあった」 - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTFAtazdZR0dyTEJ6Ql9ra21xbW5HQklTZXI1dVB5aDhUc3NwekpmaXNHb0JQSFFtS2ZreUZUMDg2Qy02d2V3UUM3QmY1ek5WcUNxdUo1V0tOMVhEblNvYWhaOFRoU19jUXFaMVdyNmFXcmJFQQ?oc=5
