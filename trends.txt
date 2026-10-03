@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 富山市「人口水増し」で県警が市役所を捜索…市長「組織でやっていたと報告受けた」、部長以上の関与は否定 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE53cmZIMVZpM096TEZzODVGaEZabzdzcmFNS0tqVVVlaE9JYVBYd3EwaTk0d1NmWUJpd0NGR0pyZDFyVk43Sy01XzFNNU9Lb25CaWdBOEd5TGpONGlKYnozUG80Sl9MUQ?oc=5
+- 東京・晴美のマンション２３階から９歳転落か、死亡確認…母親「ベランダ伝いに隣の部屋に移動」と１１９番 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zN3VQOXd3dE0zV0k4TWVjbWZySWgzUEowLWMzT1h4RWZBNVlwbmY4d25fZ21tVnVmQnd2M2lwZ3M3M1BIOGp6R0pVZUc5LXVoYkZCVnRmMEJMbE43YzFPQW5abEJadw?oc=5
 
-- 津市で4人死亡の火災 住人男性と知人女性 出火当時不在か - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE05aTNlSnRTSFlvSWM3QlJnSVE5YWhzSUhVa2s2ZmdTV1hvSjM2bEE1MTdYZF9WSHdzbjdTbFBNVmp1TDdMZlZCQUVmNUV3ODdmQjJYLUFyeF9OODA0N1Bz?oc=5
+- 【速報】八丈島沖でダイビング客8人が一時行方不明 午後5時半ごろ全員救助され意識あり 海上保安庁 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUmJOX0V1V0EyaUlQcldpQlRXdFNua1dCQm5Dc2RLdjJHVndwSFktaWlNdG5aTEphcFBpYVQyeWlqTXRaVjZucnlld3dFUHV6S2YwY3EyMzBfV05IcFdINkN0VHpaR21OWHZoazFDVHg3UDBHbC1tNTRKN3VJbFU?oc=5
 
-- 簗和生農相、予算カット発言を認める 辞任は否定 自民内には支援しなかったことへの「報復」当然視する声 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiX0dkcm5Pb3UtNWR6cEdGNC00ZzB1N252bzJjSnRwWkx5a1RnWjZIU3ZPRDlUdUVnNFg1cFN5T1VvT3pCZHloZ2hDdVdYSDEyeEkw?oc=5
+- 機長襲撃の副操縦士、以前の勤務先・オマーン航空で過激主義思想疑われ職務外される…米報道 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lWUE3VjR2a0FsTENkQVg0VUZkY3FxbEVoT3FOY1BFb0wyLTVEOHlhcXh1RVlORTdTeGVjNTFXS3JzcjhMX2hKTXpVZmtBY1FzSDRTNVMtVjVRajU4UWxEMXNB?oc=5
 
-- 操縦室で「必死で戦った」とインド人機長 イスラエル行き航空機事件 入院先から印首相に - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9ESG5kYXRLOHhiRVl4MmdRcEc2dmZXQ3RESWlSZk1lb0tZZklhVllGLXByUjZ3ZFdPWnpmNzlCd2ZxTWhrWU5JREtkN2dQWlMxbWctZE9aNFRtaWdKa3JTeE1jdVhsRmkzbVU1SVd1NURjcUtJM2c?oc=5
+- 那覇のホテルで女性遺体 事件に巻き込まれたか、一緒に室内に入った男性の行方追う - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE90MTF1aDk0d1BCXzlVb3dHelVuYlpUS0k0Rkk4d0REX1p2QlY4U29lUDh3YnRfd0RUZDZZVTYwOFVYZHNKWi0tN0ZIWWxWYW1Fb2VSLTFYVmNNUlBPVUpJb2FuTURua25uV2lURFd1Zm1pMDBOWlE?oc=5
 
-- 「私は下手な対応した」珍しく弱気トランプ氏 物価高打つ手なく - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SSWx6ZXRmVXFiR1NHeXpsRDFUY282TXZEUzlpWHFYOG9zZVBHRUhwU0FWSnNQX2huZkpLbzJ0RmxYRGVXZU1EbmU1eVAzRy1SOXV2ZWRBXzFxN1o5eGxBM05sUkJsZ3dH?oc=5
+- ウクライナが大胆な作戦、ロシア兵250人あまり投降 前線背後にロボット投下、「トロイの木馬」も（CNN.co.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9vc0JyQ2I5bURZeG5jbkJKQnRMWWkwaXU5Slh4bXFHS2R4aUxFNFJNcDVUcVdyUU0ta2NWZmRMMW1CS1B2eC1jSVVNVVMxY0NENGlzeF9ZQkJKOXpJaERVX2sydXE2LTJiZmVNRkw0eGJRaUVpRzNiYjYtMzlYdXM?oc=5
 
-- 函館赤レンガ倉庫近くの橋から転落、オーストラリア人男性が４億円の損害賠償求め提訴「欄干は安全性を欠いていた」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3N1lNa3d0VHc2QTJHZDBIZjI0UllFaEJhTDNWZ0NFaC1aZDNaNjJHWEJjTXJHYnhXTHcwUVBGRE41Ri1DSjZrLVd6VzcxQTNveFIzWXN0REFNUE5GOUMxUERwVlNzUQ?oc=5
+- 台風27号　非常に強い勢力で小笠原近海へ　925hPa予想　関東も高波・強風注意(気象予報士 吉田　友海 2026年10月03日) - tenki.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNk5ORjQtMWxRczAyYmpHc2E3SFBkSEw2cTJ0NGJFZG1wMDJGNTBBcEVkTUQxWmMzUjBwMS1mOXBrejl5U3Izd2xORzJYZzlWYjVTbF8xNHpZSWtkemhiVGUxOEJUQU5Gd1kw0gFwQVVfeXFMTm03c2NBVENFNXdyNURQX0Yzem41Ynp2LWo3YURlTEltSEs3b09vU05HLVRJdXg5TDgyY2RYWDFlYV81bXVVV3dtb3pjaDY1c3dNX2xtRUI1eG9vN3YwcGtoYVdNYVNtdkpJWTlyRXNYVQ?oc=5
 
-- 三宮・暴走死傷 運転男性、体調急変か 同乗者「体が震え、急発進」|社会 - kobe-np.co.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBaWWtaZXl5aTFKRWF1VUE2a29EcVE4bVJOdTdPbS1kakhNbkJMWkh0aERqSUNYck5oLUl4UzNKN3BoVDkxYlhuX2djenFaS1U3ZlphWGdQck1PLTVwcmxDWGtWdDNfYzBDbGJQOWpPSQ?oc=5
+- 富山市役所を家宅捜索 人口水増し問題で 統計法違反疑い 富山県警 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1CN1lzcGY0a2tta3Z2T05lSW50eDJWQTRmMkhpbEthaWY5TUdCZXF3UDV6eEY4N1EwZG1wa2RiU3ZUcUpqSUJFbVNZbTVCTjJ2ckVHSUY0TDJKSEpwN3hfMGxzR3ZVMktEMy1sM2NnWk8yRFRGZ3c?oc=5
 
-- 大型で強い台風27号(チョーイワン) 非常に強い勢力で小笠原諸島方面へ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hUzBrWThGZjdfRUhIN01QbVZzdjVTMVpHazR5M2dsM1JpSTFxbkZyQl80cGs3V3RScm51YzRNUVV1NnlkQkI4ODE1YjlNdWlKSUNCTA?oc=5
+- 【速報】「似た従業員がいる」福岡市で起きた強盗致傷事件 公開捜査の男を兵庫県で逮捕 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGtsQ1ZyRTJ2WTM0TzhkVXBWV0plMHBrUExOU1BzMnFsbEt4cmhaSXZ4dklsUmNWbC1HVTg4MlhXM3dUcklLN1ZFRjJfQ09ETU4yTmdjeENwQ01wYXRleF9oRUpYeEFIaE8tdmpSZnNuRGRHYVFTZ3N0Z1VBS0VXZFhYYXloMms?oc=5
 
-- 【速報】那覇のホテルで女性の遺体発見 事件性含め捜査 沖縄県警 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IdEt5WUJSeUxudS1Za212dXExX1pRRjA5cFVaYWxERHQ2OWFpeGdsTTN4VWRXU05jQjV0V2ZkTG9hcTBOR1p2RmFPRzJjaTdfcV9BdHIzLThnOURyc0FnOA?oc=5
+- 長射程ミサイル住民公開 1000キロ飛翔可「反撃能力」配備後初、熊本・陸自健軍駐屯地 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMUtGVmxyT3ZNU2xuYl9FaU1LMWhzNFNiTzZDRE1WenFheHZ4MXI3VXdfMU41Ny1kSXBFLVV5MVZmU192MllvWGZsZWR0cUM2MXFSWU5vTWhNX2k3ZFFxMC02UlJUbXMxbFYxTkpTTERWaVJQQVE?oc=5
 
-- 中国「日本との関係改善」に焦り「岩屋氏厚遇の策略」高市発言は是正の必要なし 高橋洋一 日本の解き方 - 産経ニュース
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxQd256ZkNjVFBsY3owQkFfRDVtdXV0Y2tjX3BDNXctT18zZTlKSWY0VTZHVjlUQWNrV3otdlhqaXF0Vl9FcGhER1A5ZFVMSXNiRHk4ZFdnNzI5eUxoaXJyYllwc2Zjd2c4RnFzTlJqM0pWNDVNMTZoeXlKQmNkekszdldCSXBWQUZhc1N5eHdCSEhsRGpESFNnRmYwMzg?oc=5
+- 福岡県議会の金銭授受を証言した自民・樋口明議員、議長就任祝賀会で「支払った金額以上の収益はあった」 - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTFAtazdZR0dyTEJ6Ql9ra21xbW5HQklTZXI1dVB5aDhUc3NwekpmaXNHb0JQSFFtS2ZreUZUMDg2Qy02d2V3UUM3QmY1ek5WcUNxdUo1V0tOMVhEblNvYWhaOFRoU19jUXFaMVdyNmFXcmJFQQ?oc=5
