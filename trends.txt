@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 古謝沖縄知事「断じて許せない」 那覇市の強盗殺人容疑で米兵逮捕 5日に米軍、外務省、防衛局呼び出し抗議へ - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMFN0anVyOG9iQW5lRDVTbF93VWVaWmJqNmxiU19nMWEyOXo2V19uWDVSQ1NWZFR3OG1YTWk0NjdWWGJrZkJ5YWpTM1B4MWtvcFVHc2JlVGNDVU1USUE?oc=5
+- 那覇市 女性への強盗殺人容疑 逮捕の米海兵隊員の男「私は知りません」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9wS2NnbVVoZTBfTlZzOFFCb0c2aHNUcnAxXzdTSXl1dXRpZ3IwakJ0S3RLMkYtby1abTRETWFldTdJMVdTaERLUnZvNzRpU1hTQTR3TTMzS1p6azlLSHhrN2dLTDY0dF8zSW9HT01iWkx1UQ?oc=5
 
 - 副操縦士、「お祈りをしたい」と申告直後に機長へ一撃…イスラエル当局がチェックなら乗務できない国籍 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SzMwSC1jNHhaa1FYZXJaRkJ5S1NaWXl2TGd2Sm9fSXVoZjR6a25TSGpvM1VpMW4xUjJnTUVseThETlBPMk5CWmo3SWVWcFVaUG4wakRRU3dMZjc0N1dUWUpR?oc=5
 
-- 横浜市長選挙は７人の選挙戦に…１８日投開票 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9acllVZGk5d2VlbTBMcEtUcHRsYlZrdmpudUlhaVY0OHdfOXZudlcxMVpON1JKb0ZvaEVxU1ZlU0xZZ3ZuOXVhVHZTOXBxdElIYXV4RkZpc1lhVnZyX3d2TlJPYU40Zw?oc=5
+- イエメン暫定政権、フーシ派に対する大規模軍事作戦開始を発表 全土掌握目指す - reuters.com
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHJxZ0s0NHZzMHZmNkFBaGkzTFMwTFVuOFRhNjUxT0lMYnAwckR6bXNfNkpBV3lDMkR0bDBONU1VajFvaDJzWE1tNmhlZkg0YktKV3VDenJhWkhDalFHQkpaMi1GS3laaHdaclRrZWJERHZ2TGJTQXJ4ZVlMbXliRFJGSWhyejQ?oc=5
 
-- 大型で非常に強い台風27号　眼がくっきり　小笠原諸島や関東など太平洋側は高波警戒(気象予報士 吉田　友海 2026年10月04日) - tenki.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbnpvNmdDLXEwR19ZTkFaT1JOaXFybmR1SjJFaUpveDBjREZnT01TSXRLVGhyUFdCM1g1S1MtZGZ4SFk4bTNSUXdOTk9La1BiZkh3aFBMQ0g5ZnhybDZFMmUxV2ZSbUszT2lR0gFwQVVfeXFMTzJuVTlvbktqN1hFQmtnN0lGWDFDSEJ3UFR0d3dmRnJvX2NlSU1SZm1IZlNQbnFodlFuN3NvTFNGT2VoeE94NTdrTjFpNTY4Vi1Vc3VhcEUtWTA1OFdiWlphNnZhbXVlQ2NBNG0yakR3Zg?oc=5
+- 【台風のたまご】新たな「熱帯低気圧b」が発生...24時間以内に「台風」へ発達見込み...今後の進路、日本への影響は？14日（水）までの雨風シミュレーションで確認【気象庁台風情報4日22時15分発表】 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LSHR4SWdXZGU5WGdCNXd4S2o2V2xENU1hOUk1cm5OM0JBcXJwbEk1YWhOMDV1RG9GNnVJT1lvTFpNSlUwUmFSN2RONlh6NFBXMk9JaW01WQ?oc=5
+
+- 横浜市長選に建築家の山本理顕氏が立候補表明 プリツカー賞受賞 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORmY3WHd4NkE2Q25XTVZxODEyWUVXc2VpSVJaYXZQR25nZXJtQUlIMU1PRjlvamhEeXlVYVlaR0MwbzM2Vk9xTlNtOGNTaldoNUQ4bWRJMlZ0LTRiOEZwbTdIMXJETGc?oc=5
+
+- 大型で非常に強い台風27号 眼がくっきり 小笠原諸島や関東など太平洋側は高波警戒(気象予報士 吉田 友海) - tenki.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbnpvNmdDLXEwR19ZTkFaT1JOaXFybmR1SjJFaUpveDBjREZnT01TSXRLVGhyUFdCM1g1S1MtZGZ4SFk4bTNSUXdOTk9La1BiZkh3aFBMQ0g5ZnhybDZFMmUxV2ZSbUszT2lR?oc=5
 
 - 夜釣りで海に転落、9歳男児が意識不明の重体 救出に飛び込んだ知人男性が死亡 淡路島|事件・事故 - 神戸新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdmJhaXMtV3NubU9RN2JrUkxUdjY1R2JqdVhpbWdqaDNyeGFxV3U2TUdEM0hEMTB3TTVoUWZxSXRKNk5RbHl3UkJSLUZsZDV0bWZnaTl6THpRUU9oOVlKVTR4eW9MZXRyQWNNNg?oc=5
 
-- フーシ派がリヤド近郊の石油施設を攻撃、サウジはイエメン首都を空爆か（ＡＦＰ＝時事） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1fYzctRUhpT2ZvaWpWdGFiR1VmaTcybEJaZWo5ZHhmMTY5OURULVROZVVzdzZBeGtETzEzeG5ZZmhlanZEYzh4OUtYX2JVRjg4QUhnXzVxcktYYktUZVJlaEN1Z05BOVpZVUhOWlhyMkZqVkNZSVFVNEhMM2hRQzQ?oc=5
+- 八丈島沖 一時8人不明の事故、ダイバーらの救助映像 公開（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS0kwcUVJV0ItQWV6TmRPN2NURDhVMUt0WlBKQzI0TWhGX002RGpQbXhiTGtGdEVLdHgwMVlUTFhnZGJiR1JuX1lRSnVHSHE4cjZvU0x1LVRwQ2ItaDJJNXBUejBpeG9FaDBSS1FQb3d4TTJVcHhtU25HNXh5YXc?oc=5
 
-- 新たな台風発生予想 北西進しながら発達する予想 今後の進路に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVm1rYjRtWjE3WEpiN2pkMDRQeXdOWThUYkhhMWpEWnh1Y1kyMlNUTDdkTlctMDV1aGlnOUQ4VWZ6MUFNUFdRLS1saFduYjRrMWFtSA?oc=5
+- 作業員男性、ごみ収集車に頭を挟まれ死亡 福岡市の「ゆめタウン博多」で段ボール回収中 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuM091WTlyeWF2aUpMbnpLZVdjUmZLV2Zxdjl2aUlnRGtWM2NiNThHR0t3VXQ1QnFxblBYckhDV2VCbjRzSnN2VGxnbDktazJKVDBlVWZB?oc=5
 
-- だんじり横転し10代～60代の男性11人ケガ 目撃者「倒れた音がすごかった。ドーンみたいな」 大阪・堺市 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yWlBYYnFLU21LQzNndmFLZExJM2RmZDNqbXM1WVJyV1ViMHJWVU9za0g1RkRxd0pZd1A5eldUT0RoQXBmZUNEUEdoSEFnZw?oc=5
-
-- 台風２５号、横須賀と三浦の危険崖地で被害大 レッドゾーンは８９００カ所 減災 - カナロコ
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sSzd1UmRlZjVCNmVrUWt4U01laGl5MnpPVjRxMHlBX0pRRHMwb3pycXlobDBiWkhNNmFmT2YzN0dqRExNLU14MW9FUGdYZU02Mlp5TC1CVHNMVlFJUC1IS01JaXczZ2c?oc=5
-
-- 東京都心で降り続いた雨、連続降水日数は３７日でストップ…１８８６年以降で過去最長 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpa1JwRzgwUTdTa1dfbHUyaXp1am1veU1kTmNEWi1aVFJQM0hzUFIzaXQ3ZjBDT29tZGNobmRBY2c3X1VneE9EdldjbkJBX1B1ZWsyQm5rYmZzYVZDQXhZaEozdmdwQQ?oc=5
+- 福岡県議補選で牛島慶二郎氏が初当選 蔵内勇夫前議長辞職の筑後市区【最終得票、当選者略歴】 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haUExRE91SGpSSzNsR3Jlakx0SUZDc1NlWWJKNU5XMEN6TmJBZFpVZE1jSXI0MDFmdDhQM2xaeTNrWUoyajVWdTFNbTBYaTlJcG1QSDJR?oc=5
