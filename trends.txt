@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ氏、２０００万人超の高齢者が対象の現金給付を発表…中間選挙で有権者の支持を獲得する狙いか - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1ZmtTYXpZdnpwYV9uSDhMMEd6dTNUVGFkSlo2LWpjeGx1ZXVrLXV2Y3lmbXBka1A4ODZ0XzlpdjdfbHVxeGQ4YzRSWEdDeXR4cmF0RmdOSmhLZVV6MU9YNzVR?oc=5
+- 那覇ホテルの女性強盗殺人、米軍普天間飛行場所属の海兵隊員の男を容疑で緊急逮捕 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rNXVtT0ZCUHhJY19MWUg5aTQyb09ORHpOeDJ2UzJuaFB1ZGtDWC1LWkx3SVZXTndhWXhVREhudE5fRlJ4c28zcUsyMWlkVUJOTnVWbHBHcXh3a0FNajRPdEFST1d1Zw?oc=5
 
-- 機長襲撃の副操縦士、以前の勤務先・オマーン航空で過激主義思想疑われ職務外される…米報道 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lWUE3VjR2a0FsTENkQVg0VUZkY3FxbEVoT3FOY1BFb0wyLTVEOHlhcXh1RVlORTdTeGVjNTFXS3JzcjhMX2hKTXpVZmtBY1FzSDRTNVMtVjVRajU4UWxEMXNB?oc=5
+- 横浜市長選に建築家の山本理顕氏が立候補表明 プリツカー賞受賞 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORmY3WHd4NkE2Q25XTVZxODEyWUVXc2VpSVJaYXZQR25nZXJtQUlIMU1PRjlvamhEeXlVYVlaR0MwbzM2Vk9xTlNtOGNTaldoNUQ4bWRJMlZ0LTRiOEZwbTdIMXJETGc?oc=5
 
-- 簗和生農水相が再び説明回避 予算削減発言は「個人の政治活動」 事務方が質問遮る場面も - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1POEs3TGZPNGp3SGpwT3dPU3lVZzE1emdiZE51VlVfaDdTY0VaSEcwQmdtU3pBakl4SWJYX3lkaTQwOGg3UmdSbkJMQ1AzTGRkVU5POGlwZzkxdUVBMU1rNjY2Y1VKR2lrcGdudk44bjB4clZ5U1E?oc=5
+- クマが「自宅の庭に」、1カ月で16人が襲われ死亡 ロシア（CNN.co.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE43S3VYc1lqQXI0Nm5nUVBFTUZZcG9IRjRNT2VNM2NEZXVja0JrZndqM2hndWtBUS04YV9OTThkakFqWnpJNnJJcll6eXNlNlZJUGFLZFVPa1RyeWU2dmhvdFRyNlM4LVVBdnJoUVBRamVucElHVGlLb0hONUlEZVE?oc=5
 
-- 「ベランダづたいに子どもが移動した」9歳の小学生男児がタワマン23階から転落し死亡 中央区晴海 警視庁 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wNTFlSm9KUkk4SVpBT0pQaXVRbWZkOFhLc1cxcTdPZG1IQW9qTTNTYzhwN3Jnb0RvV3JLOVFfSU03YXNmRUhSZ01FUDctcm1rQkdia2daMA?oc=5
+- 淡路島で釣りの9歳男児 海に転落し重体 救助向かった知人不明 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dDVZcmNVVER1YTRSTkVUUVZOdlI5WEZuQzdLRGZOZkF1MzNPaDh2eVh0ZjgxcEJ5b1pxaWU3Um5OcTJ6UldmMVdRdlhvVENzMjFva3VxQV92N0FIek5N?oc=5
 
-- 北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発射” - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfTnYxNlFpQmtuV3Q2TGluQkNNQnVwY2hzSW9kV21SSkZUejZLLXpFUHhpOHNlOHJ1QzdNMkJoYUpPSU84MXZCbjVzVmxhYWhEQjllQXk5VW81bjk1T2s4?oc=5
+- 週間天気予報 週前半は天気ぐずつく 台風27号が小笠原諸島方面へ北上 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLZTRBYUxZMm1YdDRHR3FwRDNOclZDal9LWUlkS09iRzlDdm02NDdUWk5WNWQ3RGluZnNSaXVva3E4UjlkN0RLdkZjY0dmMGRmb3JYNw?oc=5
 
-- ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念 | NHKニュース | ウクライナ情勢、ロシア - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xbXJJdWNJX1dyS2pNMUF2WkhEZXZ2c1NaQ3NPTEJfSHV1S2lYSzFsZHVGcnYwMEtCMGdWVmRob0FBQWFON0NhMk0wdGhnOEpiRGVVbTB0X3lXSjZrSUpV?oc=5
+- 庭に生えた草食べ生き延びるロシア占領下、人道危機が深刻化…食料支援をロシア妨害か - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtUGFqMHdHYzFaXzhJbl9LS1YyQWduOURRZnFhZ21paDdtSUliZE9RajBkWFJOVGZ5ZDUyeXp5SlJyVGg1N2kyaUQtRS14X1JYZElhN1lBSG5CVVhJSkxUN09n?oc=5
 
-- 【続報】那覇市若狭の強盗殺人 外国人風の男性が関与か 県警が行方を追う - okinawatimes.co.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jcy15WTV5YTRIYW52MXVkeXFYNnAtVlBCUHVtUm1XZ1JGaU0yUHNQRTlscXlFaWFIZkxVNGhpc3dTcDl2NlhVTGJuYVRjRENodEZYaDFYaUtKVjBqbUE?oc=5
+- きのうの秋晴れから一転 きょう西～東日本は早くも雨や曇り 大型台風27号は非常に強い勢力であす～あさって小笠原諸島に接近のおそれ（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaUd3Q2NnY0hMRVByYmQ2Wm1WajFicjZLSk5HRnYyanNqaVRackc0dzM4ODgtVkpiakhsRENJOFM2Tnd2bjRITk9uNDJueEFFdGRFRXdQakhLTmNPangxVGxBaFNCSnZJWjNLT3ljbzFtU2w4Yk5VR20wMW1NVk0?oc=5
 
-- 米国産ジャガイモ解禁前倒し浮上 トランプ政権の圧力が背景 - NEWSjp
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xRU8xTm1lVS1OV0N0Z0FxRy1BemNidFBnWG5aNWU4Uy1JRlZ4azl2RFZZM2l1QXBXV0oxSFdaZ1hRVjU2cklFdEtZTHZRQQ?oc=5
+- 富山市役所を家宅捜索 人口水増し問題で 統計法違反疑い 富山県警 - sankei.com
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1CN1lzcGY0a2tta3Z2T05lSW50eDJWQTRmMkhpbEthaWY5TUdCZXF3UDV6eEY4N1EwZG1wa2RiU3ZUcUpqSUJFbVNZbTVCTjJ2ckVHSUY0TDJKSEpwN3hfMGxzR3ZVMktEMy1sM2NnWk8yRFRGZ3c?oc=5
 
-- 週間天気予報 週前半は曇りや雨 台風27号は小笠原諸島方面へ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xMzhwZjVKUkM5LU5LZnEzc2xITm42RFJFSlR5YU5FMFdXMlE5ZThiXzFMR1ItV2k4Zk53RWh2R2hHbjFwRktNWU9DRllMNFp1UWZ0cQ?oc=5
+- 三重・津市の住宅で火災 現場から年齢性別不明の3人の遺体 子ども4人と連絡取れず - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1ESDlKakt5OVJUMktBY3doZzBjS2pjLWZMcGY4YnJUeW9DWHhNOXdsMzB0cUk3MmVWM1FGLXpVSmU5a3Q0MkxRVloybGJjT3FfX0pRWGM0eC1rX0p0VVVTSlpVQXBFQ3A5MlRRSEtudjgxUQ?oc=5
 
-- 八丈島沖で「ダイビングの８人が浮上してこない」…下田海保などが発見、全員意識あり - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LZHExWDlVUmJZN2VsRWtNdlZwenpLRkNNbmlaZ3hUY195U0lSMHMzazVObndSOTNSR1FEZ3V3czZ1SjZuOTB1aTQ0SmZrcGtjNGtUOGJJZ2tpSUZYQU5pOW1Tei1zQQ?oc=5
+- タワマンの23階から転落、住人の9歳男児死亡 東京・晴海 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5RT2FWWnZIU3NPWnRjWXVUSlh5amZnb2hHMDZKOVpONHU3WFdpb3pmd21IR3ZncTUzZk9iR2IxSjFQaFloZk90U2U3LXFYU2NTNWlhQ1lLckp0VjJ5MkN6N25CeVU4UjhQNWViRg?oc=5
