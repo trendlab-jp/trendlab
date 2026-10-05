@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 「簗農相応援」の首長2自治体、道路予算増額 衆院栃木3区 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EU1NVTGJlS2gwUm9mUTl1Y0dyS193dXZ6YS1JQnpkYnpuY3h6bHRGb1JwbTg1ZmI1UzZaR0FjMFBpQWNMWlZHeTFLbUNxSlNYRnlMVzYyRVNrVDQ4NnczQlFPQVNESGZf?oc=5
+- 光遺伝学研究の米独３氏に 照射した神経細胞操作―ノーベル生理学・医学賞 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rMXd6b0M1Nm11QmxaQWNHZFNKUzRSckVIdGYydTNlVVRTTjRKd21vRDNJUVZnMVc3cm1TSjJJRUMydUVpajNjX2NlbW9lRUpHTUdEU1gwOTNLbDNWNGdpelkxOA?oc=5
 
-- ノーベル生理学・医学賞に米独3氏 光で神経を操る「光遺伝学」研究 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwdy1VR0k0ci1ud2VWaWYxMmlMZV9Sa3pQV1Npbk1FSW1UQWFXUXVfZmlQXzd5ejk2TVR0YVBMTy1JUDlOQ1JNVnRnQmlkM3AtU1k1QkhZVXIyNDFzN3hCVDF0UUdzS0U?oc=5
+- ネパール土石流、行方不明者の捜索・救助を終了…日本人５人含む５２００人以上が不明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpejRqSFMwZEV6TWc5ak0zYU5ZN3RxczQ2RXBjNGhFd3pRTlEwLUpqZ2V4YVg0V3dVM1dqcUI4S1RTR1lCRG05Rl9tYXhYSTNjNDZZRk1KX1had21jUHR6SWJR?oc=5
 
-- 首にひも状の絞め跡か 米海兵隊の男、容疑依然否認―ホテル女性強殺・沖縄県警 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKalJWRHl4TWY5a19iUE5MM0FmY0Z2YnZTaXhuV1NFT0MzYlZ6bFpwdHd5ZGdERTRWTElDUEJ2YVpjQURGcnUyWFVqQTF0VWNaRDhZYzBLMUZ5VHduNEFpRDRfZw?oc=5
+- 第２２２回国会における高市内閣総理大臣所信表明演説 - 首相官邸
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE95WVExbmxTYjlHZ2N1NnlTWUlsMFNUaHBIOUZMMlRiRDNFTm90TnlvdDNGZ2l4RURaYWVZeWxiajRfYkFMTVJFaWI1Z1NVeGtPREVveUR2b2NEd1R0TXVpLWY5am5oNi1Zdi1aTW5qZVROX0EtNW43cQ?oc=5
 
-- 高市首相「家計に少しでもゆとりを」消費税減税に理解求める…臨時国会で所信表明演説、「経済最優先」強調 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBjcXZuVl9CTlYtWmJmOENaMTZKT1hVb2haeF9UbEd3X0NySTk2TGtwWmVhbGNuNGdkYUtwbnhEa19HQkVsaGR0a0N3VkJwbXJPRmdYbDBuSHZJdWJtMEVMdzNBOGN6aTJzREd2anJPdTJ1cFU3VW5HUGtZLUg0OW8?oc=5
+- 簗和生農相「道路予算カット」発言を撤回して謝罪 辞任は否定 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUDN3c1RGbWZYbnhOM1ZRb3U2MGRkekljVmlRX0ZYdnFQcGlYNWwwM2I4b09rMGpjSUx1QXJ1VmREQkl3ZGNPQV9kV3lJQUZ1ZTN2eVFOVHlmRDQzRjA3TzZUN3NNY2V5?oc=5
 
-- 米爆撃機、英基地から全機撤収 テロ計画疑惑、日本への教訓は #エキスパートトピ（高橋浩祐） - エキスパート - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1lxSzd6eGxUa0FNclRyX1JFWmk3QnZzOHhmbG1Qby02UUVqSmNCc2dUYzA3cHRvVUhyUzZ4M0VTaWtSRV9YaDVRSWhaeHJ4RktZS3B1SjNrSDY5dUk3ejR3Ym5GTDhlcnh2Mm1IVHNKQkhURjV4RGR6aUkybG5vcEw5MUp4c09z?oc=5
+- 那覇の女性強盗殺人、容疑の米海兵隊員を送検…スキンヘッドに黒い長袖・白っぽい短パン姿（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMmhDejRwWXFlQWVjYVd6bmJjZmhicjhlOXhmckF5QTZod0VKV1ZQTFpoenZleFFCRlNMMl9xbzdWLWtVOURSWmhsa2J4Yi1UZnVYZW9wOS1sUnU3YnA5OG02MHVDTTNWSUE5NmNzbFNCZkZfNy1rMDl2cVJFODA?oc=5
 
-- 【速報】出産した赤ちゃん2人を “殺害” うち1人を用水路に遺棄か 29歳の女を逮捕 （FBS福岡放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8wWkRiRUQ5MkNPVzdIMnNMaDh3TGpWaDNwR0dDWU1sNzlQMmlySU8xXy1NNHdqVFZUTHB5SzJyM25vaGtYaDktWjVIZ3pYVnpYVkY3NjlaT0EyWFJOSGNEOXNuRktGMlVkQWtVY1JSUHhfZzBVT1dFU2E0T0pkWFU?oc=5
-
-- 台風28号(ノロ)と台風29号(コグマ) 南北に並んで西進する予想 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tQVNwc0ZjaXdZTmhPZlBfeGt2cWpmcktKTmhidnpadXUyQVBraU9GR0o1NUl1dTFIdlRmR2x0N2hWUUo0Rm5YWU0teHR1Q1F5UmcyRw?oc=5
-
-- 全国各地で10月11日頃から「この時期としては10年に一度程度しか起きないような著しい高温」 気象庁が「早期天候情報」発表【北海道・東北・北陸・近畿日本海側･中国･四国･九州･奄美･沖縄】（5日午後）（RCC中国放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1JMXFTT1VkSXZIdXVySXMyVDdnMUtLWmlGTUlhcVZrRmZ5MlAzTEpmWkZqUGZjaUFsTE9tdWs1TEEyMmZpRWhTT1NQU2JSSVhtWTI3bk9rMXRUdzBNWDdXSlZ4M2lKSE1ESFVLMWtSY1BibDRNZ3ByaDNWQ3J5eHc?oc=5
-
-- ネパール、土石流捜索打ち切り 邦人5人含む5000人不明（時事通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE13OG1BVTJoQkZQb082SUlLRXZtLXNiREFtUExuZ1hjU3NOU1dnQXd2LWtrZ3Z0N1U0X0NrelluTEt1QzVXQWZxM190Zzdua1VSRVY3dGlnRVEwa2tPRXlEbmJGdmdlOS1WaVd2Wkl5VlhGSXI5anpiZmdRTE1NZkU?oc=5
+- 非常に強い台風27号(チョーイワン) 小笠原諸島には今夜、最も近づく - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XbER0cGQ3bGVnQUVia1lUZnFtX1RxeS1qNTZGaERzbVAzTHUyNmNsMzBsSUppdUdpbjJxSHFhUHhuS0d1a25YYzIxN2NrZnNsaTduRQ?oc=5
 
 - 交際女性の死体遺棄容疑 宮城の山中に、自営業の男逮捕―警視庁 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yMW0tOXo1NUMwZDExLXRvdWhwY2xrVDA2UnNGbzhoR05iMVFDZS1jTGNKRURsOUlJNHVJRE1ZZXV5NmxnRG9kamsxeWF4VUxpRGpYQmZLMVpMWGRNakY5M291QQ?oc=5
+
+- 【速報】山梨・大月市の中央道で12台絡む事故 2人けが - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5rSmppMGdNaWJUTFNJLUxNazZLTGtJYmg5NjRwSTh6MWRIT3UxNE5qM3ZkV0FzbUxVWnBrV1p3ZlUtS2ZIb25rV2ZOcDRGUUZ5TWhQZzdXZGQ5Q0s0MDRaQ292V3BFRHFZUEdxMG5qTnpLdw?oc=5
+
+- 週後半〜三連休は高気圧が主役 晴れる所が多く気温上昇 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rT0c4eE1mNE9tdzY1MF92R3RtTmJ6aUUzbVFRV2FDZ2Y3eWt1N3YwWEVmdHoxRXZMUkFuRHlPTEo3OVhRRlNCZnJOa2R6TXZ0cGdFaQ?oc=5
+
+- 福島県会津若松市：パチンコ店に包丁持った男が立てこもり、１時間半後に確保…首を自ら傷つけ搬送 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE50TE5RbW5qS3lvNXJObW5CY05YWU90by1xUElTYjVKS1hWMERqVF9mdHB3QmY1ZHBNNHFWYWlCdXRTbTJDLUtKbEF6YnNuZ2Q5a085c09KcDZsVF9jMW0yUGh2VVpoQQ?oc=5
