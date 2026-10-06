@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 保守・百田氏、簗農水相に辞任要求「まともな首相なら早めに更迭だ」予算削減発言を批判 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMnhlWHVtUkZpWl9lblJmN1pHaE9aV1U4UDI3TzdJOFEzcEk0Y3BqbERwVmVGWnU5cE54UHZIS25sbVB5UDZESUxHRXh0amFDd1lHdF9TanZ1T2hla0NraldDekFtS2FLSDlIWWJBaHlvMmhZbXc?oc=5
+- 簗農相「予算カット」発言巡り国交省が調査結果、予算成立前に地元自治体への「問い合わせがあった」…影響は否定 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oanlrLW9CeHpxMThXWE5rZEVPQjU2VWk3bDduRmJ3bzNOcUFvcTMyYXRTZ2dIcUkzSmJpSUZ1bXU0bThXaFhJa2QtZmkzS3A4QTRHTnRCcUUyWEVveV9yTWcxNGNhQQ?oc=5
 
-- 最も危険度高いアンダーパスに遮断機…国交省が冠水リスクを４段階に分類、事前通行規制を実施 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSMThmZ3hhVGdncnVuV0JQUnllWnMta3drNXVoemFRSEpTb3hzMEF4UjU2c3dRLXlBbVg0d1N2UGx2aUR2N1BDM3lOSlhFRmpnalM1ZEROSklSZ1I4ZVZjNjh3Y3NaQQ?oc=5
+- アイスキューブにノーベル賞 南極でニュートリノ観測―物理学賞、千葉大も参加 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dEVOeEVtN0NkUk9xSFB3LThpN2U5NG13dWdibGZNUHl4TTlvZi1lYXVhS1ZqUWwyWHM1STZXUXdaYUlTZDVMQkZhRFFuMlhRckVab2JfdVpKY1Fua3NZSkxNcw?oc=5
 
-- ネパール、土石流災害の捜索打ち切り 6000人超が行方不明 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1nRHlseUtPaVBwX3dXUDRIb2VfaFZuc3Vtb1hIWDZLMXVjNVhnTVVXY1pnazRNemVSckF5NlV5QmQ3X2M0RnFoUlJ3RUtxcGhZNmlMdy1sSUVHUTRVQ2RiUXFfMHJUOXV1aFkyNQ?oc=5
+- アンソロピックに書籍大量販売、日販が認める回答 出版社団体に - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1UQnNweHJ6WGxOZWNsUFpyZWFGN0hYcmxiZFVzb290bk55SVRucHdNZWxmUGhObjhFVmo3VnRNODZfdi1DLUIxaHc1VU5CTTRyQXQwV01jSDczN09KS2ZFbzlIWnhxVW9XOERxYQ?oc=5
 
-- ハマス襲撃３年で追悼式典、ネタニヤフ首相は演説で自身の責任に言及せず…「恥を知れ」聴衆に遮られる場面も - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RZGVtU3BpLWdaWkFFclp2anhpekdQX01pRzBtNU9uTDdKS2FJbDBuSGhpRzU0bC1SNkphQTNjb2ZQYWxEanpKMFhWSEdyTDUxaHQwOWN3bnpYdmc0MWhHazhB?oc=5
+- ロシア、ペスト研究所員が「原因不明の肺炎」で死亡 「試験管割れた」説が拡散、当局否定 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBPWjV2YUd2THhWSkNEQUlqVjBVamtPMTNOOXlMd1NHMVAyUGVuRzhkMExJajYxd09TRjFPNDB2ekliMjdEaDhBeVN2MlFXcDA0M0NxRDJNSHQtRlFXRk1iVWhuaXcxQUgwNUFQcEVqcXp5QWZ3cXc?oc=5
 
-- 「存在証明がなくなる」 消えゆく産業慰安所、募るやるせなさ - mainichi.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTjdUdkNndF9TUUMzSFkzZ1IyaGt2ei1OUFNPU3ViNHZYZll1ZzJrVjB6Ump0em5UNFJyZ2JCWEpKV255S0dRU1FMREc1YWZ5RDQwd1hNOEY3Ym9Ob00wWndPQ0lNNE41?oc=5
+- SNSで相次ぐ被害女性への中傷、知事も苦言 沖縄強盗殺人 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iVUNkZkVCNGNvSS1hQXpSd2x0ek9ncTIxY3FWM3VDLXZjejJXeWpqT1lHcENrYl9QRmRzWlEtb01lUzdMQXFLVUk4NHlxZXRWTElkU3hFTV93TVJ6X3FqYmVpUFVtT0RG?oc=5
 
-- 台風28号と29号はしばらく西進 27号と同様に日本の東を北上か - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE50R0hnc3NmVTZUa0FPNGRaYUlUTU9DYnJDajJUVm5EVWxDV090WnNwSFJtMlpsN3QtSFBFcEFrRjhJRVFUMHo5c1dReVVtQkw2MFlwZQ?oc=5
+- トリプル台風発生中　関東は7日まで高波警戒　今後の進路と影響は?(気象予報士 藤川　徹 2026年10月06日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9kOFVUUWlsYTk2UGlLUmV5amYxNEVZMUFuV0Q4dTdVb1J5cGJUVW41UGJMd3BPbzVxS000bU5oTnlvaEhOenk5UFBDa09NcENFUlY3WnI4Zk8xNlcxbWs4dHU3ZWtVc0NYaHJoS9IBckFVX3lxTE92M3F4VE81VG56R1BFaE90Ti1PREVlTTMzRUFHZGV4TXozME91bVNxMVo3TTVJeWhRQ21KcGFNdlB3VlJaQ3NwT3ptdERSNWZMa0FkMm9CSmt6RlhxMGYzZVl1VTV4Wk8wSUFTMmlMVTRjQQ?oc=5
 
-- 沖縄 米兵逮捕の強盗殺人事件 米メディアも相次いで報道 「日本国内で激しい怒りの声が上がっている」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5LX3N6bHhZOVRhOWFxS3gxQ1JJUWtqOUY5U3I0dlFTTUVxTlluSl82UWpBYlFnX2VBRmtfLWdVRVVuM0h5LWNEYnNPN3o0RXBoQXg3dzhJNVFxV213MnBPdkx3VUxFR2hVdGVKMkk3RGF4bDB3WlFJT1FxeDVWTEE?oc=5
+- 宮城の山中で交際女性の死体遺棄容疑、バー経営の男は３５０キロ運転か…「酒の買い付けや温泉に入るため」と説明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wTUlScXM4WU9PTXBYdjBpX1p0bmRHVDdnaTZzcm05ODRoYkpVUWJCcGt5X2dsNnpiMTNjNmM0aFJIUFVBS2JBZFVRcG9CMHpudjZSczlBbUhuWnhjVG5WS0V0RWV3QQ?oc=5
 
-- 横浜市長選の候補者7人はどんな人？訴えは？ 投開票は18日 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlMUtTM09tWFBWVzExY2JzTl8zR1hBYzR6OXJGNldWR0JicFdZVmFNRmxiQXd3N1JneElJc1BzOEtpME9Pcm1fM0hGMzd6aFRmcmI1bVNmMGpSakVxVmlRZkl2SFRGcnc?oc=5
+- 【速報】稲富修二元衆院議員が福岡市長選出馬へ - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NMkpHMkRHYUJNWl9RdXhkRGNTYzVXUlFZT3hZU0ZHTm00Wl94bW5PaDRPTzdFTnBYODh2N2tlUzJCbnZua24ya09oY1RRLUd1Mm1qcDNn?oc=5
 
-- 日中は広く日差し　関東30℃以上の真夏日も　都心29℃予想　今日6日(火)の天気(気象予報士 日直主任 2026年10月06日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5TZE1JWC1jbGpiRTdHZExzdy1UNjlObmVjTEtITEFBclo2dlc4cllyam45OU9MWkMyY0FkRW5vc1hrLWtESWk0dUh3SEdFQU84b3p2QWg0cUZhcHRCaGhBa1J2YWU1MW85anfSAW9BVV95cUxOeHhvSGxxalZ6T051bHl0UC0xZmJFUkNRWUNfUWx4T2FBV25FTlRJR0UwbzFzMGZxNTdwSXZJa2Q0SGliT0FtdmNsbTNHWlkxci02N3RpSzNUYTU5VEdXLVhYM1djN0dUVFRMcExjVFk?oc=5
+- 横浜の放課後クラブで児童約50人が盗撮被害 被害者は全て男児 当時の男性職員がトイレ内で撮影か 「すごく恐ろしい」親から不安の声 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE00RU5HbnpmSTBmVk84RVhMLWFqUjQ5WmI1aEFSYm1CR3hfSTFLSkdiMU9NbXpWaGRsSjNFNEo5VnJJX3dXT2NjdnRHSW5jZw?oc=5
 
-- 交際女性の死体遺棄容疑 宮城の山中に、自営業の男逮捕―警視庁 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yMW0tOXo1NUMwZDExLXRvdWhwY2xrVDA2UnNGbzhoR05iMVFDZS1jTGNKRURsOUlJNHVJRE1ZZXV5NmxnRG9kamsxeWF4VUxpRGpYQmZLMVpMWGRNakY5M291QQ?oc=5
+- ランサム集団メンバーを拘束、ドイツに引き渡し アサヒ攻撃で声明 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVnVIWVRGVDJJRkpZME5kQU1DblhaMFpPbWd4TmxxcEZmWl9MTGZTenpDMjNMQWYzU1B4VDR5RWhNRjRiMEtlamczTGdpVTN6VmhKV3FxSllrTnN6WF9IYmVJVU5oLWhMS2JtUg?oc=5
