@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ロシアでのペスト死亡疑惑、トランプ大統領「プーチン氏と電話する予定ある」…７日にも報告見通し - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE96aV9YU2pLQUpVOGRJM25JcjFkbGZaX1dtSHMya3lDWDlZd2Y3SXQ0WE9jaFlLa04zSFBxODZnY2FYTGhxdmJvUTlXeTFkdy1iT3FxZEt4VW52SEVaVGZnaHdR?oc=5
+- 東京理科大の硤合憲三・名誉教授らにノーベル化学賞、選考委「１世紀以上にわたる化学の謎に答え示した」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BeVBEdnJVVExWc2Jtand6a3dseGhnN09oT2dkMVRneDFxWnRzQ3dpVzBLUV82UW9vY2R3YUY1SnEydnEtNlVnR1ZWVG1zdFlua0hIT1NZV2duTERKRDQ4cHpTaks?oc=5
 
 - 簗農水相は議員辞職を 維新・前原氏が主張：時事ドットコム - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hLWt6eGltY2w2aE54U3pyQ0N6WnVIWGVIcDZBX1ZPdEdzaWdTNy1ZbXBTWUVvX1h3TGlnQ05rcTBHWmhmenByRFZZdlIzSXNXNXIzV1NVSElNbXlkblcwTFBYbw?oc=5
 
-- イスラエル兵、祖国守る任務は誇りだったが…「無差別攻撃で軍服が恥に」「国民はガザで何が起きたか知らない」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xNGdMenhJTnRYbnhwQVh2bW9nOFFib0ZPelhibzRlT0RlWFFGQ3NWdGstU3RYTVNuT1dDaU02dEpQS3RubmhLX0JGOWZQYU94d2Z2dGJBTzljV09JaGNFOHl3?oc=5
+- ルビオ米国務長官、ロシアに追加情報の共有促す　ペスト研究所職員の死について - BBC
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BWUNqS2VwRUtPVVNLY1hONVVSQzBtWlVzMmJpbG11aHlNRm9SWUVWeE5mbTllVS0ybHYyYmg2a0JlNnNqdnVvVWZqNXUtQW43Nmkwcl9BUG84R0xUeGhOTtIBZkFVX3lxTE1sUUktb2RpRFFqUkVlQXlabWF2VXByUzdkMXpmWVU4UEZlalQyVWI2M3lLX05xamNEaXZhdTN2T2JaQUhNYnJiYXg4NFpVYXUyV0Z4UTVvQWVNMzBsLTQwT3oyaG5qdw?oc=5
 
-- トリプル台風　29号は「非常に強い」勢力へ　12日は「強い」勢力で小笠原近海へ(気象予報士 石榑　亜紀子 2026年10月07日) - tenki.jp
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOUVKLTJ5M3ZlLTF2Q2FhWEdfbnJITGRQUkNILTR6dThVeTVIVWgyOVVYeG0wYTVWeTZXLXo2M2c5OWhMQjhQQWJBaTRPSWxLdjMxWjhFRzUwMkNVcEVMbEdsVmVOTkV1RmszcE9B0gFzQVVfeXFMTXlrRXZ3RGpXcEhuMWVBWEZRak55VUpWeHBXSkFlVmFXTkJiYkx4QlpLMEs5SlMyc2dPVjBtcXdMU21EVGxrTE55TnpEWDNHRVJfYU8tWVJibzB6WGZMNWJkNF9jN3JleXAtcHF3alktcVhfSQ?oc=5
+- 台風29号は発達しながら北上へ　三連休は広く秋晴れ　季節外れの暑さも(気象予報士 石榑　亜紀子 2026年10月07日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE9obXFPbkJyVkRzLVZSdGdwTzhCX25HdWNJNzdzby1MaHdfR1JHSDlZcHhrLXZhci16MzhKRG5aSmVVckp4RnU1N0EwdlVNWXpTQjBBelVHdWVjZ0hvc2xqUWhpM2p4Qm5RUUdJZ3VR0gFzQVVfeXFMT2tmV3NZWEpFSVlWMGRZU1p0dGxaUjJ6cXZPVlFYblBaTDhBYUNHNWZGTml1SWhSX2wwOFJXVVp3UXpSMl80U3lORGdQWk40Y1UxSWNmemR3NDRKZk1wQmUwQno4TXFVZWNIOU1xektQTUdobw?oc=5
 
-- 新潟 6人死亡菓子工場火災 三幸製菓の当時の幹部4人在宅起訴へ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KSzRRT2doaTJzWHZudkNhWU5qZ0pGRDdodFVSc2oyNjJPcTFvY1R3ei1DRzhqdDlJX1lwQVBwWUhGSTRZZXQ5N1ZqWDZQLVVtb2NDQ0g3WjRuS3FYMVc0?oc=5
+- 「クズが愛国者を名乗ってる」テレビから消えた人気芸人 沖縄の米兵犯罪に「だんまり」一部の日本人を痛烈批判（女性自身） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5DQ29XZ0xwbGFlLVdWOEdUS3VDUXZDdGFfdklrWktNZ3BYQlVUZ3VLZGxwLUNEbDB0cEVqY1BJTGR3aHRvU09Cc25nRkxDbGY5cmotWjlPUUdLeHFhUFZpT2UxVVBmUHNWbEF0Nk1odE92bDk2X3dfS1JEb0ZBZG8?oc=5
 
-- 宮城・25歳女性遺棄》「ウチはお金ある」と“自慢”していた長髪バー店主の容疑者…近隣トラブルで「すぐ警察を呼ぶ人」店名に地元の中学名をつけるも「同級生は幼稚だから合わない」（集英社オンライン - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBhY3JZTUhudlJkSGN5WDFlSXBrMnN4bndDXzlXSUs2QkhieWFNRV9zTVRkRm1TNjdveXRFTnQ1Z2VVaE1EV3I4MDlDOHVLUVpXVHV2R2U1WU9XTzlTVUdhdFB0M2ZfYUVUd09iQlZoaWZpa3AtQ3VnR1pyZFVST2M?oc=5
+- 副操縦士「ガザのための復讐として実行した」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSlc4MG1TU29Eel9qeFEwUFFDSHNTcGpoMDFDT3pEZGd1blRPUmNHZnROWHUyLWRsR3BxWXBZX1NuYVdVajluTUl6aHI0UFZJbFhJVmZFZHZieHZLbUJN?oc=5
 
-- 週間天気予報 三連休は絶好の行楽日和 寒暖差と台風の動向に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyQjVzdnJ3WDVkeXR4UXlYbGd4Qks1eU9NdHRCMndBd0lDRU5NVllqSHR4X2Y5VjJaQjFfSkFjOUpjNXFoc0QtVDdSS1BwZHZWN1ZVSg?oc=5
+- 【速報】宜野湾市の女性殺害事件 元交際相手の25歳男を逮捕 事件前にストーカー相談 「間違いありません」と容疑認める - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nc0N5YUdEM3hpUmtnUjBXVzlpNmM1akNBdmhsakZ4UG9iZzdKSjBXYnl6Vkd4LTR4X3R3LUlrU1FrUk52SmotUTk3NWpFLTJRSnRzNDF2Zi1tQzY3U3c?oc=5
 
-- 「粛々と刑を受けるのみ」 NHK党・立花元議員襲撃の被告に懲役12年求刑 9日判決 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZnNWSnk2THZyVFNKREFGRFF2WE13Uk1ha29vaENIanpIMF8wdmVBdVBfVUpfYWVZYXFLWV9oVmJyWG5BSVlEZi13bHY0Y0hDaUZ5RUs5UWFiMTVCWFhtdFJXRFlOaUF5bE16dk9qaHlEa1ZCOGc?oc=5
+- 円滑な会見へ、フリー記者拒否 「兵庫知事、恣意的に記者選別」 - 神戸新聞
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1VNXE0V2RSZHBkZEpIOFM1VW5ZMzNNSzVqUWo3NlRMNXVyNWszVkR0end1WTBKT1dVYjJoZGp5cUlnUnEwcGY3djdkTVF6R3RFekJrSkFwQUM3OFFjMTJ5ZDAxM3pnWHBidWVyX25yeHFuZTYzaTlCcEl3?oc=5
 
-- 修学旅行先の北海道について「クマが出たら終わり」と発言の徳島県知事、県議会が問責決議案を可決 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE51UjhBbjA0MUtfbXNFak9rb1JWb01nSlJUbUhEYjlKbFJiVFp1QWZXQjRXTUxLUHZ6Q1lKTkFubVVSSW92eVBHbkh1c3o1NjNncjZ3Vk9VdEFtSnNrRXNveFJ2MEFZUQ?oc=5
+- 中国外相「高市首相が解決を」 台湾答弁問題、岩屋氏へ伝達―７２年共同声明「再確認」案応ぜず - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvOGxHcUVvQ25Pbko3bWY4TXBpeV9zS01NU1RMMGxiSTh2akktZDRzOUhzQXRScURFeVVMRl9Od2FYSHowMkd1V2hGdGEyRmhBd0VIS1VmSUlZMDdicW5fRXdUZw?oc=5
 
-- 吉原のソープランドを摘発 売春場所に店内個室を提供か 責任者ら9人を逮捕 スカウトグループとの関連捜査 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rN3c3MTZzemM1R2pNaWdmamdhcU1tcHNKcUZVckxwdHNDRWZRTnpZQll1VTlGcE5nWUd5YVFpOU5qVlBOS1htZHV6V3lsQQ?oc=5
+- 【速報】愛知･春日井市で住宅火災 けが人や逃げ遅れた人なし 名古屋市との市境 消火活動続く - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE56TVU3aTlSNHJLc0FsYlA3ZmluRmtiRUFjWGNQSWJERldoNGlDaXNIbzRZOXNiUXlkYkJydzFpSEVCUTlCcy1NNGR1LUQyVlFFSFV3eEotdw?oc=5
