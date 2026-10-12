@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 「エネルギー停戦」で合意 ロシアとウクライナ―トランプ米大統領：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iSHNmLTZzZHVzamkzMVJaQ1JvMWJ5RWw0bUFLV2hmT3UyR0RYSXNDZi03cFNFcjZlUVRkaG9Sb3BvZkFiNGNoek41WTg0MWFsUVVJTWFuMFBIMTZZaW5CTkFyZw?oc=5
-
-- 「政治に携わる者として疑わしい」石破氏が簗農水相問題を痛烈に批判 [鳥取県] [簗和生農林水産大臣] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zRHFuMXlXUG5Gci1uRG95S2JvbmM0TEpjcUdlVFNnYVBKd0pQdW0wMmxkYVJ1WG5YMUFmaGwxZVl4emRaTmxvN2hYeUFJV3VJcV9RUG1DODZwNVRua1JMd3NXUm5LLTg?oc=5
-
 - 兄名義のキャッシュカードで現金引き出した疑い、妹逮捕…兄は住宅の地下物置で遺体で発見 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IOUg1SldJWTY2Z1BpMl8zampLX1lld2kxVHlkeE5Sal9lb0JLbHU4SENrYU4xbjlxUUF1aWxkQTBSY1AyTzRDY2FEU1FTWExuTG5tZEpKYWJwTG1VRXVIYWg1VlFHQQ?oc=5
 
-- 【速報】サウジ空港攻撃で12人死亡、309人負傷 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YUlNSczNaQVVvZG1TTE5KUHI1czRGdlRKZF9PM3Q5bGZRdVZCVk9jRFlrLUQ2NzRLZEdoSEZLVEc5bmNrcmE2RFYwQQ?oc=5
+- サウジ首都空港攻撃で１２人死亡 フーシ派への報復宣言―イエメン内戦介入後、最悪被害 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOERGQko3QVJtUnlFMURfRUFPMS1RZ29POThUVmxiUEc0VG9rM0lIQkNTLWJjM2hRYjZEZHUxYjRpblo0QVdral9QQnhwaWl5Ti0yVEZpNDRtcVRxaUk4ODVCYw?oc=5
 
-- ネパールでまた大規模土石流、少なくとも５人行方不明…地滑りで川がせき止められた後に決壊した可能性 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wdDJrdW5LSWRpV1J2ZW5vLTZ3TWpuS2VzWU8wc1Raemxib0JiVDhsYWhmTVJvenJmYlFMaDIwNkZtYWtwVTJlX0JhQk44RFo2dTZpcV9aMlZKV3RsaEEzcGRR?oc=5
+- トランプ氏、ロシアとウクライナがエネ施設攻撃停止「合意」主張 ゼレンスキー氏「初耳」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFAycVk5VTdqTGROcTNOS2hISkZwTkxhM2hlVGJ5RUlISWFKOEVMYjJfbldlREVxdnRhUlNwYm5nV0ZsUGxuOGI1OF9JcUExUUgwOUtlOHJONENwNWc5QllxLUhiOHc1SGpqT3N3YzlUT0gzTE04emc?oc=5
 
-- 愛知 豊田 住宅の玄関先でクマに襲われ男性大けが - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdW5FZ3RaSzVFLUFyV1VBQzNJOHlKc2IzUEp0NG13dktpYlBzdzJ2Um0xUHdjWUwyZnZRWGNGOUEzX09KelV1X1lMREdKc2x0dFZvQ0kwUEVCaThHemRn?oc=5
+- 鹿児島の海岸に埼玉の女性遺体、カメラに男性と一緒に海に入る様子…男性が流された可能性があるとみて捜索 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlSXlTLVJuLWNsM2lheTZCMFJFc2pjZWpicmljY01kR1hYaHFBV21YX193YVMxRFhVQ3lsc0RQbzVmS0pSVDdTN2NRVGZQWHlTbmVoYXNTMDNGOUdHV3I0TEgyQlo1Zw?oc=5
 
-- だんじり横転相次ぎ2人死亡、16人けが 交差点曲がった直後 大阪・泉大津市など - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1MZnpuRG9mOUpsdkc2dWpfWE83QVkxb09WSTFHdGpWY2QxWklXdEktV1drbURicEtnR29tQlU1SXc5c0pVTGUxTlVhQXBpay1OcEpQUEktb3FvQVFIWU90dTZCRGljS1lCSjBZUmRwQ2o3Zw?oc=5
+- “ロシアのグーグル”に無人機攻撃 一部サービス利用できず - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWlo1NC02SEgzU3hkNnZSUkFLaktSdmxwSzV1Q3hZdEQzR0M4TTMtVVdoOFB5SGI2YkRuYWlPNXBtMTE2Wl9qbEdDQjN4QXZBWExTb2lvRFI2dmlBYXZV?oc=5
 
-- 鹿児島・奄美大島の海岸遺体、埼玉の23歳女性と判明 一緒にいた別の1人行方不明か - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5TeFVldmtuZzgxQmZjUTEweDFMcDZWU3NnTU1WQXhXQlk1am9oU3AzWFNOZ3dxN09la3MzMHc4OTBySzJNSjRXaDlJY3ZEYl9xVnFhUlY1cl96RDJiVUFJQ3NoN3VycGk4RzBwUTJLLVZUQUdGelE?oc=5
+- 週間天気予報 連休明けから天気下り坂 週中頃は広範囲で雨に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWUIxaWQzSjZMbDlXa0Z3RDJmMzFvUndDSHVkMm1USGUwdkFOMXhSYk1hYUwtaDhkU3J6TUpFLTlDMXM5SDYtOUY3OEliREhxOXUwbg?oc=5
 
-- 台風29号　日本の東を離れて進むが、太平洋側は「うねり」と「高波」に注意(気象予報士 堂本　幸代 2026年10月11日) - tenki.jp
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE9UMDBpcmhFTHFVWVB4U2tZMkE2NHV5MDVjNVBrdkpJTWN0NlB3VlByTkdLb2xuSlV5TzFUV01VYnU4aFR5S2FwbTVSb3Y0OXM3dDFGUHZ3N1B0MjZPZTJCdmVTWUJpa2pwTWg2a1pJOVPSAXZBVV95cUxQQWhWcXJkN3dkZUk2TV9uMGlyZFJSdkpMeXNrR1RzZWpXeHVoZkZNYVZpMXFuQkU5N1B1YXJhRzV0WVg5Xy1pUUJZLUJjM015UDZpNTZWd3Y5bnliR1J1bUNOR05mSW5XOTlyTk01VnZzNl90d0NB?oc=5
+- 今日10月12日(月・祝)の天気予報 三連休最終日も広くお出かけを楽しめる空に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE15LU16QzhhV1hBdkZ0WHdSd3VRa3AyOERueWpjSDFya0llZk56NDhWREtfUEcxYUVQcW9VZXdJaXN4Xzg4NGhNRjdxczlyYUFQYjg5aA?oc=5
 
-- 深層サイエンス：今年のノーベル賞はどんな研究が受賞？ 自然科学3賞を振り返る - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FRWN2VldESS1uMldCVWhhTV92aF81eVVTdkotSDllakZhdUwxa0NNSXdTM2syUUc4WW1jQUNHa3B0bVBoYkZJWjkxc1dvSVZOaHIwSW9qdXBCZzJreWdPVDBMREl3M1FG?oc=5
+- 玄関先でクマに襲われる… 男性（59）は眼球が破裂するなどの重傷 現場周辺ではツキノワグマの目撃情報 愛知・豊田市 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ac0FmbEp6RVVzaEpXOU4tekNmWlRLcFAtd3AzZTM5OW9zOFVGa1JvRjFpSy1YbzlRQTJrQmFSNWJKWVNyU3Y1TnBZV0JFb09JY0ZYaGFDeHlYRmhKR0hkSHlMQ3BadlpJSjdrR05EYXptQlAzZjdSemh0X0tOcnM?oc=5
+
+- 細野防災担当大臣、台風25号の被災箇所を視察 千葉｜Infoseekニュース - Infoseek
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FM05nd3AyV0pGcjRnOENwNW1IR25hbFJnc04xTHp3ejZIZFJJUHc3UU9JakdyU3BPSVN1dERGQS03d1ZxMGZuWE1kX3cxZFdrdFpBTXBQLVRraEhGSzJJSkRNcWhOUDJZ?oc=5
+
+- ネパール土石流で5人不明 相次ぐ災害、避難呼びかけ - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rNEhUMTdmVGR6QlZBUGdRbldyUmpwNzMwVFJCa1pNRjA1aHBnZURmZHQtMEhFQUF5QmZiZ1M1WUNxSGZtTzJHR2Fwbw?oc=5
