@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 兄名義のキャッシュカードで現金引き出した疑い、妹逮捕…兄は住宅の地下物置で遺体で発見 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IOUg1SldJWTY2Z1BpMl8zampLX1lld2kxVHlkeE5Sal9lb0JLbHU4SENrYU4xbjlxUUF1aWxkQTBSY1AyTzRDY2FEU1FTWExuTG5tZEpKYWJwTG1VRXVIYWg1VlFHQQ?oc=5
+- サウジアラビアの安全保障、脆弱さ浮き彫り 国防「主軸」の米国、支援応じず - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DYjFfWGxnQ0kzaVd4RmdNUndiUDBZdjEwMDhzSjBMMlRKcy1CeTctRjJ6dktlb2hTYW1SY01vcXQyYllLM2xJYnNDR0R4MXR3alFWZ0pMY2FhWml1bzU0T0toZw?oc=5
 
-- サウジ首都空港攻撃で１２人死亡 フーシ派への報復宣言―イエメン内戦介入後、最悪被害 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOERGQko3QVJtUnlFMURfRUFPMS1RZ29POThUVmxiUEc0VG9rM0lIQkNTLWJjM2hRYjZEZHUxYjRpblo0QVdral9QQnhwaWl5Ti0yVEZpNDRtcVRxaUk4ODVCYw?oc=5
+- 【更新中】北朝鮮から弾道ミサイルか 20分後に再び発射 900キロ以上飛行 いずれも日本のEEZ外に落下か 韓国軍「韓国ミサイルへの“抗議”か」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9md2psTnpQT205RzNDODhsd2k2cTgtQzZTd0tqRlB3WUJubkloWW9EendVdTdFVnBBcWVQZ2ZSemREeFFnMHA1cmVFeHdBdWlyUWtDQmVSMmljaUZuYjZ0dDRleFdpVUJaWDJiYWEwU0Q2ZU9vUktTN0pn?oc=5
 
-- トランプ氏、ロシアとウクライナがエネ施設攻撃停止「合意」主張 ゼレンスキー氏「初耳」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFAycVk5VTdqTGROcTNOS2hISkZwTkxhM2hlVGJ5RUlISWFKOEVMYjJfbldlREVxdnRhUlNwYm5nV0ZsUGxuOGI1OF9JcUExUUgwOUtlOHJONENwNWc5QllxLUhiOHc1SGpqT3N3YzlUT0gzTE04emc?oc=5
+- トランプ氏、ロシアとウクライナが「エネルギー停戦」と主張　ゼレンスキー氏は歓迎するもロシアは沈黙 - BBC
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWm5PWnpXa2FKYnlqSFpjY3J6UWJUc28wRnU5a0RiajZzWmMxTTRmZDBDMzRmUTJiTkV6LWhHbkN3Y2pUd2FXRVhldmZrMkFtcEhCZnpXamU1ZjBKRlhEctIBZkFVX3lxTFBuS19HRW1QcXNGN1NFdm5sb1d6QVBPaUxCb0JIWFhXREZsUlpJWjdrMkZLOW5KdmliM2Y1WGJjOGx2NnlrWG9zbFh4akJQdXROaU10VmlIM1h3V1hEUWpLYWRLaDdaZw?oc=5
 
-- 鹿児島の海岸に埼玉の女性遺体、カメラに男性と一緒に海に入る様子…男性が流された可能性があるとみて捜索 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlSXlTLVJuLWNsM2lheTZCMFJFc2pjZWpicmljY01kR1hYaHFBV21YX193YVMxRFhVQ3lsc0RQbzVmS0pSVDdTN2NRVGZQWHlTbmVoYXNTMDNGOUdHV3I0TEgyQlo1Zw?oc=5
+- 靴に隠しコカイン5キロ密輸か、マレーシア国籍の男女5人逮捕 末端価格1憶円超 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9mcjBlZFdJZVpVdzg4c0NZQzZZT3ZVYWp5U1JOSW9YS3JWb1NMWWNnR2Q3OHR0UEdydGN4Zl80NnhmbS1RQmxZQ3BrMERTNVQtR2ZEYjJaWXNEc2lhc3ZFMnNtcEdva0NNREt1N3JMYUVRdEpscFE?oc=5
 
-- “ロシアのグーグル”に無人機攻撃 一部サービス利用できず - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWlo1NC02SEgzU3hkNnZSUkFLaktSdmxwSzV1Q3hZdEQzR0M4TTMtVVdoOFB5SGI2YkRuYWlPNXBtMTE2Wl9qbEdDQjN4QXZBWExTb2lvRFI2dmlBYXZV?oc=5
+- 共産党、野党共闘路線を転換 政権と対峙、党勢拡大を優先 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbzFaR2RMUlVPeW83dTVXSmxBR3prR0tQbWdxazNwdkxuLURTRlJfRVEwd29zcHUycVNTVW9udWlCMlNGLV9yTDBqZw?oc=5
 
-- 週間天気予報 連休明けから天気下り坂 週中頃は広範囲で雨に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWUIxaWQzSjZMbDlXa0Z3RDJmMzFvUndDSHVkMm1USGUwdkFOMXhSYk1hYUwtaDhkU3J6TUpFLTlDMXM5SDYtOUY3OEliREhxOXUwbg?oc=5
+- 「よっぽど悔しかったんだろう」…簗和生農相、追い込まれた末の予算カット発言か 地元栃木3区の深い確執 - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3QVhJODFDc09vc01wT29lNU8xeGViMjFGV0Y3a3JLaUUwY0c4ZE44TFAzT2xFb2lqU2dHbmVFbk0wX2xqMUJmaU9iRmE2OU1BWEZv?oc=5
 
-- 今日10月12日(月・祝)の天気予報 三連休最終日も広くお出かけを楽しめる空に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE15LU16QzhhV1hBdkZ0WHdSd3VRa3AyOERueWpjSDFya0llZk56NDhWREtfUEcxYUVQcW9VZXdJaXN4Xzg4NGhNRjdxczlyYUFQYjg5aA?oc=5
+- 「血まみれで動いていなかった」「つんのめった感じ」だんじり横転事故相次ぐ 2人死亡、16人けが 大阪（読売テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUkVILTRIYlpPNlRzN0N3ZmUxMGNTaklqQ2VTZDhCTl9fQWgxSGUzU3pCeFNmc3FtZTBiWER0bVpfdXZNMXBKYzF2cnJpQ253bEdaSkFCUXd1N2hnZ2pKd0Y2NW1VYXJleHdqMkdJNDF0SDREVk1sSk01QTViS1U?oc=5
 
-- 玄関先でクマに襲われる… 男性（59）は眼球が破裂するなどの重傷 現場周辺ではツキノワグマの目撃情報 愛知・豊田市 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ac0FmbEp6RVVzaEpXOU4tekNmWlRLcFAtd3AzZTM5OW9zOFVGa1JvRjFpSy1YbzlRQTJrQmFSNWJKWVNyU3Y1TnBZV0JFb09JY0ZYaGFDeHlYRmhKR0hkSHlMQ3BadlpJSjdrR05EYXptQlAzZjdSemh0X0tOcnM?oc=5
+- 栃木・那珂川町の工場火災 発生時に火元の倉庫は無人 発生から半日経過も消火活動続く - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1yR1ZJUUZNWDEyU2JSM3ZaYklCbV9paEt4WmdTMTMxeHVFU2hmZUVKcHFXMFlhSlY1U1hVWWxjeE9TWFU0NWxvdXJYcHlBQ2NCb3FiOVBVQzRFd0N4YVdBdlhuMnljTFZDWGZCQ0RnZjVPQQ?oc=5
 
-- 細野防災担当大臣、台風25号の被災箇所を視察 千葉｜Infoseekニュース - Infoseek
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FM05nd3AyV0pGcjRnOENwNW1IR25hbFJnc04xTHp3ejZIZFJJUHc3UU9JakdyU3BPSVN1dERGQS03d1ZxMGZuWE1kX3cxZFdrdFpBTXBQLVRraEhGSzJJSkRNcWhOUDJZ?oc=5
+- 週間天気予報 14日(水)は広く雨 週後半は西・東日本で天気回復 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nVnBqb2RGQWxiV1dZNzlyOUZSY1A3ZHVIbElxTDRBMm4tTG5pRlpzZDBDcTM1eDdmZFg5OFdwREpBZW54YkFqbFM4SmFkOHVPQWRzaw?oc=5
 
-- ネパール土石流で5人不明 相次ぐ災害、避難呼びかけ - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rNEhUMTdmVGR6QlZBUGdRbldyUmpwNzMwVFJCa1pNRjA1aHBnZURmZHQtMEhFQUF5QmZiZ1M1WUNxSGZtTzJHR2Fwbw?oc=5
+- 台風29号は小笠原近海を通過 日本から徐々に遠ざかる予想 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE16NjVZUU9iMUFEMzk3T3pBaXprT2FScXp1ekYyT0V6Q0JuTWNtODRZWWxGdFJyTm41ODM3OVRPb3hNUmhLZU9LMGFkTWRsemNoX2VLNQ?oc=5
