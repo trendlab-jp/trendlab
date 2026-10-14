@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 高市首相、簗氏に「説明尽くせ」 バス疑惑の判断留保―衆院予算委 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzY1ZMVE93eG5Idmk0ejU1dkRHSDZOcXRESS15anA0dUlsX256TjVWekFzeUNRQzhpR2NIU2R3R24wSmxMOFRibVNQZWRjc3hKS0xHM3pxWGpNY1BwQjktY0xRZw?oc=5
+- 高市首相、簗農相を交代へ 政権発足後、不祥事で辞任は初 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE41WXVlTHYzQkFlZ3o5bnpMalBDbHVEdTI5SWxJc0ZUaVloakJ5aGczUFpuOEYwR0FfSHdiRU4tQnZIQmc0WFFaMGJzWFg1OEdMbERiZVZGYWJBVU5BREpKUUtGNk02S1Na?oc=5
 
-- ロシアがスパイ容疑で北海道新聞記者を拘束、裁判所が２か月の勾留認める…日本政府が情報収集急ぐ - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUNjhMT1dLUmhPeWVOZkRRUEZ3WHlRVmIxdzhpbTFIdTljbkExLWhWQnZzcGN4X2o4amtWZjd1cDVQOUpPcHpKSHFBT2tYNC14ZVJhNDItNHUyejZ0UlQ2OXZR?oc=5
+- フーシがサウジ東部の国営石油会社施設を攻撃…トランプ氏、イランが中間選挙を前に「意図的に原油価格つり上げ」と主張 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZ3EtXzRFVzRRRldZanRfVGlOeFp3dkt0ckh3UDRaOXpTN0gwOFpXengyeHdEYm9NZm93anpuQl9PQzJXcUc5STVxV2pRcEdJRF9TUFFRRjVFN0dxenJjZjN3?oc=5
 
-- ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xRG5ydUEweTIzaVhLLVJMYUtTeUg5VGpVYmhpOWJ5cGJOelk3Nl9xY1VYb1ZFeVMxSHFBOUU5dHVITVZiNkFVa3dSVV9WOENRMnA0dVBZTzI1VWJzeGxN?oc=5
+- ＜主張＞ウクライナへ圧力 米政権の矛先は逆さまだ 主張 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5Rbk13dWNhQkdpMUtfSlBIVXRlRU9VV1Q2eWZ0X0RmUmNLbFIteUVQNmp6RUp5R2JIeW5nc3RCaHdvcng2TXlEZGxadkJ3T2RkNW4zYkFZV1pkYlRQOURKOXdTNGxydGwxQWxESVJ6TE9XZjZ1dGc?oc=5
+
+- 北海道新聞の記者をロシアが拘束 スパイ容疑でモスクワ移送 道新「詳細確認中」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVkduZEJMcnJqcXY1YVdySVh1M3BZc21UWEtCUDZEWjNIb2xvN1B1SEtoSFlUU0NkR2F1bWZ4Y3JqeG9MaUl0Vm5rVGFQcWdEQS1Gb2xwOERIdVNxdjJXd2hfbkFqU1pucnAwM3BWWGo2c3l3UjVhaXZn?oc=5
+
+- 台風発生予想 13年ぶりの台風30号か しばらく西進し発達 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE56TFIyNUIxYmVxYXo5ZHV1SXYyS3daN01SX1dIS01aN2hPd05VSWJpN2h3Y3JPeFBxTmxjZWFCMUMySlZLZTdfUmpScnNxaTNwR2pKeA?oc=5
 
 - 銃殺刑のライブ配信、トランプ大統領が中止を検討 死刑囚の麻痺の症状知らされ - CNN.co.jp
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kcEdSWkRkS1VCQnZGRmZPeUs3Y1dJZjUxQzFzYlJTVDQ4MnQ5bGlLSWVUT0xDd0huNnRCcWxQR2hKVk5ER2JVYTRwNlpUTThH?oc=5
 
-- 【速報】ローマ教皇が入院 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xaUNUc05sbjdtNGNlcnF2QmotUW1NZ2wyQWVXc00wSl92NjRPVm5tU0lyMnB2c0hMUFRleHdwSW1WRXBCVzliMHg5VQ?oc=5
+- 無資格で犬と猫に抗ウイルス剤を注射したなどの容疑、ペットショップ運営の社長ら６人逮捕（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMjBUY3BaTkxMek1WNTdyM2Y2QlFOeG80eERTOEFZOE85RVJ2eTAzdlY5TDZNVnBOOFZkTzJULVlXT0JEZFBOQXlFQ1VZRjBMN0JlR2d4LUxMX1RZRWRsbEdHWFJHV0tlQ3ZLV2xVOGkxcjFFeVFhRWV6dUt5TFU?oc=5
 
-- ブルガリア沖で再び船舶に無人機攻撃、船員11人行方不明 ロシア大使呼び出し - Reuters
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPYy1WVVh4VmxuZElIV1NPTTVQajROSU5ja0lSUG1CS0F6M2UxbnFwZUFhUHIwVjhfckZCbnRVN0V6WmdWZkVhYkV3cGJaN09GYXRsaFNORzBfNmNNOG0wY1lxbEROeEk0Z1VXaHVlUmtnblpaMUlmUGpNWGJxQjZDZUs0QTB0Zw?oc=5
+- 容疑者から預かった１００万円紛失、「金庫内の現金の定期的な確認が不十分」と説明…埼玉県警大宮署 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mRjAtRTY5aEFkVFprMXhiUTlLRUdDNWszQVZ6c0VCLXF0VTJwT3oxd0RuUEZiRXhJLWRSdU9XdkxZeDNvOFJVT0RDM3NicF9mdElwNEpwQlRzTHgxa3BsbDJ4SFRJdw?oc=5
 
-- 台風30号発生へ…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tOXB0YldFWkI2c3hDa3lkbFVuVkpiY2ZBNkhzaEdLSFpvbmplQkljNm5sSUoxVEhKRU5ETEp0WVN5MGEzenBYMTZtYklDTzFLX1BzZnVDZzJQRENwLWc?oc=5
+- 19日頃は全国的に本降りの雨 来週後半は関東以西も夏日の地点が減少 2週間天気(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5KQTVZU2duOU4tWG9KMXVHTUtqZWMwbnA3cGR3bzdEbDJ1eFlWUExZTjkxR0FnU3h4RW9kMWtzb05vUVVSUm1QQmpvQTliTlc0Sk4ycXpkUGEzclZrc1BzMVBKdnlMSl85aXc?oc=5
 
-- 今日10月14日(水)の天気予報 前線が本州付近を通過 北日本や北陸は激しい雨のおそれ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0RzJZNWo5dW1oR3k5T0JSWk9CdE9mSzU4WjhDZXpBQ28yd3A5cWdDaS1SU1lPWTdOOElNbTV4Z0NmR3hOQWRHVVd4eThwM1JlbmdkRA?oc=5
-
-- 入居者トラブルか、男性死亡　67歳男を逮捕、福岡・福津 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWZ4T2REcGpkYkxwUW9Wc2dqbWdFcFpZa2JNNWlXcEJQYm1xMUdTTmUtTVlsbWhvZEhEbG5uSUIyQm0wS0t3UkhCNDI5S2huT2pHWlpZbDhnbzdBLVRqdDBpckViX20xanN0Z0tzMWVuVHJMZ0VDd2RPUXJGb1JGYzZCOTRfTnNLQnlB0gGQAUFVX3lxTE1FaFl3U3U3NDBfSVVXdjk3YWg5aFZwY0JYdkkyUWRJUjAyREVCdDcwZ0FoaGh3NjN0a191VVp5c2d0SkNpNGE4UGJtUTJ1NUExeVNLWVRPUmNHdTdFQ1BHWDZoenA5QTRRdURhLUhRVko4eDdoeUVqc2l2b3VkdEZkS24xWWVsYUp1Q0JFYlhfTg?oc=5
-
-- 熊本地震で被災、おれんじ鉄道が全線運行再開…熊本・八代から鹿児島・薩摩川内まで１１６・９キロ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE43eGQwcjNRR2N5bUpDaS1fQ3dPWGtzMW95MVRBSWRDbzJJd0xTSElYMnJJdHJxdGtDUmxMVTJEQUc4azFpSVRLbGllTHhvanZDWFZVNVBtQkJzYWxuQzZGZXZWaEJqdw?oc=5
+- 新潟県警の女性巡査長がひき逃げ疑い、書類送検 自転車の男子高校生と車で接触、偽名伝える【記事更新しました】 - 新潟日報
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJdGprb2xGUEk2V080ZGVkQTZxblpZbVY3cXNXcC1UMGJWOHd2am1ONDIwQTVWUWxKUGNRRzdXa09xVENsSnF6cFNVNmxHVHZfUkdUWGxPS1h3X0VfUVE?oc=5
