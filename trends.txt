@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 農水相に武部新氏 高市首相、体制立て直し急ぐ - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tOXdEdkljRnAtejZ1amREcXN1WHRPS3JnZ214QThLQkxoakhMMUZqdzJOS3FRUWtPMXB6MlRIYndROGRVUG1UQU96WXE2amNNN3BTelZROVhEbkFpNy0xMHZDSQ?oc=5
+- 自民・麻生太郎副総裁、簗農水相更迭は「大変遺憾だ」 派閥会合で言及 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5faXdIRW5QZWttZGd2TFNVUzJJcGd3SE14UEdMLXRFak9RRmJ1Q2RGTTd4UlFWVFpoNUtoZ3RDanBEYWRjMHdWQllZbnVkeUJMNjVWcF91Ull4bjlsRDBCZkNMT3oyT2FRclZsS1d3UW9RdkRkS2c?oc=5
 
-- 台風発生予想 次に発生すると「台風30号」 非常に強い勢力まで発達予想 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1adnFScDc0OHJPdU00RkpYbTdjMlB0dWVWSDRaeGhpai1oWWlvSDduLVVuWktTQm94NUpMalNmUXcxOVNIN0xUaXhtSVEwTFF2aEwyMA?oc=5
+- ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTlZZYkhqMTRZbTdXd0JVOWpMRldOUlFVd3A2VFhvTWJLS0RGOG1uNEtCMmR3NkNwT212UjJTRlBBcVhMZ0RxZ3RPM0JGTnFSd2dENE1Pb0FENVNWemxnWG1DSEt2a09jdmRfemp5cWxQYVhRZ0xMcVNoRmRnemM?oc=5
 
-- ウクライナ側“スターリンクの利用一部制限 迎撃など支障” - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rb3ROUnZBQ29kVHd6dXNiVk9iSWlWYTZtVmtCYm85bzlOZjVHeEYteUFFTWZSd3h1UTk3YVJLbVRPSnVLUkhUVTNnc2psWTR6bkRhazBsTEh3YUc1OHYw?oc=5
+- 「やり過ぎたかも」 トランプ氏、イラン要人殺害で「誤算」? - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOEpueVBPeXpFclIycUsxWkk1b0MyMmdOb2E1X29WS2tiTlFIM3VJa1llZE1HbDdmUFl2Tm9kZXREc2w0bzJFT0M3dUFIb0g2NzJOWkxyVzFpcUVrbmRFTHFNWHU2TEVK?oc=5
 
-- ＜主張＞道新記者拘束 ロシアは直ちに解放せよ 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBLaHJINXBUdzh6TXdidjVVZWUzRk1hYlpFRXR0Tk9TMVdUanVkeVp6ZUY5cjVJVktIZEw1ZUNVM0V6ZTRvaGk1QUhsNmpDeFp3dkJnTXBma05SbFFCQ2RrXy1QcWNpSzlZeDFQWk11bURsS0p4dXc?oc=5
+- 台風30号が発生 今後「非常に強い」勢力に発達へ 日本に影響の可能性も(気象予報士 田中 正史 2026年10月15日) - tenki.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBZWWxkZFlRSFBSbEpvWUxCamlNQjRqS2hsYWJJTkpBNmJiNGhPUzlxTko3ZHNxbDdYLXp3Mlp3UTFDcnlLeldXRllwNW94T0tSbVotaTBheFM5TWxxN2ZGUWJrSWN6aWlQeFB3TzlGQ21zZw?oc=5
 
-- フーシ激しくサウジ攻撃、石油施設で火災・住宅地に迎撃ミサイル残骸落下…「今後数日攻撃を続ける」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtLU5zbXVrS0RxNXRRMGdpUHNadzVEeXlhS1ZvSElDSTFMUmdQcUhVbkhXUy1XYUxqUFBPTkh4MTYzZ244cGdaSE5VcFpZMExULU5OTmxzMzlNVS0wbDBaMWRB?oc=5
+- 【速報】米団体、北海道新聞記者の即時解放要求 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZbWViR0syVHVvZ1ZvSmIwZzZTZFItckxKZk1QTXBPQWxoT2ttbVpsVGY5WGZlM2hIZng3dWxQYUR6NHpNZDZQTkNyMA?oc=5
 
-- 【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE40X0J3d3BRQXFUVkpoeFlfT29TNzhZaDN5eHQzNGFVODZreWF1b0lPTXFCVURvNUthMFBwQmhRdV9CNFlJNFdIX0c3WUladHdVSG41WHJ3U2hZakhuWXZJUNIBZkFVX3lxTE9XQlJkbnE0MzRrTHVaS3hqWXNWRXBCQTFEUmhkSFB3eXhPMXg5YmVKV2NELVAxNFA3SjFUOENtdnAzdGlMUW1mRkZES3VfeDNHT1RsWFhZcVhVMWV2bG92WUpsN3hnUQ?oc=5
+- 内閣支持率４２％に下落 簗氏続投判断、８割問題視―時事世論調査：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WdkZnUTR3VWN6STNMODluQV92LWhvby0xVGdOT01hcUdCc05HUFluWkNybXpTZ2VoZzFQZndfWUl3SU5yY2trVlVVUVpodUlYaWF6MWJURWI0NllueWk0bGFpUQ?oc=5
 
-- ストーカー加害者、GPS装着の対象や要件は 警察庁が検討会を設置 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE10bFhoME5tOHpGQWdCejVJWk52cWEyMVNDTlAyVUNKeTZLdG5hdTRpbFZyX3dDUHY5bG5JekFIVWZGOEhEaWswMXdwanpLekpPZlgwTEZMLUtKdjVDbF84OEJYOURvNDRlS215cg?oc=5
+- 【速報】尾道市で回送中の路線バスと軽自動車が正面衝突する事故 ４人けが５歳女の子意識不明の重体 広島 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNRlJsR1A4SllzY2NEcEZxV2kyMkNRUHI5Q2V6S0ZHMGV2TzNETjJoQkJkY0tMRHpNTmN3NjU4SERTRnVXeEhJbTBGcHpzUQ?oc=5
 
-- 名誉毀損の疑いで人気ユーチューバ―"KENZO【新宿109】"を逮捕 会社役員の男性を「詐欺師」「寄生虫」などと誹謗中傷か 被害者の男性は死亡 京都府警（読売テレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVklQQ3o5UTVGMlQ1ZllGZlFiVjBGM09aeE1MaGx2T3ZWUm1uWktpLVVTMjdFQzF1SXMtYzVvWi1qR1pwLWVDZWpUVm5NVFNhb256LVBfdVoyY0JxZzFyblAzSzJRZGJKc2pDMnhwdDFxc2NhSFdsTnlNSjdrMEU?oc=5
+- 温泉施設で基準200倍のレジオネラ…6年以上措置なし 新潟の三セク管理、三条市長謝罪 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9EVnh5Z3ZnSkRNbnVNcENFcjhPYlNXOFFPM1NJMjVVQ0xSaXI3YnRSM1hSazN5ellPU1Bna254eXRMallpek5kQ0pXZ2hNZXloZVZBdER2UXdlS2UyeVpXNnd0NVNtMnd1NTU2UFE3MzE3aVIxOEE?oc=5
 
-- 関東～九州は秋晴れ 北海道や東北は所々で雷雨 暴風に警戒 今日15日(木)の天気(気象予報士 日直主任) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdm5nQzFSdmszZHo5UkxLWTNBdTdGMC1DTElidVdFYWI1T2YtUmlPMjdZczBpdHJsY0Z6VGJOWHVobEwwcDRnTWZXa1dTTEtweEVRRVVjMnZqNDk3OElUY1FNQmtOQnFRS1E?oc=5
+- 【速報】神戸・三宮交差点4人死傷事故 車運転の男（58）を逮捕 「覚えていない」と容疑否認 過失運転致死傷容疑 / 兵庫県 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ec0hBV0ZBNXg3NWU2VkJaLTZNQ21laW1DQUhJUThfWEl1dWJYbVVPQ2pKZXdOakpWajZCZU5SWWZuMUZvYXRzRUd2T3hwYkRBY0hTaUZKaFpXbEVRZzZfQ19naTIzaXpfU2ltSm5mNlh2OU40YWI0bkIxS1ZoNzA?oc=5
 
-- 「真っ暗の中、携帯でライト照らしながら…」札幌ステラプレイスで火事 エスカレーター2基焼損 ｜ ニュース - ＳＴＶ札幌テレビ 放送
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxOakhfaDZsWnV0S0xMVWlWalo2YldnUm5KUzZDd3FmaUp4c0ZaczM2LW9DNnpZUGdUa2p5bUlkT3NxMFptQ2NQZklLdWlJZEFnRkJBQldSVnFJRjBremVvaUF5LWhSbUN2NUNGSUxXZ0R6Vy1aZ0VOTUNqMU16WnF5LWFB?oc=5
+- この先も寒暖の変動に注意 来週前半の西日本は蒸し暑いことも - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkWS1EcTI4YlozUDJlUUdXcWN0VEVfRld5UVcwM3Vmc2RMYkdwcGE0NDZPb1h0Y0lNRlEzUElEV2hEeV9wdnd1eEJES0pTQkVpaXBMWA?oc=5
