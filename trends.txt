@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 茂木外相 サウジアラビア外相に日本人保護への協力要請 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NNFdpcUhFSS1ZQms5SjhzaVFRZ3hhaEFuUTBYNEhJdWd6cDVBNksweXlyR1RTcFUteXZIZGMtcUhfcXhLZE5kdmhheXN0WE95Q3NJWDhOLVBWaURxMW53?oc=5
+- フーシ派との戦闘をためらうトランプ…サウジアラビアは米国一辺倒から安全保障関係の「多極化」へ（Wedge（ウェッジ）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9sMFJ0TmVkTE9JdmpOTTkxaWNBcUdMZlktaV9jUm1mSHNzTHpBV3NPeFNvb3VLRTVDbGtvdlpDOVhpNHdfSF9uUGVJNkNOdXFtaTcyQi1lMDV1Tkdray12RkQ0VlllNmxKTy1HTU40OHl6VmhKMGU0OENXMFc5ZzQ?oc=5
 
-- 新農相に武部新氏が就任、父に続く起用に「培ってきたものを全力で」…前任の簗氏には「説明責任果たして」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfa1FDVWZFOXNPeFY2cEFWNFFsVm01YVhGZzZRRjdrYTRCQmR5QTQ2UGdPcWNIQzZBU2N3OUtmeUJObXkzNnBqNlB3eWR5Q1JQQTE5WGE1U1BBQXpKdUZOOFhwdmw3UQ?oc=5
+- 風俗店勤務を要求した疑い、元ホストら２人逮捕…「ＩＴ業界の関係者」と偽り交際しホストと明かして店へ案内 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdFdKNUdnUDJQbEFGZUkwY1FVVTlHZ0Jpcl9rYVFjYTRxVGtaLTNXUEcwWXZFYzN3MFd6Y2NFQThkLTc1TFJCSERXa0kxdlI5S0tObTlDZnBVanRpZkc5bjhNTW9MZw?oc=5
 
-- ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTlZZYkhqMTRZbTdXd0JVOWpMRldOUlFVd3A2VFhvTWJLS0RGOG1uNEtCMmR3NkNwT212UjJTRlBBcVhMZ0RxZ3RPM0JGTnFSd2dENE1Pb0FENVNWemxnWG1DSEt2a09jdmRfemp5cWxQYVhRZ0xMcVNoRmRnemM?oc=5
+- ロシアに記者を拘束された北海道新聞「政府指示で取材や情報収集行うことない」と反論…編集局長名で声明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uWnFtVmd2N1NkTW9qNWd4ZndtRDAwX012UzFybVZKTDJlWWtscFFxZE56VnZGTEpfZE92MjdtWDc4Z0pORVdiUXlNc1R5d1F0dXZURnI4Q2dCS2V0dTBkWWZEcDJrdw?oc=5
 
-- 【速報】米、イランに大規模爆弾使用の可能性検討か - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zeWNZbEhjTkdIQmxGVXdKNUhMdDE1SDhsTy1BMkpFVnVlNlh6bHFyVXBJSmxHX2FnR3RWVVdsTUNIQWJLY2UtWExrdw?oc=5
+- 「カスハラ」全国初の罰則付き条例、三重県で来年４月施行へ…禁止命令に従わなければ５０万円以下の罰金など - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdjJDVFVXR2FWX2FBSWxkNVRVbVRjaVdDUkY1VHJzWDNUTVpqenpnOUZ5S0ZSeFpiWjk5ZGxmcDRaQkVNT2hYRm0tYUhka2FQWnVoSWpiNTdGNWJSWnJiQ2VYWjJMdw?oc=5
 
-- 検査をすり抜けた乳がん 梅宮アンナさんが気づいた「異変」 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DRkstdmROODVIN21fS3FZQTZNMVBtV0w5VUdJM1ZHUUlOZ0RQektfWE9RQUpHRkZ6NlZweExZb3RwWW9OWGhfNjRRN1ZCd0FfNHpEVER0Yllid2E1ZTBpUzZ1R09BcFpn?oc=5
+- 米オレゴン州の小学校で銃撃、子供３人を含む４人死亡…１６歳容疑者は通行人が射殺か - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CUGczbVhmVF9NdE91M1lCMmZlYVhYSERXQm1UNWFmUk5CTlUxLWpaVDVCTFlqdjNNak1iTTJad1VKajdLZ01sNFpSOEd3NnNMdXltS0R2aHhyQ2lpbERicGJB?oc=5
 
-- 【速報】コミックシーモアが停止、不正アクセスか - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemNiTWV1NGdwR3l2UzA4TUhoTzY5a0ROWFRpRVVuSEFzYXYxM3RSbjJSZEE5UmpRall6dkFPUlFENlBzNHA3VGlYWQ?oc=5
+- 【台風情報】台風30号が発生 19日には非常に強い勢力へ 来週後半にも九州など西日本に影響か【雨・風シミュレーション26日（月）夜まで】気象庁の進路予想 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BUWtpc1o0MFBVbUVJY2pTYXZZeGdVSEZzd1lVYnZBY3h2MDF3OVJOYnlYbTVpZkRqREE5TnAwTmo1QUNDaGljS0lxeHlrSU01bUhyM0NoY0d2TWs1R0djbk1semVlY28?oc=5
 
-- 台風30号(チャンパー) 進路次第で日本に影響の可能性も 13年ぶりの30号 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QUVmYjFsVUNXdkp0VUF5SGFBUEF4djd5emhzUkQ5MTJmcGFyLVJ6YWxtOEtXSzJabHA2MkdQenhtelI4bFFaVmxKemZjUmxLemZIdw?oc=5
+- 「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB0NUY1ZGNQSlQ3d25ka2trTlNSZVVHTnJXU3ZaQWJueEV0YW5UM1dOTlVLYzRuYzBCVzhrRGROb3B4WlpNSC05ZjZJS1VHX1JwdTdhd2hWSWk5UW5DWWJNTmtxM25mMTVUbmxBLXFTbWxyMGJ6N241aDBKMzBjZ3M?oc=5
+
+- 約8割がパワハラ「考慮」 横浜市長選の情勢調査 新人・原沢氏大きくリード 前職・山中氏は厳しい戦い 市政「評価」4割超も【横浜市長選2026】 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBudmVLekx4RENYakMzYzg1WEtrR1Y5QjJqaHJoVHdsV1hieThGUmtqT0wwRW0zUzBwa1drNDAzbzdUYnZiWXpuMk83bGtTUTV2YkNmd0tnYw?oc=5
+
+- “餃子の王将”社長殺害事件 暴力団幹部にきょう判決 京都地裁 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HX3N1d1ZNaHZmci1Gc0RyRWlrbkVYTHVCekRvTXc1TEhHUnZfWl9ITWllQlZRYkotSk14TjdzY014VHM2dWNBd2lvN3BLaWtMXzYxWThycEluZWIyWEVv?oc=5
 
 - 死亡男性母親、２．３億円賠償求め提訴 逮捕のユーチューバー「ＫＥＮＺＯ」らに―京都地裁 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtd3ZETE0ydjI4dWJHVzlNcnN5eGx0NmdnaGF1eFBlMk1zN1ZtYm5EMHMzeUpwajhRU2FFekFFSXhzSzVHZktTbmJRNWJTWVdnMWx4R1dRazI0YzJROElQb1BZOA?oc=5
-
-- 6年で49件ずさんな衛生管理…新潟の温泉施設“レジオネラ菌”基準超えも停止せず - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBKQzFiNnRJRTlNVGs5ZmRJelRLRWItZTlrRlRKR2NqLS0tdy1KU29DMlFDZWtYOW1qcklxNW1QaVRWcDVLWmFLSVJ1ekFNeVZ5dTNqdU5yTXlGcnp2QWZsU1RjMjhDVWoxdWhLWF9JUzlPZw?oc=5
-
-- ＜主張＞道新記者拘束 ロシアは直ちに解放せよ 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBLaHJINXBUdzh6TXdidjVVZWUzRk1hYlpFRXR0Tk9TMVdUanVkeVp6ZUY5cjVJVktIZEw1ZUNVM0V6ZTRvaGk1QUhsNmpDeFp3dkJnTXBma05SbFFCQ2RrXy1QcWNpSzlZeDFQWk11bURsS0p4dXc?oc=5
