@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米大統領報道官、早くも退任 弁護士詐称疑惑などで：時事ドットコム - 時事ドットコム
+- 【速報】新給付、政府が平均3万円案を提示 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JREtlaWpHR09tTFBYRmRWVllGa0lBaFBJRk1JS19hTmRVeWFNVDBROUtIMEd2ZEZfbWc5N1JmenRBNS1XVUU5cERZOA?oc=5
+
+- 【速報】トランプ大統領、対ロ制裁法実施せず - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DSURkMHJ3ZWxzSHF6N2J1a0lrNUM1Njk4MThlZmhpRmVhWkxKdEhHa01HcHFNU3R1SUZJVktPdHZ3Q2dEcEo3di1ybw?oc=5
+
+- いら立つトランプ氏、報道官を更迭 側近補佐官にも退任論、ホワイトハウス混乱 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE81Z0hodE5PQkR6d2d5MzkxTVNnMXczYTdKYXkzN0YydUdOQzRqVkgxRk9ta3gwdTlzYnk3dlQ4MHR4bC1uNlB2d1J4SlpwMTFZN216ellmNmN6VHl6STRZekdXSQ?oc=5
 
-- サウジアラビア首都への攻撃続く 国際会議が延期も - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0WXk5cGIyZTFKOWNzYmZnbVFlY2k2aGtzZ2ZnYk1zdG5kVXU5R1dTVWVUWTRVN0Y2c0lkRWx1WlFrYTh0cV9jMS1zNlVoOXRZNkhvZldic0IyUDFlREMw?oc=5
+- 台風30号(チャンパー) 明日はグアム接近 来週は沖縄に影響か - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GSDBXdmlKZGEtNmlldVBXOXBLc3I2eW04dlV6VEszTTR5WkZJclJJdGZzTi1Ja1VCQTFhaS14MExaOHVSTWFmOEplb1BfRHdYb1RacA?oc=5
 
-- 高市首相、靖国神社の秋季例大祭に合わせ真榊を奉納…中国や韓国との関係に配慮し参拝は見送る見通し - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9udUVwX05MUlE0UERRYWNIRmx0dXlzaWV1YzJxY0ZEX1lCUHcwV2tsSF9qMS1RY3FZZWVybXI0bFBxTFhQeUdSR2xQa0o0Q2otc2VrYnlSYjhXVThpWmM4Sjg1NkozUQ?oc=5
+- ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識 - ケータイ Watch
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZdDA3U0VBbGltZnBQWnp0Y0VrMnZWZldrUFlrZ08xcW51eGRYZ0NUZ2psTDlLNFBMcmJzVXN5Rkg5ZzZkZ1MwbFVaX3VkcDBRdlVKRTlxVm1IX2p5b3UwS1g0QVg1TmM?oc=5
+
+- 高市首相、公用スマホを「２４時間そばにおいて夜は最大音量で横に」…簗前農相の任命責任を問われ低姿勢で沈静化図る - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3TUxnOURSQzZtUHg1ek5rNFQyZzVNSDQza3htdTVoeGRPXzZpaEE4RHp3em9zTzczSnhUYTF6VlQyVnctLXRGX0RnRzZUdjJYN3BSUmZjdWtwMl9ZREZoR3FjaFpiQQ?oc=5
+
+- 靖国神社に真榊奉納した高市首相、遥拝したか首相周辺「答えを差し控える」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aWQycVNNbFpuNm9GUER4MUFPZGVVRVZGU3J4LWxLSV9DRlJjemltYjVXcEIyT2puZTE3Z01QRjY1b0pSdzRUWHBqb3QybmhIRjFLakRDR1BDa1pqQjBjMl9DUi05QQ?oc=5
+
+- どうなる横浜市長選 熱を帯びる最終盤の舌戦、前新7候補が支持訴え - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mczFIUHFKUlAyNjN0ejhuVGpSRnBmUzFubTN4a0h4aUc1bkVDMmJULWZFNEVKRzlhRVg0ZjZrMjd5YTB1aTRIdmxGS1cxamFfd3Y3QzZQSnlBUFVBMXlQcUI4Mm1iSUE?oc=5
+
+- 福岡 久山町で廃棄車両集積場所の火事鎮圧 けが人情報なし - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iR21pR3ZJcFB6cVF5Z1R3VDJMLVd1UW1YLV8xMVZYNXVLV3ZKeXJ4N1BpV3RjV1BEeXpUa2M4RGY0N19hSGZmWUczeENNb1RMN011RzI5NG1oQjlfNkxJ?oc=5
 
 - 福岡県議会、百条委員会の設置議案可決…金銭授受疑惑と海外視察の実態解明に向け - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EN0FSZ2k3QWRLY3pJeDJVTEI3OGs2UlJkbS1oMTk4Y3M3Q3l5RU9uOWE4UjdRajV6MDNXZFpSNnNELXZ4N25HeGpDM1pfbHZKSnBZOUVCWS12V3cyUFVZdlRXY2VfZw?oc=5
-
-- “任命責任”と“危機管理能力”高市総理に厳しい追及 食料品減税についても論戦 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFBXcHNGMTdlM2tJSk5hNVlYRm5RRnJBOUs1WUxRc21HSmg1TGd5SUFMUmpXbE1lUWdkbUhlMWxXM0E3SnJucGZ4M1V0bEg2M2pSN3htQUxYWmNMWEN2NXZiMmhCUHFibjJucllzUm9GanZlanM?oc=5
-
-- 台風30号(チャンパー) 来週後半は非常に強い勢力で沖縄の南に達する - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9US2VNQWJmQ1RiVW1QVURWZ3k2SUVHTVNQYlA2aU5Fc2FTWlNUMUozbk4zZ0VEbFVVbDhiUWtacFZSRDZIbzRYWEZtV3pFczd1WGtieg?oc=5
-
-- あす投開票の横浜市長選挙、候補者７人が「最後の訴え」へ…市政「継続」か「刷新」か - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcElFRlpDdTROb2RsZTFWNlIxU1o2WmwwWXJLSmdranlDVVZJZ19QYUNmemlrNHdFZmlCOUJQT0hLa292RThGYUpxb21sVDVxMVpHZkpJNWVHT1k2aHNxcXQ4dFJ3UQ?oc=5
-
-- スパイ容疑で拘束の道新記者との面会求め、日本大使館幹部が拘置所へ…調整済みのはずが会えず - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lOHM5TmsyejNPa0VfNF84QkNKcVRHRzl3d2VZeW1nQTJGVUdXTFU3NE0zMmNJT0xZaG0yeTN0cGF6dlNfWkFmSUhCSEVyWWxiRWtEaVdYZjYyazFySEJmZ3ZB?oc=5
-
-- 緊急地震速報取り消し、気象庁「多大な迷惑」と謝罪 ロシアの地震に「国内の計算式適用」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1WNmF5NVJzZXFkY01sQlN3dUwtVmFvTUlvWWd2VkdGNkpxR25XODJFNUN4QzQ5M0NkckFJUGxsQ2hLaXRVcUVaUUU1SHgzVl9uSFp0Y2xRSUtxVzJEU1c5UlgwWEF3YVlWTHg1dU9XZkpJaUd0ZVE?oc=5
-
-- エレベーターに挟まれ男性作業員（67）が死亡 奈良・天理市 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5NdDdxMDg3eWdsWWdUTnp3SmFMS2RjOUVVMVFVRFBkN1gyQnVnOG9GUVUyTGJNdmZSdFE3ekV0SlV0MDA1WjJPbmZZWmZjNGZ5NXo4a1dyTVRyYzJUVTNMbGRjWW1hd1o0OUhqbTVwOFFUZw?oc=5
