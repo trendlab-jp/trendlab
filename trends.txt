@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- フランスで55万人が大規模デモ 教育改善や物価高対策を求め放火・略奪 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBXNnRxaEtTdWJWOE1vR3ZhM1JqT3FaVTdnMHZtemlFNTJ0MEUtalNKRC1lS2I4Vk9QbXpwSFpXX1JHcTRnOXIySTJ1S0tjMk5FRWNiOXZnNnlVOGt6NzJ6VnNGMXI0TVg3TGN1WA?oc=5
+- フランスで全国規模のデモに乗じ、破壊行為や略奪横行…中部リモージュでは市庁舎が放火され大部分焼失 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FOUU3alluSHF1b1gxcHhvUi1aZVNwSWZVcTZnSURPNVJjeWVkcEl3bTl4TEl1VE1ZaklGYVFRQTByVE82eVEyekV4Wmg1dVh5cTdJTjU1NGdpbHB3QmVEbWVn?oc=5
 
-- どの州で司法試験に合格したか問われ、米大統領報道官「中国に移住したとき」…就任５日で退任へ - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GdVROU1A3R1VBUXpJdjcxLUFDUzVoT1p0WjQ2RkV4Y1gwRExYNjZfeXpNWmxGak4wZzV6ZGJsd0FaWXhNWEVVN2xiTDVGNWctNmJPaThFSVNENFpsS2oweUN3?oc=5
+- 米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1pRzU3N25KejgzQXVhcXlITFA4NWVucjl1clpfS0ZRUDNnTmxSTFdBTC1hcUV0c3VHb0xmQkVtZzdwMGllTzhNOTRrenBEUVRIOW5lc0g4MXpETkhMT1k1emdaN3J3WWFXc3pZWFZtUnVnZ3NsTXc?oc=5
 
-- 全米で反トランプデモ 民主党への投票呼び掛け：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jZDVMdWU5Mko5eWhVR281Um5ZcW8wb2Y0S0JuMm9xMzRyaG0wNnRXUlAyS25sTXFpZXEtZEF6YVVWR000dm9DVDI5d01WSUZkUnNkd2pYajZMMmUtRjBkX2Fydw?oc=5
+- 【速報】東京・福生市で男性が“刃物”で刺され死亡 刺した男は逃走中 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBuNGgxbHVKaVktZ3hKQVdoWTU5RGFqSWRMcmNCOXlaQWlneUZPNlhXRkxJMklHbzRNNDlCN2Z3eDRqUW1pYlZYN0dvNDNqcWo5U2NUOThYQW5jNnRDQ0RhTGVxc19CdXRMNzFrbnpGTnl3QQ?oc=5
 
-- エジプト大統領、対サウジ軍事支援を表明「あらゆる必要な措置をとる」…フーシによるミサイル攻撃からの防空任務か - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Hd05QRVZBcW1scTRDWmFfZTdEV1RRVUtnWlRHWFQydHY4cFV2YXFWb1dEMmZORW9TQV9yME82bENELVJpaW1qQUFIYTRIMXVKYXdoMlBUdVRUeV8wSERjWGh3?oc=5
+- 週間天気予報 週中頃は北日本で荒天のおそれ 台風30号は週末に沖縄の南へ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE52MkxfRVpRSEstaXNSOW16R19sd1dMUjNqbEhsU29MWExMYUxCY0NibWc0ZnlyaXdZd29ZaTdTbGNrN05ZbTh0MmhkcXhXYkpNU0NhaQ?oc=5
 
-- 東京 福生 男性が刃物で刺され死亡 知人の行方捜査 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sRXhKNFktQldSTnV5VkNZNWFsU3p1WXRUQTVkMEV5SjRMQk9TcXBWUktSVFYzd1FXZnc2ZG1HbjB3SkRBM3VTM0hweDZxTW1sQUR3VWlBVGptQ0RWUkln?oc=5
+- 鹿衝突で停車中の車に大型トラックが追突、車外にいた女性が巻き込まれ死亡 愛知県新城市の新東名 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FX25EU25tR0tsYVZvdzRUbkFqRzNTZDZTa2cyM3hqR0F2Z3hWdnFSRWFCSmxocEhNU19DZnZyZHFjYmVyU3hDMXc1Wkw5MXQ0XzU1Zg?oc=5
 
-- 台風30号は18日夜から発達ピーク 「猛烈な」勢力へ 週後半は沖縄に影響の恐れ(気象予報士 吉田 友海) - tenki.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5jaGdBU05fZG5wcFJQZF9FM21Ub0I5X3BUYUdfUVZvR2JRTDEtMTZLMmQ4QXRZZDlVcmFPLV9HYzM3T2xyVDU2WmI5M2p1Ul9qZkFKQmhUdXBqMmdpMFdrWGtQeVRGYmx2eWZz?oc=5
+- カナダの軍事基地で「重大な事案」発生 火災で死者 - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeHQ4VmJJWkl2bE1kN0Q2TWRNUzllbXNLdTlRTVJIMUVoejBIS2VFNlpuYzE1c001T1BBTENTdUZwS2p4SlREUFU5RFVHcGJLeWxR?oc=5
 
-- 横浜市長選挙、午前１０時の投票率３・８８％…昨年の前回同時刻比０・１９ポイント低く - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WM05JM1NFTUgzb3Z0LUFUZ2tERTJ1N2tzNEo1Z0JnblFDTENmVmRTNTUxeDhRMEpJQUx3RndPSDdrYS1lZWlDR1NRckUwNkJHckw0TjVXblo1R3VUOFVhMWlVaGZCUQ?oc=5
+- 横浜市長選 きょう投開票 前回より投票率アップ - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBkb3VWd3ZkdW1NNnU5TzBDZ0VEVDgzNE5Dajc1cWYzRFBqVzdJbHRmVHNQZGE4OXVIc1BSV1l3WGtCdi13cjBaUGM1RDhidzFEajRLR1VCZ3YwRllkMDNXdjRWRkJYZGo5THpuY1RYcDBkUQ?oc=5
 
-- ひたちなか市の海岸でおぼれていた男女２人、いずれも死亡確認…当時の状況を捜査 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JYjBSQU9xWjhCeGxGTDlLU29hZm9zby1ET2F1bFhLOU1RZ2JLbzVPYUd2T0p0WWE4bWpoZHd3OEJmVmk2NExBU08yeVBuVnllb0JNRWQ1OWdmeXM3amFIZ21IT3RCdw?oc=5
+- 辺野古転覆事故の遺族が献花、好物のお菓子も 涙流し「なんでここで命落とさなければ」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5MSUlVaWRSc2F6Z3Y5ejZ6OTVCTEszcm5laUZLMmFjT0k0Nm85UHdxc2Rndl9pSVpkWTFjVmVJQkRVU0RpQV80S2ltTVNfd1l2aVNFMFczNEJ4VE1UWkxLbGxhTFFadEVMSVRGMUMwWE1MdDNzYUE?oc=5
 
-- 北日本でこの秋一番の冷え込み 90地点で冬日に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TWlo3TmxpbHM2RXFmVU9Uem1yaWdod25DN1RDY1RJT3ZDSHVicXQ4YkdCcXJuZlo5RWxnOV9GQkZialotM3FfVmlpdTNHQWhXNi1jZQ?oc=5
+- ロシアで拘束された北海道新聞記者は、ハッカー集団「キリン」の囚人交換要員だった？（ニューズウィーク日本版） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9IN1kzYXRQOE41SnF3QVB5NmZVZnVVMkllMEFLdFJUdkgzWEpaRXdKMTdiU2RFZVRkMnY5ZHNsWmhNeWxWaGVEeDJNYm5QMWJiY2FhdUoySG5lakt2amRuWHlLLW93TjVyODRQN21SMUd1SlpvTGx1dzktdm1SaUk?oc=5
 
-- 祭りに参加していた副市長が死亡、太鼓台の下敷きに 愛媛・西条 [愛媛県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OdXdEMHVrRXNjN2RGMnplR3YwREYwWlZXYUNyWEdxZzdwekRwY3d3dG90RGpSMWhfeUN2NGY5dEZDVThNV08zUmtrTFNMbnN0OHZiVVhXTXg5a2JIRlVvbmJTN08yM1k?oc=5
+- ワンヘルス事務所への県1億円支出や入札問題なども追及 福岡県議会9月定例会が閉幕 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5mUnRRUXJKQnl4eXU5QklZenI0ek5yMTBzdHk4NThuenRpNWNmOGptM1pESk5wRkEzZHBvekRtZ21pOE5FRURnUkNBZ0dXMmtJWmFZS0tEdUVZWGo2R3IzaGtTbUNBNEZDUU51YnIwME9Sdw?oc=5
