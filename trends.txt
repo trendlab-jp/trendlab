@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- フランスで全国規模のデモに乗じ、破壊行為や略奪横行…中部リモージュでは市庁舎が放火され大部分焼失 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FOUU3alluSHF1b1gxcHhvUi1aZVNwSWZVcTZnSURPNVJjeWVkcEl3bTl4TEl1VE1ZaklGYVFRQTByVE82eVEyekV4Wmg1dVh5cTdJTjU1NGdpbHB3QmVEbWVn?oc=5
+- 前市長のパワハラ問題、8割が「重視した」 横浜市長選の出口調査 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02NVM0Q3IzNF9mZlNkSlJiVWtEOS00QkJzMG1ZTFNabUhuNFIxcTc1Y0xweF84ZE9HeWRNRE54UF9kQk5kRlc1X3F2cURVS0dyZDdZcEpHc1JGSGRVR0dfNHJpNGU4QlE?oc=5
 
-- 米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1pRzU3N25KejgzQXVhcXlITFA4NWVucjl1clpfS0ZRUDNnTmxSTFdBTC1hcUV0c3VHb0xmQkVtZzdwMGllTzhNOTRrenBEUVRIOW5lc0g4MXpETkhMT1k1emdaN3J3WWFXc3pZWFZtUnVnZ3NsTXc?oc=5
+- 高市内閣の支持率ほぼ横ばいの５７％、簗・前農相の事実上更迭で首相の責任「否定派」４６％…読売世論調査 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtWUZXR3FScnRoejJORWJ6U1NaYnFNRXBnZ0l3eGxIWDM5eGx1VUY0ZFU5TTZCRUxYM1EzMkFUWUN4bi02ZndJYzQ3ZDdZMV9sMlQzNGVBV2xLMnpYX0pkNmFmV1VFUQ?oc=5
 
-- 【速報】東京・福生市で男性が“刃物”で刺され死亡 刺した男は逃走中 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBuNGgxbHVKaVktZ3hKQVdoWTU5RGFqSWRMcmNCOXlaQWlneUZPNlhXRkxJMklHbzRNNDlCN2Z3eDRqUW1pYlZYN0dvNDNqcWo5U2NUOThYQW5jNnRDQ0RhTGVxc19CdXRMNzFrbnpGTnl3QQ?oc=5
+- 暴徒が放火、破壊、略奪 ５５万人デモで混乱―仏 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE03QlItWEUzYnd2Qnd0NF9qdlhoTHRNSkl4Tkd1WW95LVo3UThRa3pFcFR4ZW1mejdlcWNVRmhkS0UybzNGc1cyMU91UVE1QkJkMms4eEZRNzF3WnFSa0ZXR1pqOA?oc=5
 
-- 週間天気予報 週中頃は北日本で荒天のおそれ 台風30号は週末に沖縄の南へ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE52MkxfRVpRSEstaXNSOW16R19sd1dMUjNqbEhsU29MWExMYUxCY0NibWc0ZnlyaXdZd29ZaTdTbGNrN05ZbTh0MmhkcXhXYkpNU0NhaQ?oc=5
+- 19日と20日は北海道から九州で雨や雷雨 落雷・突風・急な激しい雨に注意(気象予報士 吉田 友海) - tenki.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9fcVVlU3NxUjFFYkw5SWdqaXlrcXE2T0tyWmZGSVZId1IteFVfZGVlXzlPbGJBcFhFZkFsQXluSWI4YjRiUk5seVAyalZ2NDVzNTZFUFQyMUxqcGJTcmlWd0FDd2ktNWFzaGZN?oc=5
 
-- 鹿衝突で停車中の車に大型トラックが追突、車外にいた女性が巻き込まれ死亡 愛知県新城市の新東名 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FX25EU25tR0tsYVZvdzRUbkFqRzNTZDZTa2cyM3hqR0F2Z3hWdnFSRWFCSmxocEhNU19DZnZyZHFjYmVyU3hDMXc1Wkw5MXQ0XzU1Zg?oc=5
+- 【台風情報】台風30号（チャンパー）の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧935hPa、最大瞬間風速70m/sの予想（NBS長野放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQURqdzktR2l0enJqd1B6cmhqbkI2NkV6ZWdXNVBaWFVFWF9OWWxVNWlXS2tWQzVMM05OeEtldWFqdWVCUWFpc00wSzhKUm5TRlpsUGZHMkNSMEJ6T0FoU0tFdXRYSW10NzM5Z0J4dEZpR3ZXTDZCY0lXZEQ3TVU?oc=5
 
-- カナダの軍事基地で「重大な事案」発生 火災で死者 - CNN.co.jp
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeHQ4VmJJWkl2bE1kN0Q2TWRNUzllbXNLdTlRTVJIMUVoejBIS2VFNlpuYzE1c001T1BBTENTdUZwS2p4SlREUFU5RFVHcGJLeWxR?oc=5
+- 【速報】簗氏の農相辞任、当然81％ - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PMVY0TW52MW93VDlDblhTTW95ZDRQOEpXUmdoeVNmX0tmREpDdGZkeEhwTUhsTkhiNnRjVkJBMlJnam1TdkxpM2FLdw?oc=5
 
-- 横浜市長選 きょう投開票 前回より投票率アップ - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBkb3VWd3ZkdW1NNnU5TzBDZ0VEVDgzNE5Dajc1cWYzRFBqVzdJbHRmVHNQZGE4OXVIc1BSV1l3WGtCdi13cjBaUGM1RDhidzFEajRLR1VCZ3YwRllkMDNXdjRWRkJYZGo5THpuY1RYcDBkUQ?oc=5
+- 辺野古事故、女子高生の両親が現場近くの浜辺で献花「守ってあげられなくてごめん」「経緯や検証結果の報告を」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SbUZoX2JGLVlfcHNZVjlWaVdTdGpUUW1zbm5OMkZuRXJBbDhMbG1CNXRPVU14dndxVlZtOTVGYURzZVRVSmRqenhtcDFEVUZZOGFSNHZYSjV5dS1CVnNWbnd1ZjJGZw?oc=5
 
-- 辺野古転覆事故の遺族が献花、好物のお菓子も 涙流し「なんでここで命落とさなければ」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5MSUlVaWRSc2F6Z3Y5ejZ6OTVCTEszcm5laUZLMmFjT0k0Nm85UHdxc2Rndl9pSVpkWTFjVmVJQkRVU0RpQV80S2ltTVNfd1l2aVNFMFczNEJ4VE1UWkxLbGxhTFFadEVMSVRGMUMwWE1MdDNzYUE?oc=5
+- 【速報】東京・福生市で男性刺され死亡 任意同行した50歳男を殺人容疑で逮捕 警視庁 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9zQ3M2UVRnVWVkdEd6VXdxcnZUV2hvUDhsOWxPbjBtLW1QV0IwSUlpUlpNdGo5SHYtWXBRYmFNUTJVaVRmS2dwZVVKTDU0RFBIa1dCVkRYQVVYdHB1MW1xU0dfSVdjRHg4cU5KS2wyMFd0dw?oc=5
 
-- ロシアで拘束された北海道新聞記者は、ハッカー集団「キリン」の囚人交換要員だった？（ニューズウィーク日本版） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9IN1kzYXRQOE41SnF3QVB5NmZVZnVVMkllMEFLdFJUdkgzWEpaRXdKMTdiU2RFZVRkMnY5ZHNsWmhNeWxWaGVEeDJNYm5QMWJiY2FhdUoySG5lakt2amRuWHlLLW93TjVyODRQN21SMUd1SlpvTGx1dzktdm1SaUk?oc=5
+- 愛媛県西条市の副市長、太鼓台の下敷きになり死亡 祭りに担ぎ手で参加 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSlJVekFzaDJ1ejF5bE4zS2IwTWJ3eUJubVQxQ1JLZEE2N3gtTHB1WGlzbER1MWhSRDNYOEthRUFrd0R6WEpLVUxuaEM2WFM2YVA1b2MzTWZXdUdiUDYtbTF1VVFJUE0xMy1iLQ?oc=5
 
-- ワンヘルス事務所への県1億円支出や入札問題なども追及 福岡県議会9月定例会が閉幕 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5mUnRRUXJKQnl4eXU5QklZenI0ek5yMTBzdHk4NThuenRpNWNmOGptM1pESk5wRkEzZHBvekRtZ21pOE5FRURnUkNBZ0dXMmtJWmFZS0tEdUVZWGo2R3IzaGtTbUNBNEZDUU51YnIwME9Sdw?oc=5
+- 川西市長選 現職の越田氏が3選確実 新人の斯波氏破る|社会 - 神戸新聞
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9FdVNINzZNREduX1JJYjQ3Q25mN0JfRHZXNWFHUndiamdRTW55cFJnSFBPblRTSlZJSk1RanhfNHUyMVczUzl3WW5QQk5qdVlubUxNOXhaOGxESWRURHlMMFhZVUNrU083QWxCM3FDMA?oc=5
