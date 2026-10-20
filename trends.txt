@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- フランス大規模デモ、発端は教育環境の改善求める高校生の抗議活動「暴力的な意図なくゾンビや魔女に仮装」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IRldCTkZkQUZPVThhWjduNnJ0QlFPdzNreUViRXhGaHlFRGVzS1AyWl9yOXI3NkZaWkZGRFhhSzdsdUlVRkZ0U1NRczJ3NzhOdDRBT2FOb2tUZVNrN24yUjh3?oc=5
+- トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0d6UFp3MGtfdFpNS1hqazd4VnB2V2tubzVxaXpNdGRRa2dNa1FBc3BaRVNMNVNsUnlzMFNOUkpFc1RIR2l0MndXaFFnTzVnRmkwbkNhZmRaS3RDaUdNcUxB?oc=5
 
-- 路上で男性刺したとみられる人物を緊急逮捕 殺人未遂容疑 大阪 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiLXI2TllKR0FRM0JNUE5pU2hpb2d2ejk2cnlhZlpoY2NyNkFNdFdUN0dRNktmQWpSMkNuOVJIV3BZc0Z2R1g2RWlFTklGRGtURk95Z0xFWWlUdnpXdkRKQ3dBSVU0Z0ot?oc=5
+- 米副大統領、ネタニヤフ氏の再選を支持せず 全面支持のトランプ氏と距離 - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FMDBqcFhLS0lQTy1NRURJNXR3eUVOblRoM3FlckRBQ3dfdmlLcnlaNVJWUlZ0QzI3aTNOM0Q5TkgyTEU5VmdKSHAwYllxY002?oc=5
 
-- 台風30号(チャンパー) 沖縄は週後半、荒天警戒 週末以降は日本列島に近づく可能性 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSUkzcjlDUHJGSlJHRDR0T3ViU2x1NktFQ3U5V1FoTldCV3hNSHI3cTBmSkhxVXc0MjBWN1RfT0hkSjJKeVhlNnZOb2xMSDdISG1mbA?oc=5
+- 防衛省の研究費に手を伸ばした教授 「学生さえ節約させてしまった」 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNzJLREFBb0VYV2RGTlFSNVh0VE1wdDA1U0xyWUdrRzJ3bzBBczZ3bmRaeGgzVEZ1V1VmaWtHVEk3NGNZeERMOEhSakJXSWJlZGd3em1xTHVVVkUxVWltU1FhMmYyZmM?oc=5
 
-- 関文科相「いまなお明確な説明ないとの声多く、遺憾」学長選考で東大に経緯検証を要請 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1HVkl1b0JlZTZvemQtVzJVTHZ2OVVEb25ibEd3U3ozRS1vM3dyTUg5NlBwMnJQR2xKbWlEUmFDMjNsNmxRaHd3ZkN2VWVPbnM0aUVPYkZtNlhHSjVRRzVuOElQNy1kd3FYUEdXWlNxcEl5cmN5QXc?oc=5
+- 猛烈な台風30号(チャンパー) 週後半に沖縄接近 その後は九州や本州に向かうおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ETlZsX1RGZDI4OGpILUZVd3lFbXdadWdINnJkN0xoSUJjSTVTcHY3SjBMX2NsZGpsM3p5Zk1FWDdRVWdRU00tazZDMWt1RmEwVEZnaA?oc=5
 
-- アングル：期待と誤算に揺れた日中の1年 高市政権下の改善「難しい」と関係者 - Reuters
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxOemFyRm9RRThGSE5MQVJvWl80b2V5TzJkSEZBZExtTUtwOGVqT2NGNGZzdVJqclU4dnZIdkZ2QWVTV2V1V3VHcm9PTGJlellhSmUxTVNFOUZJLVVrRE11R09OaUE1TS1TUjFCdTgxaHoyUWRLbExxd2E4Rnc0S3I3b1NrZw?oc=5
+- ウクライナ軍、前線の負傷兵を「大型無人機」で初めて救出…多数の地雷で陸路で救出困難 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE44WFJKSktDVUtwRnJ2Ui1GTWxpejBuMmRLcjJjVDRQaUZrODhkdjNjdGpPUC1QMkEyVUNnaWM3U3VXN2hLOXNFaVZKb3RIUkxuRFBmRF9oTUZJTFQxcU1xY3B3?oc=5
 
-- 共産・小池氏、横浜市長選7人中6位も「健闘」評価譲らず 記者団「客観的に見ては？」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE93RkNCV2hCemNRZUMyanhBV2F1empRd0lFS1J6aEFFaEtnSVl0M251YVBLanhDX2UyRExDa3J4YW1sVHRFXzJtWWlCTl83UFQzc1Y4ZkVIQXdGeVZnajdNM2hGdVl0bXFHYW90UzFoWHpzc21iUWc?oc=5
+- 横浜・原沢市長「軽いみこし」論に「言われて乗るほどやわじゃない」平原副市長ら当面続投 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE81XzEyMHhZU2FxeUlMSC00VW02aHduTmExNk96YmdTTkl2NFc3V0N4R3NVakhrNmFfOHNvanNmY3BTVThUR0Y5NUNjbXJWZW9LR253bDF0c1E4aUN3U1BKcGNpUV9DUFA1Z2ZtQnkzeW1zbENrR1E?oc=5
 
-- 週間天気予報 明後日にかけて北日本は荒天 台風の影響にも注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wU05mRXdkOC1oUS1OOVB4SjJUMFZvdlBzb0JsVHhOZFVqVy11c2lscm1mQTg2bmVfa2lKRDFIQVJVZFVaUDlaTE9Rbk02OFZJZHRlcg?oc=5
+- 明日は関東や東海などで30℃前後 寒気流入でその後は気温急降下 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xZ0ZjNkwxOVlKUEl2U01OdkY4a19DT2pBa2VPUUZDZVdnaXdMaFdHc19qNXl6RWRMYUZxc2dKcGhzNUs3dWxOZTB1d1BieGFnUVhibA?oc=5
+
+- 暖冬で太平洋側中心に降水量多い見込み 気象庁3か月予報 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE16Q3RzdXdHQ2JJSW93UUstbGhBb3hWQTZKSEdITWwtdUxJWDIxbWJXVjZMc21YYUI4MGEtN0c1UWNhdnFadXVnZ0szekhxQWRYX1VHRFhwODZvSk1NaEZr?oc=5
+
+- 現在も有効な「日ソ領事条約」で定めた４日以内の面会守られず、木原官房長官「即時解放要求」…道新記者拘束・逮捕 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JSnJyeThDUnRTeFlweExLb3FCQkFSSEJ4bmtWV1h6dDFMOHloTHlTSGw2X0lMc2p0cEU2VEZHMlpPeUk2UFBWbWZjRHg4YzNuT2RBYUJNaHNaSVBsVEM2RVY2SWc1QQ?oc=5
 
 - ながらスマホ運転の元運転手に拘禁刑7年判決 法定刑上限 新名神6人死亡事故で津地裁 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE82d0xjdnlNZTNSSXY1MkZNeWpjYWFvd1B3OHRjSXR4cVlqZUcwZk1nVnU4b2dPWlR2SmhLS2Rvd0J2b0p2TmYzNE41bEFLMXlabFFOczlFOGR6Y1JYUll4X2lqUWV2ZFcyWkowSFZyQ0JJZHlWZHc?oc=5
-
-- 《横になる時間が長くなり》美智子さま 車窓を開けられないことが増え…92歳お誕生日も懸念される「これまでにないご体調不安」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5mQXVjLVNvZlJEdVM1M0lqSFNsaWJ2cU0tWEM1T3RIUVlfSldJLXVNSldlRVJOcDJoZExtY2hURGJoYm0xcjI2QllkX051QXhCS3BSMFBybzBqaVNlRzdVV25tbEN2UFRuaEcwRE93NW1tZ2U4bmJNQUMzWFZBLVU?oc=5
-
-- トー横で知り合い「５００万円稼げる」と勧誘されカンボジアで「かけ子」か…女２人と「誘拐」組員を詐欺容疑で逮捕 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhV18ySWFlc0pkdXoteXo4SE5HUHhnODJkanNFdE5jdW5ld3FJYWFpc0tvemV5bmdfc0lldzQwX0M3NmRyODQ4bmlGcjNNaGpsRFBvNC1PbE1rUWhjdDdad2p6OXA4QQ?oc=5
