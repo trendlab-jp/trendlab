@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- マスク氏が利用制限指示か スターリンク、米紙報道（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSXBISHFqTWxta0dHaTdna3F5c2doLXNuVl9kSmFpa01ydVdMZ1VsSDg4dFdwbVJyaTlzRjlqODNVTGtJMHg3RXA4U2xDTWZ3T3NtYTJBMjlsSENUOUtINXdoc0RadnZFZkdHUDFRWEVhZ2VLWktXejAwcG9OaUk?oc=5
+- 秋田 由利本荘 子吉川に氾濫特別警報 氾濫発生 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NLVVRMnJzMWtXbERnVi1tWUxQTUFueHg3OGJMci1oa3J0eU9vVEF3VHZhSGI4OEZDTkxZOEZFcW9CQ3NyVkUyVmJjOFVXdW5KTmJEanJORW1XVDhRTUkw?oc=5
 
-- 秋田河川国道事務所「子吉川で越水を確認」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRN215am8xdkN4VmhCU09RRDZmUkFwNjRwTW1TbkpUb1FNVDdYeVdYcVZPMDFjc1FuSndqT1hreTI1RjE2RTF4RjFCWG1YNG9LYzluQ3VGYk5ZOG1BemFn?oc=5
+- 【分析】ウクライナで起きた「スターシールド」通信制限、誰の責任なのか？ 深まる疑問 - CNN.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NeDd1NmtNQ3k2bTE0anJyVGdpbkt3S3lIUjVMeXdoMk53OTVpQU5mRG9meDF4RDFjNk9QaXQtanNmekV5NzdoOEp1NHdTb0RnTV9n?oc=5
 
-- 武部新農水相「速やかに確認」 公選法違反疑いの献金報道を謝罪 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBYamhsQVktdldfR0dXenhqRHRKdHZHMjN2eXNQV3BheTQwYU1mUW81RjQ1X21CbnRtU29QZnNQYVd4M05Wck9mYS12bzhhaTdVd2dEeUlmVUF1N0dLS0Q0SE05UTRwRUR2UW1PLWZBNFhWdGY0MFE?oc=5
+- 【台風情報】大型で猛烈な台風30号(チャンパー)の進路予想 22日午前6時には沖縄の南に達する見込み 週末は秋雨前線の活動が活発化する恐れ 24日(土)は九州の広い範囲で「警報級の大雨」となる可能性 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MeElhc1FvbDV4dnZyUTJ2X2FMUkdyejB1SzUxOHluRjRaVEdjUXQ4a3NmZnpyMDJldlJNX0tIVGxZM1VtUXBGVHA1RDE5dw?oc=5
+
+- 総理就任１年の節目を迎えての会見 - 首相官邸
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9OUnRnaXJ6UVB3U1g1V1BnTk8yd2ZKdWI5LUtaLTNIeFAtb3FJZnhSZ0tjNzFWYzRWZFJBOTI3ZFAzOGVyMXNmSXhJZ194eWp5RmtVYUVSa3FEcnhGV045ZUU5SVlsakIzMHE1eTVoYw?oc=5
+
+- 鳥取県・平井知事 来春の知事選不出馬表明 理由の一つに「深い失望感」「自分の人格や一人の人間としての尊厳を放棄したわけではありません」涙ぐむ場面も…【会見全文掲載】（BSS山陰放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQXFoR2hHZVhZQkFRNlBFTDhuYUJQYUVIYUpSRUNzY2xlbDNpalN2MDM4NHhIREdvcy04UGZTUS1YOUFxbkRHOFhyaDhEbllKdXpiS2luQjZDdjNIY2RiaXU4blJJalM2ZlhmdE93b1VqOFRzRWVqY1J5QU5LSHc?oc=5
+
+- 選挙の偽情報対策、SNS事業者に収益化停止促す 総務省指針案 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE13Q1E2QVpVb1VEMl81cmRCUmZNY3Z1djlfZ01rcUkwSk5qT0N1VmpnY1lWbDJTNnpWRW51SF9lMUs2VFE3VUFkNDUxY1dYNTlYV2ExMHc2bUxyakQ2di1oWDFTUldYNDFQc01DQw?oc=5
+
+- 「ずさん捜査」で釈放後に衰弱死の16歳少女、母が訴えた国賠訴訟開始 国と県は争う姿勢 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBwdi16WEV4a2E3WHppZjlkdzZDTDN4OUU2QW5rUGFNT0wxNEpwdTJPaS1SZWpaVk1SVWg1YUJybTBpSzBkSDlhNGg1WFVRTnhfT25TdHVNYmdUUjlJMjg4VEdaMVQ0bWhTRzdYZHZCZ1NpdUswQ3c?oc=5
+
+- 「ひろゆき＆いずみ新党」、宮崎県知事選挙で東国原英夫氏支援…文京区長選挙では前区議 - 読売新聞
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZjZ0SXNNZi1uckthWXFIUVA0MmhSM0lPMjRHaXB4R29wZkRyVnJkRi1Ubk4tWnFXX2FrQjd3VjI1OUNEUmVLcnc5Zm9LUHVMSHY2aUZ2cUNQMzdTZjV6SHpEempobUF6eVpYcGR3?oc=5
 
 - 大阪、東京で史上最も遅い真夏日 明日は気温が大幅に低下 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WeG5mRl8tZjRzdl94MU5HWjYtSS1aZzJ5cHdQUjdJdEdELTQ1bm44X0RpYWJCUHAtV05Kb3Bpak15NjRtZXV6X3hOX2xXR1VFZG5zVg?oc=5
 
-- 【台風情報】九州を覆う予報円 台風30号は26日ごろ対馬近海で温帯低気圧に 先島諸島は23～24日ごろ厳重警戒【雨・風シミュレーション26日まで】気象庁の進路予想 | 鹿児島のニュース｜MBC NEWS｜南日本放送 (1ページ) - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BLWllRk5OSE8wZHhRY0g0a015amZQX0l0VVNKbUhfZjdYYldUeDNkS0gwdER2b2x5TnhJNTlXQklRdTMxNDBpbVFKd1F2WnQ3TXNYdGZpLWl4cFhSWEVwSWIzWnRHYzg?oc=5
-
-- 高市政権近く行き詰まり 小沢一郎氏が見通し―内外情勢調査会講演 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1LU5lNThkXzlnM1NXUnZpYUlCaVZFXzR0SUd3UEVFdDZGZGZFZUlMeFFWbnJXX2pJcHBJZ2xfSFZkZkNRdWNENHg1Yzd6RDNreDRkeXVPV3hYbnlHTmYzMW1nVQ?oc=5
-
-- 不出馬表明の平井知事、涙ぐみ「幸せだったと思う」…思い込め自作の歌披露「夕べ手元でこねくり回してみた」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE12YmhrSjF0RGNnWHZwd0t5RDFJTXZBZHZUSXktUnRlSlJEeFVLRVprTlM4SmpacmYycXhZaVZMbDNpa3dEMldEbjJiUGNydzFhRkF6RmVtU1FFSjlhWUNRRmJYbWRYdw?oc=5
-
-- 16歳少女が逮捕・勾留後にPTSD、その後死亡 遺族が訴えた裁判「娘の身体拘束なぜ… 」 国と県は争う姿勢 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE80eVI3Q3RwemgxVUFSRXcyN3VYTEYtbmJqVU1USC1oSjlhVFFTbmxSZVJQZ1BTM2ljaExjVTNxVXJBVTNic3BodXI2NGNhMGg5dmpjbDQwNA?oc=5
-
-- 【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDZ1FxQnFxNFp5U1dMby1zWWQ4NnE1RUdHVFlYTS03U1EzYW5zbzlxbHV1NzF1MGhzODFzRU9Qa3U1X2J2bnc2a2RRNWNLQUJ3M1lzUEdEY0RrdG9oU1Aw?oc=5
-
-- 外務省の中村欧州局長が訪露、北海道新聞記者の即時解放を要求…露側発表に記者拘束についての言及なし - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBYVlhdG9sTHhuVEhBNnpEOVZDUmdSOENleXVuQkRCaFlCblFDa1hGWTg2aXRBYkRENTZOR2ZSUHltT2JyX2ZnNjlfU2prQmpDSUYxYVE1TnFUeDE4NkZDd2kyOGZDZw?oc=5
+- 気象庁長官 緊急地震速報を誤発表「非常に遺憾 対策検討」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNzV4Y3BDUWstWFRMT2pjcWEwU3p3Y09rdFVVVzhFS1lZNGhuU3ZUb1lGR3ViOUVncVk0bm9xaHJGVjB2azVmMDFjUVZlcTRVYkpLUVZvdXpGSmpNSkM0?oc=5
