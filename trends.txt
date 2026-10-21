@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 秋田 由利本荘 子吉川に氾濫特別警報 氾濫発生 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NLVVRMnJzMWtXbERnVi1tWUxQTUFueHg3OGJMci1oa3J0eU9vVEF3VHZhSGI4OEZDTkxZOEZFcW9CQ3NyVkUyVmJjOFVXdW5KTmJEanJORW1XVDhRTUkw?oc=5
-
-- 【分析】ウクライナで起きた「スターシールド」通信制限、誰の責任なのか？ 深まる疑問 - CNN.jp
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NeDd1NmtNQ3k2bTE0anJyVGdpbkt3S3lIUjVMeXdoMk53OTVpQU5mRG9meDF4RDFjNk9QaXQtanNmekV5NzdoOEp1NHdTb0RnTV9n?oc=5
-
-- 【台風情報】大型で猛烈な台風30号(チャンパー)の進路予想 22日午前6時には沖縄の南に達する見込み 週末は秋雨前線の活動が活発化する恐れ 24日(土)は九州の広い範囲で「警報級の大雨」となる可能性 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MeElhc1FvbDV4dnZyUTJ2X2FMUkdyejB1SzUxOHluRjRaVEdjUXQ4a3NmZnpyMDJldlJNX0tIVGxZM1VtUXBGVHA1RDE5dw?oc=5
-
 - 総理就任１年の節目を迎えての会見 - 首相官邸
   https://news.google.com/rss/articles/CBMib0FVX3lxTE9OUnRnaXJ6UVB3U1g1V1BnTk8yd2ZKdWI5LUtaLTNIeFAtb3FJZnhSZ0tjNzFWYzRWZFJBOTI3ZFAzOGVyMXNmSXhJZ194eWp5RmtVYUVSa3FEcnhGV045ZUU5SVlsakIzMHE1eTVoYw?oc=5
 
-- 鳥取県・平井知事 来春の知事選不出馬表明 理由の一つに「深い失望感」「自分の人格や一人の人間としての尊厳を放棄したわけではありません」涙ぐむ場面も…【会見全文掲載】（BSS山陰放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQXFoR2hHZVhZQkFRNlBFTDhuYUJQYUVIYUpSRUNzY2xlbDNpalN2MDM4NHhIREdvcy04UGZTUS1YOUFxbkRHOFhyaDhEbllKdXpiS2luQjZDdjNIY2RiaXU4blJJalM2ZlhmdE93b1VqOFRzRWVqY1J5QU5LSHc?oc=5
+- 秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・気象庁など - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb3IzRlRNZjhucE1NR3VnM1VidnFtMHR4NVZfX3piR091U2pYWGNTUkYyS0NTclM4SWsyenRVY0k0N3FpNzl4YTBQTGdKVlN3cWNXYUZ1aEtrRnhqT2RDNGxQZw?oc=5
 
-- 選挙の偽情報対策、SNS事業者に収益化停止促す 総務省指針案 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE13Q1E2QVpVb1VEMl81cmRCUmZNY3Z1djlfZ01rcUkwSk5qT0N1VmpnY1lWbDJTNnpWRW51SF9lMUs2VFE3VUFkNDUxY1dYNTlYV2ExMHc2bUxyakQ2di1oWDFTUldYNDFQc01DQw?oc=5
+- 【台風情報】大型で猛烈な台風30号(チャンパー)の進路予想 22日午前9時には「猛烈」な勢力で沖縄の南に達する見込み 中心気圧915hPa、最大瞬間風速75m/s予想 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NR3Z1MWc0bnNwZmt0XzlzUm1fTEE0M01vMmZYenRUa05oNGdYdmcyaWpuUk5VVUppUDZCaVh4ZnhZMFRwVXF5ZzRoVTRpQQ?oc=5
+
+- 武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5
+
+- ウクライナのスターリンク利用制限、マスク氏が指示＝ＷＳＪ - Reuters
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzllMDZKeVMzeFJEaVFmTGlKSmswbkVmTVk5ZnM2UVJQQUl3VDF6S0QxSEg3Ylo2N1FTQTg2TUw5RDhQRG9WZ3JVUWVFUnNfVUxUWlJ6TkpRREVLMHpod3hkeEl2VnZsMVlsbXE4WnZjelluX3QwaHh2dFFkT2FDU1JkZlhnQQ?oc=5
+
+- パリ炎上、なぜここまで…デモを始めた高校生が訴える教育と貧困、「声を聞いてくれない」大人たちとの分断 - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sdXJYU2w5Rkc3QnJadTZRaWFyaVdUU1phemZKbW42MDFUcXhTdkcyVGJxS29PSXhzWHpNWXJObWdzY3hxNG1FdFZmb1NVRnJvbFRj?oc=5
+
+- 10月なのに各地で30℃超！観測史上最も遅い真夏日に、台風30号の本州への影響は？（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSGpRNDZSRXEtWi1RQ2FYa2pUNDNZUmszQWVfUDJXT01hZ2x0V3FDeThCUXBVTGVoVmQ1bWRPVUpnQzU0a0Vmci1BRDNoRnEySWFhUzRaYzc5bm1VMUd4UGUycWdlVWRIOVpxc3BfUVdCOHdWUlhYd2RoRDdRcFU?oc=5
 
 - 「ずさん捜査」で釈放後に衰弱死の16歳少女、母が訴えた国賠訴訟開始 国と県は争う姿勢 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTFBwdi16WEV4a2E3WHppZjlkdzZDTDN4OUU2QW5rUGFNT0wxNEpwdTJPaS1SZWpaVk1SVWg1YUJybTBpSzBkSDlhNGg1WFVRTnhfT25TdHVNYmdUUjlJMjg4VEdaMVQ0bWhTRzdYZHZCZ1NpdUswQ3c?oc=5
 
+- 台風25号被害から1か月「田んぼとして使えなくなる」堤防決壊の千葉・印旛沼周辺で“地球上最悪の侵略的植物”が繁殖 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBLSnBmbXVCQ3NtaFBwVE85dkY0SmRkY1M1bDVLTkhrajd2c0h3dU9kUFdCVFJhZmhCc3Y2dzduTFFNdVJ1Zk5oV2dtblNTbzJWcFQ3N0dsbElIU3ZWQnpnSGRfeDdudTBWZWpzbWtlOTAzWDltOWd1UGVmN3djMTg?oc=5
+
 - 「ひろゆき＆いずみ新党」、宮崎県知事選挙で東国原英夫氏支援…文京区長選挙では前区議 - 読売新聞
   https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZjZ0SXNNZi1uckthWXFIUVA0MmhSM0lPMjRHaXB4R29wZkRyVnJkRi1Ubk4tWnFXX2FrQjd3VjI1OUNEUmVLcnc5Zm9LUHVMSHY2aUZ2cUNQMzdTZjV6SHpEempobUF6eVpYcGR3?oc=5
-
-- 大阪、東京で史上最も遅い真夏日 明日は気温が大幅に低下 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WeG5mRl8tZjRzdl94MU5HWjYtSS1aZzJ5cHdQUjdJdEdELTQ1bm44X0RpYWJCUHAtV05Kb3Bpak15NjRtZXV6X3hOX2xXR1VFZG5zVg?oc=5
-
-- 気象庁長官 緊急地震速報を誤発表「非常に遺憾 対策検討」 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNzV4Y3BDUWstWFRMT2pjcWEwU3p3Y09rdFVVVzhFS1lZNGhuU3ZUb1lGR3ViOUVncVk0bm9xaHJGVjB2azVmMDFjUVZlcTRVYkpLUVZvdXpGSmpNSkM0?oc=5
