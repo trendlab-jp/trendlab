@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 高市早苗政権発足1年 政策実現の先に見据える「長期政権」 手堅い人事 柔軟に政策実現 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9FZHRjVmlESUxiU1NqelRadXJzQTJwdnF4dldiYmFzY19qZXhXODVCcWJvRXlDbkdHT1A5V1BXaDRrZEc5LVdmLUp5T2xVc2RBaVlTMThSZXJ6c1liNjJNMm0weVFKOVJQRlZmV2V0RDc3RDNxLWc?oc=5
+- 週間天気予報 週末から週明けは広範囲で大雨のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wTFVxUXZMZWVlQXd4MnVOdVVNcEtnYnVXX0lVMlFuTHEwWkdPQTZnNnpJeVVsejRaY2xxY0ZYcVpaYlpqcVlNRTBwa28zRWw0SnVMbg?oc=5
 
-- 【台風情報】大型で猛烈な台風30号の進路予想 東シナ海進み日本海へ 日本列島に接近するおそれ 秋雨前線活発化か 今後の情報に注意 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uVjlrd29rdnRTeTd5TGRVWjc1R0RyMlFfN0VVNUlRSmQzZWRWdkdJZnVCR0xnUDU3eXZSLWdHQ0M1TmpSeEhsQWVZc0hLQQ?oc=5
+- 自民・麻生太郎副総裁「日本は間違いなく明るくなった」 発足1年の高市政権を評価 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBVX2MtdFZzdlVuOTNGcUd5TlVYb1F4ajUwVC1wZ0pIeVMwa05JSld2RlM2QkFoUWNlcFluQms0OF91SzFoamJ5ZmZ1b2wzTzJWSWxWdk1za01mNWlXLWZuckVib3lUS2ltTUdRZ1FUMnRIcmxxUEE?oc=5
 
-- 秋田 子吉川に一時氾濫特別警報 川の増水など注意を - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE10VUJxbnJnYVhiTE5DdXhhbDRIODFHMkh3RGZ6VmRVU1o0NWMyZlVVWlRFZjhlNWNSenR5cnd1MVltbnF3ZEhScHFJVEF0SlFSaXZhZ1ZLc1hBWkZkQkQw?oc=5
+- 米 サウジの大使館員らに退避命令 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKN0lxbVR6TFQtV3dhcUprOEh0djdNSjJraE9aNzY2ejhjYlQxcG9Pa0RiWDJJcFhvb01uZHNUeUdjXzZaOGVRaWRQWU9rVWJF?oc=5
 
-- 今日10月22日(木)の天気予報 関東以西は秋の陽気 北海道は寒いくらい - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHTXBPN0hNLW1ESlNzUjBNTVJUX2xqSmlMLW1uM2NPTXFBRHR5bjA1MXBsX05IRlFCX1VFS003NGJaM1RhaTVJU2NaWUgxUExodnFWLQ?oc=5
+- 「レベル５氾濫特別警報」の秋田・子吉川、支流の河原で倒れていた高齢男性が死亡 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUDcwS0t4RGVuTEw4cjNoX1B6UTNwUHZxX0d0cTIzZGVydXYyUXI2ME40WlJEZUpEc0ZMSE1BeV9PRHV1aWNsNEE3MDdLMm5saTN0bzNuZWpkc19SeXNJdDE4M0hVdw?oc=5
 
-- 北朝鮮、南北軍事境界線沿いに地雷や鉄柵設置し「要塞化」…韓国との武力衝突懸念高まる - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EaFNNblhWNTVJNHI4Z3RCaVVUQUo5OERfRHAzNTRoUWpuUFhGNG9XaU5EWGdOZWRVdUhLRlljSGVtazhKZ1RUdkE4a0l6RnN5Vm44R0FZd2UxNG1nUnFLTkdn?oc=5
+- マンジャロを不正販売の疑い 逮捕 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wME9zbkFfMnJDQzk4djVMYkhsZi1pOHpWSjlBQ1phekFOUG5PNUJxWXExRnF6X1RQVmlzX1lwODdJbnB3eDE2NkpWVGZrd21F?oc=5
 
-- 社会人向け新教職課程 創設の方針 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWDFmMzQwWkFqRzZzanFROFVneGFNM3hER1B4VlRnVExBTEhkY1BOMGl4ODNlTVVyN29ZNU5rLXlmeFNzc1RDZld1a0pnQTlN?oc=5
+- 道新記者と面会できぬ理由問われ、ロシア報道官が逆質問「なぜスパイ活動と見なされる行為をした」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE12bnhxY0tBVWgyeFJVMFoxY0JDemdNb2h0d0FkREZZSHJyQ3lPS0MydlFDd2pCaHBhdjVuLUR4NDJxNkNDaUpFUkJYVlFqOXZxeEFjYTA3a3VRSkZkZnV6UHNB?oc=5
 
-- 乳児遺体遺棄した疑い 24歳女逮捕 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGVEZrVjNRVFVuV0Zta1BsVUc0Uk9CTnJ0eHV0MURzRm1VU1pySWpoNEJZRXJ1M3Z5eUtLaW0zU1NNT1FlQ3d1ZDc0UGFqaHBv?oc=5
+- 神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE83YWp1QzhlTHFwWnI1LWdZWFI5UTRCemIwY1MtRUtOZFF0blBoZTFYOHdQT1hRQ0dFaVdGNGw5UGxqZjlTdFZtZnJpSFYzY05fRl9UUFYtS2hFbmxwQ2RDX1c0TmhqZE9YMUtKYl9qRFpEeFpjLVE?oc=5
 
-- 失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVXVVenk1cU5DU0tGRFJudHBQd3U1S2xjdTF3TXBtRnd6czZVVFRKQlg4QWJ5OU9mSEpPeDFaVjVhNXdaUy1pZDlNUUxJeFBpMC16YVFNTmJOUHEwSDliV2drT0ttX2RK?oc=5
+- 14歳の中学生が行方不明 大阪 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wN2VUWHM1RVp5T0l1QTI5YWZCVEZndEdEMW9JdldHU1oxaTJrbWpwNWJ1TzZtVzhrYzNYWVI0czVlLU0yWG5za2toY0pIaERI?oc=5
 
-- モンゴル草原で大規模火災 KDDIが謝罪 中国メディア「日本人が乗った車が原因」 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUEFWNUNUVjRBYUpEU0dTNzM3ekxteGtULUhDX1lpRTRTOU1aVEV6Zm0yVEN1SUUtajJJaUtLaVM2ajB3VkhWclUySmhqcHZCUzZ0Zzh2VjhoM3JaelBfTjdGV2lHRTB0Wmp1ZjBzNlVDUHdHWXI0N1Rn?oc=5
+- 22日は札幌の手稲山でうっすらと雪化粧 利尻山で初冠雪 稚内と旭川に初雪の便り(気象予報士 山崎 日花里) - tenki.jp
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5sb1ZsU3dsazFyS1lhRHhQOUg4a2lXdFR1TWVIZzdHZWdmbHNjeHhCVm14T2ZsTVZ2SDdMRjctakhaWU55X0d2RktNQ21qdVdvbWJqWUJUd2Z1U0pCVGZfQ1N6ZkNWVk1fTHMzbG5IZkFUa3c?oc=5
 
-- ひろゆき氏、政治批判から候補者支援へ転身 50歳前に「子供から文句言われる側」になる - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZRTNSMVVFM0ZVN1N3UWh1Z1VPYXBucnlGWFlYRzlBckE2UFlKVGJkeUN0SHdBT2RHOFdCU2xsN05FRFJOTW1rcFJpai1VXzFiN1U3TC1MQWhmTkotODhDYnJkeXEtRWxVd1BwRW5zYXpGc253ZFE?oc=5
+- 「周囲に知られたくなかった」へその緒ついた赤ちゃんの遺体を遺棄か 母親とみられる24歳の女を逮捕 横浜市青葉区 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE00eDNyaTQ2RFk5UHVfTGRUaGdmWHJYWUZKbHp0VGF2ZVRMRkZhekhSOG0xcS1PYzB2U1ZheW1FUU15Tk4tSVRjTW1wZGE2SnFReFliRXJ5azV2R2REbTFaOXNud0g2T0FyQk5OZmJibVVvbXFpZVNTdzEtVXVuN1E?oc=5
