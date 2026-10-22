@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 総理就任１年の節目を迎えての会見 - 首相官邸
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9OUnRnaXJ6UVB3U1g1V1BnTk8yd2ZKdWI5LUtaLTNIeFAtb3FJZnhSZ0tjNzFWYzRWZFJBOTI3ZFAzOGVyMXNmSXhJZ194eWp5RmtVYUVSa3FEcnhGV045ZUU5SVlsakIzMHE1eTVoYw?oc=5
+- 高市早苗政権発足1年 政策実現の先に見据える「長期政権」 手堅い人事 柔軟に政策実現 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9FZHRjVmlESUxiU1NqelRadXJzQTJwdnF4dldiYmFzY19qZXhXODVCcWJvRXlDbkdHT1A5V1BXaDRrZEc5LVdmLUp5T2xVc2RBaVlTMThSZXJ6c1liNjJNMm0weVFKOVJQRlZmV2V0RDc3RDNxLWc?oc=5
 
-- 秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・気象庁など - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb3IzRlRNZjhucE1NR3VnM1VidnFtMHR4NVZfX3piR091U2pYWGNTUkYyS0NTclM4SWsyenRVY0k0N3FpNzl4YTBQTGdKVlN3cWNXYUZ1aEtrRnhqT2RDNGxQZw?oc=5
+- 【台風情報】大型で猛烈な台風30号の進路予想 東シナ海進み日本海へ 日本列島に接近するおそれ 秋雨前線活発化か 今後の情報に注意 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uVjlrd29rdnRTeTd5TGRVWjc1R0RyMlFfN0VVNUlRSmQzZWRWdkdJZnVCR0xnUDU3eXZSLWdHQ0M1TmpSeEhsQWVZc0hLQQ?oc=5
 
-- 【台風情報】大型で猛烈な台風30号(チャンパー)の進路予想 22日午前9時には「猛烈」な勢力で沖縄の南に達する見込み 中心気圧915hPa、最大瞬間風速75m/s予想 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NR3Z1MWc0bnNwZmt0XzlzUm1fTEE0M01vMmZYenRUa05oNGdYdmcyaWpuUk5VVUppUDZCaVh4ZnhZMFRwVXF5ZzRoVTRpQQ?oc=5
+- 秋田 子吉川に一時氾濫特別警報 川の増水など注意を - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE10VUJxbnJnYVhiTE5DdXhhbDRIODFHMkh3RGZ6VmRVU1o0NWMyZlVVWlRFZjhlNWNSenR5cnd1MVltbnF3ZEhScHFJVEF0SlFSaXZhZ1ZLc1hBWkZkQkQw?oc=5
 
-- 武部農水大臣 献金返金を表明 新たな疑惑についても釈明（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5
+- 今日10月22日(木)の天気予報 関東以西は秋の陽気 北海道は寒いくらい - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHTXBPN0hNLW1ESlNzUjBNTVJUX2xqSmlMLW1uM2NPTXFBRHR5bjA1MXBsX05IRlFCX1VFS003NGJaM1RhaTVJU2NaWUgxUExodnFWLQ?oc=5
 
-- ウクライナのスターリンク利用制限、マスク氏が指示＝ＷＳＪ - Reuters
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzllMDZKeVMzeFJEaVFmTGlKSmswbkVmTVk5ZnM2UVJQQUl3VDF6S0QxSEg3Ylo2N1FTQTg2TUw5RDhQRG9WZ3JVUWVFUnNfVUxUWlJ6TkpRREVLMHpod3hkeEl2VnZsMVlsbXE4WnZjelluX3QwaHh2dFFkT2FDU1JkZlhnQQ?oc=5
+- 北朝鮮、南北軍事境界線沿いに地雷や鉄柵設置し「要塞化」…韓国との武力衝突懸念高まる - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EaFNNblhWNTVJNHI4Z3RCaVVUQUo5OERfRHAzNTRoUWpuUFhGNG9XaU5EWGdOZWRVdUhLRlljSGVtazhKZ1RUdkE4a0l6RnN5Vm44R0FZd2UxNG1nUnFLTkdn?oc=5
 
-- パリ炎上、なぜここまで…デモを始めた高校生が訴える教育と貧困、「声を聞いてくれない」大人たちとの分断 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sdXJYU2w5Rkc3QnJadTZRaWFyaVdUU1phemZKbW42MDFUcXhTdkcyVGJxS29PSXhzWHpNWXJObWdzY3hxNG1FdFZmb1NVRnJvbFRj?oc=5
+- 社会人向け新教職課程 創設の方針 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWDFmMzQwWkFqRzZzanFROFVneGFNM3hER1B4VlRnVExBTEhkY1BOMGl4ODNlTVVyN29ZNU5rLXlmeFNzc1RDZld1a0pnQTlN?oc=5
 
-- 10月なのに各地で30℃超！観測史上最も遅い真夏日に、台風30号の本州への影響は？（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSGpRNDZSRXEtWi1RQ2FYa2pUNDNZUmszQWVfUDJXT01hZ2x0V3FDeThCUXBVTGVoVmQ1bWRPVUpnQzU0a0Vmci1BRDNoRnEySWFhUzRaYzc5bm1VMUd4UGUycWdlVWRIOVpxc3BfUVdCOHdWUlhYd2RoRDdRcFU?oc=5
+- 乳児遺体遺棄した疑い 24歳女逮捕 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGVEZrVjNRVFVuV0Zta1BsVUc0Uk9CTnJ0eHV0MURzRm1VU1pySWpoNEJZRXJ1M3Z5eUtLaW0zU1NNT1FlQ3d1ZDc0UGFqaHBv?oc=5
 
-- 「ずさん捜査」で釈放後に衰弱死の16歳少女、母が訴えた国賠訴訟開始 国と県は争う姿勢 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBwdi16WEV4a2E3WHppZjlkdzZDTDN4OUU2QW5rUGFNT0wxNEpwdTJPaS1SZWpaVk1SVWg1YUJybTBpSzBkSDlhNGg1WFVRTnhfT25TdHVNYmdUUjlJMjg4VEdaMVQ0bWhTRzdYZHZCZ1NpdUswQ3c?oc=5
+- 失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVXVVenk1cU5DU0tGRFJudHBQd3U1S2xjdTF3TXBtRnd6czZVVFRKQlg4QWJ5OU9mSEpPeDFaVjVhNXdaUy1pZDlNUUxJeFBpMC16YVFNTmJOUHEwSDliV2drT0ttX2RK?oc=5
 
-- 台風25号被害から1か月「田んぼとして使えなくなる」堤防決壊の千葉・印旛沼周辺で“地球上最悪の侵略的植物”が繁殖 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBLSnBmbXVCQ3NtaFBwVE85dkY0SmRkY1M1bDVLTkhrajd2c0h3dU9kUFdCVFJhZmhCc3Y2dzduTFFNdVJ1Zk5oV2dtblNTbzJWcFQ3N0dsbElIU3ZWQnpnSGRfeDdudTBWZWpzbWtlOTAzWDltOWd1UGVmN3djMTg?oc=5
+- モンゴル草原で大規模火災 KDDIが謝罪 中国メディア「日本人が乗った車が原因」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUEFWNUNUVjRBYUpEU0dTNzM3ekxteGtULUhDX1lpRTRTOU1aVEV6Zm0yVEN1SUUtajJJaUtLaVM2ajB3VkhWclUySmhqcHZCUzZ0Zzh2VjhoM3JaelBfTjdGV2lHRTB0Wmp1ZjBzNlVDUHdHWXI0N1Rn?oc=5
 
-- 「ひろゆき＆いずみ新党」、宮崎県知事選挙で東国原英夫氏支援…文京区長選挙では前区議 - 読売新聞
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZjZ0SXNNZi1uckthWXFIUVA0MmhSM0lPMjRHaXB4R29wZkRyVnJkRi1Ubk4tWnFXX2FrQjd3VjI1OUNEUmVLcnc5Zm9LUHVMSHY2aUZ2cUNQMzdTZjV6SHpEempobUF6eVpYcGR3?oc=5
+- ひろゆき氏、政治批判から候補者支援へ転身 50歳前に「子供から文句言われる側」になる - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZRTNSMVVFM0ZVN1N3UWh1Z1VPYXBucnlGWFlYRzlBckE2UFlKVGJkeUN0SHdBT2RHOFdCU2xsN05FRFJOTW1rcFJpai1VXzFiN1U3TC1MQWhmTkotODhDYnJkeXEtRWxVd1BwRW5zYXpGc253ZFE?oc=5
