@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
+- スターリンクの通信速度制限、トランプ氏「マスク氏が解除した」…ゼレンスキー氏は「回復していない」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFcEN0ZzFuMUJSN1didXRfdWtKaUVTdlpFNTVtdFZ5VXV4dnR5cFVWX2YzRDNBLXlTWGh0M3lkdGlXSDNqM0FzeEhvSF9uX3FFQUs3Tzd5YUZwZlV0aExBUGpB?oc=5
+
+- 台風30号(チャンパー)近づく沖縄は暴風雨 西日本〜東日本でも大雨のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ob0EyOUlrbHlKOGtkRXB0dGNPRlFCZkw3TFpISUNGMFZoRjJSMkIzTFM0elUtQzBPRl9VNXVublduTTJxZExvN2pHQmg0RGhzSDFzUQ?oc=5
+
+- 現職の福岡県議が新証言、「ドン」参加のゴルフコンペで「８０万円負担した」「会派の意向と思い断れず」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aVXduQjk5eThiLWNvSFo3OHRwRDFvOW5sZjBTSVJ4MDRKZHdGb0hRYWhiREFlc2x1VkpLUjBlR1I5dUlwSUp3aGJETmdTbldic082VThGUEM0QVVZd3FDWENSd1prUQ?oc=5
+
 - 「右も左も混じっているので」 免許不正流用、捜査員が語る実態 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSYjllREFvZEduOW9mQVhoSmstUlNCd204cjFCalRCWVB3czByX21VREtCbEI1Z3dyaTBYcVc2THFZbVlvQ3FfN0RQZFBrQnItY1BMM0JGQ0NETTVweEhFMjFmNS1aTkpq?oc=5
 
-- 新教科書は紙中心の学びが基本、「ハイブリッド教科書」でデジタルは「補完」…文科省「大臣指針」素案公表 - 読売新聞
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFBFanNLYk05YXVPTFVFTTRCdWMyNzdTdGoxem5SRVdtRzhSR25JLVdleVZYZktoQ0JmNlYxMXlJUURjZUs1cE51LTZjY2J0RmVhT2xaVUtaQU8yWGNtM0VwX3Y4c3pRVUpwc2I3cndVcGw0SEU?oc=5
+- 高市内閣、転機は2027年5月 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcW9Zb1FaYkRNaUp3TlVlSndvS0QyM21GZ3VucjExYlBhd1gtV3ByamRsOWdDaHA2N0xHeTJQem5aNHE1U2Qydnk5VV9fcXJEVFJDUmVXY2lwZ1lFQ1E2OTJqbVQ4YUhxQWNucA?oc=5
 
-- 【台風情報】台風30号 23日は沖縄 そのあと西日本へ「警報級大雨おそれ」【3時間ごと雨風シミュレーション28日（水）まで／全国の週間予報】気象庁進路予想 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbTQ4ejd1VFVGRkRkYkI2R2haVWgxOXltTnE5dnBlOXRsT3JaZFhPSVF5ZTFmTTNKdWt2OWZIdjBLR3lrYzFYM0ZWUVpvMHhZanJHODducnRfQ1E2RTBN?oc=5
+- モンゴル自然保護区で大規模火災 通信大手KDDIが謝罪 | NHKニュース | 通信、火災 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WLXhQNWhwSnlqRU12U2lSNnVFenlRejQ1NngySjNsQUtPdWVWRmR2RkNlejUtWWljWnVtVWVoUjJlaVVFX2Q5NGVNU1c5SGM4SXZVWmF2d25aRWpxMDNj?oc=5
 
-- ゴルフで80万円負担 福岡県議証言 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CNDRFWFhLM2xsa1lITzhveGdYb2p1ZHU4LUwxZEVVNDFoazMySENCajJkWmtUc3lyQ29WQ0tTcVJDeHlvV3VVbGhYZnpNVzRa?oc=5
+- 峠は一足早く冬景色 三国峠などで降雪 - 十勝毎日新聞
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lX1JaNmdYdUxydWQ1N0JDZEJ5djFaa0J5aDkxazNPNjRycUpWMEYxYkRjTGRXT3U2RGpKREdXV082TlQtc0QtSk0xSURMTDc3WDY5WlJ4WGE?oc=5
 
-- 衆院選挙制度協議 自民“比例で31議席削減”折衷案提示 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fMFJNLXg5QkF6Z2RFcmVJYkpzbFpnc0hOUllHbmNNTjRKck1EM0lPMlQ2eXNVZXA5U0J0cFpLcEdFNTZFbmwwalRJd0dVUGg0NV9JVDZSOUZFdjJpbWpZ?oc=5
+- 日本企業による無人機ウクライナ納入「問題ない」 小泉防衛相、ロシアに反論 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBTX2Q5ZVBiT29DampsRjM2Zk1jay0xUzFFWWd0eUViX0d4WFJya2x5c183RHRzZzA2eEx0Q3dnQ3h6ZEVHcFVxUVVCci14VDAtZWhWeEF3Vk9uNjVlTVFPbUxIUzdYc1oxVWc0dl85UlMxd1Z3eUE?oc=5
 
-- モンゴル火災 日系企業幹部が謝罪 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwZExvU2FXN2s2T1p2VUFVc2FRbXFMemZFeUtTNS1QRWNzNzZ4YzNXZWlLakdkS3V6ZHIwT3M4c08xOG84ZHJob2dsd05pS2Ex?oc=5
+- 鹿屋市飲食店経営女性殺害事件 鹿屋市の男(59)を強盗殺人などの疑いで逮捕 鹿児島県警 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90eXZjalZjcVBFa3M0RHVOcm9iVnRnZmM5a1hobEJoSlhwWE5leXkzd1puWEZ4U19hb1U1V3Q3S3YxSGxOMFMyM25icEVjY09JYWREcGVaTmJraDJ5NXpqVDFhMTNOaTQ?oc=5
 
-- 【速報】尖閣周辺で中国船の連続航行途切れる - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrMGIyY1Y5SXZudUJwRVgyMkJqMm9TWVdBbXc5YkFfRmxyQnVVenJTOXlfVGV4Yng0SXY5Nzk3QmUzNXdnOFFORU80WQ?oc=5
-
-- 初当選の原沢敦美・横浜市長、都庁を訪れ小池都知事と面会「素晴らしい先輩が隣にいるのは大変心強い」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnU1RaLXdtZVNISWRZX29pVkVjOERLUzZjTmtQZm54UG50Uy1EaEIxcjh1MlpnZ1lhbVAyUTgxTUZMQ05uNThOU3djUlFFUU41YXh0MjZJQ195LUcxRnBLQ0RCazgzZw?oc=5
-
-- 福島県知事選挙、遠藤雄大さんの経歴と人柄…元県職員で農家の所得向上訴える - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIZkJlRFhRbVl6Nzd6RjIxclZzdHZmMWtna3c3V0MtcVQ1clpqWG52b1R6aFVRUzZVTXY0Z09hc2lzZkxJUGtCOTI4RGJNQWZyb1NhN2luWUhPRnFkSG1mc1NVeElpdw?oc=5
-
-- 22日は札幌の手稲山でうっすらと雪化粧 利尻山で初冠雪 稚内と旭川に初雪の便り(気象予報士 山崎 日花里) - tenki.jp
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE5sb1ZsU3dsazFyS1lhRHhQOUg4a2lXdFR1TWVIZzdHZWdmbHNjeHhCVm14T2ZsTVZ2SDdMRjctakhaWU55X0d2RktNQ21qdVdvbWJqWUJUd2Z1U0pCVGZfQ1N6ZkNWVk1fTHMzbG5IZkFUa3c?oc=5
+- 北九州市議長、自らが所属する劇団チケットを職員に販売「来たい人が買ってくれていると」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYXktdk5JQzZkeE1YZUF0QTlpR1o5ZFBoeEptSTJPSnJJSXRHb29mcjNsTnRXdzhkN2NTanBIUWlBQjhZX3V0ZExlSkpqODFVczB6S1hCRDBGRVRQbjR4ZDVDVmxldw?oc=5
