@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 北朝鮮の金正恩総書記、中朝結ぶ「新鴨緑江大橋」を通り中国入り…韓国・聯合ニュース報道 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CemgzTUQwRThFenV2VkNCOThDU3N3U2lrR3doRVFJZUpBVHRDZzRxdVF3bndZWmJIMmdXOXNGd1dnSUY5LVc4MnlxQThhOUhtd0FhbmZlX2xMMXo2Ri1BNGR3?oc=5
+- ゼレンスキー氏、スターリンク通信速度「回復した」…トランプ大統領ら米側に謝意 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMERXTElzYlZ3c1RRTmFJeVIxSldOS2JubTEwQy1pbmFNSkt4R1dqdFJZTm91MXlOa0c2ZVgzMHh0UUVRcU5DVllwLUtzcFItNTg3LXl3anhEcHBvdUZyNUpB?oc=5
+
+- 北朝鮮の金正恩氏が中国訪問 韓国メディアが報道 中朝新鴨緑江大橋通り丹東に到着 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1WcTBNYThuYlpTVU13WU42cUZZZnFPMWJVeC0weS1PRHJudjlOMXh5eW0tWEN3dGtlUEV0V3h2UUtsZVJ5cWlUOGRqVG8xRzJvaGJsdFFVVlliVXYtNFBpNzZpRmFMTDhMbm1JT2M2QWNGX1RZR3c?oc=5
 
 - 「麻生氏も女性天皇容認だったのに」 男系男子に固執の裏側 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE15XzlFbnhwLU56dXBMUndpOWtFZkdXa1lLOFpoc0dvd21PU2VQWVNCV1V2UU84RzZkR1VzYno0cUtRdFhVRFdiVjdYRXFsQzdpbzNxTVI4b0pJcnpMcDNWTGpKOFFQQWRu?oc=5
 
-- ゼレンスキー、軍用スターシールドの制限は「今も続いている」──トランプの「復旧」発言から一転 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5RLV8xUzhicUNnUXVaM3ppLXF0bVRRbExVM1VyeFhHOW4xSXNoalNPSlcySHRDNDJDaTJuMk1wZGJCNlF1V28wV2dERThWRlJrVkM3ekVvSDFKTEl5SXZyOGVHcWVJNEpMUUJMa2FHTHJQQWo1V0pHdFpqYmIzRjg?oc=5
+- 抗議デモの高校生らとマクロン氏、初の会談…「大統領は話を聞いてくれたが対策示されず」と継続表明 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE13R1RFU01vYUVaN19hUXVrSzZUSHdoMzZRcDlOb3ZBbktsTnRaZXFLN2ZsV0NDcHIwLWZ3T21zR19fM3JOUmY2eW00LXZRb2ZtbEJqSTM0anFwY0F5a2UtMDVB?oc=5
 
-- 台風30号(チャンパー)は北上 前線活動活発になり西〜東日本は大雨警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWFRXdjhPTklVSDRKS3ZVRmF2S2g1bXZsbE5uX3pQMmNROC1fX0FoNkxaOGhPMEtuMDZBVGVEbDE2RmZ0ejEzMUJyLWpjVlNzOUF6Rg?oc=5
+- 【台風情報】ダブル台風の進路予想 台風30号は26日(月)に西日本に接近する見込み 前線が活発化 西日本や東日本では26日(月)が雨のピーク - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtVEtGMmVzdDV1VlA4NS11blRqNDdNcExCaURuUTFKTjBTNjBKcEViLVh0OEhldk5ZX21Ga1ZwVnVad2tGdWhFeEJLcTBkQQ?oc=5
 
-- アラスカ上院選「サリバン」氏が２人出馬、共和現職が敗れたら結果認証の差し止め求めると提訴 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KU2toTzJtNTdnd3JBeWFkZWNfS1ZGU1BqbVZvM25lc1RUMEZXU2t4X09HU2hVZnJGWFNXaWlyYTBHYnJZQlFrUnBwRWExYUlybHdvRXV2dmZCODI4Qnd1RkxB?oc=5
+- 神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YU5sVjhPQkJXLXpDNXVuY0R3SU0yWHExZWVyR1VWd0FFdGNzdjdtN2txRWRUaEhPSXVUeG1PY0FHdjhJMmpSNnlqZnYzSDFaaE0wa19JcTR1aEIzSTNR?oc=5
 
-- クマ駆除の自治体に「殺すな」抗議続く、中には「威圧的言動で１時間電話」「職員を無断撮影し投稿」も - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DQkFReFNXZV9Sc3lfZ0RQclZNdUU0UnlhYlBURUszSUVKQkJIRWpXT1RLSlFMNFVPMFQyQzVFTnpCSTRPQlZLVzgxUjRrVnFuOGFuX0lscnRZTmpldFBtY01vdzlxZw?oc=5
+- 大規模火災、モンゴル政府が賠償請求検討 KDDI子会社活動時に発生 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE05bl92T19JN3N1OFVkNkxSczF6Mnozbk9SZ19iZGd3QVJJdXJvckw0MHIzcWdHU1F0VWxWRjRnSzVqVlJIck5pYjlOUVYweF9HR1U4cC15c0c5ZGZQamVEU0VKYWFCRWl6dnZLSQ?oc=5
 
-- 行方不明だった大阪市の男子中学生を保護、東大阪市内の公園で発見 けがなし - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS1dfM200OGFfUHp4cl9iUUtxbThNN1F6VFpUSEJobi1hemFJaW4xTWNjZXlvNEllWmlXeW43LVlJdDJUbUxtenYyUjV1eElhdmVrQkRFMXJkRkVJbE83TlByRXBBZGhLeURvWEc4cUZlZnVfdnc?oc=5
+- 【速報】行方不明だった14歳の男子中学生を無事に発見 14日朝に自宅を出たあと所在分からず けがなく事件などに巻き込まれた形跡なし 公園にいるところを警察官が発見（関西テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVjMwVVRjUGNTOEd3dXNRT0J1TDBZQTltdVBOeEVtM0ZHMTRfX2xMeElKaVgyODc0TE00T2FYdTd5S25xU1dVZUJMVHpUeDZiWnNTZjNmemU1cWNRSjB2T3U3czk1ZzZhUGxtbWw0bHFteWJaQVVoNlY2ZVRXa1U?oc=5
 
-- 明日25日の午後～26日 台風30号の影響で近畿では警報級の大雨となる恐れ(気象予報士 木村 司) - tenki.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTnhrb1NwaGNlQTJTREhlek1NdUdYZ3ZkSl9FWmpPdFlmRENYblNSQW56ZjBiQzYxclRveEJnVFdnQW1hVC1yb1dfQzBvNlRKZWgtdXVuZThjQW1Fa21TeWNPRW5tbFU?oc=5
+- 来週は寒気南下で雪エリア拡大 東京では木枯らし1号の可能性 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMQ1c4YTFHd0NIZEJ1OExWTWRMZ1BubWZCNlRnMlB3Y0FxQ3VGX1ViZ1lPLXhka1EtOThFYTNVUEdPY2IyMTdLbVFDYklZQ01DTWwtdQ?oc=5
 
 - 「５００万円渡した」と名指しされた県議会のドン、事実無根と否定「名誉毀損の民事訴訟で決着つける」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZjZDakhnTnZTejJOTEpQM0tudzluLUZWRUNaY2pIU2NEVTNBdTZmdzJFX2NlQWRiSjFWdzIycnRGUVZ5UGlDUm1ZNjlNSk0tS0piVmpRU1VVNkRfRTNMWFR6SF85UQ?oc=5
-
-- 石垣島で3時間以内に線状降水帯の可能性 台風30号、八重山で暴風警報続く（24日午前9時現在）【写真複数あり】 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zUEtseWE2VDN4QnBYNTloV3BFaTFjd3h0QTlQOGo0ZEI3ZGU3UjVVRDJVOWNQQS12RUlpVmE5MW8yY1BneFVIRXAtcll5eXl0eTl2RWwzNEJicnNzOHc?oc=5
