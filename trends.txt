@@ -3,14 +3,14 @@ TRENDLAB 自動取得ニュース
 - ゼレンスキー氏、スターリンク通信速度「回復した」…トランプ大統領ら米側に謝意 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMERXTElzYlZ3c1RRTmFJeVIxSldOS2JubTEwQy1pbmFNSkt4R1dqdFJZTm91MXlOa0c2ZVgzMHh0UUVRcU5DVllwLUtzcFItNTg3LXl3anhEcHBvdUZyNUpB?oc=5
 
+- 【最新情報】台風30号九州に接近へ 前線影響 広範囲大雨おそれ - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRzNub2FmTjBCZm9Ra1NEOE9JSkZQeDlLcE1lQ0VmVFNCZzMzU0JDYS1VOS11dmhIYi1kTk9waGx4ZjEtNDFNVG5kSFlKX2E3MTEzRjlhdW1HMUFKbURF?oc=5
+
 - 北朝鮮の金正恩氏、１年ぶり訪中 新大橋を利用、中国序列４位と会談 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WWdOa2pHdlJ2WW9hTW5hNmw3SlQtbUtOVW91SU84VGhSRWZwdGt4TzUzZUhkTm5mRjZEeVZRZERpa1ZVUTIwWnEzZVNLelF6VEowN0tXZHRPczNMZnYyc3RHaw?oc=5
 
 - 抗議デモの高校生らとマクロン氏、初の会談…「大統領は話を聞いてくれたが対策示されず」と継続表明 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE13R1RFU01vYUVaN19hUXVrSzZUSHdoMzZRcDlOb3ZBbktsTnRaZXFLN2ZsV0NDcHIwLWZ3T21zR19fM3JOUmY2eW00LXZRb2ZtbEJqSTM0anFwY0F5a2UtMDVB?oc=5
-
-- 【台風情報】ダブル台風の進路予想 台風30号は26日(月)に西日本に接近する見込み 前線が活発化 西日本や東日本では26日(月)が雨のピーク - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtVEtGMmVzdDV1VlA4NS11blRqNDdNcExCaURuUTFKTjBTNjBKcEViLVh0OEhldk5ZX21Ga1ZwVnVad2tGdWhFeEJLcTBkQQ?oc=5
 
 - 神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YU5sVjhPQkJXLXpDNXVuY0R3SU0yWHExZWVyR1VWd0FFdGNzdjdtN2txRWRUaEhPSXVUeG1PY0FHdjhJMmpSNnlqZnYzSDFaaE0wa19JcTR1aEIzSTNR?oc=5
@@ -21,11 +21,11 @@ TRENDLAB 自動取得ニュース
 - モンゴル副首相、消火に税負担「謝罪だけでは済まない」 草原火災で賠償請求検討へ - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUmgwc1Bnb241NzNuN3F4QTBsVm1Ednhxdk41VVhjWldhbkNRS3FLOXNQcG56c0dNbUkzSzdXeW94LUdqNHNmcGVBcmNCZUNJWldmWW1YdkJHakQ3NUFtc0tMU0ZIYW1zWnFnLTdVdEs0OWVZb0E?oc=5
 
-- 【速報】行方不明だった14歳の男子中学生を無事に発見 14日朝に自宅を出たあと所在分からず けがなく事件などに巻き込まれた形跡なし 公園にいるところを警察官が発見 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wal84N3pwSVd1N3Z3SlZTaHhpM25mVWRuV21ITjQxLTB0VTEzWnV3OHZlUlVlYm9xZ2w1Z3VndWVJVDBNa2RuRUZLMGt2UQ?oc=5
+- 火曜日までは西～東日本で大雨の恐れ 水曜日からは北海道で雪 寒暖差の大きい一週間(気象予報士 牧 良幸) - tenki.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdGxPMXp4X0poRnVnS05zcnU0bVE0Mi15di1sYXEzbTNURVVyd295ckJtU0c3RnB3SXJSUnpoZERPN21nNUFQNXBwQmFGX0Uzc0toTk85SFNMS0pjT2hRSU4zSk9yOGM?oc=5
 
-- 来週は寒気南下で雪エリア拡大 東京では木枯らし1号の可能性 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMQ1c4YTFHd0NIZEJ1OExWTWRMZ1BubWZCNlRnMlB3Y0FxQ3VGX1ViZ1lPLXhka1EtOThFYTNVUEdPY2IyMTdLbVFDYklZQ01DTWwtdQ?oc=5
+- 大阪市内で行方不明だった男子中学生、東大阪市の公園で発見…けがなし - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBVcWF6UHhGQ1VXVV9FcW56UV9kc3A4WGQtbXpmVmJqLWtnYnNFS3FLeU50bk96WnJTTDVuTnRpVnlmTkp4VGtZS0RDNDhRNVd0QTJPa1NnczVCeU5WREVsc2tLOUw5TndrODdzTFN2T0FlQQ?oc=5
 
-- 「５００万円渡した」と名指しされた県議会のドン、事実無根と否定「名誉毀損の民事訴訟で決着つける」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZjZDakhnTnZTejJOTEpQM0tudzluLUZWRUNaY2pIU2NEVTNBdTZmdzJFX2NlQWRiSjFWdzIycnRGUVZ5UGlDUm1ZNjlNSk0tS0piVmpRU1VVNkRfRTNMWFR6SF85UQ?oc=5
+- 「金銭支払いの指示はない」 吉村・元民主福岡県議団会長の一問一答 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGVEo3WXZFQ0JtOUl2TFVEVE44SXd4aHo5UjljdDRFb2pzLXkwalFaUGs4Q29FYlVhNmxQUmRtYnR2U0dGd1RUb0pzZ0JEaS1STTZ4dEh3?oc=5
