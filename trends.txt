@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ウクライナ南部で一時停戦、ホワイトハウス発表「メラニア夫人が主導」…２９日から - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE15RV9MRlNxY1hPemo4TXA2TzV3cTRtZ0JtZ1R6OEQ1WXhWazBvZ2tzUkpQbnpFU19EZkt0ZHFsY1k2dGRleWdEVmRsT0RyQ3dYd21XR2JEbnZGbEw1RVVoODN3?oc=5
+- 北朝鮮の金正恩総書記、中朝結ぶ「新鴨緑江大橋」を通り中国入り…韓国・聯合ニュース報道 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CemgzTUQwRThFenV2VkNCOThDU3N3U2lrR3doRVFJZUpBVHRDZzRxdVF3bndZWmJIMmdXOXNGd1dnSUY5LVc4MnlxQThhOUhtd0FhbmZlX2xMMXo2Ri1BNGR3?oc=5
 
-- フランスで再び抗議デモ実施へ パリの街に警戒感広がる - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Cd2JpNmVobkFCY0JTYkk3SHdCczJZNUM2VkVVazhYc0xVcVlZQ2dBQVZoRXBVNEQ4YjliV0otSDhyLTA0RlpzcF9maU91TlVOdWtNVUJ3b2c4U2dNWTdj?oc=5
+- 「麻生氏も女性天皇容認だったのに」 男系男子に固執の裏側 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE15XzlFbnhwLU56dXBMUndpOWtFZkdXa1lLOFpoc0dvd21PU2VQWVNCV1V2UU84RzZkR1VzYno0cUtRdFhVRFdiVjdYRXFsQzdpbzNxTVI4b0pJcnpMcDNWTGpKOFFQQWRu?oc=5
 
-- 台風30号＋秋雨前線 西・東日本でも長時間の雨 広範囲で警報級の大雨のおそれ - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE93c3FTdGxZYWRKclVjYXRBMGtCeUk4R0N0ZzBzLXFjbl9oeW1TajlFdUlqV2toQllZTEhiMDR6UmQwUkVPVFd4QWszS3VSYXh2dHljcnQwaw?oc=5
+- ゼレンスキー、軍用スターシールドの制限は「今も続いている」──トランプの「復旧」発言から一転 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5RLV8xUzhicUNnUXVaM3ppLXF0bVRRbExVM1VyeFhHOW4xSXNoalNPSlcySHRDNDJDaTJuMk1wZGJCNlF1V28wV2dERThWRlJrVkM3ekVvSDFKTEl5SXZyOGVHcWVJNEpMUUJMa2FHTHJQQWo1V0pHdFpqYmIzRjg?oc=5
 
-- パリ郊外で男が車から銃乱射、６人死傷…マクロン氏「被害者は宗教や肌の色に基づき狙われた」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YOHlxVU9nR2JhckRhUVo1U1NRVzVmSWF6UWhUZDFlTndxcVFweUw2YlMxajlENTh0SmUtVWxkOENPRUZBWng0ckluVHpaT1JZWXJPa3JPR1BjV096Y3d6Mkdn?oc=5
+- 台風30号(チャンパー)は北上 前線活動活発になり西〜東日本は大雨警戒 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OWFRXdjhPTklVSDRKS3ZVRmF2S2g1bXZsbE5uX3pQMmNROC1fX0FoNkxaOGhPMEtuMDZBVGVEbDE2RmZ0ejEzMUJyLWpjVlNzOUF6Rg?oc=5
 
-- ＜主張＞改正皇室典範施行 皇統支える養子縁組を 静謐な環境の日本でありたい 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBNUjN4X1U1SFFRaHVXeDg4bF85WDZIRktKMW9pWmJGWmhDWElsbzE2V1I5M3RhM2NxVHhLZmJBS1NiSTNsZUNULVZBM0d1Qmo4cy1VRWRJQXo3UHNCYkhsY2hDSFprcGxmT0g2ck52aE9Sa0ZXVWc?oc=5
+- アラスカ上院選「サリバン」氏が２人出馬、共和現職が敗れたら結果認証の差し止め求めると提訴 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KU2toTzJtNTdnd3JBeWFkZWNfS1ZGU1BqbVZvM25lc1RUMEZXU2t4X09HU2hVZnJGWFNXaWlyYTBHYnJZQlFrUnBwRWExYUlybHdvRXV2dmZCODI4Qnd1RkxB?oc=5
+
+- クマ駆除の自治体に「殺すな」抗議続く、中には「威圧的言動で１時間電話」「職員を無断撮影し投稿」も - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DQkFReFNXZV9Sc3lfZ0RQclZNdUU0UnlhYlBURUszSUVKQkJIRWpXT1RLSlFMNFVPMFQyQzVFTnpCSTRPQlZLVzgxUjRrVnFuOGFuX0lscnRZTmpldFBtY01vdzlxZw?oc=5
+
+- 行方不明だった大阪市の男子中学生を保護、東大阪市内の公園で発見 けがなし - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS1dfM200OGFfUHp4cl9iUUtxbThNN1F6VFpUSEJobi1hemFJaW4xTWNjZXlvNEllWmlXeW43LVlJdDJUbUxtenYyUjV1eElhdmVrQkRFMXJkRkVJbE83TlByRXBBZGhLeURvWEc4cUZlZnVfdnc?oc=5
+
+- 明日25日の午後～26日 台風30号の影響で近畿では警報級の大雨となる恐れ(気象予報士 木村 司) - tenki.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTnhrb1NwaGNlQTJTREhlek1NdUdYZ3ZkSl9FWmpPdFlmRENYblNSQW56ZjBiQzYxclRveEJnVFdnQW1hVC1yb1dfQzBvNlRKZWgtdXVuZThjQW1Fa21TeWNPRW5tbFU?oc=5
 
 - 「５００万円渡した」と名指しされた県議会のドン、事実無根と否定「名誉毀損の民事訴訟で決着つける」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZjZDakhnTnZTejJOTEpQM0tudzluLUZWRUNaY2pIU2NEVTNBdTZmdzJFX2NlQWRiSjFWdzIycnRGUVZ5UGlDUm1ZNjlNSk0tS0piVmpRU1VVNkRfRTNMWFR6SF85UQ?oc=5
 
-- 【最新情報】台風30号 先島諸島が暴風域に 厳重警戒を - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMC0zaUJjMUYtOGdfVVlnT01SUVV5YWQ0ZTQzSUlnUkhMUEkwcV9aM2lkbEpudExYZXRaV010YS1OcHhHdndfc18zQm16Ty13bHF3T1hSU3ppdUZlQjY0?oc=5
-
-- 墜落のグローバルホーク 機体の引き揚げ作業終了 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UYjlPNGhLMEh1ejhHWm10U2FjNU5XSW94N25VeFAzZFFwZ3JVRWxsWDlheE1odlIwTjdseWx5T3pQdXQzZDNGRnBUQjV1Ulk1YkZ0VzlqOGNQdjBKTFhB?oc=5
-
-- ヒマラヤ未踏峰で15日から不明の邦人登山家2人、山中で遺体を発見 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94NFVIV3I1YnlTNmpIb29IM2FjYVJXbnVkbUpiczVhcC1UYUZLbTBwa1J4dDlzRFQ5YWtvVXhHZklSU2VJLWhsd2thaEt5bzFzbVpmblAwOGZRYTNHcDZDeTFLZ1hGRFE?oc=5
-
-- モンゴルの自然保護区の8割が被害 KDDI子会社の車両火元、当局が賠償請求検討 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE8zUS1DYXl6M2tYWWh2NWVCSGpvdUpLY01kWUVOM0J5OGtLZVFEUU0zVVZmU0RMMUJmMXYzamxmSlJ3WjVvWU40WkttZ0V0M3RsOGNYQWhpenpTOTJpdFdLZjRhV2FVSzJxUVdnWkU4QmlldGJKa2c?oc=5
+- 石垣島で3時間以内に線状降水帯の可能性 台風30号、八重山で暴風警報続く（24日午前9時現在）【写真複数あり】 - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zUEtseWE2VDN4QnBYNTloV3BFaTFjd3h0QTlQOGo0ZEI3ZGU3UjVVRDJVOWNQQS12RUlpVmE5MW8yY1BneFVIRXAtcll5eXl0eTl2RWwzNEJicnNzOHc?oc=5
