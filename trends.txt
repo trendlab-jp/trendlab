@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ロシアとウクライナ、一部地域限定で軍事行動の一時停止に合意…トランプ大統領のメラニア夫人が主導か - 読売新聞
+- ウクライナ南部で一時停戦、ホワイトハウス発表「メラニア夫人が主導」…２９日から - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE15RV9MRlNxY1hPemo4TXA2TzV3cTRtZ0JtZ1R6OEQ1WXhWazBvZ2tzUkpQbnpFU19EZkt0ZHFsY1k2dGRleWdEVmRsT0RyQ3dYd21XR2JEbnZGbEw1RVVoODN3?oc=5
+
+- フランスで再び抗議デモ実施へ パリの街に警戒感広がる - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Cd2JpNmVobkFCY0JTYkk3SHdCczJZNUM2VkVVazhYc0xVcVlZQ2dBQVZoRXBVNEQ4YjliV0otSDhyLTA0RlpzcF9maU91TlVOdWtNVUJ3b2c4U2dNWTdj?oc=5
+
+- 台風30号＋秋雨前線 西・東日本でも長時間の雨 広範囲で警報級の大雨のおそれ - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE93c3FTdGxZYWRKclVjYXRBMGtCeUk4R0N0ZzBzLXFjbl9oeW1TajlFdUlqV2toQllZTEhiMDR6UmQwUkVPVFd4QWszS3VSYXh2dHljcnQwaw?oc=5
+
+- パリ郊外で男が車から銃乱射、６人死傷…マクロン氏「被害者は宗教や肌の色に基づき狙われた」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YOHlxVU9nR2JhckRhUVo1U1NRVzVmSWF6UWhUZDFlTndxcVFweUw2YlMxajlENTh0SmUtVWxkOENPRUZBWng0ckluVHpaT1JZWXJPa3JPR1BjV096Y3d6Mkdn?oc=5
+
+- ＜主張＞改正皇室典範施行 皇統支える養子縁組を 静謐な環境の日本でありたい 社説 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBNUjN4X1U1SFFRaHVXeDg4bF85WDZIRktKMW9pWmJGWmhDWElsbzE2V1I5M3RhM2NxVHhLZmJBS1NiSTNsZUNULVZBM0d1Qmo4cy1VRWRJQXo3UHNCYkhsY2hDSFprcGxmT0g2ck52aE9Sa0ZXVWc?oc=5
+
+- 「５００万円渡した」と名指しされた県議会のドン、事実無根と否定「名誉毀損の民事訴訟で決着つける」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZjZDakhnTnZTejJOTEpQM0tudzluLUZWRUNaY2pIU2NEVTNBdTZmdzJFX2NlQWRiSjFWdzIycnRGUVZ5UGlDUm1ZNjlNSk0tS0piVmpRU1VVNkRfRTNMWFR6SF85UQ?oc=5
+
+- 【最新情報】台風30号 先島諸島が暴風域に 厳重警戒を - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMC0zaUJjMUYtOGdfVVlnT01SUVV5YWQ0ZTQzSUlnUkhMUEkwcV9aM2lkbEpudExYZXRaV010YS1OcHhHdndfc18zQm16Ty13bHF3T1hSU3ppdUZlQjY0?oc=5
+
+- 墜落のグローバルホーク 機体の引き揚げ作業終了 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UYjlPNGhLMEh1ejhHWm10U2FjNU5XSW94N25VeFAzZFFwZ3JVRWxsWDlheE1odlIwTjdseWx5T3pQdXQzZDNGRnBUQjV1Ulk1YkZ0VzlqOGNQdjBKTFhB?oc=5
 
 - ヒマラヤ未踏峰で15日から不明の邦人登山家2人、山中で遺体を発見 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94NFVIV3I1YnlTNmpIb29IM2FjYVJXbnVkbUpiczVhcC1UYUZLbTBwa1J4dDlzRFQ5YWtvVXhHZklSU2VJLWhsd2thaEt5bzFzbVpmblAwOGZRYTNHcDZDeTFLZ1hGRFE?oc=5
 
-- 【台風情報】大型で非常に強い台風30号(チャンパー)の進路予想 24日にかけ先島諸島にかなり接近する見込み 26日頃に九州に接近する見込み 前線の影響で九州から関東では雨が降り、雨脚が強まる所も - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXZFF5clV3R01ZRVVKVVBPTVQyOXBqYXcyM1F0LXVSZ2FlQmNKV0hlRk1vZC02OWFXRmdzN1BSclZWel9hLTlKTXBVSTAtdw?oc=5
-
-- 【台風のたまご＝熱帯低気圧】発生 24時間以内に台風に発生へ 日本への影響は？【雨風シミュレーション11月3日（火祝）まで／全国の週間天気予報】気象庁台風情報と台風30号予想進路 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdGVDUDNRcE01bGp6UGx4enYyR1JRcGdKT0w2M295WGpRNEktaWJ0Wmoyd2s0cnZ4YkNmNmFFR1dzNDVublZMYXFmRFloRk81WmE0VkRvMmU2aXhUd3BpalNNZDFfYVk?oc=5
-
-- モンゴル火災でKDDIが謝罪、現地子会社社員が乗車の車両が関係 訪問は通信品質確認のため - ケータイ Watch
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oc0s0UXpheW1xdWpWNlFTNUNnaUpPaTJ2TWd3SDdUQUlCcklqSV9QQVZQSGlMY19obUl0ejZ4emhaa1k3bjFLS0VENUdtQzZFMkNjaHFBR052RnhDUEZPM0JaeGwtRTg?oc=5
-
-- 元議長の蔵内勇夫氏がコメント 「金銭授受は一切ない」元県議・新村雅彦氏の告発受け - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNHZZNWZpQlZoRk5CcFd5alBOazcxa1oxSnVxNzIxajVZanhkRzljdVBtUTBXQTZHVDN0S3l4WGdYWldfVXlZdVJVcUEyS3liaFFXZU53?oc=5
-
-- アルカディアへのサイバー攻撃、侵入遮断後も 偽メール142万件配信 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9UVjlidUR1cU80TG5JOEFfWmMxWWF1dmxoc29sbXlhRFhEMlNQbzc3VEhVc3dBMmNrUElVZnZkYnd6cGdUUkpvTTloaC01U2g3ZXYwcEdYR210cWxacnk4clVrY2g0SkljRUVjeA?oc=5
-
-- 「今まで見たことない損傷」 奈良・東大寺境内などに子鹿の死骸4体 観光への影響懸念も - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9mNmh2by1YN0gyZ3dCdGg3cnY2cUs2djlqTEVRaUZWV0hPZzhQLVhmckNZZGFLbUdYYVVySUdHMlhJd2Q2U3oxRWFpT1J5cF9jbUpfeXBXQUdOSnlQNHU4RkdGM000YWE3TXBXb1NTRGgyeUVoWVE?oc=5
-
-- 台風30号 24日にかけ先島諸島に接近 線状降水帯発生の恐れ その後は本州付近へ(気象予報士 小野 聡子) - tenki.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FOHhRRjdmcUVsUkJiX1ppWXlmNFhuSUhtQXRYYXE2aHFZajhOdGk2THl5RS1nZkotd21PUk9PRGxraGNld2NoSjN5VUFoZ21pNzRHZUk3cEN6RmJiVWxoVEhyVzVqUQ?oc=5
-
-- 東武鉄道で作業員４人死亡、国交省が全国の鉄道事業者と連絡会議…再発防止策など共有し安全管理徹底を確認 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fTnEwWGIyLUg5RjdzOE5CSzVOakpWU1M3RU4xUDU1Uy1tT3BycEZSSkR1RUpRODJyTXIwcGl5UzdUX2hiNmxjMS1mVlVBY2o1czZfSHA5XzJtVWNRcW5TSFE0aFdwUQ?oc=5
+- モンゴルの自然保護区の8割が被害 KDDI子会社の車両火元、当局が賠償請求検討 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE8zUS1DYXl6M2tYWWh2NWVCSGpvdUpLY01kWUVOM0J5OGtLZVFEUU0zVVZmU0RMMUJmMXYzamxmSlJ3WjVvWU40WkttZ0V0M3RsOGNYQWhpenpTOTJpdFdLZjRhV2FVSzJxUVdnWkU4QmlldGJKa2c?oc=5
