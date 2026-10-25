@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 九州から関東は大雨のおそれ 九州北部は滝のような雨も 今日25日(日)の天気(気象予報士 日直主任) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVklTblJkbVNacFpaS3FLcVBqbDVlNWUtaEJHWURSQmxqZHFoSE4zUl9sUTViMURaOGxUSmR3S1c1MmNReHZjTmZXdjdON1FCSWVyRWhIRWJOVjhLZ2paNzNfY2NyS3dLZEE?oc=5
-
-- フランスの暴動、「マクロン政治の必然だ」と専門家 そのわけは - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RV1BBcHVVb2s0b0plMWZIVjg1amIxazVvQUh1cGF0LTJQN0FrSC1YNk1maF9QU2k4YmtXdExJSVpKcW1vem5haWh2Tk5IMUtCZDhsMVJDT181bDZPRWttZW83OXExWkE?oc=5
-
 - オバマ元大統領、トランプ政権の腐敗を猛批判 「もう限界だ」 - CNN.co.jp
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdFJxd24yYmszQ1J4bFpqTlV2VDZWSlFYYXV5bXpubmpYdkNNcjZOaG8zcVVYVDUyRlJRRkthUjRoSE1fRjQ1cWE4aUZfLUl6?oc=5
 
-- 旦過市場近くで２０代女性が男に刺されけが、コンビニに駆け込み「男に面識ない」…殺人未遂事件として行方追う - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRamhTdmREclozTnlabUVSUVhqRTI1bVJYeXMzN3V3amFUMmVyMGsxVnJOS0ZRMy1MbWF3U2NRNE44SFRZTXlCWHktV2Q1eHhaVnc2bEQ0dVBVbnlibm1oT3F0ay00QQ?oc=5
+- 台風３０号、九州西方で温帯低気圧へ 東・西日本は前線で大雨警戒―気象庁 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZOWdZNGkwXzBteEpSQzkzekZ1Y0c0cXNqMzhBcEpNNWQ4MFlOVlkyeXZ2czVuT1pqbWw4U2VEQ3BIMzhWZ3F1aVF2Mmh5b3dFVFR5UjdKNHVwMEJKTHZnTmltaw?oc=5
 
-- 【地震速報】小笠原で震度3 津波の心配なし - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZU1sb2NYbzZBTDMxQkxXUXBsZ2o2RzZjMGw4YzdTdVlwLXlQcU1QU21VWGNZSnI3UXZxYWhJa1ZHYXFfZHY2WTF4ZzlobXY4Q0JMT1o3WmI5aVN3Zm1j?oc=5
+- 近畿から東海に活発な雨雲のライン 関東は北と南から雨に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6dVdrcEFDOUFDRkU4ZGowbHFfSHR0b0x1U0dZYi1mUVpYcHY0bjZyLUo1MXBibzdnSmp2dXNPY2dXdUJHbE9DMDdLMVV1ZjBGTlRGMg?oc=5
 
-- 【映像】和歌山市で道路が川のように カラーコーンも流される - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pT1B2UnlubWQtZUVkaG5ZQU1fU05kLUkzVUVfRDM1ckU3eVBqTWxHV1NCZVFBbnEyQ20wX3BOZFVSQkxsSmdfay0tVjEtUXlQOEdfMlpHZUFERVNPWW1z?oc=5
+- フランス各地で２週連続の抗議デモ、４１万人参加…パリではデモ隊の一部が治安部隊と衝突 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNDkwcUxIX2FMT0oyZjBQeWxxaXFYdVl6NHp4aHAxOUpUaU1MZ1hyb0J2WXFpeFAzcVlmMXFILVF2YXFzbHZCaHVRV3puazdhdmpFOE9idWhXazg0RXVnWE93?oc=5
 
-- 【台風30号影響】神奈川県はきょう夕方から激しい雨 26日は県内全域で警報級大雨のおそれ - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TbG9qdjhCVWdKUXB0Z0dzTDhONUtveC1OUm5MVC1kdUJkZHA3QlM1RlBSWkctRjNyVVFGTzZIbGxTRTMzeWJUSHJDMFp5aklwMkExVGpMWjFpSTcwcmc?oc=5
+- 【速報】福島県知事選挙 出口調査の結果は - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXT2V2b2tQemNTV2ZoT3U0NjU0XzY1YnQzQnF0OGdOS3RnUWlfUk05Q0Q0c01odkRSNWoxQjdjblUwdHE2djZ5VGpYRVdBNnFTRkhhSGt4ZWVEclY2UjVr?oc=5
 
-- 原沢市政誕生の舞台裏 ３位に沈んだ山中氏 開票日の夜、絞り出した言葉は 横浜市長選挙 決戦を振り返る（４） - カナロコ
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE9vX0loajJqMDdqbnZGYXJfWHJ1VWRGb0tQeXhMREpTTURxMG9xbGplTlVLaExLdk5YNlhKZUNtWUdnVWw4VUh5aTBKSHlSck11Y0I2emhOcHJMZks0d25VSHVWd3puQVlvUndOYWJCWVp3T0t1a3h5NHU0dmdhdw?oc=5
+- 「何も変わってねえ」 防犯カメラがとらえた米兵、コザの店主の憤り [沖縄県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GZUpKU1JKVW1DbGgxMnY1djE2aDdiaDRzRDBJWUFmTHNuR1R2YTZmRUtvT3pIMTJTNGJEaFNQYnZXWldxSXBvV2YzeXduZ2dhbTg4blRGcUVWSTR2Zk02eVB5Vk9LbEE?oc=5
 
-- そりゃマイワシも獲れなくなるわけだ…魚が消えても「海水温のせい」「外国のせい」と根こそぎ獲りつくす日本漁業の“自滅” - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NMnZSU0ZzOUdzNjJxUUtsZ1dPSnRHcXNVNlkzeXN4TFhwcFc5YWIwcEQ2cDhhcjhsMlJwbEhnVjVWeVhIWnVaTWxDV3Q0UzB4dGh6Sm56bjN3VkdDakxlb0J3aEdvUVgwS3dib2Z1OVhDbm11WDQ2TjltNUdtMTg?oc=5
+- 【速報】関東・東北・中部で地震 M7.0 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度3 震源は小笠原諸島西方沖 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5aeDdqYWh0V2tyTFNCWDZjdm44M2FPQzgyRXFvRUs2X0ZOSzZQTUZYUzBVcTZpbWhKcnNtcnlmRzJsdnlGRTl5OVlNdDNxQmZkQXd5VTl4QmtXbGN4dGtGNEU2TlRfUDFzV3BzVzhZa2M4VGhwam9CNnFScWZQcE0?oc=5
 
-- モンゴル副首相、消火に税負担「謝罪だけでは済まない」 草原火災で賠償請求検討へ - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUmgwc1Bnb241NzNuN3F4QTBsVm1Ednhxdk41VVhjWldhbkNRS3FLOXNQcG56c0dNbUkzSzdXeW94LUdqNHNmcGVBcmNCZUNJWldmWW1YdkJHakQ3NUFtc0tMU0ZIYW1zWnFnLTdVdEs0OWVZb0E?oc=5
+- 80歳製菓店主の強盗殺人容疑、20代男2人を逮捕 防カメ捜査から割り出し 山口県警 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE96b1JTeHRnYnByRkF5VGxWdHpnOFRJM2JhUWtPRDdVSE5NX1ozaTZOYVljcWl5WlUxSTkzTHczTjZUdUd0TDh2ejV0UlppeUFEUVE1XzhSdHFKUFNMdElOdEIyVkdlRlJ1YU0wRUllZjA2bUNyM0E?oc=5
+
+- 【速報】ハロウィーンイベント会場で突風 簡易テント吹き飛び6か月乳児や8歳女児ら4人けが=静岡・三島市（静岡放送（SBS）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBsLWU3cnIwUEp3Wjdzc0daT0QxeUpKXzNPelJ2SlFfYVNPZ3RDZTN6X1JpXzUzR19uN3R4TnRJQlJ0S0JuVDUxdUM2cXpkTzRmNm5keUJ6ZlBCdG9uVDljc3RlZkFBc2JESjZ0Ri1LclhNY2xJZ0plaFE2RGJfQkE?oc=5
+
+- 関西エリアで土砂降りの雨 道路冠水や低い土地の浸水に注意 - au Webポータル
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBCQ09VeFRxVEF5S0FHeE1qMlJWTWVoMFhVdmEyR3M4c3d0RmY2NVdjU3RJbGU4eEc5cVBoTzJock9BSTB3TVNKTnpOblpRMms3a0NIYnk3ZFFaY0tYNUlMQjczRUhXcDRwX3h6WTl3?oc=5
