@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ゼレンスキー氏、スターリンク通信速度「回復した」…トランプ大統領ら米側に謝意 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMERXTElzYlZ3c1RRTmFJeVIxSldOS2JubTEwQy1pbmFNSkt4R1dqdFJZTm91MXlOa0c2ZVgzMHh0UUVRcU5DVllwLUtzcFItNTg3LXl3anhEcHBvdUZyNUpB?oc=5
+- 九州から関東は大雨のおそれ 九州北部は滝のような雨も 今日25日(日)の天気(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVklTblJkbVNacFpaS3FLcVBqbDVlNWUtaEJHWURSQmxqZHFoSE4zUl9sUTViMURaOGxUSmR3S1c1MmNReHZjTmZXdjdON1FCSWVyRWhIRWJOVjhLZ2paNzNfY2NyS3dLZEE?oc=5
 
-- 【最新情報】台風30号九州に接近へ 前線影響 広範囲大雨おそれ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRzNub2FmTjBCZm9Ra1NEOE9JSkZQeDlLcE1lQ0VmVFNCZzMzU0JDYS1VOS11dmhIYi1kTk9waGx4ZjEtNDFNVG5kSFlKX2E3MTEzRjlhdW1HMUFKbURF?oc=5
+- フランスの暴動、「マクロン政治の必然だ」と専門家 そのわけは - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RV1BBcHVVb2s0b0plMWZIVjg1amIxazVvQUh1cGF0LTJQN0FrSC1YNk1maF9QU2k4YmtXdExJSVpKcW1vem5haWh2Tk5IMUtCZDhsMVJDT181bDZPRWttZW83OXExWkE?oc=5
 
-- 北朝鮮の金正恩氏、１年ぶり訪中 新大橋を利用、中国序列４位と会談 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WWdOa2pHdlJ2WW9hTW5hNmw3SlQtbUtOVW91SU84VGhSRWZwdGt4TzUzZUhkTm5mRjZEeVZRZERpa1ZVUTIwWnEzZVNLelF6VEowN0tXZHRPczNMZnYyc3RHaw?oc=5
+- オバマ元大統領、トランプ政権の腐敗を猛批判 「もう限界だ」 - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdFJxd24yYmszQ1J4bFpqTlV2VDZWSlFYYXV5bXpubmpYdkNNcjZOaG8zcVVYVDUyRlJRRkthUjRoSE1fRjQ1cWE4aUZfLUl6?oc=5
 
-- 抗議デモの高校生らとマクロン氏、初の会談…「大統領は話を聞いてくれたが対策示されず」と継続表明 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE13R1RFU01vYUVaN19hUXVrSzZUSHdoMzZRcDlOb3ZBbktsTnRaZXFLN2ZsV0NDcHIwLWZ3T21zR19fM3JOUmY2eW00LXZRb2ZtbEJqSTM0anFwY0F5a2UtMDVB?oc=5
+- 旦過市場近くで２０代女性が男に刺されけが、コンビニに駆け込み「男に面識ない」…殺人未遂事件として行方追う - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRamhTdmREclozTnlabUVSUVhqRTI1bVJYeXMzN3V3amFUMmVyMGsxVnJOS0ZRMy1MbWF3U2NRNE44SFRZTXlCWHktV2Q1eHhaVnc2bEQ0dVBVbnlibm1oT3F0ay00QQ?oc=5
 
-- 神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YU5sVjhPQkJXLXpDNXVuY0R3SU0yWHExZWVyR1VWd0FFdGNzdjdtN2txRWRUaEhPSXVUeG1PY0FHdjhJMmpSNnlqZnYzSDFaaE0wa19JcTR1aEIzSTNR?oc=5
+- 【地震速報】小笠原で震度3 津波の心配なし - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZU1sb2NYbzZBTDMxQkxXUXBsZ2o2RzZjMGw4YzdTdVlwLXlQcU1QU21VWGNZSnI3UXZxYWhJa1ZHYXFfZHY2WTF4ZzlobXY4Q0JMT1o3WmI5aVN3Zm1j?oc=5
 
-- 【独自】外来カミキリ被害、拡大の恐れ 50年、本州・四国全域に（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE16Rmt2WVdOOUNZWEVsWDZRSzlPQWp2eFpSMWhZR0FpT3BtX1lrS1dwM1RXdjJjZEFQMWlYQ1ZweTFKU3lqalVFMXpDa1pxSGpnX0ZnbjEyZXpXX3REandzUkpJNjVRejJvZXBzZUdOOGRZc0hEWWJoMzdkMDhOeVk?oc=5
+- 【映像】和歌山市で道路が川のように カラーコーンも流される - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pT1B2UnlubWQtZUVkaG5ZQU1fU05kLUkzVUVfRDM1ckU3eVBqTWxHV1NCZVFBbnEyQ20wX3BOZFVSQkxsSmdfay0tVjEtUXlQOEdfMlpHZUFERVNPWW1z?oc=5
+
+- 【台風30号影響】神奈川県はきょう夕方から激しい雨 26日は県内全域で警報級大雨のおそれ - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TbG9qdjhCVWdKUXB0Z0dzTDhONUtveC1OUm5MVC1kdUJkZHA3QlM1RlBSWkctRjNyVVFGTzZIbGxTRTMzeWJUSHJDMFp5aklwMkExVGpMWjFpSTcwcmc?oc=5
+
+- 原沢市政誕生の舞台裏 ３位に沈んだ山中氏 開票日の夜、絞り出した言葉は 横浜市長選挙 決戦を振り返る（４） - カナロコ
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9vX0loajJqMDdqbnZGYXJfWHJ1VWRGb0tQeXhMREpTTURxMG9xbGplTlVLaExLdk5YNlhKZUNtWUdnVWw4VUh5aTBKSHlSck11Y0I2emhOcHJMZks0d25VSHVWd3puQVlvUndOYWJCWVp3T0t1a3h5NHU0dmdhdw?oc=5
+
+- そりゃマイワシも獲れなくなるわけだ…魚が消えても「海水温のせい」「外国のせい」と根こそぎ獲りつくす日本漁業の“自滅” - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NMnZSU0ZzOUdzNjJxUUtsZ1dPSnRHcXNVNlkzeXN4TFhwcFc5YWIwcEQ2cDhhcjhsMlJwbEhnVjVWeVhIWnVaTWxDV3Q0UzB4dGh6Sm56bjN3VkdDakxlb0J3aEdvUVgwS3dib2Z1OVhDbm11WDQ2TjltNUdtMTg?oc=5
 
 - モンゴル副首相、消火に税負担「謝罪だけでは済まない」 草原火災で賠償請求検討へ - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUmgwc1Bnb241NzNuN3F4QTBsVm1Ednhxdk41VVhjWldhbkNRS3FLOXNQcG56c0dNbUkzSzdXeW94LUdqNHNmcGVBcmNCZUNJWldmWW1YdkJHakQ3NUFtc0tMU0ZIYW1zWnFnLTdVdEs0OWVZb0E?oc=5
-
-- 火曜日までは西～東日本で大雨の恐れ 水曜日からは北海道で雪 寒暖差の大きい一週間(気象予報士 牧 良幸) - tenki.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdGxPMXp4X0poRnVnS05zcnU0bVE0Mi15di1sYXEzbTNURVVyd295ckJtU0c3RnB3SXJSUnpoZERPN21nNUFQNXBwQmFGX0Uzc0toTk85SFNMS0pjT2hRSU4zSk9yOGM?oc=5
-
-- 大阪市内で行方不明だった男子中学生、東大阪市の公園で発見…けがなし - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBVcWF6UHhGQ1VXVV9FcW56UV9kc3A4WGQtbXpmVmJqLWtnYnNFS3FLeU50bk96WnJTTDVuTnRpVnlmTkp4VGtZS0RDNDhRNVd0QTJPa1NnczVCeU5WREVsc2tLOUw5TndrODdzTFN2T0FlQQ?oc=5
-
-- 「金銭支払いの指示はない」 吉村・元民主福岡県議団会長の一問一答 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGVEo3WXZFQ0JtOUl2TFVEVE44SXd4aHo5UjljdDRFb2pzLXkwalFaUGs4Q29FYlVhNmxQUmRtYnR2U0dGd1RUb0pzZ0JEaS1STTZ4dEh3?oc=5
