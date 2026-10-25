@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- オバマ元大統領、トランプ政権の腐敗を猛批判 「もう限界だ」 - CNN.co.jp
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdFJxd24yYmszQ1J4bFpqTlV2VDZWSlFYYXV5bXpubmpYdkNNcjZOaG8zcVVYVDUyRlJRRkthUjRoSE1fRjQ1cWE4aUZfLUl6?oc=5
+- 読む政治：高市内閣支持率、45％で横ばい 最も評価する取り組みは? - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zUExlWHlVZ0MwV0lob2ZROHU1bFktS1ppQzUtcDB6MnZ5Nkg0T1VZSlNNeS1Sd2h5ZU1idms5UVE0MUFtUVBkUWt1dHdEX1RGY3M3Z2UxTUctTUVrMmdtOTdDaE1WRXda?oc=5
 
-- 台風３０号、九州西方で温帯低気圧へ 東・西日本は前線で大雨警戒―気象庁 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZOWdZNGkwXzBteEpSQzkzekZ1Y0c0cXNqMzhBcEpNNWQ4MFlOVlkyeXZ2czVuT1pqbWw4U2VEQ3BIMzhWZ3F1aVF2Mmh5b3dFVFR5UjdKNHVwMEJKTHZnTmltaw?oc=5
+- 和菓子店経営者殺害、男２人を強盗殺人容疑などで逮捕…被害男性の長男「知らせを受け号泣した」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHUk9jaTV3R0Y4ajFvbmczZWdFZ0tvSXVxbWwwb3VLd3VIUGo2VlVWUHRlWkhEZmJlSExwQmNlNGJMWE41Q0J5RjBEWDktem1vODlkWk5SUFppSndYeEpWRERCNlZwdw?oc=5
 
-- 近畿から東海に活発な雨雲のライン 関東は北と南から雨に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6dVdrcEFDOUFDRkU4ZGowbHFfSHR0b0x1U0dZYi1mUVpYcHY0bjZyLUo1MXBibzdnSmp2dXNPY2dXdUJHbE9DMDdLMVV1ZjBGTlRGMg?oc=5
+- わなにかかったクマ、殺処分せず放獣したら再び出没…専門家「ゾーニング検討する段階に」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KOWx3UnFOZW8xYmFUZDhrT28xX25TX3dPclMzVWp4dFNFVjNiNFJ1T1FkSV95NE5JcEVDRmRBYTJhZFJQbTJ3QzJ5SXIzTUdvMUE5NkljcnhnazN2THA3VHVRTTF6Zw?oc=5
 
-- フランス各地で２週連続の抗議デモ、４１万人参加…パリではデモ隊の一部が治安部隊と衝突 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNDkwcUxIX2FMT0oyZjBQeWxxaXFYdVl6NHp4aHAxOUpUaU1MZ1hyb0J2WXFpeFAzcVlmMXFILVF2YXFzbHZCaHVRV3puazdhdmpFOE9idWhXazg0RXVnWE93?oc=5
+- 激戦のミシガン州で演説したオバマ氏、中間選挙は「政権の愚行に歯止めをかける最後の機会」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wc1k2SjBHeG1ZUkxDc0RmdWgtQzdEU2Fkc0FXWVZIaHo1TFJpWFc0ZmVYeXEwSXFlMURmVGV1WER4d0cwNmFUUmI1aWNUeVZjY1VELWVrRFUxVFVTVlBfWGJR?oc=5
 
-- 【速報】福島県知事選挙 出口調査の結果は - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXT2V2b2tQemNTV2ZoT3U0NjU0XzY1YnQzQnF0OGdOS3RnUWlfUk05Q0Q0c01odkRSNWoxQjdjblUwdHE2djZ5VGpYRVdBNnFTRkhhSGt4ZWVEclY2UjVr?oc=5
+- 福島県知事選、内堀雅雄氏の4選が確実に 共産新顔ら6氏を破る - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5emdEcHc0N29hTWM0bHg2dlFIbmJuNmhPeG5QQ3dva0xvOHlqVE1FUi1Qb25iWnBoc3N4cE12OS0ybTctN1R5QUg4Sm1QRVF0ZExWd3lFQTdBeTlEYVpoVGxOUlh5b1E?oc=5
 
-- 「何も変わってねえ」 防犯カメラがとらえた米兵、コザの店主の憤り [沖縄県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GZUpKU1JKVW1DbGgxMnY1djE2aDdiaDRzRDBJWUFmTHNuR1R2YTZmRUtvT3pIMTJTNGJEaFNQYnZXWldxSXBvV2YzeXduZ2dhbTg4blRGcUVWSTR2Zk02eVB5Vk9LbEE?oc=5
+- 道新記者拘束は「人質外交の一環」「市民を冷酷に利用する」…ロシアで拘束のＷＳＪ記者インタビュー - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hcmdGSDYzWGE3NWI0ZkdiMHgtLVo0TmcxS05nVm5UUmlITkM2TTlac21PQWowTzBsbGlFYnMwcnFxRlh5aE8ycjExUDZxYVllYUFkV3M4VkxZUlVEX09kUnN3?oc=5
 
-- 【速報】関東・東北・中部で地震 M7.0 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度3 震源は小笠原諸島西方沖 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5aeDdqYWh0V2tyTFNCWDZjdm44M2FPQzgyRXFvRUs2X0ZOSzZQTUZYUzBVcTZpbWhKcnNtcnlmRzJsdnlGRTl5OVlNdDNxQmZkQXd5VTl4QmtXbGN4dGtGNEU2TlRfUDFzV3BzVzhZa2M4VGhwam9CNnFScWZQcE0?oc=5
+- 【速報】【台風30号】大阪府、あす26日昼前～夜に警報級大雨の可能性 再び激しい雨、浸水害など警戒 - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYdURuakZBaU5tUlFHTHFSdFRkMEFLaTk1VzI4bzh2TVBzVkVhSnhaUFVlSkNCLVVleEF3MHQyWV9WYnBlRk9xMWZLQmdpOXlYR3RmU1pXUm8?oc=5
 
-- 80歳製菓店主の強盗殺人容疑、20代男2人を逮捕 防カメ捜査から割り出し 山口県警 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE96b1JTeHRnYnByRkF5VGxWdHpnOFRJM2JhUWtPRDdVSE5NX1ozaTZOYVljcWl5WlUxSTkzTHczTjZUdUd0TDh2ejV0UlppeUFEUVE1XzhSdHFKUFNMdElOdEIyVkdlRlJ1YU0wRUllZjA2bUNyM0E?oc=5
+- 斎藤知事支えた片山氏敗れる 自民系前市議が初当選 兵庫県議補選 [兵庫県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cWtCWVdtbk1oVEo3T2lscEtkTTJ3eXFDMDJYTEpPX24zMWZCeW1SXzZPOEhqc1ZIb1NKcGdhVWNzQUVNTHpBSWNLRFNjd3A3aFNoNzl2OWo5NDFUenJqaXMxdzN0UE0?oc=5
 
-- 【速報】ハロウィーンイベント会場で突風 簡易テント吹き飛び6か月乳児や8歳女児ら4人けが=静岡・三島市（静岡放送（SBS）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBsLWU3cnIwUEp3Wjdzc0daT0QxeUpKXzNPelJ2SlFfYVNPZ3RDZTN6X1JpXzUzR19uN3R4TnRJQlJ0S0JuVDUxdUM2cXpkTzRmNm5keUJ6ZlBCdG9uVDljc3RlZkFBc2JESjZ0Ri1LclhNY2xJZ0plaFE2RGJfQkE?oc=5
+- イオンモール熊本の爆発、7人全員が施設南側で犠牲に 2階遺体には衝撃波由来の傷 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9uRTQ1Q0lJOEZNczRhWGh3NnQ1T0hBY1I0ZXFXY01oTjljQUVjVE1vV1VKZGVaTzJaWnk1dmNodmFfbFowZWhqOC1xTE5TRzQ1V3FFdHJHcXJEVzl3d2pEVVRiaC1zR1VpVmVuLVBIY1JHRHAybVE?oc=5
 
-- 関西エリアで土砂降りの雨 道路冠水や低い土地の浸水に注意 - au Webポータル
-  https://news.google.com/rss/articles/CBMibkFVX3lxTFBCQ09VeFRxVEF5S0FHeE1qMlJWTWVoMFhVdmEyR3M4c3d0RmY2NVdjU3RJbGU4eEc5cVBoTzJock9BSTB3TVNKTnpOblpRMms3a0NIYnk3ZFFaY0tYNUlMQjczRUhXcDRwX3h6WTl3?oc=5
+- 【那覇市長選】出口調査の結果を速報 - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mY29RSTMtWm5YUU1GTFYxV2JENFdPTmhvamlWTW80dnVtNks5R3RnR3cxVTZUeDlSZDhlRWFuajlCMlk1OUhDakpFMnRuajJYM0k2cVdzdFlkcGNoZ0E?oc=5
