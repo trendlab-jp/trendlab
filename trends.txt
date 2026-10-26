@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ブラジル大統領選、決選投票でルラ・ダシルバ大統領が再選…通算４期目へ「他国の裏庭にはならない」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aTzBOVVYxallrRjBRUG5vckNtd1BxaWtvVjNxdmVpYU9jaGxNQVJFeXpHRXVkV2F6SUI4RE4teERVV0M5SEg2aG4zTWV2cmFvaFFwMU0wR1l5WW1weU16X3Zn?oc=5
+- 「はまり役」だった官房長官、小泉首相に「王道ではない」「覇道だ」と直言…福田康夫氏死去 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkcnpYamtDWXFaaUpIbG02Nl8wRXFsMl9pcXI3c2pYMlVlY0tmczk2c1JhQ3J3RkRlYm9RMG9rdTRDLVNjOFFXNW9WYWtoUk85MHlmaGo0S09EVlMyOWdUZDJRT0Fvdw?oc=5
 
-- 温帯低気圧でも油断できず 雨雲が発達し激しい雨のおそれ - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lRjU1QnNVdXNYbEx3TG43LUNaeFg1cDNYN1JzSFBwTF9hSFlvN2VMcHVTYUR6NHplWTRhY0xFc2xvVkJvbWVlWmxtaG1TUjVBT0JfQg?oc=5
+- サイバー攻撃元の無害化措置、高市首相「戦略的に実行」 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRnZWUHNjSHVtbWowVGRHOTltRXNXVG1NUG13THFXTWpWbGNOdVNRY0M4d2R5dlRiSVNDVlI2SUpLbEx1MmxpVzgzYmN6QnN4dFoyMXVoakhkal9zQkE3YmpSaG5uWE1VemtpTA?oc=5
 
-- セルビア総選挙、学生主導勢力が強権与党倒す 14年ぶり政権交代へ - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yYTQ0bHVuSnJlN19nM0R5UnNrZlljQnlUbmZPLUROelh2elFUWWotVWpOY0dPWk1XbFdVOVlZeTFHOTdZNnJKYjFmeG9EM2pnMjJkSGs0YmVsV3MwN0xJYWlKSFk5elE?oc=5
+- 「斎藤知事の元側近」はなぜ敗北したのか SNS熱狂の舞台裏 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZEZ4SEZYejZmbXZRTnJqT21LTHdIZE80X2xFYlRMSG4ycDNFdHU5OXpTck9tYUNuc3BvOElQY3VtczYzd2NDSDBPWnZ4dVR3UXhBNE5FOHFVaEl5RVp0STlxT1JUUHdk?oc=5
 
-- トランプ政権、カリフォルニア州の中間選挙開票プロセスに介入試み 判事らが強い疑念表明 - CNN.co.jp
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZDd6ZlRsTU8wdVcza19uMWI2bXF6NXc0SlAyamJ0YXEwRi11d041ZHIycm1wb2MxZkVYWUlVUVV2ZTNMREJvNmtsNHZuZ0V5?oc=5
+- ブラジル大統領に現職ルラ氏が再選 米トランプ政権と距離を置く姿勢 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ZW8wY3RuUDFpelc1dTBrTFRNOEh2SktQN1JCZ3JxRGNDVlZJSG5zclh0d2E5ajVnbUZyX0h4TUhncFhzdGNmSXBUNUg4SEJtemE5aWhnY08zV0diamsyOHpkdWtQTXM?oc=5
 
-- 台風31号(インファ)は強い勢力に 週末以降は小笠原諸島に影響か - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uUE14NTRRdGpmbWcyUWxfbDA0ZG1hV0w5NVZ3MlZoVXJUS1Z5SUdZempTVGQ1ZERNWVJja254Mm1tRlZ0UUpIMFVNb2lERlA2WEFHQg?oc=5
+- フーシ派、サウジ石油施設と首都空港攻撃と発表 戦闘激化 - Reuters
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3Z5NUlCS1owM19jUjZmSW80a2dmWFpNMHM0cVlrdW9IcHR1MHVlUXFIZmZXMV9LWV9ld1lhNXpJTHJQLVB0d2tRb1V0REFTNS12cVoySmQ2T0JpWlJxbjRDVUo1cUROWjRLcFRPRkowakdfRXZDeHVia3ZGaW9za2ZOTWM3Zmc?oc=5
 
-- 「次の首相にふさわしい人」 高市氏がトップ 毎日新聞世論調査 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE95NmkzU092V2RaWUpRSTZzMWdwd2JUcVlPeFRTWGpVMTA1MHN4N096TThudXBoWV9iMURpc0JNR3FwY0h4R1ZWWlhabHFWUGJpbDhlN0pIOE03UHYzb0hkRXU2YUo0OHVO?oc=5
+- 【速報】政府、スパイ防止へ悪質な干渉に罰則案 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xSm1ySllRTlpZaExXX0ozVElXTWZISHZhZTM3dkJnb0ZyWGJPWDlLY0lQUXo2bkZxZ1dMVm9selRGNmlBeC11X25EVQ?oc=5
 
-- 和菓子店店主殺害事件 便利業の男2人を強盗殺人の疑いで逮捕 山口・美祢市 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5PVGExQ3NfNWlFZmh6Ri0waXVBcDVmWWxrTXFWY2x1bkVkdzVpUVJCNXI4YXh1eHhGeG1jandfZFhtWm94T2ZtY3V2aXhsT1dMb2FiSXM3WHBtaTYzcjJDdWZTMVVsWFJYS0FrNlk2enN0QQ?oc=5
+- 台風３０号から温帯低気圧に…九州中心に大雨、東日本は２７日朝まで警報級の大雨となる可能性 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE95b3N1Mzc4U0ZKemRjdHNaeUtNTGVlc2NXeG9SSHdaSjNtRnpGMlM4RFltSDYxTURZWWEzRk9XNzNHM0tTVHh4NS14TUtLTmtkMlExRWFYNzh2c1RtcUZQODh3Ykw0QQ?oc=5
 
-- 週間天気予報 週中頃から寒気流入で気温急降下 初雪の便りや木枯らしも - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3NnhfaHpHYnQ1WEdjX1NvT2JnUFdyeTZYeExGYkYyNmpDa3h6Z04xV1o2OEJQQXdHUWlxelZWaGRtaXBVUWxvdmZkVHdNRk8zRXB6bQ?oc=5
+- 同じ車で現場を訪れたか 和菓子店店主殺害事件 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBvUnhFRDJzTnpaaVViUWhEYVlfc1pKUEJwODlpR2ZRaEZpUkZIZ0NEV3FGWjJTWFJmZWhtczZDb0lQQmlzcVN0enFLZUZKeEpFZ0I2WXlhNFdobkpuTHRmTmdsbnpnSXREV2Zua296UVBQZw?oc=5
 
-- 沖縄の女性強盗殺人で米兵を起訴、容疑者の親族「彼がそんな恐ろしい犯罪を犯したなんて」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TTJtdUc0cVlQWEdIbUU2X0h4dERyUHV1MEZtMS1vb1dyVURZQnpwMXpfdkIxdjRUSmNmcXgtVjZRcFdxaHcxZEM3TU1kZUh2b3hzcGNZOU9FbUVXOGlHWkxfaUFZZw?oc=5
+- 放獣からわずか3日で戻ったクマ 秦野市の判断に欠けていたもの #エキスパートトピ（増沢隆太） - エキスパート - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVgwdWkxbUVwcVBkQ185em5LeW5yQzRNR0stWkNnb052RkF6c2hnbndTTzh4empyelMybHlHNXVYNm90aVItVWZ3YzBobGRyRVI1c2JKY3NIUUFzMDJxQmtQN0g4LV9na0ZzOFhKM0lBYjAxUXlVRENZY2d3UTFEaVBQY2J6dlhD?oc=5
 
-- ［新潟市長選挙2026］現職の中原八一氏が3選、大差で2氏下す 投票率35･61％、政令市移行後ワースト3【解説付き】 - 新潟日報
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE15dHlzaVFJQnk2a2FNWENJWEdCMmdwYi01X1BHeS1KUUFLVjBfbXpISjU0U1lkbFdxbEYzV3YyNDBLbGlWazI2ckhNdGZPenkxMnlhaUl3NUpXbTFMTkE?oc=5
+- モンゴルの自然保護区を焼失させたKDDI子会社 地元メディアの反応は（クーリエ・ジャポン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9JVTAyTE55T2piTFM5OFR1WjVyNE5YYnJHOF9BbEhIZlMxYU1RMXdZd2JEVlVra3ZLV0tzTW53Wm9PUjJLUUl1aEwtSE5TQ2VnUXQ2QUE3bmhUT3dmVE9lWnBnX0ZkaUFESE05ZHdkX2xseEZYYjl4M183eldLa0U?oc=5
