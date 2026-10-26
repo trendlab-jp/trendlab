@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 【速報】台風30号は温帯低気圧に変わりました 九州から関東は27日にかけ大雨警戒(気象予報士 日直主任) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Y0NEZEdsRm1JdjROT3hyWndJQmFtc25LbkxpYVRuQ0UyWmk3SVZtYjdFV3hsMVY1M0VWUFVrLV9DVEpqeXFrazR6MXk5N0VmRm43RjQzR00wYVpyOS10WkZMRFA1aTEtbWc?oc=5
+- ブラジル大統領選、決選投票でルラ・ダシルバ大統領が再選…通算４期目へ「他国の裏庭にはならない」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aTzBOVVYxallrRjBRUG5vckNtd1BxaWtvVjNxdmVpYU9jaGxNQVJFeXpHRXVkV2F6SUI4RE4teERVV0M5SEg2aG4zTWV2cmFvaFFwMU0wR1l5WW1weU16X3Zn?oc=5
+
+- 温帯低気圧でも油断できず 雨雲が発達し激しい雨のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lRjU1QnNVdXNYbEx3TG43LUNaeFg1cDNYN1JzSFBwTF9hSFlvN2VMcHVTYUR6NHplWTRhY0xFc2xvVkJvbWVlWmxtaG1TUjVBT0JfQg?oc=5
+
+- セルビア総選挙、学生主導勢力が強権与党倒す 14年ぶり政権交代へ - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yYTQ0bHVuSnJlN19nM0R5UnNrZlljQnlUbmZPLUROelh2elFUWWotVWpOY0dPWk1XbFdVOVlZeTFHOTdZNnJKYjFmeG9EM2pnMjJkSGs0YmVsV3MwN0xJYWlKSFk5elE?oc=5
+
+- トランプ政権、カリフォルニア州の中間選挙開票プロセスに介入試み 判事らが強い疑念表明 - CNN.co.jp
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZDd6ZlRsTU8wdVcza19uMWI2bXF6NXc0SlAyamJ0YXEwRi11d041ZHIycm1wb2MxZkVYWUlVUVV2ZTNMREJvNmtsNHZuZ0V5?oc=5
+
+- 台風31号(インファ)は強い勢力に 週末以降は小笠原諸島に影響か - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uUE14NTRRdGpmbWcyUWxfbDA0ZG1hV0w5NVZ3MlZoVXJUS1Z5SUdZempTVGQ1ZERNWVJja254Mm1tRlZ0UUpIMFVNb2lERlA2WEFHQg?oc=5
 
 - 「次の首相にふさわしい人」 高市氏がトップ 毎日新聞世論調査 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE95NmkzU092V2RaWUpRSTZzMWdwd2JUcVlPeFRTWGpVMTA1MHN4N096TThudXBoWV9iMURpc0JNR3FwY0h4R1ZWWlhabHFWUGJpbDhlN0pIOE03UHYzb0hkRXU2YUo0OHVO?oc=5
 
-- フランス各地で２週連続の抗議デモ、４１万人参加…パリではデモ隊の一部が治安部隊と衝突 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNDkwcUxIX2FMT0oyZjBQeWxxaXFYdVl6NHp4aHAxOUpUaU1MZ1hyb0J2WXFpeFAzcVlmMXFILVF2YXFzbHZCaHVRV3puazdhdmpFOE9idWhXazg0RXVnWE93?oc=5
+- 和菓子店店主殺害事件 便利業の男2人を強盗殺人の疑いで逮捕 山口・美祢市 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5PVGExQ3NfNWlFZmh6Ri0waXVBcDVmWWxrTXFWY2x1bkVkdzVpUVJCNXI4YXh1eHhGeG1jandfZFhtWm94T2ZtY3V2aXhsT1dMb2FiSXM3WHBtaTYzcjJDdWZTMVVsWFJYS0FrNlk2enN0QQ?oc=5
 
-- わなにかかったクマ、殺処分せず放獣したら再び出没…専門家「ゾーニング検討する段階に」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KOWx3UnFOZW8xYmFUZDhrT28xX25TX3dPclMzVWp4dFNFVjNiNFJ1T1FkSV95NE5JcEVDRmRBYTJhZFJQbTJ3QzJ5SXIzTUdvMUE5NkljcnhnazN2THA3VHVRTTF6Zw?oc=5
+- 週間天気予報 週中頃から寒気流入で気温急降下 初雪の便りや木枯らしも - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3NnhfaHpHYnQ1WEdjX1NvT2JnUFdyeTZYeExGYkYyNmpDa3h6Z04xV1o2OEJQQXdHUWlxelZWaGRtaXBVUWxvdmZkVHdNRk8zRXB6bQ?oc=5
 
-- イオンモール熊本の爆発、7人全員が施設南側で犠牲に 2階遺体には衝撃波由来の傷 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9uRTQ1Q0lJOEZNczRhWGh3NnQ1T0hBY1I0ZXFXY01oTjljQUVjVE1vV1VKZGVaTzJaWnk1dmNodmFfbFowZWhqOC1xTE5TRzQ1V3FFdHJHcXJEVzl3d2pEVVRiaC1zR1VpVmVuLVBIY1JHRHAybVE?oc=5
+- 沖縄の女性強盗殺人で米兵を起訴、容疑者の親族「彼がそんな恐ろしい犯罪を犯したなんて」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TTJtdUc0cVlQWEdIbUU2X0h4dERyUHV1MEZtMS1vb1dyVURZQnpwMXpfdkIxdjRUSmNmcXgtVjZRcFdxaHcxZEM3TU1kZUh2b3hzcGNZOU9FbUVXOGlHWkxfaUFZZw?oc=5
 
-- ＜更新＞現職内堀雅雄氏、大差で４選 福島県知事選 「復興と地方創生を前に進める」 投票率44・05％ - 福島民報デジタル
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BbDI1NUFpRVhFcWJPeHc1TWpXVE03VmxkWDlvY29rOTgwUmJlVjVIUmI1QzlfYk1TU0V2SnVoMTRBSW9YTFE3RjNvQTRVYXM?oc=5
-
-- 兵庫県議補欠選挙の開票結果、選管確定…島津氏と片山氏の一騎打ち - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTE9Ial9WQzZPclptd0ZCS2F1b2ZTRzZpZ3ZSZEk3bEZNdGxONkViVmRSby1rUTNXdTNyazlnZnNHVU1VRzZqbWZVaGYzRVoxdm9mSkxja0lpQjl5YlJFSFB0bndJN2J5MWVhOU8yUjE4eEs3dw?oc=5
-
-- 【速報】山口・製菓店の男性死亡で男2人逮捕 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZU3g3UkU2ZHZrMDhCamMtdWZYd21pNzZKSmJmMWlrT0lkS2pKRWhnYldtTmhiajNuUVJKN1l4SUtoWlNCSjJhUlgzWQ?oc=5
-
-- 那覇市長選、現職の知念覚氏が再選確実 新人3人破る 12年ぶり誕生の保守県政と連携 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9qaDVlaUNSNGxUYWxnVkJNUW9fVDBFM0E5bS1rbkRYVGdvNktZRHliTFB5NTZZb3pEWVFxM3BBWC1FQW9KMzd6SFR4c3RUZGhtOVhRcUZqUzA4RmY3bFJWNUxCUFhNWnZYZnhuck5FMmg1UEpzU1E?oc=5
-
-- 滋賀県栗東市長選挙、元県議の九里学さんが初当選 現職の竹村健さん破る - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nOGpqY2txR0gxLV80WXVBNHQzNDJrQ1NqRGgxNGVtQ1hkSjFVV0Z6aDdvcy1YMXhPZ25vNlo4NE1XU3ZzMHNQVVViVWFVUGRoSHFOWQ?oc=5
+- ［新潟市長選挙2026］現職の中原八一氏が3選、大差で2氏下す 投票率35･61％、政令市移行後ワースト3【解説付き】 - 新潟日報
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE15dHlzaVFJQnk2a2FNWENJWEdCMmdwYi01X1BHeS1KUUFLVjBfbXpISjU0U1lkbFdxbEYzV3YyNDBLbGlWazI2ckhNdGZPenkxMnlhaUl3NUpXbTFMTkE?oc=5
