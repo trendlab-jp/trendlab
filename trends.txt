@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FT1ZQQTRiQUlucGNFdU5vX29lYUJ4LXRXZmpCdjNfZUM1WnhjTF9jX21RZV9odk1uNFltVnhBdWFRcHp1d3FscjRYa1RUb0tMRTRLaWVOWHd1TTZxb204?oc=5
+- ロシアで拘束された北海道新聞記者、日本大使館員が領事面会…健康状態に問題なし - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KSGM0TTg3SkR6dXJMdU9lRXNZYTFUd2J1X2RUWGFzZHF5bm0xaDlvSDBsM0tldklLZWtKRlQydlhzUHdvbGF5dkxqTXNfYTRvVU5DNFoxbEtDdGk1UnRhaVRieVVTdw?oc=5
 
-- ブラジル大統領に現職ルラ氏が再選 米トランプ政権と距離を置く姿勢 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ZW8wY3RuUDFpelc1dTBrTFRNOEh2SktQN1JCZ3JxRGNDVlZJSG5zclh0d2E5ajVnbUZyX0h4TUhncFhzdGNmSXBUNUg4SEJtemE5aWhnY08zV0diamsyOHpkdWtQTXM?oc=5
+- 台風31号 11月1日には小笠原近海まで北上 非常に強い勢力で(気象予報士 中川 裕美子 2026年10月27日) - tenki.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1kOS0wRHZOMzFYWEVfSXc3NXpHWTlMWjVIZ0ZjOHpEX21SRE1FaFJ5NWtpZ01xQjlQZ0o2NTU2dDZwX1RyMXJMQnZWdWN0RDhsVEpveEdSUW9ubEY4Y0s0X1Vpd0dTdlpWSlIyag?oc=5
+
+- 疲弊する「一強国家」 イスラエル総選挙27日投票、ネタニヤフ流に審判 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBJZWdRQ19IbndUTTc4dk01WGdkVDVrNGp1RHZHZGJ6YWR3SUw5aDlublJ1bER4NVA1eXVlRWJvOGQ4M3gtdUYyZFJqdkhNUG94MWVCcW5JYVZBckVEREdyYVZWYWRMM253ejJDWA?oc=5
 
 - フーシ派、サウジ石油施設と首都空港攻撃と発表 戦闘激化 - Reuters
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3Z5NUlCS1owM19jUjZmSW80a2dmWFpNMHM0cVlrdW9IcHR1MHVlUXFIZmZXMV9LWV9ld1lhNXpJTHJQLVB0d2tRb1V0REFTNS12cVoySmQ2T0JpWlJxbjRDVUo1cUROWjRLcFRPRkowakdfRXZDeHVia3ZGaW9za2ZOTWM3Zmc?oc=5
 
-- 「はまり役」だった官房長官、小泉首相に「王道ではない」「覇道だ」と直言…福田康夫氏死去 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkcnpYamtDWXFaaUpIbG02Nl8wRXFsMl9pcXI3c2pYMlVlY0tmczk2c1JhQ3J3RkRlYm9RMG9rdTRDLVNjOFFXNW9WYWtoUk85MHlmaGo0S09EVlMyOWdUZDJRT0Fvdw?oc=5
+- 外国による「影響工作」の事例、警察庁が公表 選挙にも及ぶ可能性、「法制に穴」と危機感 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9ReGhGTk5Ud1VBZElRZ0FsbW5VZmVDQ3RSZnVta0hrXzR0b2JLTi1xQ2VJbjNvdTJ1X0Z6Q19PSFk4Q0NtcjdtM3k1dk9adEloYUp6V1A2eXVqTk0tZTR0SnVFdFNoVkVmQmZKSUhwUWpPZ0xkOGc?oc=5
 
-- サイバー攻撃元への能動的防御、高市早苗首相「戦略的に実行」 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRnZWUHNjSHVtbWowVGRHOTltRXNXVG1NUG13THFXTWpWbGNOdVNRY0M4d2R5dlRiSVNDVlI2SUpLbEx1MmxpVzgzYmN6QnN4dFoyMXVoakhkal9zQkE3YmpSaG5uWE1VemtpTA?oc=5
+- 福田康夫元首相が死去、９０歳 洞爺湖サミットで議長、「ねじれ国会」問責可決―引退後も日中強化訴え - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFckpTZURFWVpJaW5WTE5TdWppQUlGeVBhVkNVRFJhemQtT2NuZ1pDUi0xbm1NV1k0bzJiTnJTQjZfbk1KZDRWNTlJMEMzV1EtbFdYSXJJRXlXT2FOdXVsWXI4bw?oc=5
 
-- 強い台風31号(インファ) 週末に転向予想も進路の不確実性大きい - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PR2ZNRGYydUVKVVU0NlZRT2pXM1lvbjNFdWRBZUVzOV9nXzdaaGx6a3lqb3AxZXpLbEs3amlvekhwVjllMlNZQTg5QjVuQWFGdzhGbw?oc=5
+- 今日10月27日(火)の天気予報 北日本日本海側は次第に雨 西日本は晴れても油断禁物 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE14LTJka3VfcEFkc0VEVTRHS2d4ZU1ERVF1YkQ0bUU1ckg2MUJ4ZFVpWEhqOUUwaU5Jc2xpTVhGX20wNWt2M184U21TRExkc1VsOGx2cg?oc=5
+
+- 台風上陸せずも…“局地的な大雨”で被害相次ぐ 土砂崩れ発生 冠水で立ち往生も - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBaRzhROGRyOW5BVUtiSzlyZU50dlhabHM1TnhieUlzdkZUcjdIMlZMeUk4cWpTdTFQRkw4NkFpY0laV0hKSS1TODJ5d2ZMZXRSRGtqNEY4bTlQQTRUbDlHbEc2cUhUM3JvQWx3ZlRBYi1HUQ?oc=5
+
+- ふるさと納税「越前がに」不正表示受け、カニ関連の返礼品一時停止…漁解禁前に風評被害懸念 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQ3JLT0JDbkczLWZscy05OGpoR0xFVWdtbC1nTEFzOWJpcEZFSFJPUkFvdnlCZU5JRU1jYWpYUzRzVFBYQ2p6Q3Bad05JeFpseE5rS2g1N1ppTVJKSi0zYll5S2lKdw?oc=5
 
 - 福島放送、知事選挙の投票終了前に「当確」速報…「投票行動に影響を及ぼしかねない対応」と謝罪 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WWmRPT3otSnY1R21PLUVuRmlaSk1TY21KOFoyWlhFRGN1bmVodzcwM0VjVGtmSzJKMmU2VWFSNDNfWFRMQWNPMi1vNkhVc2lVamh2SkxJb1hQR3ktTnNMUHE0OUt3UQ?oc=5
-
-- 週間天気 28日は北海道は雪で気温急降下 30日は再び広く雨 31日は気温上昇(気象予報士 小野 聡子) - tenki.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ObjJES01UcU9rWFpaX2U1THZ4cE43bk9EVmlyelBKUWs3TDlfYVZGZHpiYllPeHUxOEN3bU0yb291alowZnMxT05NTU9DRTZmTGZ1TmljX0hSTVhwUmZjMW1HQ0lEdw?oc=5
-
-- 「斎藤知事の元側近」はなぜ敗北したのか SNS熱狂の舞台裏 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZEZ4SEZYejZmbXZRTnJqT21LTHdIZE80X2xFYlRMSG4ycDNFdHU5OXpTck9tYUNuc3BvOElQY3VtczYzd2NDSDBPWnZ4dVR3UXhBNE5FOHFVaEl5RVp0STlxT1JUUHdk?oc=5
-
-- 今日10月26日(月)の天気予報 西日本、東日本は雨 局地的な強雨に警戒 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KOE1KQTFXeklRR01SV2UyZmtWd2lmU2hfTVd1Z25KNzBwNmtLVDNHMmJLaW1UT0FSN0hVbmw3VzliQkVyRnhJMTlpbWtLWDA2Q0ZVLQ?oc=5
