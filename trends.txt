@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- スペインで列車事故、死者３０人：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sazc5OE1MeW50bml4UUVqQmxiMUdBaVZtNUJteXA3ZzFCSTJxcmR1V2J6RXpFMUE2Z0Q4aUZzSW1ua042SWQwLVJRRi1CQ1p0WFdDT25MbnBUenk1LThsbWp0VQ?oc=5
+- イスラエル総選挙、与党・野党両陣営が５０議席前後で伯仲…ネタニヤフ首相率いるリクード第１党維持の勢い - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YWZoU1A0SFFhTXJaSERabkZyb2l2cmNwd0FfOWxMLTZuRURNbmk5X2NtZGhjQ2ktRFd4Ykl0MTB0UDgyZUJSVUpsY0dROVUwSG5ZZEZHZUM2ajFxZk1wZWhB?oc=5
 
-- イスラエル総選挙、ネタニヤフ氏の与党第１党も過半数届かない見込み…各党の協議で政権を樹立できるかが焦点 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNY0Z0Qk9iWG1oWHB1MmZwVkFXYmZ0Q3RqZEctQjc4WUplVTJkdXZhS0RTRi1qTFdSMWpZT1JzS24yOEttS3FJQUNCZVZPUS14WnBPeHNLMlNuNUtBQnpSOXp3?oc=5
+- スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5
 
-- 国民、比例31減案賛成へ 衆院選改革「苦渋の選択」 維新容認論、対応焦点 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBaY3VSaXJrT0tMWlBDOF95bGYwZ3ZORUk1Uk5aNTRzX1owV3dJNy1QQVpTMHhLNDdYZmJxbERNYjdFZElFSzVtcjZnb2sxb1Z6MUdLNkVpQmd0S3pCRGZ1QXBYZC10WnVFelBnR0hpa1hTOVllRHc?oc=5
+- 【地震情報】千葉県北東部で震度5弱 津波の心配なし - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZY2NpTHI4M0lNa1RWdGRmLUFva1I2MWREV1M3X2E1YmRiSnZnTkg3cGRxNjJkU2JMWDE1VUs3X1EwUFVIS0JidUpVaGNmMlNtMkJIcGlkN1ZRb3JxdUdz?oc=5
+
+- 国民民主、衆院比例31減案に賛成方針を決定 与野党協議で表明へ [国民民主党][高市早苗首相] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WkVqRWR4cXhtNDRQUDBLT0hTbFNDaGlzbDBWZDdKeUJ0RURFRFZwTTFkVmZZc25GRXFjdUdOTFNaQkp5cFBzSGQ3ZlNma1dvekRnQ1BBY3RjNzVocVJ4cnhZaWF0Zjg?oc=5
 
 - 官房長官「中国側のお考え」 習氏、福田元首相の遺族宛てに弔電 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbmdkcGM3YndlVUk5c25UWkpZVHV4cVVKem1XTzBLYzdLNzF5X1MwZnh0UVZfTzAtNFBpUTAta1ZCNGRvMHRtSi1YMFlKclhCWmxuekNuRGNFQklobTM2TC1pLXJWTEJK?oc=5
 
-- ブラジル大統領選で敗れたボルソナロ氏、出国しアメリカに移動か　旅券停止され - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMVF1ZjloUzZHU0Q0cW44U01QN1pVWjZPOHZqNGhrbXJOUlpfTk5OYzc3WUIxM2wxOTJJLVZMMk96VUstZWhGSzduX3dkNUpkMGZER0ZkZ2NvcUp4Zi01NdIBZkFVX3lxTE5tUHJUYlZJV3hUYTNicWVrbWtoLWRzLWZwT2t4ZGNlZ3ZsT1kwblVma2JsanBQSm5jX0FPaXc5dGY1cVhaTVJFbWtpV296S2Z1SFlNLTZFbkJTNUs2MGlCZ1ZhUDJwQQ?oc=5
+- 東京「木枯らし1号」9年ぶり記録 今季一番の寒気…初雪ラッシュ - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFB0SGRqdnJWTFpwVDZNNjBQbnVkRFRqdTZfMDBaaTRveFVxRDlYTmoxejJfQktxWUZDdmx1VHZaRUhuNWFvWERIazYzS0JIOTRhRmUtZ1Z2V2dCLW9Hcmgyejhnc1pYdDRWUXFMUWgzX2JHdw?oc=5
 
-- 長崎・鷹島沖で発見された元寇沈没船、全長３０メートル級の大型艦か…既に確認の２隻超える大きさ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVDhTMzdlQnN3eEZpUjk3S2Nyc2hvX0pWSmp4ZW5yZk03ZERNT3E4UkpxemdQVHZEeDlfRkQ1NG14aTNtZ0FvQlhialN6cXh2YnZuM1VoaU1jY3RRMEZUQ2xadWM4UQ?oc=5
+- 私学助成金、同志社など１２学校法人への交付保留…管理運営の状況「引き続き確認の必要」 - 読売新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Q2hSeHRUZ1ZaSDNLYjVpTGJ0cmJreEVDRDhMSEJONDlNNzZWdGFLcDN4YWhwanRPUk1aUV9oZ2NYZjdDajJMOUI1aGc5RVVPRjdPMUp1cDF4T0JlWW9udzZDSjFkYkJYNGZ6d3FWUXo3SDg?oc=5
 
-- 関東 明日29日朝は東京都心などで今季1番の冷え込みに 内陸では氷点下の所も(気象予報士 岡本 朋子) - tenki.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTFBnM1lRMVFZbm1RVzhGMG1TdTRpMVlzT0JHRHV5bDBMRGlHWHNDaW5ocmFIUHliY1N0ZmRUVTNWSnIzb0VhNE5jYnBOcTRibG9DTy1STWZoQTJtNlJsUFI5dVdBVGlIVnBFYi0w?oc=5
+- 元寇船に麻雀起源の札か、サイコロのような物も発見 長崎の鷹島沖 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TaklwNmJSREV6M0N0RnA1TzdFTFhmdWRuTU5FTWgyYUlZaEZDeWRJTUxheWRKSUVHZDB5ZVhldjN2Wjc0MnQ4OGNGNEdRc1h1RDBHUDhnOXV0ZEVVZWFaZjlfWGNBZml3OW1ZOQ?oc=5
 
-- 防災庁発足初日に「緊急要請」細野大臣 国民や自治体などに防災対策の強化求める - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcTRSQjFJUjNEbjVJcUdrMy1sOVNxeGVmSHZWU0d6YVJibEY4cUFYUzdycTE2dWVDVm03Rzg1aXZrYTBfdV9sOWhzRzV4VDVVTFRnVHRQSHVLTnJZOGhqR3ZFVEF1T3V6YjRxQ3dobl9Jbjg?oc=5
+- 【速報】中国海警船が海軍艦艇と太平洋へ、公表は初 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ScEYzaWlKWkFvOEE0NDJFeE0xNkxsN0x4T0M3QUZNSkVIZk1YdnRpYnNwVHRXanRpWXNIUC11T054NDJSRFZNUWZNSQ?oc=5
 
-- 10月29日(木) 各地の気温変化と最適な服装 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdlFXQnptZFhJazc4ay13X1p1TjI5c0g3RzBIczR2dnN3V1Zua29FSHpmVlB4UWpxQ2FlYUFxS1hkUWVYV3Q1U1dnY190REdPX2N1Rg?oc=5
-
-- “納屋”で生活を続ける女性 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jSXhxV3AtanBZY2JkRGRzZ19leC03TjJsUjdpLUJub0EtOG4yRFdCTlBFd1poM0VBUVJ6cUQ2Q0xKbVNRZ0tkQWc2SEt0TmdBTE9mWXAyaGZ4X25YcHRN?oc=5
+- 第三次世界大戦？AI攻撃で社会麻痺？11/2に政府が全国民に最低3日分の備蓄を緊急要請（ビジネス＋IT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZzFLVkZFTFplV1p6ZXRzVldSWXNYQjV0eXJJOVBwdDFkc3lpWFU3WVE5X2V1R252NGdYOTVvQm96WE8wVEtIa2RMX1dKSERhdGs5ak5kVFFSb1RydnRPdksybVBUXy15ZVVDeWRGQWx1NXY1aGI5UlBsOGxVT3M?oc=5
