@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 国民民主、衆院３１議席削減に賛成する方針…維新が賛同すれば今国会で定数削減関連法案成立か - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FLW9yZ0s4dUFhWW9pTV9wTk5HTW9PSTV3d3NBTGkxQllKQ21NRWE0NURxQ1NsS3lZX2tRVWE5dHZCYUtPX1h3Z01sdDhuZkg3UHJOLWpjaTZrNDJwOUhtVzNqbkl1dw?oc=5
+- スペインで列車事故、死者３０人：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sazc5OE1MeW50bml4UUVqQmxiMUdBaVZtNUJteXA3ZzFCSTJxcmR1V2J6RXpFMUE2Z0Q4aUZzSW1ua042SWQwLVJRRi1CQ1p0WFdDT25MbnBUenk1LThsbWp0VQ?oc=5
 
-- 与野党陣営、過半数届かず 右派リクード第１党か―ネタニヤフ氏、政権継続に意欲・イスラエル総選挙 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nYTltRks2cnVJbjg0MW1YSTc0b1ZianNlUHZTSzdncVAzcUZ3TFVXTjZISjk3WTF5Nzh1VFRUTVhUS1FuMFNoLThVRUlveWw3WXNJNTRVVXJBODlnMDJ4ZmJCNA?oc=5
+- イスラエル総選挙、ネタニヤフ氏の与党第１党も過半数届かない見込み…各党の協議で政権を樹立できるかが焦点 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNY0Z0Qk9iWG1oWHB1MmZwVkFXYmZ0Q3RqZEctQjc4WUplVTJkdXZhS0RTRi1qTFdSMWpZT1JzS24yOEttS3FJQUNCZVZPUS14WnBPeHNLMlNuNUtBQnpSOXp3?oc=5
 
-- 東京地方で木枯らし1号 昨年より6日早い発表 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5czZENk5ZbDhub3hPZVRTN05VRzFzNktHQ3ZCSVdScmxMR1JpWGxxVEZUU2RYdjNqajY2aHRQbDZwUFk4OGl0S2hvY1c4UUVja19aWA?oc=5
+- 国民、比例31減案賛成へ 衆院選改革「苦渋の選択」 維新容認論、対応焦点 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBaY3VSaXJrT0tMWlBDOF95bGYwZ3ZORUk1Uk5aNTRzX1owV3dJNy1QQVpTMHhLNDdYZmJxbERNYjdFZElFSzVtcjZnb2sxb1Z6MUdLNkVpQmd0S3pCRGZ1QXBYZC10WnVFelBnR0hpa1hTOVllRHc?oc=5
+
+- 官房長官「中国側のお考え」 習氏、福田元首相の遺族宛てに弔電 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbmdkcGM3YndlVUk5c25UWkpZVHV4cVVKem1XTzBLYzdLNzF5X1MwZnh0UVZfTzAtNFBpUTAta1ZCNGRvMHRtSi1YMFlKclhCWmxuekNuRGNFQklobTM2TC1pLXJWTEJK?oc=5
 
 - ブラジル大統領選で敗れたボルソナロ氏、出国しアメリカに移動か　旅券停止され - BBC
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZMVF1ZjloUzZHU0Q0cW44U01QN1pVWjZPOHZqNGhrbXJOUlpfTk5OYzc3WUIxM2wxOTJJLVZMMk96VUstZWhGSzduX3dkNUpkMGZER0ZkZ2NvcUp4Zi01NdIBZkFVX3lxTE5tUHJUYlZJV3hUYTNicWVrbWtoLWRzLWZwT2t4ZGNlZ3ZsT1kwblVma2JsanBQSm5jX0FPaXc5dGY1cVhaTVJFbWtpV296S2Z1SFlNLTZFbkJTNUs2MGlCZ1ZhUDJwQQ?oc=5
 
-- 社説：福田元首相が死去 アジアに目注いだ現実派 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE95Rk9DckFxY3JWMnVEMEctYTVodm1Zc0g2cmxxd0tYREo0YWFtWVc1eHFFdi1KamhaZXNIbVUyQ1c1LUYzbDFrYWJlZTA1THk4WkhXX2ZUcm96VGZvUGdvTkRqNkJzTlRQ?oc=5
+- 長崎・鷹島沖で発見された元寇沈没船、全長３０メートル級の大型艦か…既に確認の２隻超える大きさ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVDhTMzdlQnN3eEZpUjk3S2Nyc2hvX0pWSmp4ZW5yZk03ZERNT3E4UkpxemdQVHZEeDlfRkQ1NG14aTNtZ0FvQlhialN6cXh2YnZuM1VoaU1jY3RRMEZUQ2xadWM4UQ?oc=5
 
-- モンゴル草原火災、被害回復支援に向けて専門家を現地に派遣…茂木外相「深刻に受け止めている」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sQi1Sc0pWQXpyTG9HMVVITVNTbTVmY2cyUG1vSGJPZFoxcnlDVkxRMGJGS0pVeXhzV09ha1h5YVU3ejNZZ251Zk0yMW1hVnN6UWVfODlwTG8zV2g1NG5DdUZYb3N1UQ?oc=5
+- 関東 明日29日朝は東京都心などで今季1番の冷え込みに 内陸では氷点下の所も(気象予報士 岡本 朋子) - tenki.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTFBnM1lRMVFZbm1RVzhGMG1TdTRpMVlzT0JHRHV5bDBMRGlHWHNDaW5ocmFIUHliY1N0ZmRUVTNWSnIzb0VhNE5jYnBOcTRibG9DTy1STWZoQTJtNlJsUFI5dVdBVGlIVnBFYi0w?oc=5
 
-- 「スパイ罪」認定なら最長で拘禁20年…窮地の「北海道新聞記者」をプーチンからどう救うか 政府が極秘検討する“2つの構想”とは - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOXptazNXR3Z3Y05iZ3BHUW9rSVZQVjJPSG56cWU2QmdUNHZFRzRHS3llSFlaTHBtVUp5SklOZ2pBQklUcmFaSi1TXzAzaTlaZHlfTzctZjM4R0R0LVBiOXFpQWpncVhqSVdVSjVXQ01DbWhaS1pzeVg1cXlsV1U?oc=5
+- 防災庁発足初日に「緊急要請」細野大臣 国民や自治体などに防災対策の強化求める - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcTRSQjFJUjNEbjVJcUdrMy1sOVNxeGVmSHZWU0d6YVJibEY4cUFYUzdycTE2dWVDVm03Rzg1aXZrYTBfdV9sOWhzRzV4VDVVTFRnVHRQSHVLTnJZOGhqR3ZFVEF1T3V6YjRxQ3dobl9Jbjg?oc=5
 
-- 岩手県北で降雪 東北道の一部は冬用タイヤ装着規制 - 岩手日報
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE81RGlYUEdab0ZEZlZ5SzNhUXhfaDhiREtJUWFFQ01GR2tJWlBGMUV4SjhSVWNaOXVjWnZCaDRMUDlYd3NHZUpRanJoNnJ3T3lTeE1WclN3NHVzQ0hETXZESVRR?oc=5
+- 10月29日(木) 各地の気温変化と最適な服装 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdlFXQnptZFhJazc4ay13X1p1TjI5c0g3RzBIczR2dnN3V1Zua29FSHpmVlB4UWpxQ2FlYUFxS1hkUWVYV3Q1U1dnY190REdPX2N1Rg?oc=5
 
-- 熊本地震3カ月 県が復旧・復興プラン案公表 仮設住宅整備急ぐ - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yOUQweGNsT0RxcTE4b3I0X3NxcEo3Ujg2S1hQbkFISlExUVc0a2FtZ3pIMDhHekJIanZ1V2tuNURuRmZhUzNFU2RYRkJlZ21ITEZDUzliMFZCZWJ4YlNsTHI2cjc5SkRX?oc=5
-
-- 藤沢の小田急線線路で電車と軽乗用車が衝突 高齢女性が死亡、運転手か - カナロコ
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbU1nYXdJUEl3cG5EbHM4SUdHVkRINEFBYU43VC1feTB4Vm5WSWQ2MktJNDQyRzh6TVp0d3JycjdOMTc1U21BVWtWN2VzNUZRZ3FUbS1lYmM2MTU2ZHFEbnAyd291Nl9Rb1p2NGRR?oc=5
+- “納屋”で生活を続ける女性 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jSXhxV3AtanBZY2JkRGRzZ19leC03TjJsUjdpLUJub0EtOG4yRFdCTlBFd1poM0VBUVJ6cUQ2Q0xKbVNRZ0tkQWc2SEt0TmdBTE9mWXAyaGZ4X25YcHRN?oc=5
