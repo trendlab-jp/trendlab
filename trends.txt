@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5
+- 愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jUlQ5a1lIdkZraXpZWmVPOTZlYkFtMXlrSlNQSzVEX2Q4WHhNRHVkOHFtcHZIUVgtajdGWWNzWmxjNU9wMGNKZDFaVl9qalFBOG9zQVdKcms4NjM3cWsw?oc=5
+
+- スペイン列車事故、乗客名簿に「日本人2人」 死者は68人に - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5ekxaeW5JVEVIcGdwX0JwUDBSRVpXSG56QldOZ1VqREZCNWNDeXF6Zzhtc2pUVlFqS2NHNU9FRUszTlltMlpZVTN4RGdqMHJsNS1aLUtFMTA5RXN0bl8wdWpqQ2RwZnM1?oc=5
 
 - イスラエル与野党とも過半数届かず、ネタニヤフ氏は野党切り崩しへ…連立のカギ握るのはアラブ系２政党 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NM1E2SU1jNVYzVC1xQTUyVFVLaUk0V1I5ZGtHdjdBSFI2MTJzR0lqYUc5ZmxpbG9aOVUtVE81alpmVGxORHphYWxOODBmN3lzYm1pOHZ2Um43Sm1FTjdJbmtR?oc=5
 
-- 本や雑誌、大阪も発売日が「首都圏から1日遅れ」に 出版取次が提案 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90NjBnRzZhUHBjQWw0X3RCVmlwYWVUTW5xXzlIekRSWXgzSmJqUmtnNmNGQzFISWJuZkd5WDlSYlNZYUlLT0hoMW14MUdjeXRiaTE4OXp3dGtpRWlkZFNLakpFellkdjg?oc=5
+- 【速報】東京・銀座「GINZA SIX」で異臭騒ぎ スプレーまいたとみられる中国籍の大学生の男（24）を傷害の疑いで逮捕 30人が体調不良を訴える 警視庁 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ZDVMSUJfSmd3c2FYY1BocUJOWk04TExMcThDM2JfMWFTMzZiMmYydXIxMTBwVEZDRkNaQ01HWThuX3lmYTNOTWV1azFnU2NaRUM3RUlQYw?oc=5
 
-- 金銭授受疑惑などに批判、蔵内前福岡県議会議長が来月会見へ…議員辞職後初めて - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE51d0ZydmlpNVRnNThRY2ZQZEVwMVRadEd3TE1lNDJUangwbW1jclJGVWx4Z0FCdzhQTWZEMGVjUWN4Ml9mUHp2RnpfTnJDc09ZdVoySkMtQmdMTUhqMW8wY0otVmZmdw?oc=5
+- 部下の女性検事への性的暴行問われた元検事正、大阪地裁が保釈認める決定…保釈金は１０００万円 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lREp2RlZxdi1zU3lPMmY5T19jSGpvR2hBVVY2RFYxbXNyOFNkVTExaVJ5eFRRYjRsV09xOVlQajB0WmEteUhGVGM3bmtrUTlrTjQweW5CblFPb044VEJ0MXF1TjdKdw?oc=5
 
-- 【地震情報】千葉県北東部で震度5弱 津波の心配なし - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZY2NpTHI4M0lNa1RWdGRmLUFva1I2MWREV1M3X2E1YmRiSnZnTkg3cGRxNjJkU2JMWDE1VUs3X1EwUFVIS0JidUpVaGNmMlNtMkJIcGlkN1ZRb3JxdUdz?oc=5
+- オバマ氏、トランプ氏は物価高批判より「チーズケーキ・ファクトリー」の冗談に憤慨 金ぴか批判への対応に皮肉（CNN.co.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE55VFJIdWotTFZLcWNWZTZVeC1STzFPOVR4eDc3bnQ4WlhuQXlKVzZwVEtRejd4ZUxLQTdwZ3piMFA3MkxFU0NfWENLT0VjT0MzRm1nd0NNNkxKNmZGQ2V2UHItZFlHWk1wOENtSno3Nnd2MFFoWnBRWXpxT3RZdWs?oc=5
 
-- 変わるMAGA派…中間選挙へ分断されたトランプ岩盤支持層、この動きはどこに向かっていくのか（Wedge（ウェッジ）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE11LWIxMEZEdnRYdmpWS3d2R2ljbi03TVpHdW9PNWFQTjR6cEJXaWxJUkd4eEdxMFl6LWVNS29US1AwbVNCY3dhUDRfY3RndS05VHlYSFE0NV8xckRxUU5IdGRmbTZUYVlLRDhmLWVCSHpyRnRNOXQ3clo4bkEyYkk?oc=5
+- 衆院比例「３１議席削減」に自民・維新・国民が正式合意、今国会での関連法案提出へ作業の加速も確認 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Bcm4tZEtMeTNwTFoxOE1MWFc5MkJuZTVMTGxYWUhvZFhWVlRQbGRRNk51X2FHN2FaYlBTWjNVak1fLV9yMXRQVnlZVmh2dGkxWUp6RnhhQWdxOHZ0TEJzRy1qODNCQQ?oc=5
 
-- 東京「木枯らし1号」9年ぶり記録 今季一番の寒気…初雪ラッシュ - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFB0SGRqdnJWTFpwVDZNNjBQbnVkRFRqdTZfMDBaaTRveFVxRDlYTmoxejJfQktxWUZDdmx1VHZaRUhuNWFvWERIazYzS0JIOTRhRmUtZ1Z2V2dCLW9Hcmgyejhnc1pYdDRWUXFMUWgzX2JHdw?oc=5
+- 横浜での強盗致死など相次いだ首都圏闇バイト強盗事件 実行役2人に無期懲役を求刑「極めて執拗かつ残虐で被害結果も極めて重大である」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1IdVViRlV2U0x2X0dwMEZQbldFV0hTNVpwTF9KSzg2YWx4S1JiUmFmSVBBMTdiZ3JibzlZam8ydUNIQUhBclc4UHBRdHhxLXBNWXdtbkZ6dnhWT1pUSXBBU1hVUnZlVTdFa1JBLVdGd1hzQUswMjJPN3NaMjB3TGc?oc=5
 
-- 私学助成金、同志社など１２学校法人への交付保留…管理運営の状況「引き続き確認の必要」 - 読売新聞
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Q2hSeHRUZ1ZaSDNLYjVpTGJ0cmJreEVDRDhMSEJONDlNNzZWdGFLcDN4YWhwanRPUk1aUV9oZ2NYZjdDajJMOUI1aGc5RVVPRjdPMUp1cDF4T0JlWW9udzZDSjFkYkJYNGZ6d3FWUXo3SDg?oc=5
+- 【地震情報】関東で最大震度5弱の地震発生、マグニチュードは5・4 埼玉、千葉、神奈川など強く揺れる その後も関東で地震が相次ぐ - 埼玉新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE45SGI1VzRZamR1UXFKYkVpNkYtazhyYXo0OVJtTS1scGtLOEVGQVVqUEJOVFFaVXhpV0JvWGZiMmxTRGNwUldfeXVya043SlkzZ0o3c0llYw?oc=5
 
-- 【速報】独首相、次期戦闘機開発への参画意欲表明 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFZWhuLVE5YTlUcUVzMDFCZGNNczlJejFlQkQyLWxRSnY1TmU1VzNyTHRmU0k3QU9YbW1jMFRBb2ZCOVFHcVVaWk5XSQ?oc=5
-
-- 元寇船に麻雀起源の札か、サイコロのような物も発見 長崎の鷹島沖 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TaklwNmJSREV6M0N0RnA1TzdFTFhmdWRuTU5FTWgyYUlZaEZDeWRJTUxheWRKSUVHZDB5ZVhldjN2Wjc0MnQ4OGNGNEdRc1h1RDBHUDhnOXV0ZEVVZWFaZjlfWGNBZml3OW1ZOQ?oc=5
+- 東京や名古屋など今シーズン一番の冷え込み 昼間との寒暖差に注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuQXIxLW96bWI3clJJZjhRS2ppTEx4Zjk1TjdXemZfVzR3Tk12S1FHbC1XczJDVExFcDJSN3dTMGFEWTB1WjdfOEZTMWNEaGs5cEdoZQ?oc=5
