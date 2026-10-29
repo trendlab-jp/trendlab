@@ -1,19 +1,22 @@
 TRENDLAB 自動取得ニュース
 
-- イスラエル総選挙、与党・野党両陣営が５０議席前後で伯仲…ネタニヤフ首相率いるリクード第１党維持の勢い - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YWZoU1A0SFFhTXJaSERabkZyb2l2cmNwd0FfOWxMLTZuRURNbmk5X2NtZGhjQ2ktRFd4Ykl0MTB0UDgyZUJSVUpsY0dROVUwSG5ZZEZHZUM2ajFxZk1wZWhB?oc=5
-
 - スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5
+
+- イスラエル与野党とも過半数届かず、ネタニヤフ氏は野党切り崩しへ…連立のカギ握るのはアラブ系２政党 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NM1E2SU1jNVYzVC1xQTUyVFVLaUk0V1I5ZGtHdjdBSFI2MTJzR0lqYUc5ZmxpbG9aOVUtVE81alpmVGxORHphYWxOODBmN3lzYm1pOHZ2Um43Sm1FTjdJbmtR?oc=5
+
+- 本や雑誌、大阪も発売日が「首都圏から1日遅れ」に 出版取次が提案 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90NjBnRzZhUHBjQWw0X3RCVmlwYWVUTW5xXzlIekRSWXgzSmJqUmtnNmNGQzFISWJuZkd5WDlSYlNZYUlLT0hoMW14MUdjeXRiaTE4OXp3dGtpRWlkZFNLakpFellkdjg?oc=5
+
+- 金銭授受疑惑などに批判、蔵内前福岡県議会議長が来月会見へ…議員辞職後初めて - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE51d0ZydmlpNVRnNThRY2ZQZEVwMVRadEd3TE1lNDJUangwbW1jclJGVWx4Z0FCdzhQTWZEMGVjUWN4Ml9mUHp2RnpfTnJDc09ZdVoySkMtQmdMTUhqMW8wY0otVmZmdw?oc=5
 
 - 【地震情報】千葉県北東部で震度5弱 津波の心配なし - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZY2NpTHI4M0lNa1RWdGRmLUFva1I2MWREV1M3X2E1YmRiSnZnTkg3cGRxNjJkU2JMWDE1VUs3X1EwUFVIS0JidUpVaGNmMlNtMkJIcGlkN1ZRb3JxdUdz?oc=5
 
-- 国民民主、衆院比例31減案に賛成方針を決定 与野党協議で表明へ [国民民主党][高市早苗首相] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WkVqRWR4cXhtNDRQUDBLT0hTbFNDaGlzbDBWZDdKeUJ0RURFRFZwTTFkVmZZc25GRXFjdUdOTFNaQkp5cFBzSGQ3ZlNma1dvekRnQ1BBY3RjNzVocVJ4cnhZaWF0Zjg?oc=5
-
-- 官房長官「中国側のお考え」 習氏、福田元首相の遺族宛てに弔電 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbmdkcGM3YndlVUk5c25UWkpZVHV4cVVKem1XTzBLYzdLNzF5X1MwZnh0UVZfTzAtNFBpUTAta1ZCNGRvMHRtSi1YMFlKclhCWmxuekNuRGNFQklobTM2TC1pLXJWTEJK?oc=5
+- 変わるMAGA派…中間選挙へ分断されたトランプ岩盤支持層、この動きはどこに向かっていくのか（Wedge（ウェッジ）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE11LWIxMEZEdnRYdmpWS3d2R2ljbi03TVpHdW9PNWFQTjR6cEJXaWxJUkd4eEdxMFl6LWVNS29US1AwbVNCY3dhUDRfY3RndS05VHlYSFE0NV8xckRxUU5IdGRmbTZUYVlLRDhmLWVCSHpyRnRNOXQ3clo4bkEyYkk?oc=5
 
 - 東京「木枯らし1号」9年ぶり記録 今季一番の寒気…初雪ラッシュ - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTFB0SGRqdnJWTFpwVDZNNjBQbnVkRFRqdTZfMDBaaTRveFVxRDlYTmoxejJfQktxWUZDdmx1VHZaRUhuNWFvWERIazYzS0JIOTRhRmUtZ1Z2V2dCLW9Hcmgyejhnc1pYdDRWUXFMUWgzX2JHdw?oc=5
@@ -21,11 +24,8 @@ TRENDLAB 自動取得ニュース
 - 私学助成金、同志社など１２学校法人への交付保留…管理運営の状況「引き続き確認の必要」 - 読売新聞
   https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Q2hSeHRUZ1ZaSDNLYjVpTGJ0cmJreEVDRDhMSEJONDlNNzZWdGFLcDN4YWhwanRPUk1aUV9oZ2NYZjdDajJMOUI1aGc5RVVPRjdPMUp1cDF4T0JlWW9udzZDSjFkYkJYNGZ6d3FWUXo3SDg?oc=5
 
+- 【速報】独首相、次期戦闘機開発への参画意欲表明 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFZWhuLVE5YTlUcUVzMDFCZGNNczlJejFlQkQyLWxRSnY1TmU1VzNyTHRmU0k3QU9YbW1jMFRBb2ZCOVFHcVVaWk5XSQ?oc=5
+
 - 元寇船に麻雀起源の札か、サイコロのような物も発見 長崎の鷹島沖 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9TaklwNmJSREV6M0N0RnA1TzdFTFhmdWRuTU5FTWgyYUlZaEZDeWRJTUxheWRKSUVHZDB5ZVhldjN2Wjc0MnQ4OGNGNEdRc1h1RDBHUDhnOXV0ZEVVZWFaZjlfWGNBZml3OW1ZOQ?oc=5
-
-- 【速報】中国海警船が海軍艦艇と太平洋へ、公表は初 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ScEYzaWlKWkFvOEE0NDJFeE0xNkxsN0x4T0M3QUZNSkVIZk1YdnRpYnNwVHRXanRpWXNIUC11T054NDJSRFZNUWZNSQ?oc=5
-
-- 第三次世界大戦？AI攻撃で社会麻痺？11/2に政府が全国民に最低3日分の備蓄を緊急要請（ビジネス＋IT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZzFLVkZFTFplV1p6ZXRzVldSWXNYQjV0eXJJOVBwdDFkc3lpWFU3WVE5X2V1R252NGdYOTVvQm96WE8wVEtIa2RMX1dKSERhdGs5ak5kVFFSb1RydnRPdksybVBUXy15ZVVDeWRGQWx1NXY1aGI5UlBsOGxVT3M?oc=5
