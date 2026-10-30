@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 東京・六本木の都立高校で「生徒が刃物で刺された」通報、女子生徒を殺人未遂容疑で現行犯逮捕 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE94endXZVJEZm9FV0VSYy1GbllTVDl2a19yUUJpVDhIZW41anU0b0xFQWdYbU1BMHRldkJqNkxiUmNYOEc0TnNsODBTR1VGcnNoeTVlVWFzZWdUdWRXWTgtanFVUGVNUQ?oc=5
+- トランプ氏が遊説中止、健康問題かと問われ「君は病んでいる」「お前こそ体形を整えろ」…記者団に激高 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxRm5zX0JuMHR6aTBJdHNtbF8tak1yRGxBMFhNTVRuMkZwQWhjWm1NRE1yVThJVThIZHdLdUpHSFVFbHNSSFhaWE1zYjktRGJLN1VHZlFVMVVuQ2pkQlJFVF9B?oc=5
 
-- イスラエル総選挙で与党陣営、過半数割れ 首相「アラブ系政党が票買収」 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zV0NNR2FQV1EtX0ZZMUQyQkpSS1R1NFBnNXl3ci1VSGxjcnVKMHdfZ0QzalJrVTFYaUF6SzNxQUZ1cGdLWkdPdlM1cjVpcnI1Rko0VlpKalJ4d0FDeDBoNkJGSQ?oc=5
+- 都立六本木高校で生徒が刃物で刺され搬送 同学年の生徒を現行犯逮捕 [東京都] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXOWxMdFBjVWxkS1NyNmJOSHF0RUlaRnlVWV9jY3RlWEh1WUNWenNyeV9WS2I4M25jWW1XeXpRVERBZ0t4azd4bEljVW9lQThTdGp6LXdrTTcxb3NlYzIzck8wS3RLVGs?oc=5
 
-- 辺野古転覆事故、学校法人同志社の八田理事長が初の記者会見「心よりおわび申し上げます」と謝罪…辞任表明 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xeWp0MFlxYlhiTUQ2OERpTmJSV0VCRURmQ3d5QkZZR3hEYUpNT05vWEZfU0pjTU51aVdBalNvNHBESFRxVG9yTGFBRTRHQVcxa1Juc2w1Y1VQdGxhVUItUi1QUTB3Zw?oc=5
+- 学校法人同志社の会見5時間で終了 辺野古転覆事故、初出席の八田理事長らへの批判相次ぐ - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1hS0V3NnVlT2xITGM0ZWVVQUc2dDRGLVdoSFRpUDUxaW4zb2xpOUw5ZDNoZGQ0cWU5UkVrTU5LV3JCMmR4Yk5Rb2pQTENHSWhXMGFWUEVRTlo5cGxscktaXzd2dk5fNmVUSVd1Q0phQXFULTY5dHc?oc=5
+
+- 東大が学長選考経緯公表 最終投票で15人中14人が藤垣氏承認 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iQ0NCdzZ1WlBRVjlfLU1LSGYzMkZldVpwYkRwZ3VMQm1HcjMzQmZlZ1NGVkwtZGJsSjc2MzV5MEVPaVhld1FKUGhYVE9wbWllM09vdGZOWk1yWUtHT3pOV3FpS1NEbkpN?oc=5
+
+- 高級時計窃盗事件 男が事前に施設内うろつく様子 防犯カメラに - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Oc0VCMGlITDQ3dkhHVHRCZDA3LWVYRE5ObVl1U3dxSDNsd3FGOUpJV0VMODgyOGlveThpdUdxUzEtam9UQWV0bGdQU2NVWFA4M1V0MTN6b0dJby1nQzkw?oc=5
 
 - 非常に強い台風31号 明日31日に小笠原近海へ 高波など影響が長引くおそれ(気象予報士 田中 正史) - tenki.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE5lMjlMQVlkV1ZKeVZmRWRiWEJPUXRVa2hJZmQzRFVNVjFaOFhYVS10U2dZV1AwNmJYelhvY2JpY1RnbC1rWGtrazQ2QlljZTdKeGJjUUt5QTFzdUo0ekY3MnFfd2pTVDlDLWlxdGtyYmFYQQ?oc=5
 
-- スペインの高速列車衝突、運転士と管制の交信音声が浮上　事故直前のやり取りが明らかに - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mZHVNbGxBbk9ycUtCRlMzS0lDZ1V1eXZNNFJ1Z0lpQVVhMXZIQmJxaW1fNC1xQXR5cXpOZGxEQ0ZoMThMY3pFOUg3VkNWaHBIQnZBTVkxNVdRQndPYzlrVdIBZkFVX3lxTE5vRWJuQ1pkSnBxWFRVRFlZcTF2Q1IzalIzSnRUdkJKUm9SYVBnZE5ua01qLXdTOFdTdmFZaWlIdHRJb1hLbi1aVzBPamhhUDYtOHJ6MGdMbnc5ZWo1ZDdOTXIxQkdJQQ?oc=5
+- 来月のシンガポール公式訪問を控えた愛子さま、昭和天皇の武蔵野陵など参拝…玉串ささげ拝礼 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qbG9kQXJFQzdwaW5STlQwZUhKQWFVZ0JCZDJpT1ZsdURqQl9UWlB1OFk1ek8zOVp5LUh4Y25VZ3V3TG9HZS1KbDhZQ3BlRGVNTTY3V0lxOWNVTEdDX0hSaGZ1cTIzRnc?oc=5
 
-- 外務省からアドレスや氏名など３６００件の個人情報漏えいか…今年７月に不正アクセス受ける - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IOUVJWjg3elFobjRGVEVMd1BDdG5CQkhZOXM2TkRJeW9vQy1iMjVaenRQX0VraHZpRElhbldwNURaOFVtNDVpY3FWdVNrNi1pMm15c0tHVi1DWnNwUTJNWVRHaDZidw?oc=5
+- 部下への性的暴行の罪で無罪主張の元検事正 裁判所保釈認める - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vS1FzV19USnBiazNUZ2JSdlZQY09aTjRzVEVxMm1fYkw4Q2Z5VVZ5QlgxMk5nN3BEeUprWldiNmVYclJZQm1lZ0FiWmhyem9QNmhuNnEybHZlc0REV1Fz?oc=5
 
-- 給食のハマチで「ヒスタミン中毒」か 小学校3校で293人が体調不良 調理は同じ給食センター 島根・松江市 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ya2luTGhIbFJ1Mm80Z2lRd0FFUUZ5NVBYN1J3WE96aGp1eGg1YWpLWDJaVnlCZWhJNk9nRnFOUE1XYTJMT3djdENldk5tMV9ucHJsRGg4VFFxRFM0VGRSdlN3SWRHcU1LSzY3MklVc1l2YTMyTUs0X1N6VGFwbkk?oc=5
+- 給食のハマチで「ヒスタミン中毒」か 小学校3校で293人が体調不良 調理は同じ給食センター 島根・松江市 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE90OU96WS1RenZCTnJjNWVxUVBSbjVVc09aZm5Kb3ppZkJWaVQ1ZFJMdGJQSGFzd3pkWmstN2tjaXpYX1ExdlFiZFpqMXlMdw?oc=5
 
 - 防災庁が11月2日に備蓄要請へ 細野豪志担当相、一部のSNS投稿に「予知情報ない」 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9iWDZmSGwyemg2S0hhNTB0YUtCSXVndjN2OWt1WjdVQkQtTEVMeHNrejBraVo0NzlUVUxuYmNkVzNNQW9UbVJOUzFOdVp5bDN0LV9tOHlDeUx5am1PRTRIbThWX3U5WDhBWTNOQjVROEM1SEdfLVE?oc=5
-
-- 愛知県安城市の水道管工事現場事故、死亡した2人は親子 身元判明 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kcXFXbmI3bFU0dmVQVGpwekhnZGdfdF9ZNWZlU2pmUi01ZGdQTEItcjRsSHpHN1ZGR2NOYUYyV3hsanNmUUhqVTRHY0JXcGNGRWFZTQ?oc=5
-
-- 社説：定数削減で自維国合意 民意切り捨ての党利党略 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxNkNiM2QzcUplLW96QzFMX0ZYZnBIMzhZd3l0cVBzMXJLcGY4c29sV0hnZFN2aVFQRDVOVWFpa3RNRFF2UUl4UkZsX1dGenNCR2RQWWxWajZqWlgtdjN0ZzhzT1hlTjlV?oc=5
