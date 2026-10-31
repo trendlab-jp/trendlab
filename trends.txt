@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 日露外相、Ｇ２０会合開催の米で５年ぶり対面会談…拘束された道新記者の即時解放を強く要求 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbE5WaXRjSEM1d1l6ZUNhYmdKS040RFFLc0Jid0pFa2ktMGNtM2RlVTIwalc1ZjRLUm9jVFZoVmhUdUpPVHo0ZU9aU1g3NTZNVUN1azlpUXJKUkJqb3BaMFRR?oc=5
-
-- 学校法人同志社の会見5時間で終了 辺野古転覆事故、初出席の八田理事長らへの批判相次ぐ - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1hS0V3NnVlT2xITGM0ZWVVQUc2dDRGLVdoSFRpUDUxaW4zb2xpOUw5ZDNoZGQ0cWU5UkVrTU5LV3JCMmR4Yk5Rb2pQTENHSWhXMGFWUEVRTlo5cGxscktaXzd2dk5fNmVUSVd1Q0phQXFULTY5dHc?oc=5
+- ウクライナ南部での局地的な停戦で住民の退避開始、バスなどに分乗しクリミアへ…停戦違反は確認されず - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE55c00yLUM3RjhlMnZNOFBHUHdGbUdNRUZXMTBaWGxKMmxSNkQ2S1RtZHVwbE9WdHZ4R3p6S2ZkWjQwTEFIVWVtazBFdzl2UE0wQUgxVzNJanRmWlp4SWoyMm5n?oc=5
 
 - 米中間選挙、トランプ氏が集会を立て続けにキャンセル 1期目との違い際立つ（CNN.co.jp） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5PZHJvUE5WUGRBcHdYZF83c3ZHU3RDWWF2cTBxb1d5WFhuT0pET0g5YTJDOEJTTGcxX2diRmRqSEllcWRhaGZ2Zmh4NlU3SUZKbzJ4dzBRVUlyN2pQLTVDVlhxc1Y5cFhwWnJRLV9HQnBvZmlRTXkxaEx4UkNyVVk?oc=5
 
-- 発達障害児が増え教員不足深刻、授業中に行方不明になり死亡事故も…専門家「現場にもっとやれとは無理がある」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBva1hqN3VSY0VUcnBic2dRcTVPbFRWTllZS2E5UUdNTzd0NmlUYXktS1NuN3p6NDQ5c0pkTDYtSWZ3YjhscGcyNXplc21hajJVX2JsaFRhMHVJYkROcjNEdEVKaGpDZw?oc=5
+- 米国務省、ウクライナへのパトリオット迎撃ミサイルの売却承認 今月に入って「枯渇」 - CNN
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pekk5T294LWw2alVWZUtxcm1ybDFqNXYyS2wweE80RF9Sd2paeWtIWGVyNVBlZm5RdHJNaDlnRzlMVkRNYW5CT2VPLTBNSWQ5?oc=5
 
-- 【速報】台風31号が日本列島側へ向かう可能性 非常に強い勢力…中心気圧940ヘクトパスカル、最大瞬間風速65メートル 小笠原近海で複雑な進路か - 埼玉新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE52VUxrRjVQT0lWaGNMczAzUzhzMTQ4WjNVd0dwMGtYVmUwd25nYzJBRUU4MGFaTHV0cGxzSG1HY25qOVNvdUhlZmR6TF9wSVEydFpObUFWSQ?oc=5
+- 小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMWl2Z1EyUnFBX1BvMEpldEVsSjZ3YklPeENZbThkYkpwaGZudXpEbkxrS0VPd0I1UDJGTFh1Vk1KcXhCZUY3SlNtX0h5ZGdXRFdmLXBhcVVtd2tlX1pvbUVpdkFsX1E?oc=5
 
-- 「親友だったが裏切られた」六本木高校で女子生徒が刺される 別の女子生徒を逮捕、殺人未遂疑い - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UXzY3WWFYWUdQTXAtT1VBSDgtc1laRUtCdGthR05ueG4zOURTS2ZUaFpiRXZZd2t3dFl5RzM2N045OGJsZ2ZjQ3BjUFpndXlWbEdB?oc=5
+- 日露外相、５年ぶり対面で会談…茂木氏は拘束された道新記者の即時解放求める・ラブロフ氏は制裁解除を要求 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbE5WaXRjSEM1d1l6ZUNhYmdKS040RFFLc0Jid0pFa2ktMGNtM2RlVTIwalc1ZjRLUm9jVFZoVmhUdUpPVHo0ZU9aU1g3NTZNVUN1azlpUXJKUkJqb3BaMFRR?oc=5
 
 - 【独自】男の左手に盗んだ時計？試着を装い逃走か 中野ブロードウェイ高級時計窃盗 - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTE1CZEpVNUVtbzlmQUJ2b1g3cWZzRXc1MUhMenZ4Uk5vQXBhTUNKNHFjTV84ODl5T1JybFFoX3paejc3OVp1UG1jOXNNaFE2MnZydzFMb2xRN28wS2x6S0NaamNlTHZTVGpESWpYNGNvdTBBZw?oc=5
 
-- 【地震速報】熊本で震度3 津波の心配なし - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kbDQtcnNIbElCd1FrNHE4bkVYUUFpeHZkbURqSlRyZl9YbnJoeFZ3TnJBVFZHYTBjQlJxdUNGRkdTblljaEsxbU9CSmNCZHBEOTI0OXhkSENJNE5ad0R3?oc=5
+- 台風31号(インファ) 小笠原諸島は高波に注意 動きが遅くなり影響長引くおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtNm5kRjJJN3BsbWNXXzZkZFRObXhIZV93ZUdNWWtPQ1FQMnphM1p2SWNIRWVrN192UFpoOW5FNUR6dkh1Y2dzYk9Qbmd4Ukt4ZU9ZZg?oc=5
 
-- 明日31日は関東～北海道で天気急変に注意 11月1日は北海道の平地で雪も(気象予報士 田中 正史) - tenki.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTFAwRExzQW4wZVgtRms0QzJsWFZiT2pwTXRFWDlFUjZrSnI3aTU2cHRHOEpvMEdjMEkyd1Y0UjZXQzVUOVgzNnl6MW5yc2Q4ODVQdjNrM0hfaVFzcXpiazR3V1p3RWZUOW4yQXZJZEktcHR3Zw?oc=5
+- 辺野古転覆事故から７か月後の会見「不信招いた」…同志社・八田英二理事長は辞任も、総長にはとどまり「改革に努める」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kcTJUSVY4Slh3UmMtd3BhQTVjOC1uR3pxcjlOeF82aXozbkpHSWQxSkVldktWd1B1aHF6X0pQaEk1Y2p4UXFneDlWZ1Fma29HbVhpNDJDQ2liRExIOUVvbXNEMER3QQ?oc=5
 
-- 北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SndKQXEzbXRsVEZLY0NTZ3hjSHRxVDBDRjFjODRrUDNqQVUxbVZ1YkRiT19qdWNySXNTLU9PeHBUME5IZGhWVDVNOExrbE9jQnlERWU5T3RFY3dtRDc0?oc=5
+- ＜主張＞副首都法が施行 さらに多くの事態想定を 社説 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9SN0U3aHJpMnZWeUladFJLTElNQ0VCM25ydENwakphVWdWUW9uZHBzTkd2M3Z2eTJnZlZyQm5qRUVhaFZxQjdJRm1hdnVJN0o2SWFUancwV2doZUhwUWY2d2xpVWFnREdnSVRQeUg1UExEQy02U2c?oc=5
+
+- 発達障害児が増え教員不足深刻、授業中に行方不明になり死亡事故も…専門家「現場にもっとやれとは無理がある」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBva1hqN3VSY0VUcnBic2dRcTVPbFRWTllZS2E5UUdNTzd0NmlUYXktS1NuN3p6NDQ5c0pkTDYtSWZ3YjhscGcyNXplc21hajJVX2JsaFRhMHVJYkROcjNEdEVKaGpDZw?oc=5
