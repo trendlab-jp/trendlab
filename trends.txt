@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米中間選挙が最終盤、ミシガンで民主分裂 トランプ氏は｢赤い州｣奔走 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE56MG43WEFsUW5zSkZqdU1lZS1adVczZ1h3R0dxcnFIRkJlOUxyeTFGYzBGMDdyczFORTNST2tUM3BwN3dMMGhfMjhoZ2tnUjhTaVdIdHQxTVEzd2VnenFMa19jNzJKQlg4X1diMA?oc=5
+- 列車事故、邦人１人死亡確認 もう１人も特定急ぐ―スペイン当局 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QZUM1NVFLVFhudWl6NmkyUC1ZZUpSLUV4TXI1dWFXRG9QODRwWDlnQjkxazJFanItREgzbWFWbXJQck4yOUNjMnFnOUI5SFFIUzNQVTV6d2lBM3ZiY0pjVXRrNA?oc=5
 
-- 米フロリダでビジネスジェット機が住宅街に墜落、搭乗の９人全員死亡 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWG1Zb2E1eGJ5YjZyVkV2aS1YYmpzNHNMNGtSUS1FNDA3Y2pJRW8wNlV0dlFyVWNBNHJwT3cxOG9sZ1MyQktCR1hkMVFHeDRDYUVMRXVJYW1HSDR5dWo2NXZ3?oc=5
+- 選挙で選ばれた黒人知事わずか３人「まだ偏見残っている」、中間選挙に８人立候補…なるか初の女性や共和党 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tNE9hTGVEdUF3SElsR3oyVUE3Zk1lWlVhWFRyU2xCcHZob05ab1BBX2F2ZE8yWTRDalpfcDY4dnVtWEFETzNTSXdGWmNmNXJOU2psRy1pRVAzMUFnMHJ1aVZ3?oc=5
 
-- 人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZUlma0s0WEhWekhRenZZMGUwXzJzVFI3UGlDVzE4clJxVUtKRm1hSHhHX0pMYS1ubnNIQ3VhbmlLVGVkRG4zOHRBUzFiMWVNZ01wLUFsbmhNTzZwLXlQTDFR?oc=5
+- 中野ブロードウェイで盗まれた高級腕時計、宅配便で店に戻る…愛知県内から発送され「わび状」同封（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE94a0Y2RTMwbGxaMUxKeW5vWWtkbGRBN0hYOXh0U2VtVVFSSnNzaVpiRlloWGl3c2ZyU2dLOHQ5RDJsQXdDdU8yZF9iSDVrV1N4Q1FHSVZoUE44Vi1aVF9Md0JPSXJhQUFuMmt6VWpzV1pSVXZxaGJXQklhQmZ3dDQ?oc=5
 
-- 細野大臣、国民などに「緊急要請」へ 防災庁あす発足 「日本の防災を新しくする、作り直す」 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUFA0dEJwTUpXZmY2MVRZSUNsckZoeFN2Y1loRVB2Yk5vdFkyZnZ6V3ZiSnFkYmJfMHBTRk0tQ0Rxc2lGeHpVQWN4WDVXQQ?oc=5
+- トランプ政権、民主党に敗北なら議会無視の運営に 大統領権限活用を計画 - Reuters
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE03anpKWEkwaWJEd3JhS2wyMnJDdHlvOFVyMlk1Ymw4ejY4UXZlYW1wUklZeUNxSkZwWko3MlB4eTBpYlNsakNkYkFsSjBHbUZPLTFhYmN0MzdjLUZMQ3VjcFloX3dIT1Z4MEd3MlppR3RTaGJEa1ZZTVVTLWZreTA?oc=5
 
-- 中国、一部党幹部が「権力を私物化して堕落している」として監督強化の方針…５中総会「統治」決定全文公開 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kcHFHeXpqdGtyOUR6Zjg0SjU0RW9HYzZmcFVHc1pkQVZpNUdWeW1JbFMtYVpXdzdnT1FsR3ZxdXVLX2x6T3Z2MFktZDFnVFRGWjFoVDIwYk00ZUpUNmJsMjZ3?oc=5
+- ドイツ全土のデモ 暴徒化した集団が店襲撃 当局が会見 | NHKニュース | 物価高騰、ドイツ、フランス - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeUJTdjQ2bElJLUw5UWVldEJaNDdNU1FJLTQyWjlELWlnZXRscy00X3pLcGVUNTMxS2lHaGdKUHpfN3hUdm80NHZYR2dSMmo4bnVDWWx2QUYtRlhKSnNz?oc=5
 
-- スペイン列車事故、捜索活動終了で安否の知らせ待つ家族は憔悴…システム障害や人為的判断ミス重なる（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1nU1pYVHBjWkd1M1k0Qlh4d1ZsTnRjV2pxVVBkdjh0dXJ6bWpJX0haVWx4eWc1YVZUV0NHR3lPcFhYLVg3S2NRaDQ3cVN4NWtoQllZbnVEUU1HaU5HTWwwaVM1SmdqQ2FzS0JteDJtTEd3SFlRR0hKaHNRZmtyT0k?oc=5
+- モスクワ市内でテロ計画、米国の情報提供もとに少年１人拘束…動画アプリに自身が銃のようなもの持つ画像投稿 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ha3AtLWItbjRkWTBPbldaTi1pX25TTE1DQUNmYUNwLWRYczJOQlNsbXEyd3A4c3BteVBuNFNGeVlGTGZsMUsydTFUNHZzZ2p1OXF6NzV0YmxHaHJQRUFvRFFn?oc=5
 
-- 今日11月2日(月)の天気予報 広範囲で傘の出番 強雨や落雷にも注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UZGc1TDRYSGpSb2Q2Vm1nZmQxeEdBeVhJdXVjNUh2U0J3WXpBX3N3aVE4aFNiRTNCRFVqNlJRQWRpSi1VRmt3NXR6U180dkgyNzJjZw?oc=5
+- 特殊詐欺グループトップか、男逮捕 4都県で被害計22億円 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5VeFY2d3lGcHNSLWxYY2RsaTZVWEd0aU5WSWV6V3JuR2VrWm1QWlFWd1EyQ3hWUjVCLXNuSXdETlJBMzlGa0Z2YkFKU2gzbUd3WnV6VXExa0dlaXNpeFZPLTc0QWpTR0ljMjlzVA?oc=5
 
-- 鈴木幹事長の「大予言」を「大失言」にしなかった野党の「功労者」は 衆院議員の定数「31減」がスンナリ固まった背景 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9xXzhaWFhzUzZmMXAxZ2kwTnM5dmptd014bG5qZFBUcHc0M0FYUndfaVc4MjFaRnp4aHFPQUk0czcwRlNZaDhvUFpORm5yS2wtcWFlWEtQRnRrU25DSzJJS2dQVE5sSVlwY1FScEU1UzdMQTkyM1Zrd25pT3A0Z3c?oc=5
+- 明日11月3日(火)の天気予報 広く穏やかな秋晴れ 北海道や北陸はにわか雨に注意 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZU013aUlzd2dhVkVoQUIyNklmLUFzbGtvdXpTWUtySTNHN1QtYkpUQ0xCcDlkdGZVSFZVT1RuUERVZHVQTVEwWUF0SW5zQzctRndGVg?oc=5
 
-- ＜主張＞同志社の会見 説明が尽くされていない 社説 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5GSFMwU3BCaUdNaDRPSlgwSVotMER4UHVOVjhoT2ViZllvaDgyNlAwd05TUzk2b0hQRWk4Z0pyMnRlQ0ZMUk5xUFJMT0thcWtjXzlyNkg0V0VKbGV6a3hHVm05Z25ldXRtb1lEanNNWlJGNFQ3UlE?oc=5
+- 福岡市長選、投票マッチングサイト開設 あなたと考えが近い候補は？ - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KUHNWWnJVWk5yWFRCSGxRSFNZMmp5WFFEVU5QX3Q4eXRxNWZESy1FdUtMV0VPdjBWa3JCbXRiVmNXN3NUeGQyVE1kcF95X3pnRzhPNl9R?oc=5
 
-- 週間天気予報 文化の日は晴れて行楽日和 5日(木)は広範囲で雨に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9la1dvUk9WWGtPUFZHYTUyYzhBYTJtVUlJMTduUndLTk9nSlVvYjVxdXNmalF1LWpfekJQS1ZuYmczaW9wc3UzbWtNbDlBaWJKbjJZdA?oc=5
+- 「警察と通話つないだまま」ボンネットにしがみつく男性を2km以上乗せ走行か 殺人未遂容疑で79歳女を逮捕・送検 奈良・橿原市 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9GM0gxVVdXQWZPdGJ2ZGIxcXhxSXFraTV0NURsd1U3ZG5yNlhjVXhKdFVZODZVZmhmR0NTcjA3YzB1MEZiZWhnVmlIdG9aeU5ZY0pBcmg4ZVhuQ0lRbnBzb1FqQmVEZWFyOENDMEtGMENDTUY5ZmlPaklSYlBFSkU?oc=5
