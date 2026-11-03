@@ -1,28 +1,28 @@
 TRENDLAB 自動取得ニュース
 
-- 米中間選挙、投票始まる トランプ氏の政権運営左右―上下両院の多数派焦点 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pQTJCSk93eGtZbDNZT0ZoZkd1SEhNTmZFc2E0YXlwR1lHSDktN1htXzMwMUF0QUQzSk82dngwLXpLQ0Z4R0c2N2NXTDlkVno4THk3QmNTMXlCd1NmR2lYeXlxQQ?oc=5
+- ［深層ＮＥＷＳ］米中間選で共和苦戦、杉山晋輔氏「選挙後どこまでトランプ氏を支えるかが問題に」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ESmZLUy1VTkRmUEVhY3JFS2l1VFZudS1FMm1pODloYzZUa01PY0xaNHhjcEY0RFRKc1pGNGhxYlRvUUVTSDVKcmVHLWdGOWFhdVl4M1dLYlpJbEpiS2QyeDFR?oc=5
 
-- 米軍がイランの島を攻撃 WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjZhUGRWNDQ5S2poN2N6Zm5WNEM0YXZXazdPWWxTMjVmeUQ0OVlGTXp2SVpBd2FKeEFteXpCeDE5T01pY3JuUkIxa2UyYjRVdnRaRlF4RXIwdjNyVk1tUDZxR056NUZycW1PaHN3NG9iRnNpUlJpSUZzM20yZU9fLVAyY1BTQmY1dzhabQ?oc=5
+- 爆破予告で英国発ポーランド行き民間機が緊急着陸、欧州で混乱広がる…負傷者は確認されず - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VbHdvUHYyMmtKcm1LUmQ5YzV6VC1HU0JyNFhPMF9VYWRlN0x5S0F5ZTlyeVdiOXhNLWI4cUZ2R1ZIMVVrZHhlVEhwcExwalVCc0x2bzBEckljLTRzdzdaZlNR?oc=5
 
-- 【速報】簗前農相の衆院選出陣式で鉢巻き無償配布 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KQmx6bzJQM2hmaVg4dHBocllGZS1neUdBYlRtVUhQQ3Y0N3BXbVB5OVJrbUxNV3g5VUVpa0UtSHF0NF9yc1lWTDdpOA?oc=5
+- 旧統一教会の韓鶴子総裁、入院中の「宮殿」通いで保釈取り消し - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE50cTNnSnpJbWQwR0IzNEhlcnNkQmpxb3hPUk9WN1o2dXotRld2ZzUzYTNRc3ZnUFhWY18ydnBxWUJLaS02dWFPYXlKMHJxVXdQenJyRWFkeGRHS20wVEFFZ3BnVkZVdGR3?oc=5
 
-- ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqTmNqVnZPNWwySkdHYnp1SklxRTBNcU9zR1NDYVFMRWl1Y0o0T29XSnpVb3I2Q1FjRlA1Y0FlZS1XSUlWMjBiT0hUSDVQZ2hRMEtYM1N6UXFTeVNzR1FwbVln?oc=5
+- 海に新生児とみられる裸の男児遺体、死後数日経過か…殺人や死体遺棄などの容疑で捜査 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYW15MFg0UmVPNVhUZlJReEFhUFJQWVI4ZUp6MUdORU5xWElJXzNvcjg1MWU5Zjg5dzdhUWVIM0RZN1ZVcXNSQ213WFdjTlRPemQ3REtYd19TeFRhOVlCMW5WZWZ1Zw?oc=5
 
-- 関東は明日4日夜～5日にかけて激しい雨 沿岸部は警報級大雨か 浸水や冠水など注意(気象予報士 中川 裕美子) - tenki.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1oaDk0SU1aZERmRWxCTVUzdWxRNkxGX2NOUEhsQkxkRmh1OFNqSFdGN3ZYcTltZEdpRkRUamtwRjdVZ3VLWUNZT3lzS0I0X1IxcVRIbks3NlVndTdyaFktSUM5OWQySkh2bmtkTw?oc=5
+- 米軍がイラン・ケシム島攻撃 トランプ氏、大規模作戦再開「急がず」―報道 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpdGljRUdaZ0pGT2pETUd5eGpKLWZCQWVkWHhFdzFxTmxjbW5hZE8tTExfZXFrUUZCTUF0SjAtMkc1aGgtVjE4TmVpUjhEMWduRkNYakFkLXFMRWFuQUFYR3Ztbw?oc=5
 
 - 細野担当相、15年前の災害対応を回想「この時、日本有事が起これば…」防災庁発足会見で - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE40NHZDUUltbkUwZW5TWmlFZzk2c0pWVTZ4UzBqeVFoYW1mRUQzLVk4TkZZTnB4RHZZMDhkdVdpUmtXdWNlVHpKWDZaT3FJMFkxTXlaMHQ3N1gwbmVPTUVFVUxNa1pONzB1MFhoZ0I4VEU5TTJkVUE?oc=5
 
+- 台風31号(インファ) 5日(木)頃に小笠原諸島に最接近 関東付近も雨が強まる可能性 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GVEJyTWNGRjNtc0MzakJMZEVoWnhzZjhqcHVVdDAwemQ0UVpnVFZYWndCX1hsSVpyMnV3U2U2S3QyclFpM1VtLWR4YVVJMWw2eDNtXw?oc=5
+
 - 玉城デニー前沖縄県知事「戦争は絶対にさせない、憲法の下、大きな声に」 国会前で1万4000人デモ - 東京新聞
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LajdjTU5KZHl2WmpvRFk2TGdITTN3a1FhcWg4bmFNYU9scWxZUW1tOU9MYlhrQUM1UHViQ3gxeVl6dG9zMWZQLXpyQUU4Um9UTFdj?oc=5
-
-- 約22億円の一部 特定危険指定暴力団「工藤会」に渡っていたか 役所職員装い金をだまし取ったとみられる詐欺グループ摘発 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibEdVV0JISzdWWEZYeFMyWGROMXF1UlQ5bGNhQXk5SzRYQmtJbDg2VkhyM3JNZ2xSYzZNV2c4S285ZlJ6TFZnYUx6UEJlLU1nNzRuQTQxUThpd1RiYUR5QmpzNmxCZVZ1cjhMVURUejRwdXhWRXRmXzF6S1Y4UlU?oc=5
 
 - 渡米見送ったＩＣＣ赤根所長、国際秩序守るため「今こそ行動を」…ビデオ演説に拍手湧く - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CcUtmeVllUjc3RkhSRE1NVGN6Z29LWXJia2hyR0JRM3pnLVh6QzN0U01JSk5Xa2Z6M1l2eUlweDRCU1JyRVE5a3FkSjJ1SmpWRVV1SjZ5Y3dPZ2Q5Z1BOUUt3?oc=5
