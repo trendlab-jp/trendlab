@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ氏「口約束」連発 中間選挙前に焦り：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTclA5R0dQTklKVWxLWG5kUjhwX2hWZXBjQTdHZzRmVG5OLUNOSXFmVnNRMEhGTW13YnVoZ2c3ZWpxVTRsTHZBZVVXSGJlWUtoV19XZ1RpNEd2Wm5rVjlGZkVTTQ?oc=5
+- 米中間選挙、投票始まる トランプ氏の政権運営左右―上下両院の多数派焦点 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pQTJCSk93eGtZbDNZT0ZoZkd1SEhNTmZFc2E0YXlwR1lHSDktN1htXzMwMUF0QUQzSk82dngwLXpLQ0Z4R0c2N2NXTDlkVno4THk3QmNTMXlCd1NmR2lYeXlxQQ?oc=5
 
-- 米軍がイラン・ケシム島攻撃 トランプ氏、大規模作戦再開「急がず」―報道 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpdGljRUdaZ0pGT2pETUd5eGpKLWZCQWVkWHhFdzFxTmxjbW5hZE8tTExfZXFrUUZCTUF0SjAtMkc1aGgtVjE4TmVpUjhEMWduRkNYakFkLXFMRWFuQUFYR3Ztbw?oc=5
+- 米軍がイランの島を攻撃 WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjZhUGRWNDQ5S2poN2N6Zm5WNEM0YXZXazdPWWxTMjVmeUQ0OVlGTXp2SVpBd2FKeEFteXpCeDE5T01pY3JuUkIxa2UyYjRVdnRaRlF4RXIwdjNyVk1tUDZxR056NUZycW1PaHN3NG9iRnNpUlJpSUZzM20yZU9fLVAyY1BTQmY1dzhabQ?oc=5
 
-- 高市首相の憲法観に「深みがない」ワケ 40年前から知る小林節・慶応大名誉教授が示す「根本的な間違い」 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVmhKVTE2azJIeHgyU01OU28yYjZMODdxbnNFLU9jSzFtcDNOUV8wWWpjYUpHeVJWWUtOS3pxSFBscmVyanhLelE0N0R3a3IyVmIw?oc=5
+- 【速報】簗前農相の衆院選出陣式で鉢巻き無償配布 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KQmx6bzJQM2hmaVg4dHBocllGZS1neUdBYlRtVUhQQ3Y0N3BXbVB5OVJrbUxNV3g5VUVpa0UtSHF0NF9yc1lWTDdpOA?oc=5
 
-- 日本人2人目の死亡確認 スペイン高速列車事故、全員の身元確認も終了 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUZ6dHBDdE10V3hJanJPZHRId3VwbXNQSkNneURGYUFSQTNrc0VNeHNPRUJaMEQ5SXJEbENqRHJYYzkxM3hyVFJmWW90SGJfWjhJc3N5V01OdWEwaU5WWEdqV0RENWF4SVFpVWxLMmIzRGRQaVE?oc=5
+- ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqTmNqVnZPNWwySkdHYnp1SklxRTBNcU9zR1NDYVFMRWl1Y0o0T29XSnpVb3I2Q1FjRlA1Y0FlZS1XSUlWMjBiT0hUSDVQZ2hRMEtYM1N6UXFTeVNzR1FwbVln?oc=5
 
-- 給食費など徴収怠った職員、「大ごとにしたくない」校長と計４６００万円を私費で補填…市教委は引き続き穴埋め求める - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4aWQ3bUZtd3p3cThBbEkwejd4UVVXcUFoeW0tQTh2akFIclllSk41UnZHLWpfa3NSOTlsUm9fUTlUWjRDRENKRDFKM2RiUXRXdEZ4UmxjeUVLcXNpOGVNQm83MkhVdw?oc=5
+- 関東は明日4日夜～5日にかけて激しい雨 沿岸部は警報級大雨か 浸水や冠水など注意(気象予報士 中川 裕美子) - tenki.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1oaDk0SU1aZERmRWxCTVUzdWxRNkxGX2NOUEhsQkxkRmh1OFNqSFdGN3ZYcTltZEdpRkRUamtwRjdVZ3VLWUNZT3lzS0I0X1IxcVRIbks3NlVndTdyaFktSUM5OWQySkh2bmtkTw?oc=5
+
+- 細野担当相、15年前の災害対応を回想「この時、日本有事が起これば…」防災庁発足会見で - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE40NHZDUUltbkUwZW5TWmlFZzk2c0pWVTZ4UzBqeVFoYW1mRUQzLVk4TkZZTnB4RHZZMDhkdVdpUmtXdWNlVHpKWDZaT3FJMFkxTXlaMHQ3N1gwbmVPTUVFVUxNa1pONzB1MFhoZ0I4VEU5TTJkVUE?oc=5
+
+- 玉城デニー前沖縄県知事「戦争は絶対にさせない、憲法の下、大きな声に」 国会前で1万4000人デモ - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LajdjTU5KZHl2WmpvRFk2TGdITTN3a1FhcWg4bmFNYU9scWxZUW1tOU9MYlhrQUM1UHViQ3gxeVl6dG9zMWZQLXpyQUU4Um9UTFdj?oc=5
 
 - 約22億円の一部 特定危険指定暴力団「工藤会」に渡っていたか 役所職員装い金をだまし取ったとみられる詐欺グループ摘発 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5ibEdVV0JISzdWWEZYeFMyWGROMXF1UlQ5bGNhQXk5SzRYQmtJbDg2VkhyM3JNZ2xSYzZNV2c4S285ZlJ6TFZnYUx6UEJlLU1nNzRuQTQxUThpd1RiYUR5QmpzNmxCZVZ1cjhMVURUejRwdXhWRXRmXzF6S1Y4UlU?oc=5
 
-- 台風31号(インファ) 動き遅く小笠原に影響長引く 東日本は前線の活動活発化に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZ3Q0MVYzM2M1VERSS1JIYmNiRUVNUWZDQWpXQ2dySWJmVkFMRE93bGVoZU05R0s1Y2lvX04wT29NOWFHejBKUHJmOXlQZmZlRHBLSQ?oc=5
+- 渡米見送ったＩＣＣ赤根所長、国際秩序守るため「今こそ行動を」…ビデオ演説に拍手湧く - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CcUtmeVllUjc3RkhSRE1NVGN6Z29LWXJia2hyR0JRM3pnLVh6QzN0U01JSk5Xa2Z6M1l2eUlweDRCU1JyRVE5a3FkSjJ1SmpWRVV1SjZ5Y3dPZ2Q5Z1BOUUt3?oc=5
 
-- 国際刑事裁判所の赤根所長が米露の圧力を強く批判 「行動を起こすべき時は今だ」 国連総会で異例のビデオ演説 - au Webポータル
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ib1d0RzRNT3FlWUtyQi1PT01oNGV1Sk9XYU5mVWpyQ1hIc3lDRTdWdGNjSlZ6RXJtS1BGelBPVnl1bFd5aXdVVVJ2a193VjBDWmZLNzFRamhLVmRCQk9WZ0FiNlc0dFpsQ1NBMXdR?oc=5
-
-- 北日本では11月8日頃から「この時期としては10年に一度程度しか起きないような著しい低温」 気象庁が「早期天候情報」発表【北海道・東北地方】 ※上空の寒気シミュレーション（RCC中国放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE81VDJBTEVuZkZ0RlFpVWxWSU1UV3M4VWhrYm5HZHBFRTJWM3oxV0NXQXJmMWV0aXkwNnk3RHhGV1l3dTc5VTA4SzNrMWxEdVY1YktIV1NyeUZQSERmTUZRX3A0aVNVUzc3RFRrN3RnT2VpTWVBbHRWbzB1LXBNaTQ?oc=5
-
-- 北海道は雨や雪 東海～九州は日差しが暑いくらい 今日3日の天気(気象予報士 日直主任 2026年11月03日) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZm9DbHUxcW1HeDljNkN3WV9rOHhiQnhNSE5Pa01MbzB6TEV4TzJQSHZ4c2RoZTVKYnJ1djBiLTVSZ0U2dXRwTE55RER2OU1Pd19ETEpHVFNxMHVLZlR0aFVuSnZMQWJNd1E?oc=5
+- 日本人2人目の死亡確認 スペイン高速列車事故、全員の身元確認も終了 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUZ6dHBDdE10V3hJanJPZHRId3VwbXNQSkNneURGYUFSQTNrc0VNeHNPRUJaMEQ5SXJEbENqRHJYYzkxM3hyVFJmWW90SGJfWjhJc3N5V01OdWEwaU5WWEdqV0RENWF4SVFpVWxLMmIzRGRQaVE?oc=5
