@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 【米中間選挙2026】 民主党、上下両院で主導権を奪う　トランプ政権を有権者が否定 - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE80bW5UT2VtejFsS3UtbWVvWEJLQkpuTDhUX2xaekxBSFRobzFFMlo2SWE4anByLU40d2UtQnVkUWRYOFJFQU1qc0E2ZjJmZ2pEd0hIVUpHcFdtakoxdnRZV9IBZkFVX3lxTE83SnczdHZYY2ZQSnN0WW54bkFoNl9zaTBYMWUtTVZheGRVRndkeWtnWUw4RlF4YzdjUmNBNm1LZGl6TWpSTy0zaFYwZnh4N2JDY3pmeHZrU3JxajY1MDF1dlNrS0UzUQ?oc=5
-
-- メーン州上院選で共和党穏健派の代表格コリンズ氏が敗北、党への逆風かわしきれず - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE02TGpfOW9KNngxV19PS3hYbVp1RVNkVFhKOFcxN0hPNjBncGlBcm9nX2EtRDRNX18zbU80bmZoejlVSWJhcV94TnZfZUZPazRXV3JENTZyMzZ5RmV1Ql9hVVFn?oc=5
+- トランプ氏への不満で投票者増？…４０％未満も多い米中間選挙の投票率、今回は「５０％程度」となる公算 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxQlMxRWx1a0p2dXgxUlZ4SGhkbG5oMVZmRnZacHRleGVEXzg0UnZ4SFlsVy01RXl3cEh2MDlRWTNReXpiaC1BLURLQkhnODUyTlo5SjRpTGFRUVBuM1JURUJn?oc=5
 
 - ジョージア州知事選で民主候補が勝利 黒人女性初の州知事誕生へ - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE41dEpnZC11MHd6czBmZkVtcC1ob3VDb0dMTGVoZVlfdmFGcURpc0dGSW9QcGNpMUlCTlZwTW1MRW9NMk03VXVfZ3BCcUlzWGlWRVhjNmpjT0RfcERaV2Y1X3l0ZWRVc3Iy?oc=5
 
+- 参政党の最上佳則東京都議が不適切発言でボードメンバー辞任、子宮頸がんを「風邪の一部」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9tWUdkYTcyTlRIb29vcVBzSEhJVkZ1OEJ1U2FXb0hDeHY0MU5Pa3ZzYWUwTEZLMXV6blhsdmFQNDRVYU9BR1BjMzFNUG15TDMtV2ZtczViOW5YYTJjbm4wR2pFYVMwX1Jjd1FldmlSbkdLS3dBeXc?oc=5
+
 - スペイン列車事故、死亡した日本人２人は２０代の男女…日本政府関係者 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0cFVpaDA5dS1BZTBwaE5kVnQ2a0FPRzJSZjFLajN6VXBybDN1czJnaFFuNU5LVFFjN3FCeEcyTVJ6ZXh3QVpJZW9GbWpyZmZGVVlaWlpqQzZhTkotcEh3SkZB?oc=5
 
-- 7日「立冬」～強い寒気南下 北海道・東北は平地も積雪か 東京も週明け14℃の寒さ(気象予報士 石榑 亜紀子) - tenki.jp
-  https://news.google.com/rss/articles/CBMibkFVX3lxTFBadXQxVVZzWV9aUkRveXNGSXZNVEFzRlFueVZrYk0xeUxxVFVSQkNJNERfYkNwVlRFZmFJVlRtT05nc3ZBRHhoRTVSdlE5Y09QcUFLR0RfX2hmRHhhalFJZ0gxOVJfajNWeWtZTG1n?oc=5
+- 【速報】神奈川県警が川崎市役所を家宅捜索 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZWFNMaGtpbnNqR2pQcjQ1TUNEZG90d2NRWk5GWHZsbDlXWjR5UzgyOEg0WWVBd2hOS1UyZ2NNZmxBRkZEM2dUU2Y5dw?oc=5
 
-- 関東や東海は雨の範囲が次第に拡大 帰宅時間帯は傘が必須に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFN29TdWJRTEJkWjlyN3hYMV92dG41UVZNTDFpNTBGdFpKcGJ6TktOSmN4QkxBeDAyeTJ0SkMtbldmZXZPV0RvSGQ1N1JhOUcyNm5FTQ?oc=5
+- 武部農相「返金も含め適切に対応する」…衆院選中に「公共事業受注企業から８５万円寄付」の週刊誌報道で - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tTE44aHFKbEp0UlVmaFpjcjRWRjB0WGJTYTY5cUtmZ3BQOS1XV3E2NVpTMWxxSzRLQjhDeGJjR3JNZ2tMamhHRllIYklBcnh2WWlLMFZFUXBZZTZZX2dBX3IyY09hZw?oc=5
 
 - 強い台風31号(インファ) 小笠原は20m/s超の強風注意 本州付近には湿った空気 - ウェザーニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Q0dkTzNRYkpkOHJxRklPeDJhemJnamVoazNMZ3dRdG1OREVyenh1ejAwVDJKcURpMTRsOUljMEZjekwxd2RJVUVFanhORlNMVTlzMg?oc=5
 
-- 「予測不可能だ」トランプ外交に高市総理周辺から懸念の声 アメリカ中間選挙“民主党過半数”で「国際社会での影響力下がる」指摘も（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBrS3hTRVNCdG4zaXV2V0VuUGxveDZjdTlaaFpZLVhRNDJidjNIUzR4a0w5aGpVT20xYmlHbk9rUEFwNGM5dW5zN2RwYVpjYXVCZDBPYmFoWVF1dWhRY3NZandmNk90OERiR3JNOXBDQXFHekZFX1l4LTIwVDREdlE?oc=5
+- 【速報】辺野古転覆、運航団体が市民乗船中止の方針 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qQTN2NUhSUWdmSm9pR1d2U3dSTjNXOHJrNy1wSVZ5SkJZZlp1R3ZOWC1saXhNazV1TU4yY1Z0N184RmZwVV92d3Fvdw?oc=5
 
-- "巨大"だった！クマと衝突し脱線の特急列車_体重400キロ超の巨体が脱線原因のひとつか…運休のＪＲ北海道宗谷線で現場確認した関係者が証言〈北海道〉 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1IelUtQ19SdUVKbGJkbEpLY3RkU2RkNlk2bHdrZ1VYZzdocDVucElPME8xanc4Smc4RERwc09OWmRoem1MVWVQMmNLQ016aGZ6UkhGb1ZjblYzVWVPMTB6Sm5OZ0YwM1Q2TE05NEtnczY4bWxTcHA1YXNPNkhvZGM?oc=5
+- 千葉 南房総市に「レベル4土砂災害危険警報」 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScllwS000cXRRekhqLTUxSkpxbGIwVUdpc2Q3WTRPRHJwZTNKeUxiS2Y4YVhCbzBPSER4UW1ydjh2RXFxeENQZzlEZ1VBaWQwRXFwT0MzaHBFUU1LUE1j?oc=5
 
-- 川崎市が発注した塗装防水工事の入札で事前に工事価格を漏らした疑い…市担当部長を逮捕 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YaWpJVGFIeW54cTRWYmYwaGJYYlEtRFpuNDJkRzZGdm56OHhNMHVmWVR6MHp5V2lCU2hta0lSc25PT0RDbDc3OUcteEhNaXktT3NhaWdsVFEyWk11XzhldG1Vb3Y3Zw?oc=5
+- 「再選挙」なら石丸伸二氏の出馬を警戒する声も 13人乱立の福岡市長選は早くも「2回目」をにらんだ戦い - AERA DIGITAL
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EQzdFVHlERmttVG1HOXVTRHNDeHlRX01ZeTdwdkc4Q3ZqaFFkNE1LMjFIZzBEU2gzY3pkWUJUUkNQckgzUmpfQkg2VFUweS1hUFJXYzVxTmRnUQ?oc=5
