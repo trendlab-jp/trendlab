@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ［深層ＮＥＷＳ］米中間選で共和苦戦、杉山晋輔氏「選挙後どこまでトランプ氏を支えるかが問題に」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ESmZLUy1VTkRmUEVhY3JFS2l1VFZudS1FMm1pODloYzZUa01PY0xaNHhjcEY0RFRKc1pGNGhxYlRvUUVTSDVKcmVHLWdGOWFhdVl4M1dLYlpJbEpiS2QyeDFR?oc=5
-
-- 爆破予告で英国発ポーランド行き民間機が緊急着陸、欧州で混乱広がる…負傷者は確認されず - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VbHdvUHYyMmtKcm1LUmQ5YzV6VC1HU0JyNFhPMF9VYWRlN0x5S0F5ZTlyeVdiOXhNLWI4cUZ2R1ZIMVVrZHhlVEhwcExwalVCc0x2bzBEckljLTRzdzdaZlNR?oc=5
-
-- 旧統一教会の韓鶴子総裁、入院中の「宮殿」通いで保釈取り消し - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE50cTNnSnpJbWQwR0IzNEhlcnNkQmpxb3hPUk9WN1o2dXotRld2ZzUzYTNRc3ZnUFhWY18ydnBxWUJLaS02dWFPYXlKMHJxVXdQenJyRWFkeGRHS20wVEFFZ3BnVkZVdGR3?oc=5
-
-- 海に新生児とみられる裸の男児遺体、死後数日経過か…殺人や死体遺棄などの容疑で捜査 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYW15MFg0UmVPNVhUZlJReEFhUFJQWVI4ZUp6MUdORU5xWElJXzNvcjg1MWU5Zjg5dzdhUWVIM0RZN1ZVcXNSQ213WFdjTlRPemQ3REtYd19TeFRhOVlCMW5WZWZ1Zw?oc=5
+- アメリカ中間選挙、期日前投票は前回選より３割超増加…郵便投票も多く開票作業長期化か - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYd2dyZ2IzNE1VdWVMeUlRODRtbTh5TmJ0U0JkN3JlQUhzZ095T29YdVdwNE44SnNFRXJ0LTZ6R1c0NFlvckUtQzhfNFJGNmg3TkxoaVo4QVpSWE9yR283MGRB?oc=5
 
 - 米軍がイラン・ケシム島攻撃 トランプ氏、大規模作戦再開「急がず」―報道 - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpdGljRUdaZ0pGT2pETUd5eGpKLWZCQWVkWHhFdzFxTmxjbW5hZE8tTExfZXFrUUZCTUF0SjAtMkc1aGgtVjE4TmVpUjhEMWduRkNYakFkLXFMRWFuQUFYR3Ztbw?oc=5
 
-- 細野担当相、15年前の災害対応を回想「この時、日本有事が起これば…」防災庁発足会見で - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE40NHZDUUltbkUwZW5TWmlFZzk2c0pWVTZ4UzBqeVFoYW1mRUQzLVk4TkZZTnB4RHZZMDhkdVdpUmtXdWNlVHpKWDZaT3FJMFkxTXlaMHQ3N1gwbmVPTUVFVUxNa1pONzB1MFhoZ0I4VEU5TTJkVUE?oc=5
+- ニューヨークやフロリダの投票所でシステム障害、投票用紙を読み取る機械が用紙を受け付けず - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XWm85WmhvcmxnZ1BHUlRqV1FOM1diWDQ5TGpNX2swUXhqRWd2LTJVenVBVEYzYlEybUo4NkE1R2tnOF9Hcm5sUXMxeFVhUnUzRDBPTHVNS21aWEhCOUhKSUR3?oc=5
 
-- 台風31号(インファ) 5日(木)頃に小笠原諸島に最接近 関東付近も雨が強まる可能性 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GVEJyTWNGRjNtc0MzakJMZEVoWnhzZjhqcHVVdDAwemQ0UVpnVFZYWndCX1hsSVpyMnV3U2U2S3QyclFpM1VtLWR4YVVJMWw2eDNtXw?oc=5
+- 台風31号は再発達して強い勢力に 明日5日にかけて父島に接近 関東で激しい雨(気象予報士 中川 裕美子) - tenki.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBDa2tWNERQWU55S05ITno1c1QtS3d5QTlPZzR4a2o4b0RPMm10QWhLS3hiLW50ZnVWaDVnTTdmNHRPcVpyX0xZRFcwOW9UaGlPLWw2RW9DTkhaRXpManB5Y2lpb2NqcTBJa0dTdA?oc=5
+
+- トランプ氏、イスラエル支援打ち切り表明…共和苦戦の中間選挙影響か「なぜ我々が狂人の攻撃に耐えなければならないか」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9oeFF4R2ZMa0VsaElKVVc1enF2Z1o0UlJ6MWhWUW1EcVVickZYU3VKRmYwRXBrQ3Q0bEdVc1p2ZkptN2FXSXNpQzR4ZHVCWmVRVFVRNUQtRUN6RkpaalFMdW5QY2JWS3BEbFgzRDluUU9lQm9BaEVSc1hLM2Jtemc?oc=5
+
+- 日本人2人目の死亡確認 スペイン高速列車事故、全員の身元確認も終了 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUZ6dHBDdE10V3hJanJPZHRId3VwbXNQSkNneURGYUFSQTNrc0VNeHNPRUJaMEQ5SXJEbENqRHJYYzkxM3hyVFJmWW90SGJfWjhJc3N5V01OdWEwaU5WWEdqV0RENWF4SVFpVWxLMmIzRGRQaVE?oc=5
+
+- 警報級の大雨か…関東甲信地方、激しい雷雨の可能性 埼玉も雨予報、最低気温10度以下のエリアも 強い台風31号が影響、あす5日にかけて大雨の恐れ（埼玉新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZ2dRSzBaOVBpNkVrajNfdzBPdlhmOXRoQjNYSmZZQ29Oem13cUl3aGZicEhYdjlSNUJ1QnhkWE9LbXNNLTlIV2E3UktJQlVydTY2Z1hjclV4ZlF0RmFwQ1FXSkJ2Rk1jTFIyaTB1NUxqZlhLNFJDd1hhMWpRZ1U?oc=5
+
+- ひと目でわかる今日の傘マップ 11月4日(水) - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE10VDRUc21NdXMyUDJYU2N4TWNzSTZSRTVNSThjMExNRzZRR21MSkNtbldSQmdvZnNSUFA5QURvX0tzS2NYOWdybkZaRmF0bVBkQUhXcQ?oc=5
 
 - 玉城デニー前沖縄県知事「戦争は絶対にさせない、憲法の下、大きな声に」 国会前で1万4000人デモ - 東京新聞
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LajdjTU5KZHl2WmpvRFk2TGdITTN3a1FhcWg4bmFNYU9scWxZUW1tOU9MYlhrQUM1UHViQ3gxeVl6dG9zMWZQLXpyQUU4Um9UTFdj?oc=5
 
 - 渡米見送ったＩＣＣ赤根所長、国際秩序守るため「今こそ行動を」…ビデオ演説に拍手湧く - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CcUtmeVllUjc3RkhSRE1NVGN6Z29LWXJia2hyR0JRM3pnLVh6QzN0U01JSk5Xa2Z6M1l2eUlweDRCU1JyRVE5a3FkSjJ1SmpWRVV1SjZ5Y3dPZ2Q5Z1BOUUt3?oc=5
-
-- 日本人2人目の死亡確認 スペイン高速列車事故、全員の身元確認も終了 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUZ6dHBDdE10V3hJanJPZHRId3VwbXNQSkNneURGYUFSQTNrc0VNeHNPRUJaMEQ5SXJEbENqRHJYYzkxM3hyVFJmWW90SGJfWjhJc3N5V01OdWEwaU5WWEdqV0RENWF4SVFpVWxLMmIzRGRQaVE?oc=5
