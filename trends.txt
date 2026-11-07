@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 「議員辞職ものだ」 消費減税法案「造反」4氏に執行部怒気 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Y2dXWEZVajlRRExXdVBGdTYzdF9Ubjg3WjdfX3pQcGl0b25SM0VQemc4NDVtSU1BaHgzNGVZZy1QTTlNTUE1SUppaWFlUU50TEptUEowNVlrY2daTDNCX0FOTzNEdnRT?oc=5
+- ［深層ＮＥＷＳ］共和党大敗がトランプ氏に与える影響「権限大きい軍事外交分野でレガシー見いだす」…長島昭久氏 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YnJqcjVPQ3AtUWR6a2szTDgtbjRpbjJCVTc1ekRMWTZLV1VsZzJyMkxtY2FBdWhkYzRla0tVZUpneDFvd250ckZKdFpKNTRrV1dab1hOeWdHdExvSHRLaDB3?oc=5
 
-- 政府がサイバー攻撃「緊急対策パッケージ」決定、強制遮断「ブロッキング」や被害企業に「官民救援隊」派遣 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTjNiTDIyQ0stRlhsMWpsRVd1bk90aTBNVHd5TFA5MnhLZmxpMFNURk1KX0k2dGFVR09fdWF1c3g2QzVERVNQZklRRV9yclc0SXUzbGhrMFhXSVVQeGE1MXI3U1NiQQ?oc=5
+- 「安倍ラインに」中国の改善シグナル 高市首相の「直し」で消失 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE93UlFzOFIxaHh4bkFla3RjM241YVpURjVjZVQ1eEY5Ymlub2JwOGZLcE5xak1SOFV4UGVETERJclFySU5LaUt6RnhIbmgwTGZVNTNkWmJ5cVI4WndldGZ6Mm9fQlF4bk5P?oc=5
 
-- 10式戦車、砲身内の残骸原因か 大分・陸自演習場の4人死傷事故 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTX0ZTaklWYjdZbk1fY1g4eDRuamhMMF9tZVE1cVZZYzBCS3BPZUNmQ1NqSzNsV1ZoQmRmVTRDU1hYb08zNUZoZHRmbkJxY25LVVdpSGhDc044ZmJDc3VBYngyVW1sdWh2?oc=5
+- 米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeDd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5
 
-- ヘグセス米国防長官の弾劾訴追めざす動き、国防総省の職員はSNSで一斉擁護 徹底抗戦の構え - CNN
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqZ0pZRkVsTGM3NFVMVHFWODRJYjB4T3RaeUpTS21GMkV4cTFxUDJ5eXNkaHlhd1JpSV9ramRaY04zR2o4VmJTaFRTOUUxbXpR?oc=5
+- 高市首相「悲願」の消費減税法案、自民退席の異常事態「矜持」どこへ - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rZ18wV2NxU05abUZCTGw4dDVhMDNGSy1iX3pEUFBMTng0R2pKYTNDeXFobll1US1JNUhHWUdKNVNHZ2o3Q01Kem5idE4tRVRab2lrWVRWWHVZRnZpcHRLczB3SXFPcDg?oc=5
 
-- MAGA連合に生じ始めた亀裂、CNN有権者調査で浮き彫りに 大統領選でのトランプ氏支持者が離反（CNN.co.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVE1ZWmEtVGd2TlZFTnBPVGJWQy02d0x2NDBYUXI0c0pIa2M3UHNIenEyTVRtQklBQ2xSVmVtaEhrSEZpMkh4dnlaZW9mY2xJd0xPbUVMcXo1QTB6d2JyS1dYYWFka0dlSzV4ZDRybzdrUWRuMU5mRk9mRVExYnc?oc=5
+- 駅のホームから転落させ、頸髄損傷など「治癒の見込みないけが」負わせた被告に執行猶予付き有罪判決 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vLXZBX0VwcW9pVWVpdlVRODU5ZnBQek5CODlSWE1nQU9uXzF5VnplQzRKMHNDYmsyOEY0cGFUX0huZHFaVmRfRXE4cGdxNnZHNjlGS1o4RFNFSFBBMlFXQ0c5SHlDZw?oc=5
 
-- 強い冬型の気圧配置に 北日本は大荒れ 大雪のおそれ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGN4bHBzUDJ5TFBZY3I1cWdVOTZPTzRTZE9tUW9vNUNzOHppdnh6alFhVFdsdC1nbFlYN2dVaDZpdE45cVNJcHh0ajIwTlFnNFZvTl8wRGxhZjd3aTdv?oc=5
+- 海底地形「ゴジラメガムリオン」、「世界地質遺産１００選」認定…海上保安庁が沖ノ鳥島南東の大陸棚調査で発見 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aMW5va1VhVkRQZUxOMExydkdVbXNEdlBTVElLSnFZUEpaTnNUbmtMelhMdUZDc29aQXZzekM0VVg4dG5TQk9oQjJJMmt2Y18zT1F5bkxNanhPcGFnalYxX0FIWlhpUQ?oc=5
 
-- マグニチュード6.1、宮城や茨城で震度3の地震 東京や神奈川でも揺れ観測、各市町村の震度一覧 11月6日19時39分発生 - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBZ0d4UmJiSUQ0OVNmb21EdV9tbGJjN25iSkwyZEVkZ2Etc3VtUkV5NU8xelE2NFJpUjJTZnNfemw2VUxnWUJoLUxYVmhuSEZ4MHRVUldpNHdpcG1VVXc?oc=5
+- 週間天気予報 週明けは急な雨や雪に注意 週中頃は晴れて紅葉狩り日和に - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oN0NuRkp1UkFOVzFUay1ON3NLS0RsVnVkTF81eHc3eE9nNklyMWw1X3lMZVBha2FqUjNOLTJHd0dZOWFmZkRxNjFGeGNMOTdLeTM4aQ?oc=5
 
-- 中国外務省、高市首相の台湾有事答弁の「是正」要求 撤回は言及せず - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5Yczl4eHdSaVluS283ajV3b2tfMUlvU3oxdlhWQ0lFd1g2aWRQX3ppTlFxWmlPclhJZUFiMFNVWXZoVzI1VVhpaVBocFMyYS1Ec0Fwb0tPYTdqWkIxV01TSkhQM3VRQks4U1R1UQ?oc=5
+- 【台風情報】32年ぶり「台風32号」発生へ 来週前半に進路反転 小笠原近海に再接近 今後の進路予想・シミュレーション - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQUhuWFVaUDN6S2FlZ0RZYWlYUHlaY0psZWc4TXRJU2V5U2t0cTBGS0hfM0ZOSUt0SUZRd0E2S2hiQXgteHRmaDlhcU1sQlk1eEVaOWFGci1wcGxLRF9ZTnRZcFpaX0JQMVB6UzdaZlNIbnBtN2hlZXRESHhObms?oc=5
 
-- 横浜や千葉・市川などの闇バイト強盗、実行役２被告に無期懲役判決「苛烈な暴行加えた犯行態様は悪質」…千葉地裁 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE11MS1mT3ZYSlNjTkJIdE1EZDdfMUd1QjJLYzVPV1ZqUjZHRlV6ejVpRlVtOXotLWVSSUt4LVBTRWxPaU5QVDRQNmZnOUpCQzJJdEpOWWZ0eXRNaExJQTNRLTBCWjc5UQ?oc=5
+- 元皇族の久邇邦昭さん死去、９７歳…上皇さまのいとこで戦後に皇籍を離脱 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNTRlZXhxU2NsU3B5bHQyNkRZSkpFVUI5X3JiOEF6WGtVbTZVZVpoNDczaG9GLVlieV9ZR0FBekY2VEdoa1MxY2NsaEJZVGZGZUdSNnh5TUdVZWt4Ul8yMENUYVVZQQ?oc=5
 
-- 三重 四日市の住宅火災 車で乗りつけた人物関わったか - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ekdZWENSUWI1OEpaSW84RGdMYmo0Q095YkJ3YWlsUFJwcmNoNWxidVNjbUstaVA3ZHFZTlROV1VoTGU3YTlmd1N6N04waWVvWEdmWUJyTXMxWlVHQVow?oc=5
+- 「火がついた人が入ってきた」発見遺体は“第三者” 三重で住宅全焼 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE8xRUo5Q0ZlODRzLTk2T3ZXUVVudEtFRTNOLU5IcUJTRHdyVHJGVTFXXzc3OENhclM3Zk0wWVJiTlZZWkJSZUFhcXBpbDVDNzlIQWJBOGpwblc3anh3S1EyTFJLM1ZDam9ldzZBd2JRTDZYZw?oc=5
