@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 週間天気予報 週明けは広く雨や雪 週中頃からは晴れて気温上昇 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xSWt5TkJubzBoQlpFVXIyOUZzQjFrMzRNZkdXUlpoMHh1c0dvWGM1MmpmcVNVYzBDbklmRFRPYmZpS3ZwNkMyOXF5RngtRy1MQVJ0Rw?oc=5
+- 愛知県で震度5強の地震発生 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSzQtTHNhZ0lYT3BVd2I0MEFkdXhkOWNwSnZCRnVjd01qRGQzTHZPNDNJZC1kYVpKdm5GMjdVeXRHNm1sWFZmdXZqMmpjUXZpOFg4eVNkWU53bHM?oc=5
 
-- 消費税減税法案の採決、石破前首相や小渕優子・元経産相ら４人退席…石破氏「金利上がる懸念払拭できず」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VQ3BfejFkSzJ2TUFGZm13bU1KNmY1aWxDMjhkcDBac0NjdGtNYVFkWVI4Q21XbHk1eHJoTFdqTFFjMjduQ2NiRjNJT1ZiTXhsT3h1MFA2Q1RQYmxuelJIb19udGM2Zw?oc=5
+- 石破氏らの採決退席、自民・野田聖子氏「しょうがない」立民・蓮舫氏「勇気ある行動」絶賛（産経新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNmhveFd0NTJmcXZSc096Ni1sU1NiLUVRdkFEeXVTNEZMcndONWVwUmtBdXUzU0F1LUxubmRqSjZ5S2lUdkI1azJUYU9ZM2FMYzJ3Zm4wY0JxckVQY0RXY2tHMHJoeVdEMW9lYi1fVUhTY29IVjVVYXB0RFBXQ3M?oc=5
+
+- 中国で服役中のアステラス製薬社員、来月中旬に刑期満了し帰国する見通し - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WEJtUnhINmlOcVFKS05na0dvUEJ4VlFDOFhVTDRQMmlhOWFjN25MYTNBRTl6MWlMbXgtdE42dzA1MmhCNWxjWDBGS3U2Q3NfemxLLWNaVHU4VTRrS0ZBcEhR?oc=5
+
+- トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新 - BBC
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBidXlxNUtkYnI4Q1VpOU1jcXZ2UkpQTmpfb21qLWFGZU83UEJuZVN0YkNtLXdvRU1vak9xbjhhSU5uMldqV0x1QXQtcEVuNjdmRlF0eW5VN0pjaHdvSzRrNNIBZkFVX3lxTFBjVTZHM3Nnb1VMMHVvUG00VHZEQlBnakEzWXgtdk1RUlFkRTBNb0pIc0UwcXlqaGNCR1Z6WHlFOEZ1SW9CYnBXanUtVkhXOHQ3bGJod2tsM1pNMDJPS3NNLVJCcGYzQQ?oc=5
+
+- 関東・東北・中部で地震 Ｍ５．６ 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度３ 震源は茨城県沖 地震が及んだ地域人口３３４８万人 - 千葉日報オンライン
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5leEFZSy14QUVuREU3N2w5TXZqT0pBaUhNa0RoLWtRazN0OHFBeWMwVW55LVR0M0pzeUl5Mzl2OGFjNm1NbmZvUl84cG13N3lsVkJxYkZVQTE?oc=5
 
 - ベッセント氏が中国側に「合意」の履行状況で懸念伝達、レアアース供給に不満か…何立峰副首相と電話協議 - 読売新聞
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rX3dBcVRnWFdZcDNyLWhlRE94eEpSMVFmQjc2dHZ5VFZ1RTVmcW1VOVJiZTR3RjZROWU3WVVDVVZtdlNTcmRWRXdNS3FpaXhjTFVhTm5XUWpCcVF0T0VDak0zeHE?oc=5
 
-- 台風32号が発生 年間発生数は1994年以来の多さに - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Nk5CZTJick9LTnNicXptZWhnS3BER0kxdUNZbHNjMFJibERQc184OEFFYWNwOTVoTE5xQTI2VHZNdEt5NTJVOC1iZTVzNkF4eU0wTlQ4dElvOHBFMGpn?oc=5
+- 【台風情報】最大瞬間風速55m/s・中心気圧970hPaまで発達予想.「台風32号（チャンパカ）」発生..今後の進路は?雨と風のシミュレーション【気象庁7日15時45分発表】（RSK山陽放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5DMkpVd3NNSV9RYWFYN1ZXaGlKQjlBUjlid3Jkb1o3Z3hMM3U1NHR2VGRvUW41STZTX3h1bUxoWFBlX1pIYlRnYlB1eWpnNUVXOXlUSlZHNGNoYzU3OEFhbVB3d0xJdHBkTmw1WkZsZ1JsR2ZzcFJsZ0hvcWhoWTA?oc=5
 
-- 米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeDd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5
+- 「比類なき」吉村氏が頼み？ 維新存亡かけた来春の「大いくさ」 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcnJ5SjhGeEFBN0FUaU90UjRsR1JadVZaRzFZSjBtRTI2QUljelNyYTRqa1huRHZyUVE0M3F3TXpXU0R4a0dqWGpJcnlfWEh6NWdXMWpYRk84bzlYT0J4aG5SXzV4dkRF?oc=5
 
-- 北茨城の海岸で漁船座礁 乗っていた親子3人搬送 2人は意識不明 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WTkFaNnJNd3lXVWJoTXV6dzEyajE0SzF6a084eFBfakxtZXNzX1d4cVR1UnNiWVl1X0FjTzZfQkN1QS1VZV9MMm15TjlFdm5UenJ0RTREcElBMkc0Rk8w?oc=5
+- ２０代女性監禁容疑の男「殺害して遺棄した」と供述、山林で遺体発見…女性は７月に警察に相談 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hdGI0S1VsMFZYWmNTOGt0NG9SMzAxbk9nY25Jb0liVnlMZ3paeW1rdTJnSVhudDAxN2lLY3VmU0s4TkFJUWNENm9kYmhiZi0yYnY2eEprWi1wYVFnMzA5ZHpGdVVzQQ?oc=5
 
-- 「運転席付近が完全につぶれている」新東名で路肩で故障修理中の列にトレーラー突っ込む 1人死亡1人重傷 約7時間半にわたり通行止めに=静岡・沼津市（静岡放送（SBS）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9kcmUtMFFNVUZ1MHpLY25rQ3JzaW54Qjh0ZmZrQWpYSlNIM2c4b1J5WjUteklrbk9oY3czT0lYZi04c0xJOUlWR0trZjNyTThKTnhHNTB0MkdvMVVJU2JJajF3Ylg1emRVMTFfOTFRcXBVYkNDUTk0cEM5Q0UyVlk?oc=5
-
-- 「台湾有事」発言、引っ込みつかず1年経過 高市首相「対話はオープンだ」と言うだけで対中関係改善進まず - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UURtYjFqM0d4V0RCRXJTZzd3UEV4UFIwQVVKU2JqWDU2emNXVEsxTjJLMEZWTHpDRGVPTHd3dXlleW1neW1lR1pWUFd4WHFwcTRj?oc=5
-
-- 酒酔い運転疑い、由利本荘署交通課の男を逮捕 - 秋田魁新報電子版
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE16X0QxcTZsN0EzRVRveWR2ZUFvMmNHd0pXNHM3TlprVVp6RUxRdkpGNlotWFVDcG91SDlxX3IyT3hoeU9NbFBxNktwRE9sc0pyU0ZSNHhQWXVPRF9Uc3JDaWFn?oc=5
-
-- 大分4人死傷の戦車事故、砲弾残留物が暴発原因か 陸自、年内にも公表 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE5SQ1Z5bGRPWmJ4RjVEUmNkVzZCZlhqTGhYNjB2aWVfdHJ3NjB4cjgwa3FaV0RnMnMyaV9ueWVSNElheTJvVldUYjVvZkpkdWlaQU9oX2dJeTQtVzZHN1Vob3YwUDAwdlYzS3p3MmFxdmpfdFVOSnc?oc=5
+- 漁船座礁 海に転落し重体だった2人が死亡 91歳船長の息子と娘 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFA4ckU0R2wyMDM3bEhTSVRWclVpUDhKLXFPUm1VcEdfaXlOcTNFekJJN0RfWkdPdkZTVDh2SzRYdkFDWTRKeXRDNzhwWWpBODlYZkFBOU0wT1FCM2FRRzFERk1TTENrbzZnVWtvYmRSajRLZw?oc=5
