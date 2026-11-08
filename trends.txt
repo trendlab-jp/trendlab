@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 愛知で震度5強【各地の被害情報】 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE16YUFIXzJWeHV2N3gyZENmTVhpZE1YZzQwMlVVcUc5R3VaTk5leWdYWWFKRS1ZNzdNalVmaEpQMzR3R0NNQU0xTlpPUWlWVXJqVXpqeTRpQm4yeVNLY1Zj?oc=5
+- 愛知で震度５強、気象庁「南海トラフ地震を過度に恐れる必要はない」…想定震源域内だが異なるメカニズム - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yZXYzY0Nycnk5a2xSSU0tcUhkVVZUbE16dmwtaWJvNEo5bnpUTlFwLUNDNzBrRHI4TC1xYlJQZVptVmVYNzFMTzdmZmxGZUQ5Y19lbnNocnVqa0JueUxZa283QXd3UQ?oc=5
 
-- 石破氏らの採決退席、自民・野田聖子氏「しょうがない」立民・蓮舫氏「勇気ある行動」絶賛（産経新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNmhveFd0NTJmcXZSc096Ni1sU1NiLUVRdkFEeXVTNEZMcndONWVwUmtBdXUzU0F1LUxubmRqSjZ5S2lUdkI1azJUYU9ZM2FMYzJ3Zm4wY0JxckVQY0RXY2tHMHJoeVdEMW9lYi1fVUhTY29IVjVVYXB0RFBXQ3M?oc=5
+- ポーランド南部クラクフで無差別銃撃事件 6人死亡、15人負傷 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwV2pxNU5LWmFIZ1ZmOHVvUktMU3FpNlhreWZtbXNXemx5QXJvVUx0SWNoRWowQ0V5VzFpZnh5a0VYb0dvaE5jOFQxVmRvVnJQbjhhN1FGdlFRRVFWdjgtbUswemFRUlk?oc=5
 
-- トランプ氏最側近、保守強硬派ミラー氏起用へ…これまでに不法移民追放など攻撃的な政策実行 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yaGlvVWhVTHpub1JsWk1Mbm9ncEJyNmk1N1B4eHRwZ043bFduR3N6bFVwSlB0X3gyRFdwVFlJMmdoQnJ6TUYtcmJTRUs0c2s0RGp0a2hfeWpfdWk5cm4xT0t3?oc=5
+- トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新 - BBC
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBidXlxNUtkYnI4Q1VpOU1jcXZ2UkpQTmpfb21qLWFGZU83UEJuZVN0YkNtLXdvRU1vak9xbjhhSU5uMldqV0x1QXQtcEVuNjdmRlF0eW5VN0pjaHdvSzRrNNIBZkFVX3lxTFBjVTZHM3Nnb1VMMHVvUG00VHZEQlBnakEzWXgtdk1RUlFkRTBNb0pIc0UwcXlqaGNCR1Z6WHlFOEZ1SW9CYnBXanUtVkhXOHQ3bGJod2tsM1pNMDJPS3NNLVJCcGYzQQ?oc=5
 
-- 「比類なき」吉村氏が頼み？ 維新存亡かけた来春の「大いくさ」 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcnJ5SjhGeEFBN0FUaU90UjRsR1JadVZaRzFZSjBtRTI2QUljelNyYTRqa1huRHZyUVE0M3F3TXpXU0R4a0dqWGpJcnlfWEh6NWdXMWpYRk84bzlYT0J4aG5SXzV4dkRF?oc=5
+- イスラエル大統領、野党党首に組閣指示へ 反ネタニヤフ陣営結集へ連立交渉：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rdDFtYTlZUjFscWZtV1A3MmMxZlNmRUVUU0x2ODQyY1ZpMEZORUxTclM4UDJnbEMyOGlQR0RhRTQyWGxZemtyTWVhenlackE3RjFNTVJIUXZKcUdNTUF2MWVkRQ?oc=5
 
-- ２０代女性監禁容疑の男「殺害して遺棄した」と供述、山林で遺体発見…女性は７月に警察に相談 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hdGI0S1VsMFZYWmNTOGt0NG9SMzAxbk9nY25Jb0liVnlMZ3paeW1rdTJnSVhudDAxN2lLY3VmU0s4TkFJUWNENm9kYmhiZi0yYnY2eEprWi1wYVFnMzA5ZHpGdVVzQQ?oc=5
+- 石破前首相や小渕優子氏らが採決欠席「消費減税・支援金法案の異様」財務省暗躍 田中秀臣 - 産経ニュース
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxQcm5NWFBKV2VfajVQZF9IWnBpTXJmUVR1WUtBRlVidEhHN2dJSE5OdG96U0FwamlQNWxsYlhJUGZ4ZXdmVzFkSjZvNURwSTFzcUtnOG1nUFVZSWJDa09GUlVVZy1VZ3NZX3JMQkJ2NW1EY0ZNcElscTFHaEEwbkU0RkE4SlJVSjNNWEZ1dWtUMHdUbnYzTjdDNng4VVQ?oc=5
 
-- トランプ政権中枢、対イラン戦闘終結へ外交的解決模索か…バンス副大統領が間接協議関与と報道 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE41MkFrNkEwV3VnNzZENEpxSDZmZWdaN1BSMm1oZU1ibTZiWmpzODlEUjBwTXFVdk1hejFWaEVHY0swcUJFSlc4WU5kSVRPb0F1RlF6aGFhYTM2ZGZQSFFkbGVn?oc=5
+- 午前は北海道と東北や北陸で雪や雨 関東など晴れても気温ダウン 今日8日の天気(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRENIdGRiLUpRWFlmN2F4S09INlREN2tfVEJjOFdLb1JlV3Y2R05tNEg4VDhDUGptUWIzUVlhc2NPNk9HclhHb2FxRXRiTWU1R3ZEckFReVVXaWVIcTBKRjRSZ2lKR0pabUE?oc=5
 
-- 関東・東北・中部で地震 Ｍ５．６ 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度３ 震源は茨城県沖 地震が及んだ地域人口３３４８万人 - 千葉日報オンライン
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5leEFZSy14QUVuREU3N2w5TXZqT0pBaUhNa0RoLWtRazN0OHFBeWMwVW55LVR0M0pzeUl5Mzl2OGFjNm1NbmZvUl84cG13N3lsVkJxYkZVQTE?oc=5
+- 熊本県天草・芦北地方でM4.3の地震 熊本県で震度4 津波の心配なし - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdXdla3NyOUl3UGpmck1xQmM3VHpiSkw3MjFzVTc4dkxlVUtSZVJCVUExSUlUdEdrSFN6amRabDNrZ1JpcXh1T0xydl9ndmhZcEFKaFdZdmp5VlE?oc=5
 
-- 北日本に強い寒気が南下 北海道は雪や風が強まり荒れた天気に - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYRlZrXzRzdEhiaVROeGNOSUFSQkg3Nk5zYnZrbFFMdjljQW0yclhSVGZkNmFjd2pHWkZGZWs3OTMxaV9SWV9TTC1aZnVXUk5SSDdDTA?oc=5
+- 大阪・梅田の書店で切りつけ、命に別条なし 男性を現行犯逮捕 - au Webポータル
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5ma25WSnh5WkxJVGdOOXJiQW10STBaMEJnY25TVnNyUlYwNVBWMHZ5RG1iQUNMbS12aVNEdTYtS2xKeEJBU25IdXM5cjBBbE44eXUzdDdDSmxXWi1XTnhuaGpvU1VQYU01dEVVckhn?oc=5
 
-- 呼び捨てで首相個人を非難 やまぬ中国の対日圧力、「外交カード」のレアアース輸出調整も - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBXQTRBNkFPWHRPV1lUYzBwRmVBY3FKNC1PRUdma1FzZ3lrOHNmY0F5S2haeXNHNUpUR1NUX01BbFM3NUFPSU5UZGIwNllYY0Q4THN4QkhjNjNldXNCeDk1cjFELVpNTnVEUU1ZOW01WW5uOTR1a0E?oc=5
+- 台風32号(チャンパカ) 発達して暴風域が出現 小笠原諸島に接近のおそれ - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbzV2Z1V3UXFHcXpqaXF5d0Q0QUF2THZ6TGNpWnJ3elZGMGFkdmtXczlXYnVFRWlvUnZJZmVfNkxEdFMyNEw2czRmX3Vva1FqMlROVw?oc=5
 
-- 【速報】中国拘束邦人、12月出所へ - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wd2FwZTcxNG5hZVlpR05iXzVnckdRaVB4dndQVFMtZ0VKX1JsZUJYRXQ3QkJuajRfWl9RWHNNTl9UT0J4ekVZNFlNQQ?oc=5
+- 稲富修二氏、20代以上の全世代で支持最多 追う調、森、新村氏は 福岡市長選情勢調査 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OVkZxZ2JHaWtmaUFsQUl0MWt3dFVqamNiVGlfSmhQdHgybDBoS01CekdUWnA1aGdwMFhIUExZUkU5REpYUW85WWtweFd2ejhzakNPNXhR?oc=5
