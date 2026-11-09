@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 「消費税減税法案」採決を棄権した石破茂前首相ら４人、自民党が戒告処分へ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DcG9Ya2lIaTZ3anQ2bjZUQWU5X3J1c29jOTJlRlZwOTVSNk0yeXlNVkluZ0F5ZXVXbkVFR1JCb05ScDNNOGRKQnhrUk5ac0lyck5qd3BmbzRwYnJlR1kxSTNETjlJQQ?oc=5
+- 戒告処分の自民・石破茂氏「厳粛に受け止める」総裁経験者では初 小渕氏ら3氏も戒告 - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNOC1aY09lMHRVWGd1TjRYZUtQeGpGWWNoU3QwXzhDaWpnY0hsdElNSzRTaU1tQnZMMTIwUGpvQk9fVXVTOEpWc3dFWU5POHBWM04zdnJTc05Cb1RRaFQycUg4ZThDTmhqVzVpZV9ZSmZlS0V6MEoyUkFRWmdLc1hjQ2k0T285dUdMdkhWNA?oc=5
 
-- トランプ氏、移民取り締まりを後悔 報道番組「60ミニッツ」で語った主なポイント（CNN.co.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5PeS0xM01GZXQ2Y19fMUVqd1JTUlFLV2F4SUh2OHlyWUZqV1RRWkk4LUdNaWVQaTFwcHF2N3VLaUZkQXMtOTR1c2w0YzQybl9rX1NKTGJpdGZsVXFMdXZQckZrSzBLMWg5SVI0ekdWejM3UEJ1VjRsckFxb2VUajA?oc=5
-
-- 読む政治：インパクトは「隕石」級 衆院比例「統一名簿方式」導入案の行方 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SdmNVMzA1ZTJPbU14alhseXRjV1RjTGFXLThZT24xY01zeWM4UHIzZXpKMHcwNWVvRk9lVGxSWGJubHVXd09tXzhBSUpHU2ZmRGtxR1pVaUJOQ2hBWmxUeENYbDREXzJO?oc=5
+- 気候変動：7000億円の請求書、宛先には日本も 気候災害のツケ誰が払う - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vLTFGT2pkNkFuZG43aVV0RUVzVjl3UGZjZEw5bGpHNFV3NEJoOVlHUHlLSlBRbjlXUGZZV0oyd1lzS1I0RnJNTG9GSG1ubHlDYUZSQkFUbGtQX1hLU0FCaGdnVHI4UjBU?oc=5
 
 - トランプ氏、イランと戦闘再開の可能性「極めて低い」…イラン外相「米国の有権者は選択行った」と投稿 - 読売新聞
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nU3ptS3g0Y1dELTZacWh5WmViUUp3UHFNQ1hXR3hUeTI1Rjh1MHdUS000aE5kektnQkpmMWRvS3BUMjdPY3NmTFBtXzFKV1lQaXRsSXo2QkxEdE1iaVNoRmV3?oc=5
 
-- 約３０年ぶりだった愛知震度５強、南海トラフ「過度に恐れる必要はない」と気象庁…計２２人が重軽傷 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxLU5MMDJ6eVFobUZiQXBLV3RHdGZ6UnM0MmhlaHJZMDZzcGV3c3d2UVFlSXlCYzRoNWtLZ0pVMDQtMzNlY2pFdUdNRmtTMlpybkxmZ1VjX1gxbzFoTm9JT2h4SUxmQQ?oc=5
+- 震度5強 震源を静岡県西部から愛知県東部に変更 気象庁 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE45WmJBQWsxUC1Vbnh1U09ZVmpCdncxMDB1OGdNNG9EUF9TMERzZjMtc3E2Q1VCY25KeXVwMHFIQVdPQ0JOR2RKY3Yza2IzYUhGc3BRQnNsLXcwSWdEZ1Rn?oc=5
+
+- 読む政治：インパクトは「隕石」級 衆院比例「統一名簿方式」導入案の行方 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SdmNVMzA1ZTJPbU14alhseXRjV1RjTGFXLThZT24xY01zeWM4UHIzZXpKMHcwNWVvRk9lVGxSWGJubHVXd09tXzhBSUpHU2ZmRGtxR1pVaUJOQ2hBWmxUeENYbDREXzJO?oc=5
+
+- 8割近くが屋内で発症「低体温症」の怖さ 毎年1000人超が死亡、気温急降下でリスク増 電気ガス代高騰で“暖房控え”も - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1idFJHVTIwODd3bTFhUWc2TnF6WFB2SEwweVJJLXA0ZVFfVzFLMzRUUzM4a2hwZzVSNkN5YWFjRjZwYWdEZHp6dnZpdlpnOVRNbGl1dEswUC12Skw5VFhoLWV6NjJrRmZJeGJpa1J2MTlibllET1BrUjl1dVQ1a0U?oc=5
+
+- 高市首相、ＡＩ対応で国際連携呼び掛け＝仏主催会合にオンライン出席 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE56dmRfWG9lbV9HUVpEQ1R0eFQzemtyQ21NRUhrRnpPLXlyWXBVX1JTS21iZXZzam52SGdWdjk1dWJXcW10YzhFckRmRGpHR3FqckxWUWV4YWQxZ3FISUdqOGhkckNWUUNueUlXNExNbUFEUGQydXc5dDE3YjXSAYIBQVVfeXFMTzc5QjRtM2lmTGVLV25KTWFuaGZ4SDZNRTdaX2l6QXFfUjlBN0dnRTFwWWwyWkJmak9CXzF6ekY5aEd4TU1XZG9Pb3ZwVjJiVWhIYlYzM0ZCTkNJckJOMFZuVTcwV29LTWNXeUdrWU5JdG9QQTMzbTFKSE5tOHc2VlVTZw?oc=5
+
+- 高市首相が党幹部会食後のＧ７オンライン首脳会議欠席、「全く飲酒していない」…木原官房長官がＳＮＳ指摘に反論 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ld1kyN0hsQjdVS0xXR1lmcEhaalk4RS1iLXNOcXdkOXplT29LdnhRZzJQNWlxU2VuaTZQUm05SHlDQVRSREJ1NGdtRzhvZ2FBZnZmc2FHazZrMkxuMDV3ekZSNnNodw?oc=5
+
+- 強い台風32号(チャンパカ) 明日10日(火)夜に小笠原諸島に接近 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMT0JidUdzT3pqcU56Ulg5Y0pyeGY0al84dVpQWlNZamhHSEsxYW5KcXhYTktKSldqejJCRl9yYzc5RTI0UDIyN2syNTdQbTdQUWhqdQ?oc=5
 
 - 宮城県、福島県、茨城県などで震度3の地震 津波の心配なし(気象予報士 日直主任 2026年11月09日) - tenki.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1OblhGaE1BRWU1endNWVotWUlWVnFKZ19icmhQWlJmVmFoTFhjM29iTkk2WUZkNE8xMkc3Zm5SczdPLXBLdUFJTVBzbkNJdUxjSG91TFdfQ3BHVGFNR0pGS1BLSVFqM01WcFE?oc=5
-
-- 全国的にすっきりしない空 夜は日本海側で強い雨の心配も - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U0ZmNy1tdmR6R0ZpamQ1THFEOUVLaWRjeWM3ZC0xRFVUWFVMV1c4M3BKTk4zV3YzdGpuc200MWZpblR3QkMweUFiaHFtN2gwa1FoYQ?oc=5
-
-- 台風32号(チャンパカ) 強い勢力で小笠原諸島に接近予想 荒天に注意 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KY1EwUC05OW95YmJNSlU4cEJUYXRRTmR5bHhGbnhaNnpsU1dXQ0w2ZVdNbDhDb2hRbGx0RXVJRmhDT0JsaGJvOC1HeldETTNrRWxORg?oc=5
-
-- 交際相手の3歳息子死亡 41歳男を逮捕 首つかんで投げ飛ばし足蹴りも 福島・いわき市（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1obDA4MGp1VFVOaTBMRU82OHRHNUp0UXRaWjNlS0tiY0pyMlhwVnVIU0FDZGtocXdsVVlPMURQdGdxbnpVU3Q0ZXhOaUdMWXhsWEtwQ1VDbHp0dTRGYWZ0UjVQOVAyQkJIajAyVHczTEFXNTlJWGk2SndIMUlycGc?oc=5
-
-- 【速報】26年熊本地震で初の災害関連死 八代市で1人認定 死者39人に（熊本日日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTGhrSWFCV29qV0k1SU9CWXBnWnhPRk9XLVNjMG5vd09CQ3FSSjVXOGx6Ymx2UTd1M0NYRWpkWlZnVDF0cUJJQ3d4ckY2MDZ3QmhYbkhsb2NZcjlWdFhmV0ZQS3NHNWRnemI3ekZ4aWJGdWxCTkE4cG5mT2xvamM?oc=5
