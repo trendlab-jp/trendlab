@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- ２５年参院選の１票格差「違憲状態」、最高裁「国会の議論膠着」…裁判官１５人中５人は合憲 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSjJqUkIxdFotRnFpbHRWSFFqeHFNS3lQRDQyeUFCZmpySjEybWtSZ0FRaEM4T3d3TUxTU1lHbGpHZzB4d2NtSjBDZ3FCYnJQVWhLNzNZNjl1TWRuZnpWNWtBVlVfQQ?oc=5
+- 自維国３党、衆院定数３１議席削減へ法案正式合意…比例選で「修正サンラグ式」導入し中国・四国ブロック統合 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrWWRsTGsxMzhacnViLVdvcmtrb3RSNXFVX25EUWhtWG1qemswSFBRX2hveDhfUVhIc2NVT3JHUUVhZUcyYk4zdkF0dTRaUWtaMl9yTDQteVFuM050ZEtPWUQ2b0c4Zw?oc=5
 
-- 安保3文書改定のキーワード「拒否力」とは 小泉防衛相が語った「抑止」と「対処」 #エキスパートトピ（高橋浩祐） - エキスパート - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTU5lazRaeThhbXdOZWZhX1A0dmt5czJJNFhybzBOLUpTOUNEeDhnWGxNX1YzZXFBeXlOUEwzY18xeGxGZm5vU0RiVU00ZzRSUHh5bXk1YkZXLW9WejMtQ2hpWC15UFpMMHVFRFM2T2V2U2pZVm43dGpuXzZsWHJWeVJrendPenZa?oc=5
+- 米衛兵、ヘグセス氏を叱責 戦没者式典でマナー違反 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOc1ZqOUJhcEtoU2loZjBZTDRrVS0tQlZjeEd0ejVlVlNBRk96ZHNoTXlFMnJGaXl2TTlxY2tHOXc2NGEzTFdFUGhRaw?oc=5
 
-- イランによる暗殺恐れ、ベッセント米財務長官が自宅から基地に転居…経済制裁主導し標的に - 読売新聞
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE15dDQ5VTFsa0pBWDBLS1Vtby01ZEsyRE5YbWdlcjRkcVJUNEJMUlJlVE16c25OZUlsalZqang5VWJFbUN2RU9rNkh5Y2FxeEdWd3BrTU1Fa3gwMm9Ebm9QZl8xang?oc=5
+- ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdVJEa3hfLVZieGo3MnFtdnNOcWh5bm85eTVlQWtEeVNLclE5VTlBOWZGWUREUjFHcmtydmRjSGVFamxGNXdNU0pIeDVUeXpmRlpHQTlpN3JDOWRXc29jNGxFOG1obl9wd25Oc1IwMnRXX2JyMGNYQ0RCNzZTNWs?oc=5
 
-- 自民・森山氏、退席4氏は「国民の気持ちが反映されたのでは」 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sTHZEUHhiNUpCcS1CUEFBWHczUkd5MlBTenkzR2xDdVN6NXRib3BYRGgxS0cwT1lmNjFKTkwwSVRETUxEWXNJSWwzam9LSEduMFB4dFViR0pPYXA3MVZRaTcxeU12OTRP?oc=5
+- 富山の交番襲撃事件差し戻し審、元自衛官に死刑求刑…１２月８日判決 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE93TTkzVG1DVHdBWWx2UzZYWDVMbkFxYjV3ZWFNYmFtOE1kTHJkaUJWRjlBZHZHSXBULWlCOW5kbndSQkpheElxX2ZNbG5NdFNhR01tLUgtQUtVdDNkVHZ6dmZyQWI2QQ?oc=5
 
-- 福島 いわき 男児死亡 母親が夏ごろ“県外に避難する”と説明 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xT0NBNVFTbzAySWROSGNmSmdCbW8yUkVnMTlFZG9ZaVFPZVJLOTBienN2SEFsV1ZXUWlqVGQzQW15R25GcWsyck9VU3J5N3BGaDVtbmpDcG9FSVRpSFFn?oc=5
+- アメリカ ニューヨークで建物が倒壊 2人死亡 17人けが - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NUEdrX1JXMGc2STlidHZJYm9tU1dqaHdsRDF1TEVISEFkbGhwUGRNNmVpeDlHbklQTllwazZ0dTF2TlEwU200cFVaejVFdy1qZ2x2ZUFRaFpWVktwTWQ0?oc=5
 
-- ヘグセス米国防長官の弾劾決議案、下院でひとまず阻止 - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPUjJhV2xXeUtEc3puNjQyTFpyemJFRXdKNWFBLS1Za0ZfakdEMklncjlFTE14RXFqeGFQTGVZY09YS2xYY3hQMWtaWGRaMVlmcjVWaFBDVGFGWDhYdjM2X9IBZkFVX3lxTE05S1lkcWR1WHJqYzFOZXRXQnp1UnBjWERZZ2c5akdBdHBTNUtfMEU0NXB4MndMNmhkOU5QWmFoZzFPbGNlMnNOLVJlZjNhNW5Pbk1VOVItLWgxQnQ3ZUMtUmJnYTR4QQ?oc=5
+- 来秋予定の自民総裁選に早くも動き、「首相支える」明言の小泉氏に出方探る林氏…ポスト高市へ最適なシナリオは？ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQQnU2TTN3OXAzcGotMlIwMDE1UXJhSlFHUmVsYkUwdkM2djJnajdSdEhkdTFqUk1vSzYxNjVMeU5ZaXJyU3NtUWVuZWVWTlpLc24wZWdTYlJQUmRuMEo2T1I2Nk83UQ?oc=5
 
-- 両陛下、ベトナム主席夫妻と会見 昼食会、訪問招待も―皇居 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Oc1QwbVlhbzdQX01xUVphMHRtUjhET19fUVo4b1lMQ3FLYnoxMHFZOVp6T2NneEdxWTAwMVQzWmJQc0E3eTg0bTVNUVZvZFFoUmcxM0xIY3I2SUtmeFUzY25EMA?oc=5
+- 本当に同じ党なのか…核持ち込み例外めぐり揺らぐ自民 被爆地思う慎重派と米戦略にらむ積極派 - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MTlNVEU5TWgtdE0zVHJiZVdrQzN3V0FQU3dDckZBdGtwYXFSTEEtOWpCTlhlLXF0RTFDNWo1TlEzT3k1Q2pFaWNOQ2FVbVNWdzQ4?oc=5
 
-- 同居女性の唇を縫わせた女、初公判で起訴事実認める…「うそをつく口は縫っちゃおう」と迫る - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE55X3FzY2pQVGJTYlhVRHhLSXE0MG95RW5HMFgtQktjaDc3UXkyN0xESUt5MUFVX1pKaXpTTF9QVzZiWkl5LUROcWowTHJuSVR2Z2JHbEtwSmdYYVJVd0tiVllfU1hRUQ?oc=5
+- 京都 亀岡の養鶏場で今シーズン初 鳥インフルエンザ感染確認 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE53aWNpR3lsYU5HU0dLdEVBWjlvalhKbEVmaG1KQTg3RUFFeW1uSVhHODFLeHB5UGNJbGhMemRuY1lSUExRT1RNMlFuZnhhekxoN21WcVpjV0NRYnJkSzZN?oc=5
 
-- 太平洋クロマグロ漁獲枠の配分 韓国・台湾と合意に至らず - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHWUVlakVYSGdadjRwNVRTZEhNMVAxNVhoU3M2Z0hqZm5IcEFvTi1pN0dvR0o4clkxa2s4MWZOQnhua2p2Ui1jR1kxUUpVdzBwRXE5LVgtcEVYVVlfOWpR?oc=5
+- 18日～19日は風が強まり荒れた天気 後半は朝晩の冷え込み強まる 2週間天気予報(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBnODJ0U19kMno3cnJ6SzE1a0RQaW90U0VaYU5wMG9FT19LYnVCdzRzaC0tZ09HTGozcnZ6VVBEVXRlMzZPMUFRNVJQY2xLOFRqRkZhVV9IZ0laY2JXdWlCQjMybXNSSlNFT2c?oc=5
 
-- チャイルドシート基準見直しへ、有識者検討会が初会合…「身長の低い１３歳未満」も義務化想定 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yR1pPYVRKektub1E4XzZqMWVmSWd1ZXc0ZEt5Q2NLS1oxN1BoME1RWkhkRjM2RTBvYlBJV0tmVm5IaHNHMzAxdXNvN1hRUG5lWlgxNTB0UFQzUVZIM2NweXY1bW82Zw?oc=5
+- 全国的に昨日より気温上昇 昼間は過ごしやすい陽気 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xN1FJU1A5R2V0VVRTWU9xZDktajd3eUItRzlKX0w4S0RLclJZWnNCMmJ3MkdxUXhKT1diRzBvYWVFdHRzX3duR3k3Q0xzemxVT0xYUw?oc=5
