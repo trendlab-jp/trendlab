@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- アメリカ側が「思いやり予算」３倍の５年で３兆円超要求…来年度以降の日本側負担巡る交渉、難航の恐れ - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZTDUwazhpRTkwdWs0VExPazh1WWNRZWt0bWw3WmhvU2ZiZkRSZC1NTVEzOXhPenlyTlk5dFpzLXZDUmpwVTlZc29scVhBWkZOTUVidzFtOUF2ZXR3OFV4V19CTzhmdw?oc=5
+- 「無名戦士の墓」の前で笑い声上げたヘグセス米国防長官、自身を叱責した衛兵に勲章を授与…「よくやった」と投稿 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYUlJKVjhPX0l1dEtqb3RGLTJsU2JLbzd0YlB2cWZPQWFjeC1OZ3BScmZUblhZb3ljSGd5Z1hZOGx4T0RmSWVDaG15N2t3dTlzcUpRNUJfdUlSbFdjZlZXcTV3?oc=5
 
-- 麻生氏「結束して臨むのが自民の伝統」 造反の石破氏らに苦言 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYmVkWHNtV0N0RkRNOS0xLU1oSV9xREhMcWsxeUZ2RUFJMXI0a2cwcGpOaDZMeHJBaXM5UGhabzZLTTZHM2dQTHQxek1SWTFZdm84T1hWNlM4MG9ncENIZmQ3dDRYUWNq?oc=5
+- 共産・田村智子氏、石破氏らの採決退席は「無責任な法案の表れ」消費減税巡り立場超え批判 - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk1sb0p2M0xOUF84QVhaQ3FsbER1WTdVSWlITUNhYUVRY2IxTm9OXzdGbXV2dTEzYjhGYzhCaDBpVndpdGJNWFV1enFnczlVbG1wZ0tFU1RYWnFUTGdnT1F6eTJtYk55VlpibWhFOVlaXzhWUUVPWkp0M3RZQkx3REFVc0JtcW9zR0pRNw?oc=5
 
-- 【速報】自維国、定数削減法案を共同提出 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOempNUDEtZ2tQc19rMFVIdTd4bHotTG55OU9DclF3WVExaDdnbWRJaVB5ZjVHMGw2SS1Td21YTWhMTkQ5T2FfazJUYw?oc=5
+- 山崎正昭氏（84）死去 現職参議院議員で最高齢、6期目任期中 補欠選挙は統一地方選と同日の来年4月25日 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fVUZxNFY5VHBRNVRyX1BsSE5zME5zNHNXeU5WZ2t6Nm9lMGV6d1FZdUZNcXRSZWNoZ21Dbk1ic2s2MlhxZzllXzFTYXp1UQ?oc=5
 
-- 戦没者追悼式典で笑い声 ヘグセス米国防長官らマナー違反で衛兵から叱責受ける - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9KMEFtOFdaOW16dEl3NkFTZEZTS1Q3N1dKTzgzeU5XcEVsN3VnVnd5akJGTXFzc21Ga0VBWmMyTDF6ZXQ4MmEwb1ZtWnJqbTQwYXpfb3E1NjRjQ1BvYkxaWG53UW1wb3RKSjRycnBKc3oxRThoN1E?oc=5
+- ＮＹ住宅街で３階建てビルが倒壊、８人死亡・１８人負傷…隣接する建設現場で３月に工事中止命令 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xakRpWFpweUJpOHlRME42djlXRENQTHNYMHB3UEtrLXB0c2xYS3JvNnJ1eUdRZmoyZ2kzOXBaNGlKTTBXeUdzY09FajVmaWNDLVNxRTBCTkw3TEdvRUVZTGd3?oc=5
 
-- 広島の３人死亡火災、住人の長男を逮捕…何らかの方法で火放ち自宅を全焼させた疑い - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yeEVNMnlmZ3hhNTFiM2pBR1JTZ3lrSEdkeFhVd3I3TU92UG1ieXdBcUpNT3k4cTRKRVNlbHV5dV9tajdOOEg4blVXaFo0N1RhdlBZcFhrM2ZlVDd4Sk94a0Nmd1dtQQ?oc=5
+- COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odmFrUXViWEZxLXBETllSalY1ei1KMnViSEFQWkJoU1FKajR0X1ljMmw1ZHlGdHlJWXlvV0pJRUVzdmlsdVBNc0xQMzVLVEF5OFJzdGZCOWZRZmlwZjVN?oc=5
 
-- ウクライナ和平の3カ国協議が終了、突破口は開かれず - BBC
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTV0ZMTW1PT3dmdHgxLU9MaGJIMEgxdnptMEJTV1dUMWhJclhBWUtPMjd0NEtYQ2x0MXZ0WURjLWZ2aXg1Y192dW9jZ0plVWZ0cUpZbXprWWFlUkJwV2JUVdIBZkFVX3lxTE9NOXktM0NBWFpDRHRnQW92MlpwV293bVdDc2ktQkRaSXpKR3o5R29EX285ZFM4VUJnQmJuczRQLTFoOWNuUEhhaVNHdlRQZ1ZzcUtBam9hbEY2aVlZVXNiQVRXekRwQQ?oc=5
+- 山形 寒河江 住宅火災で3人の遺体 3人居住 連絡とれず - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUFBPTFJISkhadjVmaV9SY2dWUEoyNjVDSlVodWpGQURYc1hxN0NUMTk0M1BtalhoNUh5a1hvODlRLXFnR0pEUlpfVVBsQTkxbUFKRXFJTW9teDhCc3FB?oc=5
 
-- 週間天気予報 日曜は全国的に雨 来週中頃は荒天の可能性 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWXd6Xzc5NzNyMG1ZWHpFUVZNU3JWYnFNNFBlNTM0YmFVVWxsdWl0LWZ6aWVSODVmRWg3YVhxb3UtaXdicVhRTkFPWEl4QkZuaVQyZw?oc=5
+- 18日～19日は全国で雨や風が強まる 暴風により交通機関に影響も 2週間天気予報(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1PRXc5Q1Jld0gzd2JIZmZhLThPNldKRHRQSldobm05M1lBMTQzSGxxS3EwNFFUaTBvWC1Oc2d3YUlBVkJZQjF5czZqQXdpTjZZbzl3MzZuYkUzdFc0cWk0ZEtsLXB2dnhmRlE?oc=5
 
-- 福島の3歳児死亡 園は9月ごろから顔の傷やあざ確認 (2026年11月12日掲載) - ライブドアニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3ZU5mNFpJN3pzYlg0VVNvbHI2M3RoYmJWazdYTW5lQWk1SzVQN2hXOGtZTkpFbmdRNHYxZFFhT0pFV0x4OWdydzMxWmpIOFVqNWlhVE9vNlFoZi1STHc?oc=5
+- ロッカーからの窃盗は誰の身にも起こり得る 見逃してはいけないクレカ「ICチップのすり替え」の手口 #エキスパートトピ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSG1NbmUySC1tM2RtTnlCOFpmaGVId1IyaWh0c1lnYnJnaFpHcTBpVTNrY1I0Y2NZMmRkUnhEdHNnVWFOS256UFBaSHZqbjhlNzdxQzN0OXBZcEQtdEs0Nk9uT2poMmRVa0lfb0NFUHBWblBNNjAxSmZuNzl1SElicDRuZDNfVVJx?oc=5
 
-- 【社説】非核三原則の例外明記を検討 抜け道作りは許されない [高市政権の安保見直し][安全保障関連3文書] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yblJNS3h4dUJOWXFGOTZsUTl0UjUxQUFNMFFxQmhkZFRvTGhTdDBTbWVGbHlraEFZbnZseElqdDB1aWk3dkpSckZaNi12ZU9qRUJoZXVWUUJ3MExzTmdQdDM2d1Joajg?oc=5
+- 那覇のおでん店主殺害 初公判で娘夫婦は起訴内容を否認 (2026年11月13日掲載) - ライブドアニュース
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHYzd3LXQxQXJrNkNGM1lVYzJzTFdrT3pJX09LU0NlQ2c3MXlmc0tGUHRxTFh1QlJtbmpQMm5QQjJ4SnIxWTdLUUlDREVWa2V5YkdLV0VaaWZyeDNmSUE?oc=5
 
-- ルフィ事件の渡辺優樹被告 共犯の小島受刑者が語る素顔 (2026年11月13日掲載) - ライブドアニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wRGFHcl9aSmRPanVvU0JOaWJmenVVQkx3SFFzUXIwWmdkcHJEdUw5RFNIVDl2aHA2cGluSzEyb1FZZ0p4UHlhYU5ySnJvSmtxMTd2MHdPTmNsc0ZjYmc?oc=5
+- 安保3文書が映す世界の激変 改定の軸はAI・無人機、半世紀で急転 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE4wdXRWekJsN2FIV1BqajBZY2xzQXQ4Z3dXcVpqN0NtXzZWbDZnYmlJNHdPWWEwX1hnVmlEUnlwZllsb0txeVRTRDVUZG5UZkJrU1pTWUNxYUtfSW8zTGJGX3VOUUxuUnFjVmZUSg?oc=5
