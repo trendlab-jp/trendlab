@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- トランプ氏「突然の方針転換」か、対イラン「合意不要」と投稿…合意目指す局面「とっくに過ぎ去った」とも - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWVFOUFlTMHhVY3l1ZjN2TkpwRVBwaXNjX2hoSzVfSTZKNU1waHVKUExrY2Z6WW9OTkZmQnZBb2hBQi1ia2ZydF9CaFdXWGd6ak8yR2ltWXlBUWd3VTU4dHVB?oc=5
+- 米中露首脳会談、１９日に中国で開催…主要議題はトランプ氏が意欲示す核軍縮になる見通し - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWX29TOHlxOXdOVWdHcGVvSk9IdkZSZkRhN1YzQjFZYlk3eUVXVkFiR0J4YktHMVBGeXJHSTl1U2o1RlphNFAydldUMjY1VXhRdnVZUGNXNm41M3FnSkhBaXJn?oc=5
 
-- 支援金、勤労者５割対象 高市首相表明、子２人世帯で最大６万円―消費減税法案、参院委で審議 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pajFrcjZwTUV5UEJWcFl4QjlWUXFLWDdBSnZ4aFR4WnhQNE1uZnV0OUxfNEsyOUNkSTZXOXpRV2cyVXFIVl9VTWlfaE42OHhNeE1odGlxbnZkQUQ0eDdYM19kQQ?oc=5
+- 米ニューオーリンズでタンカーと遊覧船衝突 129人乗り、救出作業続く - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMHllbVBYVzN2SzVITlBKUXNiaTktRjR5UkFlSFlaVk5yRmtLU0dVNmFkUWJtUU5xZkRTVE5YVnVzdU1oejZPalBuX0pvTG1aMks3d0ZyOVNFV3c5T2lyUk5pcHozUmdKQ18zbw?oc=5
 
-- 大阪 枚方 3歳女児死亡で両親逮捕 虐待か - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kWTcwaGl6dFF4a0VGMHRaZmZtNTlHaWNBQVAya2V1VjNHLUFOek5RaEhwd0IzNmQ1UWM1S0tPOFpYQXNxN18waFd6b1pkU2RibE44dXpPcHBOVWsyUlhv?oc=5
+- 海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5
 
-- 海老名の県道交差点、女性２人がひかれ死亡 トラック走り去る - カナロコ
-  https://news.google.com/rss/articles/CBMibkFVX3lxTFBPT01TRy1fandpUjlneWZpdFRZMTFoaWtCVWhzNU1DZnY5cFNFQ29ENlVsdDZWQ2EybWRJVTBVYmQzLW9WN0VqRjloUF96S0hqY2haVElpd05xZ3VneE1IRzg3TzVZTFlQTV9VUXFn?oc=5
+- 5回の虐待通告もなぜ防げなかったのか、枚方3歳女児殺害 市や児相と警察の間にあいた穴 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQlV2VmZpMTF5V1ptUGJNZ2NEeGd5SmZKZ014bXhXTkZnbXdtUjJPdU1CSm9fQzBqdlNGZXYydnVyUlZrRHlfbUktMDQ1NktMN3A4VG5xQjE1VW8zaWtvYTh2ejA1VkhmZ3oySVVvQ29zZERUV0E?oc=5
 
-- イラン バーレーンの米軍通信設備を攻撃と発表 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9tUHREYWNVN1kxQTNXTTdLTjNxcDJNMjI5QU5NdW9oNGN1NlNGLW9PRWtyV1oyc1JkajZrTGZqcnJWOFlIX21HNjFzZy1Ma2Z3ZmR0NTRnOFA1Wmdz?oc=5
+- 高市首相、公明取り込みへ攻勢 過半数確保に危機感―消費減税法案：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsUzJiZ2JKal81RzFYa3d2cl9KWlRZb1B4WUlrS1lsWldSOGJvTGU3Z2FuTU9rZGtLWXk1Z29YazVsaWZwX1h0YmhGUTc1QXpXNXRyTzZYcEE1UXhRc0Nod3JlTQ?oc=5
 
-- 来週後半は晩秋の嵐 全国的に強風や暴風が吹き荒れ荒天 - ウェザーニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qWnZCVDV1Y2k0WWxCTi16YUw2OTJIbHhuaHdGMGdGd21yR09iRDR6djhTc1lfcFNCQThXQUNNbmU2N3BiaU5XWXVBdmlDVExLNV9KZg?oc=5
+- 九州北部で夜遅くに非常に激しい雨 気温は高めで20℃超えの所も 今日14日の天気(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFAyQ3FXdUpKWTB3aXV2cGM0S0tIZDg4UWRYSWJudjhTYnpPT1ZraVBHS1hkTzRWNm5LQmU1NmMxaWdsajBJSlV3YThXd054OUhzSTRGekdmbWZ0OVZraFhTaWpjMHVrQjBQT3c?oc=5
 
-- 小泉防衛相が「拒否力」説明…「相手の目的達成を許さないことに主眼」「我が国の防衛力が目指す考え方」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yb3o2QXI4VUoxQXZVQjdKbUFac25NSmJxSzdmSDJWVG1LVHVmcDVEWmd0RHh2MGFfVDI3UUNTM2dWVTduMDI0SjVTcGtkemVWV0Z0THN2NlNKMklIVkR5RE8tUGxxdw?oc=5
+- 速報アジアプロ野球 侍Jvs.豪州 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mN05GeEkybTVwR203STJocEl5Z0lrMGdoMTgwVDdfWDBrYmZuekpvU0tVLUdkWDg2Z3VYVDJLTHE1dmhGTUlfNVhldnlMRG1E?oc=5
 
-- 徳島 阿波市長とともに詐欺疑いで逮捕の市職員と会社員釈放 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE95cEx6Z3pPNmVyTml3VlRuYXJ5bW1FUmhBTUpzNF9BeXY1dXN0eVVRVUs4TUFOa3oycWZuSHMyV2pHUWRVWWdGNzltX3cyeGo4MXY4ZlZMV1U1V1hYbFlF?oc=5
+- 中国の日本渡航自粛要請から1年 台湾有事答弁への反発で継続 日本旅行、実は人気？ - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDA2UVhGYkNSWnh1UUpGOWNJZTRWZ0w0Sm1NQXZVVEV1REVMSjBYZjFxRGZCemV6MjNpcXdzUS1pZDFCVGdKYlZRRm12RzFIemJRSjdlcnZ6N0RUWVVsZnBYMm1yZnR4V2Z3WHB2OFoyTjB2S20zX0Nic2ttT3hJdVIyY2duWjFSZ3V4Vg?oc=5
 
-- 自維国共、議席占有率アップ 衆院比例３１減で試算 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xaWlRMXNlQ21YajZvc3FpeDB5YzZVVkE2dnN1RFZaaWl6TjNfMVJ6alZhQmdfa3pXYWZrN1I0RVZOaENWTm1xT3hoSzJJdGt1NWRXNFBWLWlLbHVPcE9QT2xwbw?oc=5
+- 「奇跡的に総理になれた」「権力に非常に執着」元自民党の重鎮が高市政権を痛烈批判も“荒れる賛否”（週刊女性PRIME） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ma1JtMDNsUHlwaTZNcl9TVkVMdTdxUWpwTzVhZWEySDZTRTg0U3dwZ3FtQ1FTQ3k1NHJ5cllXN0hKUmphSGxvc0QxVjQ2TjhCelJfS0dGOE1sNHgyNkhaWmlKVzRmeHY5bFFjT2dfc2lJSFo4RGJnUWNjeFZGM1E?oc=5
 
-- 北海道新聞記者拘束、スパイ防止法制の議論に波及か 身柄交換に期待、運用にハードルも - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBDX29KOC03TGtXRXlGVUhIRV9WaFVyT25zZnFCWGR5U1FmR2l1eEpCRTZFbnZ5cXA0S2daTUszY2hVSUI4VW8yUUZDcV9NVmtYcVB3dEdISnUzc2xzaXlpeURQUTdIR20tV2Z6cGZLdkRIUmhGZWc?oc=5
+- 測量の作業中に突然岩が崩れ... 大きさ1メートル程の岩にはさまれる 現場は沢筋の「ガレ場」 29歳の男性が死亡【長野・天龍村】 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZURhUkpvcjBWWVZEMkZyWEJZWTRiR1JmTVVkZUVGcGd1R1lSaWw2aG9lX1F0bW1XT1NCZHpwZk11aEZ2VlZKVXBveDNZdmpwenRuSVNmUnhqa2pWTlI4T3pLT1ppRTVHSkg5Yw?oc=5
