@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 米中露首脳会談、１９日に中国で開催…主要議題はトランプ氏が意欲示す核軍縮になる見通し - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWX29TOHlxOXdOVWdHcGVvSk9IdkZSZkRhN1YzQjFZYlk3eUVXVkFiR0J4YktHMVBGeXJHSTl1U2o1RlphNFAydldUMjY1VXhRdnVZUGNXNm41M3FnSkhBaXJn?oc=5
+- 「史上初」の米中露首脳会談、核軍縮など協議も米政府高官は「合意に至るとは想定していない」「入り口だ」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yWnBEaGdCNDl1Vm1aVjludmJ1al96V1QxbGFWcEVGeEFBV1F6U2FHRFhhYVhjZlAtMHFFazRoRmlfNkdSNlRvOXZmMjczMldNWTEwS1VGNnR5a0FjTzVIOVZ3?oc=5
 
-- 米ニューオーリンズでタンカーと遊覧船衝突 129人乗り、救出作業続く - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMHllbVBYVzN2SzVITlBKUXNiaTktRjR5UkFlSFlaVk5yRmtLU0dVNmFkUWJtUU5xZkRTVE5YVnVzdU1oejZPalBuX0pvTG1aMks3d0ZyOVNFV3c5T2lyUk5pcHozUmdKQ18zbw?oc=5
+- いわきの３歳児暴行死、事件前の対応巡り市と県の主張食い違う…市長「同じ思いなら最悪の事態防げたかもしれない」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iZVRqdk1yWHF0dXpqRE1YNm5yZm50WHNWRzNWNkR6eE5fZjJVQTAtWEs4dVB3VDhVS3UwX0JjMlVMQ19sRWxJdnAxa1dOYXdnNU5iNXFkbWZJUVhuRFY0bTZFVEptdw?oc=5
 
-- 海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5
+- 明日11月15日(日)の天気予報 低気圧や前線が通過 全国的に雨で激しく降る所も - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1taDdYZkV0MkZoVWhXQ0pnWDl2b2hTN0k5SWtUZjZGN3BsLWtEV3B1SjRDMEItLUhwcUZHLTBndzYxdWVVUE5XdU5heC13Nkl3ell6Ug?oc=5
 
-- 5回の虐待通告もなぜ防げなかったのか、枚方3歳女児殺害 市や児相と警察の間にあいた穴 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQlV2VmZpMTF5V1ptUGJNZ2NEeGd5SmZKZ014bXhXTkZnbXdtUjJPdU1CSm9fQzBqdlNGZXYydnVyUlZrRHlfbUktMDQ1NktMN3A4VG5xQjE1VW8zaWtvYTh2ejA1VkhmZ3oySVVvQ29zZERUV0E?oc=5
+- 海老名市ひき逃げ事件 トラック運転の49歳男逮捕 容疑否認「全く分からない」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5LT0Q2UnpHT1NlYnFHSzM4UnFYckI5OTlnejJMWVU1QUJIR2NUOFhIWi1YMXU3QldlYWdHeXhrQmF1VjRaV3hKX2ZnMnZ4dU5TZjVpRGtmek9SN1gwRjcwbVl0WDF1RUxoRG9TclFfUG83QQ?oc=5
 
-- 高市首相、公明取り込みへ攻勢 過半数確保に危機感―消費減税法案：時事ドットコム - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsUzJiZ2JKal81RzFYa3d2cl9KWlRZb1B4WUlrS1lsWldSOGJvTGU3Z2FuTU9rZGtLWXk1Z29YazVsaWZwX1h0YmhGUTc1QXpXNXRyTzZYcEE1UXhRc0Nod3JlTQ?oc=5
+- 米大統領選、不出馬検討か バンス氏、中間選挙の共和大敗受け - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE93cmRNSnROQkp1R2FPaDQ1bWlSa1M5WjE2dk9ERXdKa3hyQWdtakJaSHZpS283VGU2YXJ3dXFTZnZIWmw1NjY2Y1FRMTVtMEdjcWgxazNJeF9adTgtNTJlaTFHTQ?oc=5
 
-- 九州北部で夜遅くに非常に激しい雨 気温は高めで20℃超えの所も 今日14日の天気(気象予報士 日直主任) - tenki.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFAyQ3FXdUpKWTB3aXV2cGM0S0tIZDg4UWRYSWJudjhTYnpPT1ZraVBHS1hkTzRWNm5LQmU1NmMxaWdsajBJSlV3YThXd054OUhzSTRGekdmbWZ0OVZraFhTaWpjMHVrQjBQT3c?oc=5
+- 三重・伊賀市営住宅の家賃滞納、最長３６年４か月「督促しているが」…２３６戸には別人が居住（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1FR2FlUjl5Rm54WXBzcWxSWndHdWFmSF9rR2pzQU5jbU13QUg3YnprRExkWEhsQlBRclJ6YlVwV290MXJyWGxmZ3JOUm4wMDNxaVYyNG5fN3NrQzlNblN5QXB4YURERjJzQnp0ZFdyZlgyeUpuVm1ubjdyejdjdTg?oc=5
 
-- 速報アジアプロ野球 侍Jvs.豪州 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mN05GeEkybTVwR203STJocEl5Z0lrMGdoMTgwVDdfWDBrYmZuekpvU0tVLUdkWDg2Z3VYVDJLTHE1dmhGTUlfNVhldnlMRG1E?oc=5
+- 大阪・枚方3歳女児虐待死 3月にも女児の顔にあざ 8月の死亡時には数十カ所確認 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBxNm5FNEEtNHAwWFBDb3NFbTllRnpZbEhuR3FpcjQ1VDRBWHVodjloRms2VmtGMmwtWFAtZHM5enNSY3dfZU1YdEs5ZFZDSTF1V0xFQjNmcm1WVE1QUnZQYVZWVVZPM2VSakFCWlctazE2VUlXb0E?oc=5
 
-- 中国の日本渡航自粛要請から1年 台湾有事答弁への反発で継続 日本旅行、実は人気？ - 産経ニュース
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDA2UVhGYkNSWnh1UUpGOWNJZTRWZ0w0Sm1NQXZVVEV1REVMSjBYZjFxRGZCemV6MjNpcXdzUS1pZDFCVGdKYlZRRm12RzFIemJRSjdlcnZ6N0RUWVVsZnBYMm1yZnR4V2Z3WHB2OFoyTjB2S20zX0Nic2ttT3hJdVIyY2duWjFSZ3V4Vg?oc=5
+- 安保3文書「同志国と実効的連携」集団的抑止力へ強化 防衛省、国家防衛戦略に方針明記へ - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFZPSnl0NTJpUmdYYnRGVEItOW5nTEFsTjRmZmZhN3J4Y1pSdFFwZ2VweFNWRUdfVU5hTnBWdThvUWJUUVVySUU4a01KZXVQel81dDFWNHJYR2tCRW1xdjFhT1NZN0dNUFJDSGc5OExTeE5BelBSRHMxTFNISFF3WWFnbS04d1R6WGwxeg?oc=5
 
-- 「奇跡的に総理になれた」「権力に非常に執着」元自民党の重鎮が高市政権を痛烈批判も“荒れる賛否”（週刊女性PRIME） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ma1JtMDNsUHlwaTZNcl9TVkVMdTdxUWpwTzVhZWEySDZTRTg0U3dwZ3FtQ1FTQ3k1NHJ5cllXN0hKUmphSGxvc0QxVjQ2TjhCelJfS0dGOE1sNHgyNkhaWmlKVzRmeHY5bFFjT2dfc2lJSFo4RGJnUWNjeFZGM1E?oc=5
+- 「私も侵略の甘い汁吸った」戦争遺児の女性が語る日本の加害責任 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mRTlUYmpFTTljTlFSTnFDS3hKa294QVFHT2NzMHlFU0MzRko5dUVvVUxNcW0xMEdZdGRDbkhvRzBCeG16VzcxUlZHNXBRckFRLU93QnNLbHMwMVFIYWI0MWJDTGg4Z3Jw?oc=5
 
-- 測量の作業中に突然岩が崩れ... 大きさ1メートル程の岩にはさまれる 現場は沢筋の「ガレ場」 29歳の男性が死亡【長野・天龍村】 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZURhUkpvcjBWWVZEMkZyWEJZWTRiR1JmTVVkZUVGcGd1R1lSaWw2aG9lX1F0bW1XT1NCZHpwZk11aEZ2VlZKVXBveDNZdmpwenRuSVNmUnhqa2pWTlI4T3pLT1ppRTVHSkg5Yw?oc=5
+- 男女が路上でもみ合い 夫とみられる男性切りつけた疑いで女逮捕 「殺すため、刺したことに間違いない」 - 神戸新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9MWmhESVpoSDJEMEhYRnAyTDNMY00tVTdNUGg5Qk15MXczSEZFQWhyWVh2TzE4dWhUWGJTNE9BS3RZcnFNc1hKdHN5YndHX25KU2xiM1M3alFmdjBydDVJcW5kZGd5UkJZeVlsaw?oc=5
