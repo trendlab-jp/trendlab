@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 高市首相、プーチン氏と約30分対話 日ロ首脳が対面では7年ぶり [アジア太平洋経済協力会議][トランプ米大統領] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TcjJKNzlJWEY4cEJqZ0JhbFlGalNvMTQ2NEN5Q3d5ZWo4NGw0Uy1xa2s3YlhSZnhKNFVCSXo5ZmZMMWNBeTJjSnFRS05uYkJPYVdRV3I1aG5aN0o4b2xMUi1vdmFCN2c?oc=5
+- トランプ米大統領、米中首脳会談で「台湾独立を支持しない」と発言 新華社が報道（産経新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE16Rmp0SGdyUVpzQVlYQkVUTTJUbU9MLWdHUExsMlBlYXo2bVQ4REFFb3B6WjJkYUlxWklFS1ZCc0FqY3JscVRscmdtV3lKN3hhU2d5RjFWVEdreVkzUDRobUNFQ3pVSFZCdHI3ZExsZjI5U1V0Y1RVdEcya1lwczQ?oc=5
 
-- 習近平氏とプーチン氏、トランプ氏との会談を前にすり合わせか…習氏「中露関係は風雨に動じず山のように安泰」結束ぶりを誇示 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE14TzFiWHhMQXh3aFN4bjRWTUZqMGp2Q3Q4cVJScFdYQXFmNnoxRGg1ckxBdG5uSG0zYWpzelc5TEE2ZXNEd2ZWTERKai1MY21vc1p5NFBpRnhZeHNLU1hCdlhR?oc=5
+- 死亡の3歳女児“パパたたく” 警察調べた児相側記録に 兵庫 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aSmJGWi14LVEwQkVKMDNkeGpCQTc2a3JxS09wanRxMXdWRUdnZWItQWYxcjRNeVhBdjhaYzBVMXhNZzNkZ0RGaHFfa0xlQ05fSEdfYzZaWlZOYWVXcjFJ?oc=5
 
-- 米史上初 黒人の下院議長誕生へ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE15YzZCYUszMnRWMURuQWU1UVJzWFB5SFdPLWNaRUxZb2xBRWpDc0lFOGZNTjhZQTRuS0VGMWFJNC1DRERFeDFJcWtLdlI2V0xV?oc=5
+- 小泉防衛相「見たことありません」 立民・辻元氏が政府広報に陰謀論系配信者起用で追及 - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzdFWHQ5MTZJMmRxMjhnMlM3VkhCcEFPclQ1RkYyZkFVeVdrR0RkaW1mcmY5MU5ZbE1QOGxYQk9IcTZ6Rm1WdGN1WGNJWG9ScnR1TlBhNXY3UjZjMEFTNDZPdGxYTExqUzhEVGlwNm1ncmVzMEFYeU1mV0VnNHdvbDdwVGlNMWMwcmNXUA?oc=5
 
-- 21日にかけ風強まる 暴風など警戒 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZk5BLXBwQ29lb2dScDRidVROa2xrMUhDWnBXVG9NMGhIazgxaHpaT1pKZUxpM1FfY2FWbG0zQjFucGpFUU03WnJ6cXBWUFF0?oc=5
+- 愛子さまの振り袖に描かれたランの花、七宝の帯がつなぐ両国の縁 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50cjBiUjZCclFRTDNMRnROc2EzazJvM1hCaUlTdGlwZVJGMUNwMHFmbTBod3doYkJRTDNqUG5KamNiMGRLOG5ST0hIV0JESHNQSTM0RXpfUEV3MHBtYWp2NVV1T0FLWEk?oc=5
 
-- 熊本県で震度5弱の地震 今年8月1日以来の強い揺れ 津波の心配なし 九州道の一部で通行止め - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLaHNWZnJWNERaUXVQRXo2TEh3anczWVU5WXVxNWwtek9LbG1QVkVkMnZWLVo2NklsRmR1STFqUGtRa3l6NVl0bGVQY0tiSmZ3X2NXZGZFUQ?oc=5
+- 【速報】高市首相は、台湾に対する日本の立場について「日中共同声明の通りで、この立場に一切の変更はない」と述べた - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kaEk3RzRTZk9heFNkRXQ3UEZIM2xDalJHVUhDeDFzQTBObS1hY1RQVzhNelJaWGNhY1hzVC1kM1I4M2ZiZkZrVEtwb21pTFlRZThiZ1BMWG10OWFTREFKOVB2dUwzUQ?oc=5
 
-- 「4年間で800万円ぐらい使った」東京・中野女性刺殺事件で逮捕の男が供述 送検拒否 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBpNFpLUnd6SnRWVThERmlKWE5CMUF0SkxENk4yZWlBSlFCY1VQVHJxZnJURXQ1dGd0ZmoydzFJRGdqZWtCZ2dLLWdNdk5GZV9KcXc1UXJjZjVyeHRXRUlrZ0NwV3hMRVZwZ1pkTG80eXNjQmpPZ2c?oc=5
+- 3連休は今季一番の冷え込みへ 東京3℃・名古屋2℃予想 昼間もダウンコートの出番(気象予報士 石榑 亜紀子) - tenki.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBfSm9sYzBaWlpJMldkcDBUSS00THJ6R3VMem9OWWNuaUtzbVBPel9kZUdteVB0RXhOS1FWZm5fdzFrR2ZDZWU1QWtyaUdwTUwwTEJEdTVrVlQtOG1QZHhhUU5nREFaU2Q1eEZUYjhn?oc=5
 
-- 「自民はここまで弱いのか…」「高市人気が全く役に立たない」 大混戦「福岡市長選」で“自民系候補”が4位の悪夢…党幹部が頭を抱える“統一地方選”への危機感（デイリー新潮） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBMQXM5YUJPM0RpMS01N21SQllpWkpNMDB3SFpsNW5QRjZZMG1ER0ZMMDRIVkVzWWQyZUpfR2xCUERueGNxd3VHb1BSVG40c0lzQzUwdXBZVGpRWWkwbTl5WEU3czdGU1RtekxpNzNUbGVCN1R4UXlUd1Rxa25iOTA?oc=5
+- 高市総理 トランプ氏と電話会談調整 首脳会談を受け 出迎え待遇格差に政府は - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE52TEY5VXNia1RfeDBaTWtzTFhZWXFvcnY0WmJvZXZkSmFCOXJMb3N5YTBOQloxYkU3cVRTcG9ZS0lzS2NDdFBTa2ZiLTNYRlkyU182UUNmUzMtME10RHdfQjcxWWFtSHZITVJFdVdUbF94bk0?oc=5
 
-- 2人死亡ひき逃げ事故、容疑者の勤務先を家宅捜索 神奈川・海老名 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wUWsybXhmN1N5T29BeFNLR3lMWFV2QWxxY1AwMlBnMzNpazA5NVpYY3JKMkNTclhrQ3BYc3dxZzVmVm1ZYVN0TTE3SFdHak8x?oc=5
+- 高市総理がプーチン大統領と対話 拘束された北海道新聞記者の即時解放を要求 JT現地法人管理問題の対応も - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Jd3dXQzJpSzFUYW1sQ1hudXlCTThOT2ZBQmFoV3NTY3RiZEFFVmZOa0JvQzJfZGFuRlRJWXAwY0F1YXlqdEhHV25tVG1oUQ?oc=5
 
-- 天皇、皇后両陛下の長女愛子さまがシンガポール大統領主催の昼食会でおことば [写真特集11/15] - 毎日新聞
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTRvUjQ3UlpxNm9IX0FiS3p1c3pOR3NrOGRrM0dNNjNjLWxYaV9lYURpbmhLRlBaUE4yMWFQTUVnRDJteE9xcldoM0JkXzdxSGJCMlB1S1dyeFc2cHBIZkFDVmZGcXdNNVBBdDN3SUpCcHpmU3UzdzlEdjhCaG9aZ2Rhd1ctcGM?oc=5
+- 逮捕の4人は仙台の中高生 愛知・小牧で強盗関与疑い（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYXZGa0k5aVAwR3RvMklLdU9hSFlXVURRbU1PZTVQalNGWm5FNTRQMWVzNlFLRXh5UFlkemNVTy1NRlBmQnQ2Sm4wQXR3b0h6Nm80OHl6OWdJWFhWeW9HOS1PSzZKWXh1STQ1V2J5UUMydnpxOHpIdTR4ZGRzVVk?oc=5
 
-- 富士山で遭難の中国人に懸賞金 警察は捜索“打ち切り”決定 在日中国大使館“閉山期間中の登山しないで”呼びかけ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeTdIS2FUaDAxdTRXLVJVOVpyNnUwVDN2MHB0akMzQ0pScEpNY1hjOS1DSEsxMm16WjltVnhHUmFibm5RamJkZEtpR2xjUXc3?oc=5
+- 「クマに追いかけられた」 通学中の高校生、前橋 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1sTnRjbkZXcHJPYnlFdWtHZENWYnVaaWhKSUxSZENCaDNVUGtlYmczUTR0Sm9MNlpMb0NuX1FCSVN3TlFMaHVpS0U0ek1RMy1XQjlYVlJSejhGX3RUT0xpVjhvdWlOLXlzQWxWaFJvS3dPb2NtSEE?oc=5
