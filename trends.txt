@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 関文科相の辞任論 与党内で拡大 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE84ZGFCdTVEQUc5THlGa3llcU5UUmxEX3d2d183ajVoVXpGU25rQUE5SXFlT3E4dERsWlBxUDZCTXUweEVsYXZYbWdDWlZPN2V0?oc=5
+- 首里城正殿 完成祝うテープカット - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKRThJdHpCeGg4REtVaHFBaVF1bTZySWQ2TzMxT2RmN21UaXR2Vl9RS0dmX0xDZEM5X045MzJjSlI5VGdqalI3UVphOGJ6WmZ5?oc=5
 
-- 焼失7年 首里城正殿きょう完成式 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kakRfY2J4SGswa1pkazVRT2pRdVlsRWZlOFAzMTFFNlVPVnh3MEVjcjZTaUYxamNMRlI5Vy1zSzZ4Sy1HVHBLZEplQXJpS2NM?oc=5
+- 孤立状態の福島・北塩原村、緊急車両通行可能になり一部宿泊客が帰宅開始…防災ヘリで食料や水届く - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yem5OV1Q1U2RuTGE5MVhRNlBIb1R4bkMwZHRGWlUxa0hrbVNUdnU4REg4MHVPaFlWeThVNzRSQ1RPLVdrb0hyREktS0s4NC1zUVJja2pQTVhFUVdNalBMVzNmVXdNZw?oc=5
 
-- ＜更新＞北塩原村で1300人超孤立 住民や宿泊客 大雪で国道、県道に倒木 停電も続く - 福島民報デジタル
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzVThkM0JMUHZEQXhIMlREa1RXczVuN2ZNNXYwT2FzS3hyV0RzbkVTV2t6NTE0UzhCR2RPRG1TaEVLbk5ISUhSajdwSlA2ZGs?oc=5
+- 益永死刑囚が死亡 連続企業爆破 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE91TmZzZy10WG1HM2Q0Y3J1UEJpclVsMEVlbzJ1QmIxZlJoaUV3NmxPbkNxTzE0OW1fd1lMS3pXZmV3RmVKZlVERFFjQW4xbGhH?oc=5
 
-- 世界の核９割保有する米中露で「責任」議論、トランプ氏「日本などは少し取り残された」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVER6bzJkbDVCV0xNYXNINjhPU01Bd1dyMDcwcmJ5T0dfOWJNYUhhYkNwRzVCeHJmRmRMNnZjcnliZUtVODBkTG80alhpTURwdGFwbVVRMy1WM09WWXF3ZlF3?oc=5
+- トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9nQ3RIU3NrSnJuN0FURUd1cjJTc1VqVFFiVVZWbDlkUXRGXzVXVFlubDA5ZkFFTWs1RWp1a1RBWFZmOFZpYzFXXy1LZ21mMko4aDFjNHZNY2VKdV9PWnZRYW5sN2hxTnVicXBXMnJyVE5zellSSnRnbmFwdXY2Mlk?oc=5
 
-- 【速報】イランがバーレーン攻撃 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oV0ZlMHdQOWZ6Z3JLaENILUZ3TkdlZzhURnhxLWp4N2p5RW54OU9QUUdvUlRBUzFneTFyY3FMNHFlb0drRnlOXzNFRQ?oc=5
+- 非核三原則の「例外明記案」に岡田克也元外相が異議 核持ち込みの余地残した16年前の答弁の真意も語る - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXNUp2X3RTMlNHT1JWeVZDb2lwcTlQU1AzeUxwTzdVYWZSdjNBdkNSSWRjbElJUmRsNGttLXk1alY4Q2lqeGhWT1p1czQtOWx0Nk1j?oc=5
 
-- 米の集団防衛提案に疑義 ゼレンスキー氏「不明確」（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQjNoNmVTUXdrckVRVlFSa2M3RXZEaERqTXNLN2dRaE1MZFFKTUprOVktMkl2aTY4MzV1aHF4b2hTcUxsSm5VbVRGX2Q5bnMwZDh3UV9sRWU3QVRrR0JTYUdfdnhpNGtCOVdCOTVPOHgwX2tEYlM2ODhheEVTRDQ?oc=5
+- 習主席が高市総理に返した“一言” APECでの中国訪問で花束も演奏もなし…政府関係者「最低限の礼儀もない」 プーチン氏とは30分対話【サンデーモーニング】（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeGR0VGctdWNwSHVZV2JqRWFCMXBDN3d1WmdiWTIyemo5aEdPcFJPVFAyMlM4a1ZoQ3JWbElFYXJla09NSWdSazJKRks1QVlyQUxMMjY1SzFCQllCYkNJYzBGcnNZNG1nY2lfc0lLcXZmZ2haVDNLclZyVm1TZTQ?oc=5
 
-- 兵庫3歳死亡 家庭へ復帰なぜ判断 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFAySjh2NjExVUFrQ0V5WmhwcFp2ell6dmhZclRmLTBkVUdCaDVzeFBDaHdEX2Y5NXA5NnNYcEY2TlNtdDZEbkg5aE9zMnJCNndE?oc=5
-
-- 保護されなかった英怜奈ちゃん、園の関係者「できたことはなかったか自問している」と無念語る - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tOVFwWmVmU3lLcWsxOFpvcE1KR2NoU24waFkydlFsOFdtNlZCYXlJcmR5SXluNDNrM00xcjdTYlM4anA5dFRwajVYbFVBVFdTT2U1bWloYjVoTl90U01RU2E2WmNoQQ?oc=5
+- １枚７０キロのガラス十数枚、柏崎刈羽原発構内で荷ほどき中に倒れ男性死亡 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HcTFSSjVydW1HYWlzQ0FQVmpUQUFiV19vZnhWdjMwU2xXcGJRTlJLMHZYWG55RE4wNlRrSVl3RURxZm5tVnJQcEVJZ2FFamEwektDRzR0aUpOdnFLU0NfcDRLcFZyUQ?oc=5
 
 - 愛子さまの感想全文 シンガポールから帰国、宮内庁を通して公表 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90QkJCTEs1eU12UTc2eEVCSnktNjg2QWRIaEpuRW5BWEUxNkduVzQtS3JJOEVwakYxRmhyMFNhdmItR1ptenJYcTBHWWZieElzN2hScUtpc2pyYjFaX292R2kyX09wX2c?oc=5
 
-- 【速報】東京・多摩市の住宅玄関前で生後間もない女の子とみられる赤ちゃんの遺体見つかる 全裸で土がついた状態で腐敗 死体遺棄事件として捜査 警視庁（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5xVHBQZkR1cXRRdXN1T2xpS3loS2tpTWdyd1B2OWFoaTc3OUJLN2xoWGttSEtJM2RsRVpOX3hCTDdxUnlkMmlMRjIwWmJHRmtKTGFJZjBKclhGemZyX3JZaXpTV0hCRHBqZlU5Wjg3YkhBT3JFRl9EU0pLN2lPQW8?oc=5
+- 奈良の空にブルーインパルス 古都の名所上空を華麗に飛行 - ウェザーニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TR1dWaFlmbjdlOGtJaGFmcG5jN054VG1Ib3k3QmcwTEYzbVA3bkRFY1FxeDJFT0Y2ZVF1RkdTbmtJb2pkWjNOZG1NUFZNNDFqT0pnWA?oc=5
+
+- 雪の範囲は次第に狭まる 気温は上がらず 晴れる地域も防寒を 今日22日の天気(気象予報士 日直主任) - tenki.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1CdHBTN1VVREUzNFpEbVJ0NXA0RW4xZDREYjhLdTN6a01uUHE3Q1hwN1FWckI5dWhpd0QtWXJtTndKSF9HUHcwNWFQMWRyZHcwcjBBWVpQQjVGQ0dSenpfSV9XT1ZBTVY1Q1E?oc=5
