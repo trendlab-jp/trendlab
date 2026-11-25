@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 中国の宇宙船 初の外国人乗組員 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSWVqWlc1dHBxdTBrMTNHMXJ5bmFnRng1VjU3OThUbWRFa214WU1GeloweFJjNXFTeXRtYzlzWnh4SEFzaVpiSUkwMlVmOHBt?oc=5
+- 福岡 駅員殴った疑いで49歳逮捕 男性刺殺事件と関連調べ - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BY21waXE3YWFNTVlXR1BidFFLTENTbjVRQmh5dU5oT1gxRGF3TkNBdUlabFdqUXlZVnBQLWcxZjE0ZFJYUTJZc0Vob0tnbndXamxCcGd6S0JFNUl0QmRz?oc=5
 
-- ハッカーが米CIAのシステムに侵入、非機密情報にアクセス（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NRUJFMG03ZW9rTVNzYnVKcnduaTFmT3ltUFh3SlgxVjVRX1pRdVk3TVhIZlRmaVQxQUdPX25qRzE5dERoa0NYMDl6M2hLZ1dycGlvamNUc2hJeVNRSTVwbXdIQnd1Wk9CcTg1OXplcWR2VzlsWTN0UHFJV2FXWm8?oc=5
+- 兵庫の死亡3歳女児、臓器に萎縮 暴行死、司法解剖で確認（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE12VXZWcWViUmZnUzdGTWd5QVNwWFVUQWZCVzJRNDgyTGlNWU5GOHVuVTB4bElIWWJLdzBrS3Zwek5kU2c4aTV2MWR3ZzM3N0FlRGRsS1Vrb1dzZTNsVWFmb2Ytc3AxYlZ6ZkNkc09Ecm9RVmh0QzFOVm1CM051UWc?oc=5
 
-- ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1Q0toZXlmMlgxOTJoWnd2T04xc3RnT2s3SFNYY2hwSU9zdjJZdjdpWWpRVnk3ZHEtdjZqR180OEVfRWtPSVZPS1l3V29DOFRIYVVqYUpfWDJWT1dYOWVSY1dn?oc=5
+- 【速報】文科相問責決議案、野党8党派が共同提出へ - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kNUlWcjlWcUc4RWF2MTNqVHlOLWZnX3dVQzZYSFZYSEx0cmZpcUlXNU94WU9XOFotZmtrTXBzYXYtU3RoNm9LWWxvWQ?oc=5
 
-- トランプ氏が感謝祭で七面鳥に「恩赦」…中間選挙の大敗巡り演説で「何が起きたのか分からない」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNzlfNGd3dG80dF94aFF3VFNyYUFla2kxUndxalZxNnlYcW8yUE5UbURWc0xKLVdfdEVwbVl2MEpaS29sTUlFNHlPSUVuM0s0UjYyRWs0eEFSa2hJTm45WW53?oc=5
+- 「大変心外」防衛費圧縮に自民安保調査会から苦言 参加議員「高市首相が財源含め判断を」 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE93MVNOTkdkRVBUOGJoT0V0bWdNcXVQcGlka01xaUp0NzRhNUFNRU9NVWFJWHRkOGk4TWM4Sm9vakxrMC1fT0RXWGZHYkpKVFpRcVhidE4waUo3ZUdVOU95S1FnQm5GYk5zNXQ0SjE2UHJaOUZySmc?oc=5
 
-- 首相が文科相擁護 辞任ドミノ懸念 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROVdlNUphaWNIYi1DLTNKVDBSLVVXdi0wNWZnVTlHb0ZsV1RUQXhvMDVfeFJxWXRwcXNPb2tHN3NwbDF3MnJYb0QxMEo2VUI2?oc=5
+- 大阪・海遊館で９年ぶりラッコ展示へ、アラスカ州の海岸で保護された４頭「元気で活発な姿を見て」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14RTFfWHFqakFXcThrVXZISTdFVTZweFFLY1p1RlU4OGx4U0FTYUE2TEFRMTM5cHFJeHJaYjVrT0VBckdlOEV1QTRGOHBiTWpSWFZYeTVRemdJZ3lEcTB0YzIwaTRLZw?oc=5
 
-- 広島 庄原 高齢女性殺害事件で55歳会社員を逮捕 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdTk2MVVmMnJxZDBTdXpxMkk0M1ZsOEJDZ3FqckZoaXUxRUhWaXczWEFpa2p2LVo3Mi0yOWtyS3A2QTBYdlF5SjAwcFRkYk15TnhOM29xX09MSHd5Z2pv?oc=5
+- 南太平洋のソロモン諸島がオーストラリアと関係強化の包括条約、親中路線転換…「大きな勝利」と豪研究員 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE13bWZoSVdtc0E4QmhvclRHX0NYd3dOTEktdXIyS2VPVERjdmZLeGNpeFl4THJzekV4UHVpeVFVVEZBa2dzQTFadS1nRU1YZXc5M2tnXy0yWDRKMGY1UXRRNmJB?oc=5
 
-- 中国が報じない高市総理の「到着」「握手」 日本の存在感を徹底的に抑え込んだ中国の思惑 厳しい対日姿勢維持しながら“大国”アピール - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE03b2YxU2wyclNYNGZ1OFdDSWdXLW9jbEJjT0Z3YkxDMmZQSWhwQTNCdzVRM1NBU21aRm10UmxIX1ExSzB3RDI5V1dxQlJVUQ?oc=5
+- 神奈川の死亡事故 5分以上逆走か - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KNHVISm94MkgtQnV3eloxd0t1U2hvN2FIYm15WGQtME5OUzM2RHRmakNjUVVXd3pVTUtITjdxa3otSko4Y3ZKdUl3VXJpMTFf?oc=5
 
-- 「副首都」来年秋に複数道府県を同時指定へ、２８年春にも運用開始…政府の「基本的考え方」全容判明 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE15ZWxmWGFIcHd2SmJaZWpaSHdYM08wX3duOVpHTVd2Rzl4enVFdTlXZ2JUUUlGVlNDcUdmcVhfdnhkYjgySF9WUnpEcjdCRXg1T0l3WUVBc2JWbG9RN0d2U3gtZTJFQQ?oc=5
+- 「脱税、みんな脱税」「5年の時効になるまで黙っているしかない」 立山町長が入湯税6000万円未納を2年超公表せず 刑事告発も 臨時会見で謝罪【富山】 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hRmx5UjJhUVhGbnk4U29UZUJVTlRJMG9pSWhRZ0lNek42MjJhdHY2X0YxQlJSbDFYa1pjSlZoQ3NsNmdlb1RrTG9jdG1PUQ?oc=5
 
-- 住宅で高齢女性が死亡 殺人か 家の中で血を流し倒れているのを発見 在宅中だったとみられる2人暮らしの夫から状況聴く 広島市（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5SNzBkT0pNTGh3X2ZlYmpXOFlNY3d1QjFRclFPUy1adGNoSjJuaUM3Qm03YjZMS0hpVUQzXzkydF9WZ290UWY0Q0c0YVNBRjh0QnhLbVRuVEdGRUJtRHVScEhNQkl3RUVobUxsUGYyOTduQ2tIc2pKX21VTDlOTkE?oc=5
+- 九州各地、12月1日ごろから10年に一度の高温に 気象台が早期天候情報 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE04M1kxd01kTElLdFdjMDJEb0VYcFlmdVBwYkFaR0FiZm9pWXpHYUtxbi1FNmhKSHNlQXRNb1dxaUJwVElIR2xUTmlJcDNXWHlCUGlmckFn?oc=5
 
-- 入湯税未納公表せず 立山町長謝罪 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cjJyY0NZc3h4ZjRlSDdLTXNhS0xUc2VEQmpncndtaXphbnhxOFBWOWlOWm1nX2M5eGhLMU9zZjdpV1lYU2NERjd0cXlxTExN?oc=5
+- 「重くても懲役10年」安倍元首相銃撃事件 山上被告の弁護団が控訴審の主張説明 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE45Y2ltSUVCZEFrQ0Rab2w5VmlYaURTbEdPSHpYRkpMeXhncEFvTU5NZUlVakdYRHR1aUxiYU9jZGtDV1ROb0k1QXBHT3BOdmQtaUJKSDNQZmNqWnpDTU42a2lYbTdUaXBlR25sN1JrVS14dUFyVGc?oc=5
