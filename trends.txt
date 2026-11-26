@@ -1,31 +1,31 @@
 TRENDLAB 自動取得ニュース
 
-- 福岡 駅員殴った疑いで49歳逮捕 男性刺殺事件と関連調べ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BY21waXE3YWFNTVlXR1BidFFLTENTbjVRQmh5dU5oT1gxRGF3TkNBdUlabFdqUXlZVnBQLWcxZjE0ZFJYUTJZc0Vob0tnbndXamxCcGd6S0JFNUl0QmRz?oc=5
+- 福岡・駐輪場で70歳男性刺殺 別の暴行容疑で49歳男を逮捕 事件に関与か - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tTXRnWWEyRG4yM3Z2QzR5OVdQTGZrMWpTSFdrM01WUVVjbGpnMUFTTnphai1EYVppcXRwYldZYmI0TWpUZXBCLWRzalZVRWh4VzV5WHdFWQ?oc=5
 
-- 兵庫の死亡3歳女児、臓器に萎縮 暴行死、司法解剖で確認（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE12VXZWcWViUmZnUzdGTWd5QVNwWFVUQWZCVzJRNDgyTGlNWU5GOHVuVTB4bElIWWJLdzBrS3Zwek5kU2c4aTV2MWR3ZzM3N0FlRGRsS1Vrb1dzZTNsVWFmb2Ytc3AxYlZ6ZkNkc09Ecm9RVmh0QzFOVm1CM051UWc?oc=5
+- 木原官房長官「野党も官僚呼んでる」で、問責決議直前の関文科大臣問題は「どっちもどっち」にはならない。 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFNBaG16OTdrRjdEU1Via3R1VWlLWktNLTZjV1UwTjd1Y25sV2RyTC1SbHlxT2V0QXMzYnBGUTRSS1JsMjZ1UWs1RkZidVZoU284Z0t6R1FWVmNFUXpzUGN1ekNPSjRiMGZhTjZ3UV9OM09ZRXdFdVFteEN0MC1zZWZzUzIxUEpY?oc=5
 
-- 【速報】文科相問責決議案、野党8党派が共同提出へ - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kNUlWcjlWcUc4RWF2MTNqVHlOLWZnX3dVQzZYSFZYSEx0cmZpcUlXNU94WU9XOFotZmtrTXBzYXYtU3RoNm9LWWxvWQ?oc=5
-
-- 「大変心外」防衛費圧縮に自民安保調査会から苦言 参加議員「高市首相が財源含め判断を」 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE93MVNOTkdkRVBUOGJoT0V0bWdNcXVQcGlka01xaUp0NzRhNUFNRU9NVWFJWHRkOGk4TWM4Sm9vakxrMC1fT0RXWGZHYkpKVFpRcVhidE4waUo3ZUdVOU95S1FnQm5GYk5zNXQ0SjE2UHJaOUZySmc?oc=5
-
-- 大阪・海遊館で９年ぶりラッコ展示へ、アラスカ州の海岸で保護された４頭「元気で活発な姿を見て」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14RTFfWHFqakFXcThrVXZISTdFVTZweFFLY1p1RlU4OGx4U0FTYUE2TEFRMTM5cHFJeHJaYjVrT0VBckdlOEV1QTRGOHBiTWpSWFZYeTVRemdJZ3lEcTB0YzIwaTRLZw?oc=5
-
-- 南太平洋のソロモン諸島がオーストラリアと関係強化の包括条約、親中路線転換…「大きな勝利」と豪研究員 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE13bWZoSVdtc0E4QmhvclRHX0NYd3dOTEktdXIyS2VPVERjdmZLeGNpeFl4THJzekV4UHVpeVFVVEZBa2dzQTFadS1nRU1YZXc5M2tnXy0yWDRKMGY1UXRRNmJB?oc=5
+- 安保3文書改定、反撃能力に新対艦ミサイルを導入へ 装備品の国産化推進 陸自定員見直し - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5aRXpfbTlzWUlXZS1WT2FMOGFHbGFBNHlCd0w2OFdIOTFLbml6NmV2UVY5LU5YVks5VU8wRXV3cTM3OXIyczNMS3JiZF9ueEdmbW5oSzRvQksyck9vbGRRb29RSlo3bkdvcE9JN1ZoLVFHYmlFdWc?oc=5
 
 - 神奈川の死亡事故 5分以上逆走か - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KNHVISm94MkgtQnV3eloxd0t1U2hvN2FIYm15WGQtME5OUzM2RHRmakNjUVVXd3pVTUtITjdxa3otSko4Y3ZKdUl3VXJpMTFf?oc=5
 
-- 「脱税、みんな脱税」「5年の時効になるまで黙っているしかない」 立山町長が入湯税6000万円未納を2年超公表せず 刑事告発も 臨時会見で謝罪【富山】 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hRmx5UjJhUVhGbnk4U29UZUJVTlRJMG9pSWhRZ0lNek42MjJhdHY2X0YxQlJSbDFYa1pjSlZoQ3NsNmdlb1RrTG9jdG1PUQ?oc=5
+- 日本語試験の増設を検討 外務省 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSaUlTRzZpaHh4dGh4N3VnanR2ZjFDSTdvMGpsOGJMVkRtb1NRaWt6ZUlwZXRVbzh2dkVkcWRYUzVjUmhvYmlMZTJ0SjBMem43?oc=5
 
-- 九州各地、12月1日ごろから10年に一度の高温に 気象台が早期天候情報 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE04M1kxd01kTElLdFdjMDJEb0VYcFlmdVBwYkFaR0FiZm9pWXpHYUtxbi1FNmhKSHNlQXRNb1dxaUJwVElIR2xUTmlJcDNXWHlCUGlmckFn?oc=5
+- 原潜導入を検討する必要性「正々堂々と国民に説明すべきだ」…河野克俊・元統合幕僚長インタビュー - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VR2NzandxeHNsVE5tcTF1SmVocjFZWllYckJKcXF2eTVZXzg0b0k2MGxYTGdtNk9teGdMV1Q1Z241S19WNEQwdVpsZHR5VWhtcHRzTWlwZi1jQTFBdXFjbm1fVUZpUQ?oc=5
 
-- 「重くても懲役10年」安倍元首相銃撃事件 山上被告の弁護団が控訴審の主張説明 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE45Y2ltSUVCZEFrQ0Rab2w5VmlYaURTbEdPSHpYRkpMeXhncEFvTU5NZUlVakdYRHR1aUxiYU9jZGtDV1ROb0k1QXBHT3BOdmQtaUJKSDNQZmNqWnpDTU42a2lYbTdUaXBlR25sN1JrVS14dUFyVGc?oc=5
+- 【地震情報】熊本県で震度3 津波の心配なし - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zOHpjdlQ1R09vOHMzZGhpZDJWTEFXT2hUekdwQ3RJVkRfYm5BckROcGJnbUpaTXJQc2RnVnZ5UWtWYjFrUUF3SW9pTlhZVVYzZ1htckFRcjNDbnlfS2s4?oc=5
+
+- 廃棄の肉だけで約30万円分という店も…岐阜県郡上市等で続いていた大規模停電 多くの地域で復旧も被害大きく - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBGQjNVY0JJaTlQM29iMHhXcUt5U2NDWlhtQ2ZyWlFDb1EweUpNZFNMRzFUT3lHX1VvZnE5UExlb3lqWkl0b2FCQ1JJUFdXeDc5eHlqYklsMWxnd0gxN19iYkNIY0l2d3c1bUN4UFdoYUgyVVpUbzI2ZktKenBZdEU?oc=5
+
+- 大阪の水族館「海遊館」でラッコ4頭を展示へ アラスカで保護 2022年から協議始め日本初・アメリカの飼育基準を満たした施設に認定 国内のラッコは三重・鳥羽水族館の「メイ」が唯一も一気に5頭に - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GUVJsT3pvM3RIc3daZXdyeFFjWUVtWXMwVmRWSFZwcWpPeWJaNFhzZzNucEprRU1tMHhVZkYyaXVPZmt1TVk4cUpuaUdXUQ?oc=5
+
+- 読む政治：人気維持の高市氏に対抗馬は？「次の首相」自由記述に意外な名前 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE81eF9DVkNnVGZxNkVlOThUbEVhQk1mTzNrVEU3a0hINk11YWRsWHFhOTFtQS1YaEVrQkRNYnd5QlpIdmQwRTJCd2xQaFFjNEdJUFFkWjhZcFBvcXF2cFFiZ3dkSHZzRV83?oc=5
